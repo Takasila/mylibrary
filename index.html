@@ -427,7 +427,28 @@ function renderFilterBar() {
     renderLibrary(); // Nach der Auswahl die Bibliothek neu rendern
   };
 }
+// Funktion zum Laden der JSON-Datei aus dem Repository
+async function loadLibraryFromRepo() {
+  const url = 'https://raw.githubusercontent.com/Takasila/mylibrary/main/bibliothek.json'; // URL zur JSON-Datei im Repo
 
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Fehler beim Laden der JSON-Datei: ${response.status}`);
+    }
+    const json = await response.json(); // JSON-Daten parsen
+    library = json; // Die geladene Bibliothek zuweisen
+    renderLibrary(); // Anzeige der Bibliothek aktualisieren
+    console.log('Bibliothek erfolgreich geladen:', library);
+  } catch (error) {
+    console.error('Fehler beim Laden der Bibliothek:', error);
+    alert('Die Bibliothek konnte nicht geladen werden. Überprüfe die Verbindung oder den Datei-Pfad.');
+  }
+}
+
+// Aufruf der Funktion beim Laden der Seite
+loadLibraryFromRepo();
+  
 function renderLibrary() {
   renderFilterBar(); // Filterleiste neu rendern (z. B. aktivierte Buchstaben)
   const libraryDiv = document.getElementById("library");
