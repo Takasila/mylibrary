@@ -203,8 +203,6 @@ body {
 <script src="https://unpkg.com/jszip/dist/jszip.min.js"></script>
 
 <script>
-// Google API Schlüssel (wird später verwendet)
-const apiKey = "AIzaSyCnBPBj44m0Nm8GtBe5-RvU_BJNjRkHACY";
 
 // Initialisierung der Bibliothek aus dem lokalen Speicher oder einem leeren Array
 let library = JSON.parse(localStorage.getItem('epubLibrary') || '[]');
@@ -757,7 +755,7 @@ async function processFile(file) {
 
   // Google Books API abfragen
   try {
-    const response = await fetch(`https://www.googleapis.com/books/v1/volumes?q=isbn:${cleanIsbn}&key=${apiKey}`);
+    const response = await fetch(`https://www.googleapis.com/books/v1/volumes?q=isbn:${cleanIsbn}`);
     const data = await response.json();
     const info = data.items?.[0]?.volumeInfo;
     if (info) {
