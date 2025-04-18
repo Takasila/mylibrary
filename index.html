@@ -615,19 +615,26 @@ document.getElementById("file-input").addEventListener("change", async (e) => {
 // JSON-Datei laden und Bibliothek ersetzen
 document.getElementById("load-file").addEventListener("change", async (e) => {
   const file = e.target.files[0];
-  if (!file) return;
-  const text = await file.text();
+  if (!file) {
+    console.error("Keine Datei ausgewählt.");
+    return;
+  }
+
   try {
+    const text = await file.text();
     const json = JSON.parse(text);
+
     if (Array.isArray(json)) {
       library = json; // Neue Bibliothek übernehmen
       localStorage.setItem("epubLibrary", JSON.stringify(library)); // Speichern
       renderLibrary(); // Anzeige aktualisieren
+      alert("Bibliothek erfolgreich geladen.");
     } else {
-      alert("Ungültiges Format");
+      alert("Die Datei hat kein gültiges Format. Es wird ein Array erwartet.");
     }
   } catch (err) {
-    alert("Fehler beim Laden der Datei");
+    console.error("Fehler beim Laden der JSON-Datei:", err);
+    alert("Fehler beim Laden der Datei. Bitte überprüfe das Format.");
   }
 });
 
