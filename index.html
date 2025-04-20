@@ -988,6 +988,14 @@ document.addEventListener("DOMContentLoaded", async () => {
         }
     }
 
+// Alle Cover-URLs von HTTP auf HTTPS ändern
+  books = books.map(book => {
+    if (book.cover && book.cover.startsWith("http://books.google.com")) {
+      book.cover = book.cover.replace("http://", "https://");
+    }
+    return book;
+  });
+
     renderLibrary(); // zeigt die Bücher an
 });
 
