@@ -872,7 +872,7 @@ function populateGenreDropdown(selectedCategory) {
 function renderLibrary() {
   const libraryDiv = document.getElementById("library");
   libraryDiv.innerHTML = ''; // Anzeige leeren
-  let books = [...books]; // Arbeitskopie der Bibliothek
+  let filteredBooks = [...books]; // Arbeitskopie der Bibliothek
 
   // Freitextsuche
   const searchTerm = document.getElementById("search-input").value.trim().toLowerCase();
