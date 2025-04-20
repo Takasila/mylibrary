@@ -4,14 +4,15 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Meine Bibliothek</title>
-  <link rel="icon" href="favicon.png" type="image/png">
+  
   <style>
     /* Grundlegende Stile für die Seite */
     body {
-      font-family: sans-serif;
-      background: #523f31; /* Farbe Hintergrund */
-      margin: 2rem; /* Abstand vom Rand */
-    }
+	  font-family: sans-serif;
+	  background: #523f31;
+	  margin: 2rem;
+	  padding-top: 220px; /* für festen Header */
+}
     /* Stile für die Buttons */
 #import-btn, #edit-mode-btn, #add-manual-btn,
 #save-btn, #load-btn {
@@ -31,17 +32,6 @@
   background-color: #a15518; /* Dunklere Farbe beim Hover */
 }
 
-/* Kategorie und Genre Felder */
-#filter-options select {
-  padding: 0.4rem;
-  border: 2px solid #ffffff;
-  border-radius: 4px;
-  background: white; /* Farbe Felder */
-  font-size: 1rem;
-  appearance: none; /* Entfernt Browser-Styles */
-  height: 2.2rem;
-  cursor: pointer;
-}
 
 #filter-options label {
   display: inline-flex;
@@ -62,10 +52,6 @@
     padding: 5px 10px; /* Optional: Falls du Padding im Header möchtest */
 }
 
-/* Abstand nach unten für den Inhalt, damit der Header nicht überlappt */
-body {
-    padding-top: 220px; /* Passt den Abstand je nach Höhe des Headers an */
-}
 
     /* Stile für die Buchdarstellung */
     .book {
@@ -114,28 +100,106 @@ body {
   background-color: #21942a; /* Grün für aktive Filter */
   color: white;
 }
+
+/* Zeile für Dropdowns und Suchfeld */
+.filter-row {
+  display: flex;
+  justify-content: flex-start; /* Elemente links ausrichten */
+  align-items: center;
+  gap: 2rem;
+  margin: 0.5rem 0 0;
+  flex-wrap: wrap;
+}
+
+/* Wrapper für das Suchfeld */
+.search-wrapper {
+  position: relative;
+  flex-grow: 0; /* Verhindert, dass es den gesamten Raum einnimmt */
+  max-width: 150px; /* Maximale Breite für das Suchfeld */
+  padding-right: 20px; /* Abstand zum rechten Rand */
+  margin-left: auto; /* Schiebt das Suchfeld nach rechts */
+}
+
+/* Suchfeld */
+#search-input {
+  width: 100%; /* Nimmt die volle Breite des Wrappers ein */
+  padding: 0.4rem 2.5rem 0.4rem 0.5rem; /* Platz für das X-Symbol */
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  background-color: #fff;
+  box-sizing: border-box; /* Damit Padding nicht zur Breite hinzukommt */   
+}
+
+/* Löschen-Icon für Suche */
+#clear-search {
+  position: absolute;
+  right: 30px; /* Das X bleibt im Feld, mit etwas Abstand */
+  top: 50%;
+  transform: translateY(-50%);
+  font-weight: bold;
+  color: #888;
+  cursor: pointer;
+  user-select: none;
+  font-size: 1.2rem;
+}
+
+/* Dropdown-Container links */
+.dropdowns {
+  display: flex;
+  gap: 0.5rem;
+}
+
+/* Styling für Dropdowns */
+.dropdowns select {
+  padding: 0.3rem 1.5rem 0.3rem 0.5rem;
+  font-size: 0.9rem;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+  background-color: #fff;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg width='10' height='6' viewBox='0 0 10 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23666'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.6rem center;
+  background-size: 0.6rem;
+  appearance: none;
+  min-width: 120px;
+}
+
+
+
   </style>
 </head>
 <body>
 <div id="header">
 <!-- Hauptüberschrift der Seite -->
 <h3>📚 Meine Bibliothek</h3>
+<link rel="icon" href="favicon.png" type="image/png">
 
 
-<!-- Filterleiste und Suchfeld -->
+<!-- A-Z Filterleiste -->
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
   <div class="filter-bar" id="filter-bar" style="flex-grow: 1;"></div>
 </div>
 
-<!-- Kategorie, Genre und Suche in einer Zeile -->
-<div style="display: flex; align-items: center; gap: 1rem; margin: 0.5rem 0;" id="filter-options">
-  <select id="category-filter" multiple style="min-width: 110px; height: 50px;" title="Kategorie wählen"></select>
-  <select id="genre-filter" multiple style="min-width: 150px; height: 50px;" title="Genre wählen"></select>
-  <input type="text" id="search-input" placeholder="🔍 Suchen..." style="padding: 0.3rem; width: 200px; margin-left: auto; margin-right: 1.5rem;">
+<!-- Kategorie, Genre und Suche -->
+  <div class="filter-row">
+  <div class="dropdowns">
+    <select id="category-select">
+      <option value="">Kategorie</option>
+    </select>
+    <select id="genre-select">
+      <option value="">Genre</option>
+    </select>
+  </div>
+  <div class="search-wrapper">
+  <input type="text" id="search-input" placeholder="🔍 Suchen..." />
+  <span id="clear-search">×</span>
 </div>
 
-<!-- Unsichtbares Dateieingabefeld für EPUB-Dateien -->
-<input type="file" id="file-input" accept=".epub" multiple style="display:none">
+</div>
+
+  
+<div id="genre-buttons" style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem;"></div>
 
 <!-- Buttons zum Importieren und Bearbeiten -->
 <button id="import-btn" onclick="document.getElementById('file-input').click()">📥 Bücher importieren</button>
@@ -144,10 +208,12 @@ body {
 <button id="load-btn" onclick="document.getElementById('load-file').click()">📂 Bibliothek laden</button>
 <button id="save-btn" onclick="saveLibrary()">📅 Bibliothek speichern</button>
 
-
-<!-- Unsichtbares Dateieingabefeld für das Laden der Bibliothek -->
-<input type="file" id="load-file" accept=".json" style="display:none">
+<!-- Unsichtbare Inputs -->
+  <input type="file" id="file-input" accept=".epub" multiple style="display:none">
+  <input type="file" id="load-file" accept=".json" style="display:none">
 </div>
+
+
 <!-- Bereich zum Anzeigen der Bücher -->
 <div id="library"></div>
 
@@ -204,6 +270,8 @@ body {
 <script src="https://unpkg.com/jszip/dist/jszip.min.js"></script>
 
 <script>
+// Google API Schlüssel (wird später verwendet)
+const apiKey = "AIzaSyCnBPBj44m0Nm8GtBe5-RvU_BJNjRkHACY";
 
 // Initialisierung der Bibliothek aus dem lokalen Speicher oder einem leeren Array
 let library = JSON.parse(localStorage.getItem('epubLibrary') || '[]');
@@ -220,8 +288,8 @@ let editMode = false; // Bearbeitungsmodus ein/aus
 let activeFilters = []; // Aktive Filter
 let isCreatingNew = false; // Flag, ob ein neues Buch erstellt wird
 let filterStatus = 'all'; // Filter-Status: 'all', 'read', 'unread'
-let selectedCategories = []; // Ausgewählte Kategorien
-let selectedGenres = []; // Ausgewählte Genres
+let selectedCategories = [];
+let selectedGenres = [];
 const knownCategories = new Set(); // Bekannte Kategorien (Set für Duplikate)
 const knownGenres = new Set(); // Bekannte Genres (Set für Duplikate)
 
@@ -317,21 +385,33 @@ function renderFilterBar() {
   const allBtn = document.createElement("button");
   allBtn.textContent = "📚 Alle";
   allBtn.classList.toggle("active", filterStatus === 'all'); // Aktivieren des Buttons, wenn der Filter 'all' ist
-  allBtn.onclick = () => { filterStatus = 'all'; renderLibrary(); }; // Event-Handler für den Klick
+  allBtn.onclick = () => {
+  filterStatus = 'all';
+  renderLibrary();
+  renderFilterBar();
+}; // Event-Handler für den Klick
   filterBar.appendChild(allBtn);
 
   // Button für "Gelesene" Bücher
   const readBtn = document.createElement("button");
   readBtn.textContent = "📖 Gelesen";
   readBtn.classList.toggle("active", filterStatus === 'read'); // Aktivieren des Buttons, wenn der Filter 'read' ist
-  readBtn.onclick = () => { filterStatus = 'read'; renderLibrary(); }; // Event-Handler für den Klick
+  readBtn.onclick = () => {
+  filterStatus = 'read';
+  renderLibrary();
+  renderFilterBar(); // <<< Wichtig!
+}; // Event-Handler für den Klick
   filterBar.appendChild(readBtn);
 
   // Button für "Neue" Bücher
   const unreadBtn = document.createElement("button");
   unreadBtn.textContent = "🆕 Neu";
   unreadBtn.classList.toggle("active", filterStatus === 'unread'); // Aktivieren des Buttons, wenn der Filter 'unread' ist
-  unreadBtn.onclick = () => { filterStatus = 'unread'; renderLibrary(); }; // Event-Handler für den Klick
+  unreadBtn.onclick = () => {
+  filterStatus = 'unread';
+  renderLibrary();
+  renderFilterBar();
+}; // Event-Handler für den Klick
   filterBar.appendChild(unreadBtn);
 
 
@@ -368,93 +448,34 @@ function renderFilterBar() {
         activeFilters.push(char);
       }
       // Nach der Filteränderung die Bibliothek neu rendern
-      renderLibrary();
+      renderFilterBar();
+	  renderLibrary();
     };
 
     // Wenn der Buchstabe bereits im Filter aktiv ist, wird der Button visuell markiert
-    if (activeFilters.includes(char)) btn.classList.add("active");
+    if (activeFilters.includes(char)) {
+      btn.classList.add("active");
+	}
     // Der Button wird zur Filterleiste hinzugefügt
     filterBar.appendChild(btn);
   }
 
-  // Kategorien & Genres sammeln
-  const categorySet = new Set(); // Set für einzigartige Kategorien
-  const genreSet = new Set(); // Set für einzigartige Genres
-  // Durch alle Bücher iterieren und Kategorien sowie Genres sammeln
-  library.forEach(book => {
-    if (book.category) categorySet.add(book.category);
-    if (book.genre) genreSet.add(book.genre);
-  });
-
-  // Dropdown-Optionen für Kategorien und Genres generieren
-  const catSelect = document.getElementById("category-filter");
-  const genreSelect = document.getElementById("genre-filter");
-  catSelect.innerHTML = ''; // Zunächst leeren wir die Dropdown-Optionen
-  genreSelect.innerHTML = ''; // Zunächst leeren wir die Dropdown-Optionen
-
-  // Kategorien nach alphabetischer Reihenfolge sortieren und als Optionen in das Dropdown einfügen
-  [...categorySet].sort().forEach(cat => {
-    const opt = document.createElement("option");
-    opt.value = cat;
-    opt.textContent = cat;
-    // Wenn die Kategorie ausgewählt wurde, wird sie als "selected" markiert
-    opt.selected = selectedCategories.includes(cat);
-    catSelect.appendChild(opt); // Option in das Kategorie-Dropdown einfügen
-  });
-
-  // Genres nach alphabetischer Reihenfolge sortieren und als Optionen in das Dropdown einfügen
-  [...genreSet].sort().forEach(gen => {
-    const opt = document.createElement("option");
-    opt.value = gen;
-    opt.textContent = gen;
-    // Wenn das Genre ausgewählt wurde, wird es als "selected" markiert
-    opt.selected = selectedGenres.includes(gen);
-    genreSelect.appendChild(opt); // Option in das Genre-Dropdown einfügen
-  });
-
-  // Event Listener für Auswahl von Kategorien
-  catSelect.onchange = () => {
-    // Ausgewählte Kategorien in ein Array umwandeln
-    selectedCategories = Array.from(catSelect.selectedOptions).map(o => o.value);
-    renderLibrary(); // Nach der Auswahl die Bibliothek neu rendern
-  };
-
-  // Event Listener für Auswahl von Genres
-  genreSelect.onchange = () => {
-    // Ausgewählte Genres in ein Array umwandeln
-    selectedGenres = Array.from(genreSelect.selectedOptions).map(o => o.value);
-    renderLibrary(); // Nach der Auswahl die Bibliothek neu rendern
-  };
-}
-// Funktion zum Laden der JSON-Datei aus dem Repository
-async function loadLibraryFromRepo() {
-  const url = 'https://raw.githubusercontent.com/Takasila/mylibrary/main/bibliothek.json'; // URL zur JSON-Datei im Repo
-
-  try {
-    const response = await fetch(url);
-    if (!response.ok) {
-      throw new Error(`Fehler beim Laden der JSON-Datei: ${response.status}`);
-    }
-    const json = await response.json(); // JSON-Daten parsen
-    library = json; // Die geladene Bibliothek zuweisen
-    renderLibrary(); // Anzeige der Bibliothek aktualisieren
-    console.log('Bibliothek erfolgreich geladen:', library);
-  } catch (error) {
-    console.error('Fehler beim Laden der Bibliothek:', error);
-    alert('Die Bibliothek konnte nicht geladen werden. Überprüfe die Verbindung oder den Datei-Pfad.');
-  }
 }
 
-// Aufruf der Funktion beim Laden der Seite
-loadLibraryFromRepo();
-  
 function renderLibrary() {
-  renderFilterBar(); // Filterleiste neu rendern (z. B. aktivierte Buchstaben)
+  renderFilterBar(); // Filterleiste neu rendern (z.B. aktivierte Buchstaben)
   const libraryDiv = document.getElementById("library");
   libraryDiv.innerHTML = ''; // Anzeige leeren
   let books = [...library]; // Arbeitskopie der Bibliothek
 
-  // Freitextsuche
+  // Kategorie-Filter anwenden
+  if (selectedCategories.length > 0) {
+    books = books.filter(book =>
+      selectedCategories.includes(book.category)
+    );
+  }
+
+  // Freitextsuche anwenden
   const searchTerm = document.getElementById("search-input").value.trim().toLowerCase();
   if (searchTerm) {
     books = books.filter(book =>
@@ -464,14 +485,14 @@ function renderLibrary() {
     );
   }
 
-  // Filter "Gelesen" / "Ungelesen"
+  // Filter "Gelesen" / "Ungelesen" anwenden
   if (filterStatus === 'read') {
     books = books.filter(book => book.read === true);
   } else if (filterStatus === 'unread') {
     books = books.filter(book => book.read !== true);
   }
 
-  // Buchstabenfilter A–Z
+  // Buchstabenfilter A–Z anwenden
   if (activeFilters.length > 0) {
     books = books.filter(book =>
       (book.authors || []).some(author =>
@@ -480,17 +501,7 @@ function renderLibrary() {
     );
   }
 
-  // Kategorie-Filter
-  if (selectedCategories.length > 0) {
-    books = books.filter(book => selectedCategories.includes(book.category));
-  }
-
-  // Genre-Filter
-  if (selectedGenres.length > 0) {
-    books = books.filter(book => selectedGenres.includes(book.genre));
-  }
-
-  // Sortierung: AutorNachname – Serie – Band – Titel
+  // Sortierung anwenden
   books.sort((a, b) => {
     const aStr = `${normalizeName(a.authors?.[0] || '')} - ${a.series || ''} - ${a.volume || ''} - ${a.title}`;
     const bStr = `${normalizeName(b.authors?.[0] || '')} - ${b.series || ''} - ${b.volume || ''} - ${b.title}`;
@@ -501,14 +512,12 @@ function renderLibrary() {
   books.forEach(book => {
     const index = library.indexOf(book); // Position für Bearbeiten/Löschen
     const div = document.createElement('div');
-div.className = 'book';
-
-// Hintergrund und Stil ergänzen (Farbe Einträge)
-div.style.backgroundColor = "#f7e2b7";
-div.style.padding = "10px";
-div.style.marginBottom = "10px";
-div.style.borderRadius = "8px";
-div.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
+    div.className = 'book';
+    div.style.backgroundColor = "#f7e2b7";
+    div.style.padding = "10px";
+    div.style.marginBottom = "10px";
+    div.style.borderRadius = "8px";
+    div.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
 
     div.innerHTML = `
       <img src="${book.thumbnail || ''}" alt="Cover">
@@ -533,6 +542,7 @@ div.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
     libraryDiv.appendChild(div);
   });
 }
+
 
 // Bearbeitungsmodus umschalten
 function toggleEditMode() {
@@ -571,8 +581,7 @@ function newBookEntry() {
 }
 
 function editBook(index) {
-  console.log("editBook aufgerufen für Index:", index); // Debug-Ausgabe beim Aufruf
-
+  
   const book = library[index]; // Buch aus der Bibliothek holen
   isCreatingNew = false; // Signalisieren, dass es sich um Bearbeiten handelt
 
@@ -595,29 +604,30 @@ function editBook(index) {
   
 
   // Vorschlagslisten für Kategorie und Genre erzeugen
-  const categories = [...new Set(library.map(b => b.category).filter(Boolean))].sort();
-  const allGenres = [...new Set(library.map(b => b.genre).filter(Boolean))].sort();
-  
-  const categoryList = document.getElementById("categorySuggestions");
-  const genreList = document.getElementById("genreSuggestions");
+const categories = [...new Set(library.map(b => b.category).filter(Boolean))].sort();
+const allGenres = [...new Set(library.map(b => b.genre).filter(Boolean))].sort();
 
-  // Alte Vorschläge entfernen
-  categoryList.innerHTML = '';
-  genreList.innerHTML = '';
+const categoryList = document.getElementById("categorySuggestions");
+const genreList = document.getElementById("genreSuggestions");
 
-  // Neue Kategorien einfügen
-  categories.forEach(cat => {
-    const option = document.createElement("option");
-    option.value = cat;
-    categoryList.appendChild(option);
-  });
+// Alte Vorschläge entfernen
+categoryList.innerHTML = '';
+genreList.innerHTML = '';
 
-  // Neue Genres einfügen
-  allGenres.forEach(genre => {
+// Neue Kategorien einfügen
+categories.forEach(cat => {
+  const option = document.createElement("option");
+  option.value = cat;
+  categoryList.appendChild(option);
+});
+
+// Neue Genres einfügen
+allGenres.forEach(genre => {
   const option = document.createElement("option");
   option.value = genre;
   genreList.appendChild(option);
 });
+
 
 document.getElementById("edit-dialog").showModal(); // Sicherstellen, dass der Dialog geöffnet ist
 }
@@ -635,26 +645,19 @@ document.getElementById("file-input").addEventListener("change", async (e) => {
 // JSON-Datei laden und Bibliothek ersetzen
 document.getElementById("load-file").addEventListener("change", async (e) => {
   const file = e.target.files[0];
-  if (!file) {
-    console.error("Keine Datei ausgewählt.");
-    return;
-  }
-
+  if (!file) return;
+  const text = await file.text();
   try {
-    const text = await file.text();
     const json = JSON.parse(text);
-
     if (Array.isArray(json)) {
       library = json; // Neue Bibliothek übernehmen
       localStorage.setItem("epubLibrary", JSON.stringify(library)); // Speichern
       renderLibrary(); // Anzeige aktualisieren
-      alert("Bibliothek erfolgreich geladen.");
     } else {
-      alert("Die Datei hat kein gültiges Format. Es wird ein Array erwartet.");
+      alert("Ungültiges Format");
     }
   } catch (err) {
-    console.error("Fehler beim Laden der JSON-Datei:", err);
-    alert("Fehler beim Laden der Datei. Bitte überprüfe das Format.");
+    alert("Fehler beim Laden der Datei");
   }
 });
 
@@ -756,7 +759,7 @@ async function processFile(file) {
 
   // Google Books API abfragen
   try {
-    const response = await fetch(`https://www.googleapis.com/books/v1/volumes?q=isbn:${cleanIsbn}`);
+    const response = await fetch(`https://www.googleapis.com/books/v1/volumes?q=isbn:${cleanIsbn}&key=${apiKey}`);
     const data = await response.json();
     const info = data.items?.[0]?.volumeInfo;
     if (info) {
@@ -781,7 +784,194 @@ async function processFile(file) {
   library.push(book); // Buch zur Bibliothek hinzufügen
 }
 
-renderLibrary(); // Initialanzeige
+// Kategorie-Buttons erzeugen
+const categoryButtonsContainer = document.getElementById("category-select");
+categoryButtonsContainer.innerHTML = ''; // Leeren
+
+Object.keys(genreMap).forEach(category => {
+  const btn = document.createElement("button");
+  btn.textContent = category;
+  btn.className = "filter-btn";
+  if (selectedCategories.includes(category)) btn.classList.add("active");
+
+  btn.onclick = () => {
+    // Toggle-Auswahl
+    if (selectedCategories.includes(category)) {
+      selectedCategories = selectedCategories.filter(c => c !== category);
+    } else {
+      selectedCategories = [category]; // Nur eine Kategorie aktiv
+    }
+    selectedGenres = []; // Reset Genre-Auswahl
+    renderLibrary(); // Neu rendern
+  };
+
+  categoryButtonsContainer.appendChild(btn);
+});
+
+
+
+// Event Listener für das Ändern der Kategorie
+document.getElementById("category-select").addEventListener("change", function() {
+  const selectedCategory = this.value;
+  selectedCategories = selectedCategory ? [selectedCategory] : []; // Nur eine Kategorie aktiv
+  populateGenreDropdown(selectedCategory); // Genre-Dropdown befüllen
+  renderLibrary(); // Bibliothek neu rendern, um die Filter anzuwenden
+});
+
+// Event Listener für die Genre-Auswahl
+document.getElementById("genre-select").addEventListener("change", function() {
+  const selectedGenre = this.value;
+  if (selectedGenre) {
+    selectedGenres = [selectedGenre]; // Nur ein Genre aktiv
+  } else {
+    selectedGenres = []; // Kein Genre aktiviert
+  }
+  renderLibrary(); // Bibliothek neu rendern
+});
+
+// Funktion zum Befüllen der Kategorie- und Genre-Dropdowns
+function populateCategoryAndGenreDropdowns() {
+  const categorySelect = document.getElementById("category-select");
+  const genreSelect = document.getElementById("genre-select");
+
+  // Leere die Dropdowns, um sicherzustellen, dass keine alten Optionen vorhanden sind
+  categorySelect.innerHTML = '<option value="">Kategorie</option>';
+  genreSelect.innerHTML = '<option value="">Genre</option>';
+
+  // Kategorien in das Dropdown einfügen
+  Object.keys(genreMap).forEach(category => {
+    const option = document.createElement("option");
+    option.value = category;
+    option.textContent = category;
+    categorySelect.appendChild(option);
+  });
+
+  // Genre-Optionen in das Dropdown einfügen, basierend auf der ersten Kategorie
+  if (selectedCategories.length > 0) {
+    const firstCategory = selectedCategories[0]; // Annahme: Eine Kategorie ist ausgewählt
+    populateGenreDropdown(firstCategory);
+  }
+}
+
+ 
+// Genre-Button wird dynamisch gefüllt
+function populateGenreDropdown(selectedCategory) {
+  const genreSelect = document.getElementById("genre-select");
+  genreSelect.innerHTML = '<option value="">Genre</option>';
+
+  if (!selectedCategory || !genreMap[selectedCategory]) return;
+
+  genreMap[selectedCategory].forEach(genre => {
+    const option = document.createElement("option");
+    option.value = genre;
+    option.textContent = genre;
+    genreSelect.appendChild(option);
+  });
+}
+
+
+// Funktion zum Rendern der Bibliothek unter Berücksichtigung der Filter
+function renderLibrary() {
+  const libraryDiv = document.getElementById("library");
+  libraryDiv.innerHTML = ''; // Anzeige leeren
+  let books = [...library]; // Arbeitskopie der Bibliothek
+
+  // Freitextsuche
+  const searchTerm = document.getElementById("search-input").value.trim().toLowerCase();
+  if (searchTerm) {
+    books = books.filter(book =>
+      (book.title || '').toLowerCase().includes(searchTerm) ||
+      (book.authors || []).join('; ').toLowerCase().includes(searchTerm) ||
+      (book.series || '').toLowerCase().includes(searchTerm)
+    );
+  }
+
+  // Filter "Gelesen" / "Ungelesen"
+  if (filterStatus === 'read') {
+    books = books.filter(book => book.read === true);
+  } else if (filterStatus === 'unread') {
+    books = books.filter(book => book.read !== true);
+  }
+
+  // Buchstabenfilter A–Z
+  if (activeFilters.length > 0) {
+    books = books.filter(book =>
+      (book.authors || []).some(author =>
+        activeFilters.includes(normalizeFirstLetter(author))
+      )
+    );
+  }
+
+  // Kategorie-Filter anwenden
+  if (selectedCategories.length > 0) {
+    books = books.filter(book =>
+      selectedCategories.includes(book.category)
+    );
+  }
+
+  // Genre-Filter anwenden
+if (selectedGenres.length > 0) {
+  books = books.filter(book =>
+    selectedGenres.some(genre => {
+      return book.genre && book.genre.includes(genre); // Oder überprüfe, ob book.genre ein Array ist
+    })
+  );
+}
+
+  // Sortierung: AutorNachname – Serie – Band – Titel
+  books.sort((a, b) => {
+    const aStr = `${normalizeName(a.authors?.[0] || '')} - ${a.series || ''} - ${a.volume || ''} - ${a.title}`;
+    const bStr = `${normalizeName(b.authors?.[0] || '')} - ${b.series || ''} - ${b.volume || ''} - ${b.title}`;
+    return aStr.localeCompare(bStr, 'de'); // Sortierung nach deutschem Alphabet
+  });
+
+  // Ausgabe jedes Buchs als HTML-Block
+  books.forEach(book => {
+    const index = library.indexOf(book); // Position für Bearbeiten/Löschen
+    const div = document.createElement('div');
+    div.className = 'book';
+    div.style.backgroundColor = "#f7e2b7";
+    div.style.padding = "10px";
+    div.style.marginBottom = "10px";
+    div.style.borderRadius = "8px";
+    div.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
+
+    div.innerHTML = `
+      <img src="${book.thumbnail || ''}" alt="Cover">
+      <div class="book-info">
+        <div class="book-title">
+          ${book.title}
+          ${editMode ? `<button onclick="editBook(${index})" style="margin-left: 1rem;">✏️</button>` : ''}
+        </div>
+        <div>${(book.authors || []).map(normalizeName).join('; ')}</div>
+        ${book.series ? `<div><b>Serie:</b> ${book.series}</div>` : ''}
+        ${book.volume ? `<div><b>Band:</b> ${book.volume}</div>` : ''}
+        ${book.category ? `<div><b>Kategorie:</b> ${book.category}</div>` : ''}
+        ${book.genre ? `<div><b>Genre:</b> ${book.genre}</div>` : ''}
+        <div><b>ISBN:</b> ${book.isbn || 'Unbekannt'}</div>
+        <div><b>Veröffentlicht:</b> ${book.publishedDate || 'Unbekannt'}</div>
+        <div><b>Seitenanzahl:</b> ${book.pageCount || 'Unbekannt'}</div>
+        <div><b>Gelesen:</b> ${book.read ? 'Ja' : 'Nein'}</div>
+        ${book.rating ? `<div><b>Bewertung:</b> ${'★'.repeat(book.rating)}${'☆'.repeat(5 - book.rating)}</div>` : ''}
+        <div>${book.description || ''}</div>
+        <button onclick="confirmRemoveBook(${index})">🗑️ Buch löschen</button>
+      </div>`;
+    libraryDiv.appendChild(div);
+  });
+}
+
+/* x für Suchfeld */
+document.getElementById("clear-search").addEventListener("click", () => {
+  document.getElementById("search-input").value = "";
+  renderLibrary();
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  renderFilterBar();
+  populateCategoryAndGenreDropdowns();
+  renderLibrary();
+});
+
 
 
 </script>
