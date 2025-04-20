@@ -974,7 +974,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         books = JSON.parse(storedBooks);
     } else {
         try {
-            const response = await fetch("/mylibrary/bibliothek.json");
+            const response = await fetch("https://takasila.github.io/mylibrary/bibliothek.json");
             if (response.ok) {
                 books = await response.json();
                 saveLibrary(); // speichert sie direkt in localStorage
