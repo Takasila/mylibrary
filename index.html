@@ -272,7 +272,7 @@
 <script>
 
 // Initialisierung der Bibliothek aus dem lokalen Speicher oder einem leeren Array
-// let library = [];
+let books = [];
 
 // Genre Map definieren
 
@@ -343,7 +343,7 @@ document.getElementById("edit-form").addEventListener("submit", () => {
   else library.push(book); // Ansonsten wird das Buch zur Bibliothek hinzugefügt
 
   // Speichern der Bibliothek im lokalen Speicher
-  localStorage.setItem("epubLibrary", JSON.stringify(library));
+  localStorage.setItem("epubLibrary", JSON.stringify(books));
 
   // Schließen des Dialogs
   document.getElementById("edit-dialog").close();
@@ -464,7 +464,7 @@ function renderLibrary() {
   renderFilterBar(); // Filterleiste neu rendern (z.B. aktivierte Buchstaben)
   const libraryDiv = document.getElementById("library");
   libraryDiv.innerHTML = ''; // Anzeige leeren
-  let books = [...library]; // Arbeitskopie der Bibliothek
+  let books = [...books]; // Arbeitskopie der Bibliothek
 
   // Kategorie-Filter anwenden
   if (selectedCategories.length > 0) {
@@ -872,7 +872,7 @@ function populateGenreDropdown(selectedCategory) {
 function renderLibrary() {
   const libraryDiv = document.getElementById("library");
   libraryDiv.innerHTML = ''; // Anzeige leeren
-  let books = [...library]; // Arbeitskopie der Bibliothek
+  let books = [...books]; // Arbeitskopie der Bibliothek
 
   // Freitextsuche
   const searchTerm = document.getElementById("search-input").value.trim().toLowerCase();
@@ -925,7 +925,7 @@ if (selectedGenres.length > 0) {
 
   // Ausgabe jedes Buchs als HTML-Block
   books.forEach(book => {
-    const index = library.indexOf(book); // Position für Bearbeiten/Löschen
+    const index = books.indexOf(book); // Position für Bearbeiten/Löschen
     const div = document.createElement('div');
     div.className = 'book';
     div.style.backgroundColor = "#f7e2b7";
