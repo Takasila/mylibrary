@@ -965,33 +965,31 @@ document.getElementById("clear-search").addEventListener("click", () => {
 });
 
 document.addEventListener("DOMContentLoaded", async () => {
-  renderFilterBar();
-  populateCategoryAndGenreDropdowns();
+    renderFilterBar();
+    populateCategoryAndGenreDropdowns();
 
-  const storedBooks = localStorage.getItem("epubLibrary");
+    const storedBooks = localStorage.getItem("epubLibrary");
 
-  if (storedBooks) {
-    books = JSON.parse(storedBooks);
-  } else {
-    try {
-      const response = await fetch("https://raw.githubusercontent.com/Takasila/mylibrary/main/bibliothek.json");
-      if (response.ok) {
-        books = await response.json();
-        saveLibrary(); // speichert sie direkt in localStorage
-      } else {
-        console.error("Fehler beim Laden der bibliothek.json von GitHub:", response.status);
-        books = [];
-      }
-    } catch (error) {
-      console.error("Netzwerkfehler beim Laden der bibliothek.json:", error);
-      books = [];
+    if (storedBooks) {
+        books = JSON.parse(storedBooks);
+    } else {
+        try {
+            const response = await fetch("https://raw.githubusercontent.com/Takasila/mylibrary/main/bibliothek.json");
+            if (response.ok) {
+                books = await response.json();
+                saveLibrary(); // speichert sie direkt in localStorage
+            } else {
+                console.error("Fehler beim Laden der bibliothek.json von GitHub:", response.status);
+                books = [];
+            }
+        } catch (error) {
+            console.error("Netzwerkfehler beim Laden der bibliothek.json:", error);
+            books = [];
+        }
     }
-  }
 
-  renderLibrary(); // zeigt die Bücher an
+    renderLibrary(); // zeigt die Bücher an
 });
-
-
 
 
 </script>
