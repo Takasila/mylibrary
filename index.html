@@ -272,7 +272,7 @@
 <script>
 
 // Initialisierung der Bibliothek aus dem lokalen Speicher oder einem leeren Array
-let library = JSON.parse(localStorage.getItem('epubLibrary') || '[]');
+// let library = [];
 
 // Genre Map definieren
 
@@ -964,11 +964,33 @@ document.getElementById("clear-search").addEventListener("click", () => {
   renderLibrary();
 });
 
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", async () => {
   renderFilterBar();
   populateCategoryAndGenreDropdowns();
-  renderLibrary();
+
+  const storedBooks = localStorage.getItem("epubLibrary");
+
+  if (storedBooks) {
+    books = JSON.parse(storedBooks);
+  } else {
+    try {
+      const response = await fetch("https://raw.githubusercontent.com/Takasila/mylibrary/main/bibliothek.json");
+      if (response.ok) {
+        books = await response.json();
+        saveLibrary(); // speichert sie direkt in localStorage
+      } else {
+        console.error("Fehler beim Laden der bibliothek.json von GitHub:", response.status);
+        books = [];
+      }
+    } catch (error) {
+      console.error("Netzwerkfehler beim Laden der bibliothek.json:", error);
+      books = [];
+    }
+  }
+
+  renderLibrary(); // zeigt die Bücher an
 });
+
 
 
 
