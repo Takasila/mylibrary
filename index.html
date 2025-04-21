@@ -14,6 +14,17 @@
 	  margin: 2rem;
 	  padding-top: 220px; /* für festen Header */
 }
+
+/* Gelesen-Zähler*/
+#read-counter {
+  position: absolute;
+  top: 1.8rem;
+  right: 3.5rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #444;
+}
+	  
     /* Stile für die Buttons */
 #import-btn, #edit-mode-btn, #add-manual-btn,
 #save-btn, #load-btn {
@@ -174,6 +185,7 @@
 <div id="header">
 <!-- Hauptüberschrift der Seite -->
 <h3>📚 Meine Bibliothek</h3>
+<div id="read-counter">Bücher gelesen: 0</div>
 
 <!-- A-Z Filterleiste -->
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
@@ -566,6 +578,15 @@ function newBookEntry() {
   document.getElementById("edit-index").value = '';
   document.getElementById("edit-read").checked = false;
   document.getElementById("edit-dialog").showModal();
+}
+
+// Gelesen-Zähler Funktion
+function updateReadCounter() {
+  const count = library.filter(book => book.read === true).length;
+  const counter = document.getElementById('read-counter');
+  if (counter) {
+    counter.textContent = `Bücher gelesen: ${count}`;
+  }
 }
 
 function editBook(index) {
