@@ -582,7 +582,7 @@ function newBookEntry() {
 
 // Gelesen-Zähler Funktion
 function updateReadCounter() {
-  const count = library.filter(book => book.read === true).length;
+  const count = books.filter(book => book.read === true).length;
   const counter = document.getElementById('read-counter');
   if (counter) {
     counter.textContent = `Bücher gelesen: ${count}`;
