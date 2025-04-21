@@ -1174,5 +1174,56 @@
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
     "rating": "4"
+  },
+  {
+    "title": "Während die Welt schlief",
+    "authors": [
+      "Abulhawa, Susan"
+    ],
+    "isbn": "9783641054229",
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-03-28",
+    "description": "Jenin im Blumenmonat April: Frühmorgens, bevor die Welt um sie herum erwacht, liest Amals Vater ihr aus den Werken großer Dichter vor. Es sind Momente des Friedens und des Glücks, die Amal ihr Leben lang im Herzen trägt — ein Leben, das im Flüchtlingslager beginnt, nach Amerika führt und dennoch stets geprägt ist vom scheinbar ausweglosen Konflikt zwischen Israel und Palästina. Über vier Generationen erzählt Susan Abulhawa eine tief berührende Geschichte über den Verlust der Heimat, eine zerrissene Familie und die immerwährende Hoffnung auf Versöhnung.",
+    "thumbnail": "https://books.google.com/books/content?id=6ZjebUCXKlEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "pageCount": "302",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "rating": "5"
+  },
+  {
+    "title": "Ein Mann namens Ove",
+    "authors": [
+      "Backman, Fredrik"
+    ],
+    "isbn": "9783641299460",
+    "series": "",
+    "volume": "",
+    "publishedDate": "2022-12-14",
+    "description": "Ove ist 59. Er fährt Saab. Und wir alle kennen jemanden wie ihn: den grummeligen Nachbarn von nebenan, der kontrolliert, ob der Müll richtig getrennt ist, und heimlich die Falschparker aufschreibt. Doch niemand wird als grummeliger alter Nachbar geboren, und einst war auch Ove glücklich. Bis das mit seiner Frau passierte, und dann das mit der Arbeit. Jetzt macht nichts mehr wirklich Sinn. Noch einmal richtig aufräumen, dann ist Ove bereit, für immer zu gehen. Wie ärgerlich, dass genau im falschen Moment im Haus nebenan eine junge Familie einzieht – und mit ihr unglaubliches Chaos. Definitiv ein Fall für Ove, denn das kann so nicht bleiben ...",
+    "thumbnail": "https://books.google.com/books/content?id=rU5-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "pageCount": "486",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "rating": "5"
+  },
+  {
+    "title": "Evolution",
+    "authors": [
+      "Baxter, Stephen"
+    ],
+    "isbn": "9783641121501",
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-12-09",
+    "description": "Vergangenheit und Zukunft. Dieser Roman enthält nicht mehr und nicht weniger als die gesamte Geschichte unseres Universums. Von den Ursprüngen des Alls über die weitverzweigten Wucherungen der Evolution bis in den dunklen Kältetod unseres Kosmos – dies ist die Geschichte unserer Wirklichkeit, die Geschichte der Menschheit, wie sie sich aus dem Staub der Vergangenheit erhebt und nach den Sternen greift ...",
+    "thumbnail": "https://books.google.com/books/content?id=sbi9AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "pageCount": "618",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "rating": "5"
   }
 ]
