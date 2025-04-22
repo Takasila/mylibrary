@@ -395,7 +395,7 @@ function renderFilterBar() {
   allBtn.textContent = "📚 Alle";
   allBtn.classList.toggle("active", filterStatus === 'all');
   allBtn.onclick = () => {
-    filterStatus = 'all';
+    filterStatus = 'all'; // Setzt den Status auf "Alle"
     renderFilterBar();
     renderLibrary();
   };
@@ -406,7 +406,7 @@ function renderFilterBar() {
   readBtn.textContent = "📖 Gelesen";
   readBtn.classList.toggle("active", filterStatus === 'read');
   readBtn.onclick = () => {
-    filterStatus = 'read';
+    filterStatus = 'read'; // Setzt den Status auf "Gelesen"
     renderFilterBar();
     renderLibrary();
   };
@@ -417,7 +417,7 @@ function renderFilterBar() {
   unreadBtn.textContent = "🆕 Neu";
   unreadBtn.classList.toggle("active", filterStatus === 'unread');
   unreadBtn.onclick = () => {
-    filterStatus = 'unread';
+    filterStatus = 'unread'; // Setzt den Status auf "Ungelesen"
     renderFilterBar();
     renderLibrary();
   };
@@ -441,12 +441,11 @@ function renderFilterBar() {
 
     btn.onclick = () => {
       if (activeFilters.includes(char)) {
-        activeFilters = activeFilters.filter(l => l !== char);
+        activeFilters = activeFilters.filter(l => l !== char); // Entfernen, wenn aktiv
       } else {
-        activeFilters.push(char);
+        activeFilters.push(char); // Hinzufügen, wenn nicht aktiv
       }
-      renderFilterBar();
-      renderLibrary();
+      renderLibrary(); // Nur die Bibliothek neu rendern
     };
 
     btn.classList.toggle("active", activeFilters.includes(char));
@@ -456,11 +455,10 @@ function renderFilterBar() {
 
 
 function renderLibrary() {
-  renderFilterBar(); // Filterleiste neu anzeigen
   const libraryDiv = document.getElementById("library");
   libraryDiv.innerHTML = ''; // Anzeige leeren
 
-  let books = [...library]; // Richtige Arbeitskopie (nicht [...books]!)
+  let books = [...library]; // Arbeitskopie der Bibliothek
 
   // Kategorie-Filter anwenden
   if (selectedCategories.length > 0) {
@@ -479,7 +477,7 @@ function renderLibrary() {
     );
   }
 
-  // Status-Filter "Gelesen" / "Ungelesen"
+  // Status-Filter "Gelesen" / "Ungelesen" anwenden
   if (filterStatus === 'read') {
     books = books.filter(book => book.read === true);
   } else if (filterStatus === 'unread') {
