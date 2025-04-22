@@ -395,10 +395,10 @@ function renderFilterBar() {
   allBtn.textContent = "📚 Alle";
   allBtn.classList.toggle("active", filterStatus === 'all'); // Aktivieren des Buttons, wenn der Filter 'all' ist
   allBtn.onclick = () => {
-  filterStatus = 'all';
-  renderLibrary();
-  renderFilterBar();
-}; // Event-Handler für den Klick
+    filterStatus = filterStatus === 'all' ? null : 'all'; // Status zurücksetzen, wenn derselbe Button erneut gedrückt wird
+    renderLibrary();
+    renderFilterBar();
+  };
   filterBar.appendChild(allBtn);
 
   // Button für "Gelesene" Bücher
@@ -406,10 +406,10 @@ function renderFilterBar() {
   readBtn.textContent = "📖 Gelesen";
   readBtn.classList.toggle("active", filterStatus === 'read'); // Aktivieren des Buttons, wenn der Filter 'read' ist
   readBtn.onclick = () => {
-  filterStatus = 'read';
-  renderLibrary();
-  renderFilterBar(); // <<< Wichtig!
-}; // Event-Handler für den Klick
+    filterStatus = filterStatus === 'read' ? null : 'read'; // Status zurücksetzen, wenn derselbe Button erneut gedrückt wird
+    renderLibrary();
+    renderFilterBar();
+  };
   filterBar.appendChild(readBtn);
 
   // Button für "Neue" Bücher
@@ -417,14 +417,12 @@ function renderFilterBar() {
   unreadBtn.textContent = "🆕 Neu";
   unreadBtn.classList.toggle("active", filterStatus === 'unread'); // Aktivieren des Buttons, wenn der Filter 'unread' ist
   unreadBtn.onclick = () => {
-  filterStatus = 'unread';
-  renderLibrary();
-  renderFilterBar();
-}; // Event-Handler für den Klick
+    filterStatus = filterStatus === 'unread' ? null : 'unread'; // Status zurücksetzen, wenn derselbe Button erneut gedrückt wird
+    renderLibrary();
+    renderFilterBar();
+  };
   filterBar.appendChild(unreadBtn);
 
-
- // Buchstaben-Filterbuttons A-Z
   // Funktion zur Normalisierung der Buchstaben (einschließlich Umlaute)
   const normalizeCharacter = (char) => {
     // Zuordnung von Umlauten zu normalen Buchstaben
@@ -441,7 +439,7 @@ function renderFilterBar() {
     return umlautMap[char] || char;
   };
 
-  // A-Z Filter-Buttons erzeugen (für Buchstaben A-Z)
+  // Buchstaben-Filterbuttons A-Z
   for (let i = 65; i <= 90; i++) {
     const char = String.fromCharCode(i); // A bis Z
     const btn = document.createElement("button");
@@ -449,26 +447,19 @@ function renderFilterBar() {
 
     // Event-Handler für den Klick auf den Button
     btn.onclick = () => {
-      // Wenn der Buchstabe bereits aktiv ist, entfernen wir ihn aus den Filtern
       if (activeFilters.includes(char)) {
-        activeFilters = activeFilters.filter(l => l !== char);
+        activeFilters = activeFilters.filter(l => l !== char); // Entfernen, wenn aktiv
       } else {
-        // Ansonsten fügen wir ihn zu den aktiven Filtern hinzu
-        activeFilters.push(char);
+        activeFilters.push(char); // Hinzufügen, wenn nicht aktiv
       }
-      // Nach der Filteränderung die Bibliothek neu rendern
       renderFilterBar();
-	  renderLibrary();
+      renderLibrary();
     };
 
     // Wenn der Buchstabe bereits im Filter aktiv ist, wird der Button visuell markiert
-    if (activeFilters.includes(char)) {
-      btn.classList.add("active");
-	}
-    // Der Button wird zur Filterleiste hinzugefügt
+    btn.classList.toggle("active", activeFilters.includes(char));
     filterBar.appendChild(btn);
   }
-
 }
 
 function renderLibrary() {
