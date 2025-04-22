@@ -449,9 +449,9 @@ function renderFilterBar() {
     // Event-Handler für den Klick auf den Button
     btn.onclick = () => {
       if (activeFilters.includes(char)) {
-        activeFilters = activeFilters.filter(l => l !== char); // Entfernen, wenn aktiv
+        activeFilters = activeFilters.filter(l => l !== char); // Entfernen, wenn bereits aktiv
       } else {
-        activeFilters = [char]; // Nur diesen Buchstaben aktivieren
+        activeFilters.push(char); // Hinzufügen, wenn nicht aktiv
       }
       filterStatus = null; // Andere Filter (z. B. 'Alle', 'Gelesen') deaktivieren
       renderFilterBar();
