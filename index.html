@@ -388,53 +388,46 @@ document.getElementById("edit-category").addEventListener("input", () => {
 // Funktion zum Rendern der Filterleiste
 function renderFilterBar() {
   const filterBar = document.getElementById("filter-bar");
-  filterBar.innerHTML = ''; // Zunächst alle bestehenden Filter-Buttons entfernen
+  filterBar.innerHTML = ''; // Vorherige Buttons entfernen
 
   // Button für "Alle" Bücher
   const allBtn = document.createElement("button");
   allBtn.textContent = "📚 Alle";
-  allBtn.classList.toggle("active", filterStatus === 'all'); // Aktivieren des Buttons, wenn der Filter 'all' ist
+  allBtn.classList.toggle("active", filterStatus === 'all');
   allBtn.onclick = () => {
-    filterStatus = filterStatus === 'all' ? null : 'all'; // Status zurücksetzen oder aktivieren
-    activeFilters = []; // Zusätzliche Filter (z. B. Buchstaben) zurücksetzen
-    renderLibrary();
+    filterStatus = 'all';
     renderFilterBar();
+    renderLibrary();
   };
   filterBar.appendChild(allBtn);
 
-  // Button für "Gelesene" Bücher
+  // Button für "Gelesen" Bücher
   const readBtn = document.createElement("button");
   readBtn.textContent = "📖 Gelesen";
-  readBtn.classList.toggle("active", filterStatus === 'read'); // Aktivieren des Buttons, wenn der Filter 'read' ist
+  readBtn.classList.toggle("active", filterStatus === 'read');
   readBtn.onclick = () => {
-    filterStatus = filterStatus === 'read' ? null : 'read'; // Status zurücksetzen oder aktivieren
-    activeFilters = []; // Zusätzliche Filter (z. B. Buchstaben) zurücksetzen
-    renderLibrary();
+    filterStatus = 'read';
     renderFilterBar();
+    renderLibrary();
   };
   filterBar.appendChild(readBtn);
 
   // Button für "Neue" Bücher
   const unreadBtn = document.createElement("button");
   unreadBtn.textContent = "🆕 Neu";
-  unreadBtn.classList.toggle("active", filterStatus === 'unread'); // Aktivieren des Buttons, wenn der Filter 'unread' ist
+  unreadBtn.classList.toggle("active", filterStatus === 'unread');
   unreadBtn.onclick = () => {
-    filterStatus = filterStatus === 'unread' ? null : 'unread'; // Status zurücksetzen oder aktivieren
-    activeFilters = []; // Zusätzliche Filter (z. B. Buchstaben) zurücksetzen
-    renderLibrary();
+    filterStatus = 'unread';
     renderFilterBar();
+    renderLibrary();
   };
   filterBar.appendChild(unreadBtn);
 
-  // Funktion zur Normalisierung der Buchstaben (einschließlich Umlaute)
+  // Funktion zur Normalisierung von Umlauten
   const normalizeCharacter = (char) => {
     const umlautMap = {
-      'Ä': 'A',
-      'Ö': 'O',
-      'Ü': 'U',
-      'ä': 'a',
-      'ö': 'o',
-      'ü': 'u',
+      'Ä': 'A', 'Ö': 'O', 'Ü': 'U',
+      'ä': 'a', 'ö': 'o', 'ü': 'u',
       'ß': 'ss'
     };
     return umlautMap[char] || char;
@@ -442,33 +435,32 @@ function renderFilterBar() {
 
   // Buchstaben-Filterbuttons A-Z
   for (let i = 65; i <= 90; i++) {
-    const char = String.fromCharCode(i); // A bis Z
+    const char = String.fromCharCode(i); // Buchstabe A-Z
     const btn = document.createElement("button");
-    btn.textContent = char; // Setzt den Text des Buttons auf den Buchstaben
+    btn.textContent = char;
 
-    // Event-Handler für den Klick auf den Button
     btn.onclick = () => {
       if (activeFilters.includes(char)) {
-        activeFilters = activeFilters.filter(l => l !== char); // Entfernen, wenn bereits aktiv
+        activeFilters = activeFilters.filter(l => l !== char);
       } else {
-        activeFilters.push(char); // Hinzufügen, wenn nicht aktiv
+        activeFilters.push(char);
       }
-      filterStatus = null; // Andere Filter (z. B. 'Alle', 'Gelesen') deaktivieren
       renderFilterBar();
       renderLibrary();
     };
 
-    // Wenn der Buchstabe bereits im Filter aktiv ist, wird der Button visuell markiert
     btn.classList.toggle("active", activeFilters.includes(char));
     filterBar.appendChild(btn);
   }
 }
 
+
 function renderLibrary() {
-  renderFilterBar(); // Filterleiste neu rendern (z.B. aktivierte Buchstaben)
+  renderFilterBar(); // Filterleiste neu anzeigen
   const libraryDiv = document.getElementById("library");
   libraryDiv.innerHTML = ''; // Anzeige leeren
-  let books = [...books]; // Arbeitskopie der Bibliothek
+
+  let books = [...library]; // Richtige Arbeitskopie (nicht [...books]!)
 
   // Kategorie-Filter anwenden
   if (selectedCategories.length > 0) {
@@ -487,7 +479,7 @@ function renderLibrary() {
     );
   }
 
-  // Filter "Gelesen" / "Ungelesen" anwenden
+  // Status-Filter "Gelesen" / "Ungelesen"
   if (filterStatus === 'read') {
     books = books.filter(book => book.read === true);
   } else if (filterStatus === 'unread') {
@@ -497,11 +489,21 @@ function renderLibrary() {
   // Buchstabenfilter A–Z anwenden
   if (activeFilters.length > 0) {
     books = books.filter(book =>
-      (book.authors || []).some(author =>
-        activeFilters.includes(normalizeFirstLetter(author))
-      )
+      (book.authors || []).some(author => {
+        const lastName = author.split(',')[0].trim().toUpperCase();
+        const firstLetter = normalizeCharacter(lastName.charAt(0));
+        return activeFilters.includes(firstLetter);
+      })
     );
   }
+
+  // Anzeige aktualisieren
+  displayBooks(books);
+
+  // Gelesen-Zähler aktualisieren
+  updateGelesenCounter();
+}
+
 
   // Sortierung anwenden
   books.sort((a, b) => {
