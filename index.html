@@ -395,7 +395,8 @@ function renderFilterBar() {
   allBtn.textContent = "📚 Alle";
   allBtn.classList.toggle("active", filterStatus === 'all'); // Aktivieren des Buttons, wenn der Filter 'all' ist
   allBtn.onclick = () => {
-    filterStatus = filterStatus === 'all' ? null : 'all'; // Status zurücksetzen, wenn derselbe Button erneut gedrückt wird
+    filterStatus = filterStatus === 'all' ? null : 'all'; // Status zurücksetzen oder aktivieren
+    activeFilters = []; // Zusätzliche Filter (z. B. Buchstaben) zurücksetzen
     renderLibrary();
     renderFilterBar();
   };
@@ -406,7 +407,8 @@ function renderFilterBar() {
   readBtn.textContent = "📖 Gelesen";
   readBtn.classList.toggle("active", filterStatus === 'read'); // Aktivieren des Buttons, wenn der Filter 'read' ist
   readBtn.onclick = () => {
-    filterStatus = filterStatus === 'read' ? null : 'read'; // Status zurücksetzen, wenn derselbe Button erneut gedrückt wird
+    filterStatus = filterStatus === 'read' ? null : 'read'; // Status zurücksetzen oder aktivieren
+    activeFilters = []; // Zusätzliche Filter (z. B. Buchstaben) zurücksetzen
     renderLibrary();
     renderFilterBar();
   };
@@ -417,7 +419,8 @@ function renderFilterBar() {
   unreadBtn.textContent = "🆕 Neu";
   unreadBtn.classList.toggle("active", filterStatus === 'unread'); // Aktivieren des Buttons, wenn der Filter 'unread' ist
   unreadBtn.onclick = () => {
-    filterStatus = filterStatus === 'unread' ? null : 'unread'; // Status zurücksetzen, wenn derselbe Button erneut gedrückt wird
+    filterStatus = filterStatus === 'unread' ? null : 'unread'; // Status zurücksetzen oder aktivieren
+    activeFilters = []; // Zusätzliche Filter (z. B. Buchstaben) zurücksetzen
     renderLibrary();
     renderFilterBar();
   };
@@ -425,7 +428,6 @@ function renderFilterBar() {
 
   // Funktion zur Normalisierung der Buchstaben (einschließlich Umlaute)
   const normalizeCharacter = (char) => {
-    // Zuordnung von Umlauten zu normalen Buchstaben
     const umlautMap = {
       'Ä': 'A',
       'Ö': 'O',
@@ -435,7 +437,6 @@ function renderFilterBar() {
       'ü': 'u',
       'ß': 'ss'
     };
-    // Rückgabe des normalisierten Zeichens oder des Originalzeichens, wenn keine Umwandlung erforderlich ist
     return umlautMap[char] || char;
   };
 
@@ -450,8 +451,9 @@ function renderFilterBar() {
       if (activeFilters.includes(char)) {
         activeFilters = activeFilters.filter(l => l !== char); // Entfernen, wenn aktiv
       } else {
-        activeFilters.push(char); // Hinzufügen, wenn nicht aktiv
+        activeFilters = [char]; // Nur diesen Buchstaben aktivieren
       }
+      filterStatus = null; // Andere Filter (z. B. 'Alle', 'Gelesen') deaktivieren
       renderFilterBar();
       renderLibrary();
     };
