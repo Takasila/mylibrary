@@ -1033,7 +1033,7 @@
     "category": "Sachbuch",
     "genre": "Biografien & Erinnerungen",
     "description": "Nach dem Ende des 2. Weltkrieges, wird Klara, die das KZ Auschwitz überlebt hat, von ihrer Schwägerin Angelica in Paris betreut. Mit der Zeit gelingt es Angelica, zu Klaras Innerstem vorzudringen und ihr zu helfen, das auszusprechen, was sie erleben musste.",
-    "thumbnail": "https://covers.openlibrary.org/b/id/8682268-L.jpg",
+    "thumbnail": "https://szene-hamburg.com/wp-content/uploads/2017/01/KlarasNein_Cover-186x300.jpg",
     "read": true,
     "rating": "3",
     "pageCount": "187"
@@ -1065,7 +1065,7 @@
     "publishedDate": "1990",
     "isbn": "3548310702",
     "category": "Belletristik",
-    "genre": "Humor",
+    "genre": "Humor; Science Fiction",
     "description": "Die amüsante, phantastische, mit schwarzem Humor, absurden Gags und manchen Kalauern gewürzte Parodie auf die Science-Fiction-Literatur beginnt mit der Vernichtung der Erde durch ein galaktisches Räumkommando. Einziger überlebender ist Arthur Dent ...",
     "thumbnail": "https://covers.openlibrary.org/b/id/12709846-L.jpg",
     "read": true,
@@ -1225,5 +1225,141 @@
     "category": "Belletristik",
     "genre": "Science Fiction",
     "rating": "5"
+  },
+  {
+    "title": "Auferstehung der Toten",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "1",
+    "publishedDate": "1996",
+    "isbn": "3499432447",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "In Zell am See geht es etwas langsamer zu als im Rest der Welt. Hier wird man nicht erschossen., sondern tiefgefroren. So ist es einem steinreichen amerikanischen Ehepaar ergangen, das man an einem klirrend kalten Wintermorgen in einem Sessellift findet. Die Polizei beißt sich an der Sturheit der Zeller schnell die Zähne aus. Licht in diesen Fall kann nur ein Mann wie Privatdetektiv Brenner bringen, ein ehemaliger Polizist, der wegen seiner nervenzermürbenden Langsamkeit aus dem Job geekelt wurde. Brenner hat das Gespür für den Rhythmus der österreichischen Provinz.",
+    "thumbnail": "http://books.google.com/books/content?id=t4TeAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "164"
+  },
+  {
+    "title": "Der Knochenmann",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "2",
+    "publishedDate": "1997",
+    "isbn": "3499432587",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Der Löschenkohl, eine Grillstation mit dem Flair einer Möbelhalle, ist in der ganzen Steiermark berühmt für seine Massenausspeisungen. Die Gäste lassen sich ihren Heißhunger auf die gigantischen Hendlteile nicht einmal von den Menschengebeinen verderben, die man in den Abfallbergen aus Hühnerknochen entdeckt. Ein klarer Fall für \"Aktenzeichen XY\" und für den unnachahmlichen Privatdetektiv Brenner. Bevor der in Ruhe bei dem steirischen Hendl-König herumschnüffeln kann, fließt jedoch schon das Blut des nächsten Toten - bei den Knochentretern des FC Klöch.",
+    "thumbnail": "http://books.google.com/books/content?id=bIbeAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "164"
+  },
+  {
+    "title": "Komm, süßer Tod",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "3",
+    "publishedDate": "2000",
+    "isbn": "9783499228148",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Auf den Straßen von Wien bekämpfen sich die Rettungsdienste bis aufs Spenderblut. Nach dem Doppelmord an einem schmusenden Liebespaar tritt Ex-Polizist und Schnüffler Brenner auf den Plan.",
+    "thumbnail": "http://books.google.com/books/content?id=kYjeAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "228"
+  },
+  {
+    "title": "Silentium!",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "4",
+    "publishedDate": "2000",
+    "isbn": "9783499228308",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Wieder einmal ein Bischofskandidat, der aus dem ehrwürdigen Marianum hervorging - darauf ist man im Salzburger Knabeninternat besonders stolz. Wenn nur diese häßlichen Gerüchte nicht wären ... Hat sich der Monsignore beim Hygiene-Unterricht im Duschkeller einstmals an einem kleinen Zögling vergangen? Privatdetektiv Brenner soll das nun herausfinden ...",
+    "thumbnail": "http://books.google.com/books/content?id=NfZlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "232"
+  },
+  {
+    "title": "Wie die Tiere",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "5",
+    "publishedDate": "2001",
+    "isbn": "9783498029616",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Der beste Freund des Hundes ist der Pensionist - und das Kleinkind sein natürlicher Feind. Aber müssen militante Mütter die Vierbeiner deshalb gleich mit präparierten Keksen umbringen? Privatdetektiv Brenner zweifelt daran, als er die Fährte des Hundemörders aufnimmt. Doch Mensch und Hund haben in diesem Fall auch etwas gemeinsam, denn plötzlich sterben nicht nur die treuen Vierbeiner.",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783498029616-de.jpg",
+    "read": true,
+    "rating": "5",
+    "pageCount": "232"
+  },
+  {
+    "title": "Das ewige Leben",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "6",
+    "publishedDate": "2003",
+    "isbn": "3455025595",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Große Aufregung in der Sigmund-Freud-Nervenklinik in Graz: Einer der Hoffnungslosen, ein Selbstmörder, ist noch einmal zum Leben erwacht. Doch warum glaubt der Privatdetektiv Brenner felsenfest, die Kripo wollte ihn ermorden? Und das, obwohl nach dem Kopfschuss die Tage davor restlos aus seinem Gedächtnis gestrichen sind?\n\nFür den Psychiater liegt der Fall ganz klar: Akute Depressionen, ausgelöst durch die Rückkehr in die Heimatstadt Graz. Als sich Brenner aus dem Hospital stiehlt, hält man ihn für vollends verrückt. Doch Brenner hat eine wichtige Spur aus seinem Gedächtnis gefischt, die ihn zu einem ehemaligen Polizeischulfreund führt, der ihm helfen soll, den Mordanschlag aufzuklären. Und der könnte das tatsächlich – läge er nicht mit einem sauberen Kopfschuss tot auf dem Boden. Wird Brenner der Nächste sein?",
+    "thumbnail": "http://books.google.com/books/content?id=j44mAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "232"
+  },
+  {
+    "title": "Der Brenner und der liebe Gott",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "7",
+    "publishedDate": "2009",
+    "isbn": "9783455401899",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Der Brenner, Expolizist und Exdetektiv, hat endlich einen guten Job gefunden. Noch nie im Leben hat er sich so wohlgefühlt. Aber es wäre nicht der Brenner, wenn es lange dauern würde, bis wieder was passiert. So sorgt eine Tafel Schokolade für eine Kettenreaktion, an deren Ende sieben Begräbnisse stehen.",
+    "thumbnail": "http://books.google.com/books/content?id=zDvPPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "223"
+  },
+  {
+    "title": "Brennerova",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "8",
+    "publishedDate": "2014-08-28",
+    "isbn": "9783455813296",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Ob du es glaubst oder nicht. Zuerst wird der Brenner von einem Zehnjährigen bewusstlos geschlagen. Und dann versucht seine Freundin, ihn vor den Traualtar zu schleppen. Es läuft nämlich gerade ausgesprochen gut zwischen den beiden. Einziges Problem: Mit seiner anderen Freundin läuft es auch sehr gut. Da ist es für den Brenner ein Glück, dass noch eine dritte Frau in sein Leben tritt, indem sie verschwindet. Vermutlich ist sie von Mädchenhändlern entführt worden, und die Suche nach ihr hilft dem Detektiv bei der Lösung seiner privaten Probleme, sprich Flucht in die Arbeit. Denn nie kannst du besser über das Glück nachdenken, das ein Ehering bietet, als wenn der berüchtigtste Zuhälter der Stadt gerade dazu ansetzt, dir die Hände abzuhacken.",
+    "thumbnail": "http://books.google.com/books/content?id=_IDZAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "242"
   }
 ]
