@@ -1941,5 +1941,39 @@
     "read": true,
     "rating": "5",
     "pageCount": "175"
+  },
+  {
+    "title": "Der Metzger geht fremd",
+    "authors": [
+      "Raab, Thomas"
+    ],
+    "series": "Metzger",
+    "volume": "3",
+    "publishedDate": "2009",
+    "isbn": "9783492053082",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Das Kurbad: ein Ort, an dem man sich so richtig treiben lassen kann. So auch der Plan von Danjela Djurkovic, die sich bei gutem Essen, Physiotherapie und Massagen von einer Verletzung erholt. Richtig treiben lässt sich allerdings ein Toter, der am Grund eines Beckens umherdümpelt. Nackt! Sofort ruft sie ihren Willibald Adrian Metzger zu Hilfe. Der entfernt sich zwar ungern von seiner Werkstatt und noch unwilliger von der Stadt, seiner Danjela aber kann er nichts abschlagen.\nDer Metzger hat es eigentlich schon geahnt: Die Familien hier am Land verstecken Leichen nicht nur im Keller. Und auch nicht immer im Ganzen. Als ein Ring samt Finger auftaucht, ist endgültig klar: Hier geht etwas nicht mit rechten Dingen zu. Und dann gibt es da auch noch ein Haifischbecken …",
+    "thumbnail": "http://books.google.com/books/content?id=p3mxPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "4",
+    "pageCount": "359"
+  },
+  {
+    "title": "Der Metzger holt den Teufel",
+    "authors": [
+      "Raab, Thomas"
+    ],
+    "series": "Metzger",
+    "volume": "4",
+    "publishedDate": "2010",
+    "isbn": "9783492054195",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der Himmel hängt für den Metzger voller Geigen – leider bald im wahrsten Sinn des Wortes: Nach einem gemeinsamen Konzertbesuch mit Kommissar Pospischill werden mehrere Orchestermitgliede ermordet – ein Requiem des Grauens. Treibt da ein Strawinsky hassender Serienkiller sein Unwesen? Als wäre das nicht schon genug Aufregung für den Ruhe und Ordnung liebenden Willibald Adrian Metzger, muss er sich auch noch mit Pospischills Beziehungsproblemen und einer schönen Unbekannten in seiner Werkstatt auseinandersetzen. Letztere bringt zudem das Duett zwischen dem Metzger und seiner großen Liebe Danjela Djurkovic ganz schön aus dem Takt.",
+    "thumbnail": "http://books.google.com/books/content?id=KcrFSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "3",
+    "pageCount": "350"
   }
 ]
