@@ -1361,5 +1361,585 @@
     "read": true,
     "rating": "5",
     "pageCount": "242"
+  },
+  {
+    "title": "Der Junge im gestreiften Pyjama",
+    "authors": [
+      "Boyne, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008",
+    "isbn": "9783596852284",
+    "category": "Belletristik",
+    "genre": "Historisch; Romane & Erzählungen",
+    "description": "Der 9-jährige Sohn des Lagerkommandanten von Auschwitz erlebt als 'Zaungast' die Vorgänge im Lager, ohne auch nur das Geringste zu ahnen.",
+    "thumbnail": "http://books.google.com/books/content?id=7FB-PAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "185"
+  },
+  {
+    "title": "Der Metzger muss nachsitzen",
+    "authors": [
+      "Raab, Thomas"
+    ],
+    "series": "Metzger",
+    "volume": "1",
+    "publishedDate": "2008",
+    "isbn": "9783499247736",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "25 Jahre lang hat der Restaurator Willibald Adrian Metzger nichts von seinen Schulfreunden gehört. Dann stolpert er eines Tages im Park über die Leiche eines ehemaligen Kameraden. Doch als er mit der Polizei am Fundort eintrifft, ist nichts mehr von einer Leiche zu sehen. War es also Einbildung, wie die Polizei glaubt, oder zieht da jemand die Fäden im Hintergrund? Als der Metzger schließlich noch entdeckt, dass jemand in seine Werkstatt eingedrungen ist und den Zeigestab seines ehemaligen Klassenvorstandes deponiert hat, beginnt er wohl oder übel, allerdings höchst unfreiwillig, nachzuforschen.",
+    "thumbnail": "http://books.google.com/books/content?id=D5XBPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "286"
+  },
+  {
+    "title": "Der Metzger sieht rot",
+    "authors": [
+      "Raab, Thomas"
+    ],
+    "series": "Metzger",
+    "volume": "2",
+    "publishedDate": "2010-12-14",
+    "isbn": "9783492953269",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Was tut man nicht alles aus Liebe? Willibald Adrian Metzger zum Beispiel, der feinsinnige Restaurator, überwindet seine Abneigung gegen Massenveranstaltungen und begleitet seine heiß verehrte Danjela zu einem Heimspiel ihrer Lieblingsmannschaft– mit tragischem Ende. Denn auch der Tod löst diesmal seine Eintrittskarte und zeigt auf dem Spielfeld die finale Rote Karte. Als tags darauf überdies Danjela ihrer Neugierde zum Opfer fällt, ist es vorbei mit der Gelassenheit Metzgers. Mit einer ordentlichen Portion Wut im Bauch macht er sich auf die Suche nach der Wahrheit und findet dabei etwas erschreckend anderes.",
+    "thumbnail": "http://books.google.com/books/content?id=iJsVAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "272"
+  },
+  {
+    "title": "Das Schicksal ist ein mieser Verräter",
+    "authors": [
+      "Green, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-07-30",
+    "isbn": "9783446240933",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "„Krebsbücher sind doof“, sagt die 16-jährige Hazel, die selbst Krebs hat. Sie will auf gar keinen Fall bemitleidet werden und kann mit Selbsthilfegruppen nichts anfangen. Bis sie in einer Gruppe auf den intelligenten, gut aussehenden und umwerfend schlagfertigen Gus trifft. Der geht offensiv mit seiner Krankheit um. Hazel und Gus diskutieren Bücher, hören Musik, sehen Filme und verlieben sich ineinander - trotz ihrer Handicaps und Unerfahrenheit. Gus macht Hazels großen Traum wahr: Gemeinsam fliegen sie nach Amsterdam, um dort Peter Van Houten zu treffen, den Autor von Hazels absolutem Lieblingsbuch. Ein tiefgründiges, emotionales und zugleich freches Jugendbuch über Krankheit, Liebe und Tod.",
+    "thumbnail": "http://books.google.com/books/content?id=QiJQAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "332"
+  },
+  {
+    "title": "Eine kurze Geschichte von fast allem",
+    "authors": [
+      "Bryson, Bill"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006",
+    "isbn": "9783442311217",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Mit seinem internationalen preisgekrönten Bestseller 'Eine kurze Geschichte von fast allem' gelang Bill Bryson das vermeintlich Unmögliche: Die grundlegenden Erkenntnisse der modernen Wissenschaft nicht nur verständlich, sondern auch extrem unterhaltsam Millionen von Lesern nahe zu bringen.",
+    "thumbnail": "http://books.google.com/books/content?id=GCGoAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "622"
+  },
+  {
+    "title": "Eine kurze Geschichte der alltäglichen Dinge",
+    "authors": [
+      "Bryson, Bill"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011",
+    "isbn": "9783442301225",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "In seinem alten Pfarrhaus im Osten Englands betrachtet Bill Bryson viele alltägliche Dinge, die sich zur Erklärung sozialhistorischer Zusammenhänge ausgezeichnet eignen: Warum und seit wann gibt es Betten? Warum kam roter Backstein als Baustoff aus der Mode u.v.a.m.",
+    "thumbnail": "http://books.google.com/books/content?id=ctWaXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "4",
+    "pageCount": "637"
+  },
+  {
+    "title": "Kurze Antworten auf große Fragen",
+    "authors": [
+      "Hawking, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2018-10-30",
+    "isbn": "9783608115109",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "In seinem letzten Buch gibt Stephen Hawking Antworten auf die drängendsten Fragen unserer Zeit und nimmt uns mit auf eine persönliche Reise durch das Universum seiner Weltanschauung. Seine Gedanken zu Ursprung und Zukunft der Menschheit sind zugleich eine Mahnung, unseren Heimatplaneten besser vor den Gefahren unserer Gegenwart zu schützen.",
+    "thumbnail": "http://books.google.com/books/content?id=6SBdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "180"
+  },
+  {
+    "title": "Der Steppenwolf",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1927",
+    "isbn": "9783518736104",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Harry Haller ist in das kulturlose und unmenschliche Inferno unserer prunkenden und lärmenden Gegenwart vorgedrungen und steht mit seinem Begriff von Menschenwert ... einsam außerhalb der bürgerlichen Gesellschaft. Seine Sehnsucht kennt eine unerreichbare Wirklichkeit: seine Verzweiflung treibt ihn zuweilen in die erreichbare andere zurück. Lust und Enttäuschung ihres Daseins führen in seinem Herzen und Hirn einen Kampf, an dem die Zivilisation Europas mit ihrem ganzen Bestände und Befunde teilnimmt.",
+    "thumbnail": "http://books.google.com/books/content?id=w8k7CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "190"
+  },
+  {
+    "title": "Das Glasperlenspiel",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1943",
+    "isbn": "9783518765906",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Dies ist Hermann Hesses letztes, sein wichtigstes und anspruchsvollstes Werk. Es ist ein Buch der Zukunft: Der Autor transportiert das Leben seines Helden Josef Knecht in das Jahr 2200. Er entwickelt mit dem »Glasperlenspiel«, in dem nicht weniger als das Streben nach Wahrheit auf dem Spiel steht, eine Utopie.",
+    "thumbnail": "http://books.google.com/books/content?id=Lzg8CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "574"
+  },
+  {
+    "title": "Gertrud",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1910",
+    "isbn": "9783518373903",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Es ist die Geschichte zweier durch Anlage und Schicksal völlig verschiedener und dennoch befreundeter Künstlernaturelle, des leidgeprüften Komponisten Kuhn und des Sänger - Don Juans Heinrich Muoth, deren beider Liebe zu Gertrud ihre künstlerische und menschliche Entwicklung auf dramatische Weise zuspitzt.",
+    "thumbnail": "http://books.google.com/books/content?id=FbF0SQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "191"
+  },
+  {
+    "title": "Siddhartha",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1922",
+    "isbn": "9783518366820",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Siddhartha, die Legende von der Selbstbefreiung eines jungen Menschen aus familiärer und gesellschaftlicher Fremdbestimmung zu einem selbständigen Leben, zeigt, dass Erkenntnis nicht durch Lehren zu vermitteln ist, sondern nur durch eigene Erfahrung erworben werden kann.",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783518366820-de.jpg",
+    "read": true,
+    "rating": "5",
+    "pageCount": "128"
+  },
+  {
+    "title": "Narziß und Goldmund",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-12-14",
+    "isbn": "9783518736401",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "In Narziß und Goldmund bekommen die zwei Grundformen des schöpferischen Menschen Gestalt: der Denker und der Träumer, der Herbe und der Blühende, der Klare und der Kindliche. Beide verwandt, obwohl in allem ihr Gegenspiel, beide vereinsamt, beide von Hesse gleich gerecht in ihren Vorzügen und Schwächen erkannt, gleich exakt wiedergegeben.",
+    "thumbnail": "http://books.google.com/books/content?id=fMo7CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "260"
+  },
+  {
+    "title": "Im Westen nichts Neues",
+    "authors": [
+      "Remarque, Erich Maria"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1996",
+    "isbn": "9783462023039",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Die Geschichte des neunzehnjährigen Paul Bäumer, der als ahnungsloser Kriegsfreiwilliger von der Schulbank an die Front kommt, ist inzwischen Allgemeingut. Auch bei der erneuten Lektüre ist der Eindruck jedoch wieder erschütternd: Wie Bäumer statt der erhofften Kriegsbegeisterung und eines kurzen Abenteuers die ganze Brutalität des Gemetzels und das sinnlose Sterben seiner Kameraden erlebt, ist anrührend und empörend.",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783462023039-de.jpg",
+    "read": true,
+    "rating": "5",
+    "pageCount": "263"
+  },
+  {
+    "title": "Der Feind",
+    "authors": [
+      "Remarque, Erich Maria"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1993",
+    "isbn": "9783462022681",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Der Krieg und die daraus herrührenden dramatischen Veränderungen der Menschen sind Thema dieser 1930/31 in Amerika erstmals veröffentlichten Erzählungen.",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783462022681-de.jpg",
+    "read": true,
+    "rating": "4",
+    "pageCount": "75"
+  },
+  {
+    "title": "Erziehung vor Verdun",
+    "authors": [
+      "Zweig, Arnold"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-05-15",
+    "isbn": "9783841204431",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Der Erste Weltkrieg war in Zweigs literarischem Schaffen der zwanziger Jahre stets präsent. Die Kernzone der quälenden Erinnerung bildete die Schlacht um Verdun. 1927, nach dem erfolgreichen Roman \"Der Streit um den Sergeanten Grischa\", kündigte Zweig ein Buch mit dem Titel \"Erziehung vor Verdun\" und mit dem Protagonisten Bertin an. Die Grundidee war, den Schriftsteller Bertin eine tiefgreifende \"Erziehung\" durchmachen zu lassen. Um ihn herum schuf Zweig eine Reihe starker Figuren und dramatischer Begebenheiten, die die weitverzweigte Handlung und die Fülle der Episoden verflechten und vorantreiben.",
+    "thumbnail": "http://books.google.com/books/content?id=SujXAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "455"
+  },
+  {
+    "title": "Ich muss erzählen. Mein Tagebuch 1941–1945",
+    "authors": [
+      "Rolnikaite, Mascha"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2002",
+    "isbn": "3463404273",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Als die Deutschen am 24. Juni 1941 die litauische Hauptstadt Wilna besetzen, ist Mascha dreizehn Jahre alt. So ungeheuerlich sind die Veränderungen, die ihre kleine Welt urplötzlich zerstören, dass sie beschließt, die Ereignisse in einem Tagebuch festzuhalten. Im September kommen die Wilnaer Juden ins Ghetto, auch Mascha mit ihrer Mutter und den drei Geschwistern. Abends schreibt sie ihre Beobachtungen auf. Dies spricht sich herum, und bald bitten die Menschen das Mädchen aufzuschreiben, was sie selbst gesehen haben. So wird Mascha zur Chronistin des Wilnaer Ghettos.",
+    "thumbnail": "http://books.google.com/books/content?id=K6NtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "304"
+  },
+  {
+    "title": "Factfulness",
+    "authors": [
+      "Rosling, Hans",
+      "Rosling Rönnlund, Anna",
+      "Rosling, Ola"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2018-04-06",
+    "isbn": "9783843717458",
+    "category": "Sachbuch",
+    "genre": "Politik",
+    "description": "Es wird alles immer schlimmer, eine schreckliche Nachricht jagt die andere: Die Reichen werden reicher, die Armen ärmer. Es gibt immer mehr Kriege, Gewaltverbrechen, Naturkatastrophen. Viele Menschen tragen solche beängstigenden Bilder im Kopf. Doch sie liegen damit grundfalsch. Unser Gehirn verführt uns zu einer dramatisierenden Weltsicht, die mitnichten der Realität entspricht, wie der geniale Statistiker und Wissenschaftler Hans Rosling erklärt.",
+    "thumbnail": "http://books.google.com/books/content?id=-A9BDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "431"
+  },
+  {
+    "title": "Der Tod ist ein Meister aus Wien",
+    "authors": [
+      "Sachslehner, Johannes"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008",
+    "isbn": "9783222132339",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Hochgewachsen, elegant ist er, ein wahrer Wiener Gentleman, interessiert an Literatur und Musik will Verlegersohn Amon Leopold Göth Großes erreichen, doch es fehlen die Voraussetzungen: Oberrealschule abgebrochen, nicht die Matura interessiert ihn, sondern der neue Geist, der ihm aus den Reihen der Hakenkreuzler entgegenweht. Bereits 1925, als 17-jähriger, tritt er einer Jugendgruppe der NSDAP in Waidhofen an der Thaya bei. Seine erste Ehe ist nach kurzer Zeit am Ende, allein bei den Kameraden von der SS fühlt er das richtige Leben. Nach dem Anschluss 1938 heiratet er noch einmal, als sein erstes Kind im Alter von wenigen Monaten stirbt, verlässt er im Frühjahr 1940 die Familie und bricht auf ins Generalgouvernement. Im Stab des Kärntners Odilo Globocnik, dem Drahtzieher der Aktion Reinhardt, lernt er rasch Gefallen zu finden am Massenmord an den Juden, aus dem man, wenn man es nur geschickt anfängt, auch entsprechenden Profit ziehen kann. Im Februar 1943 wird er zum Kommandanten des neu eröffneten Zwangsarbeitslagers Plaszów bei Krakau ernannt ...",
+    "thumbnail": "http://books.google.com/books/content?id=_M8iAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "408"
+  },
+  {
+    "title": "Tiere essen",
+    "authors": [
+      "Foer, Jonathan Safran"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-09-01",
+    "isbn": "9783462302196",
+    "category": "Sachbuch",
+    "genre": "Gesundheit & Medizin",
+    "description": "Wie viele junge Menschen schwankte Jonathan Safran Foer lange zwischen Fleischgenuss und Vegetarismus hin und her. Als er Vater wurde und er und seine Frau überlegten, wie sie ihr Kind ernähren würden, bekamen seine Fragen eine neue Dringlichkeit: Warum essen wir Tiere? Würden wir sie auch essen, wenn wir wüssten, wo sie herkommen? Foer stürzt sich mit Leib und Seele in sein Thema. Er recherchiert auf eigene Faust, bricht nachts in Tierfarmen ein, konsultiert einschlägige Studien und spricht mit zahlreichen Akteuren und Experten. Vor allem aber geht er der Frage auf den Grund, was Essen für den Menschen bedeutet. Auch Foer kennt die trostspendende Kraft einer fleischhaltigen Lieblingsmahlzeit, die seit Generationen in einer Familie gekocht wird. In einer brillanten Synthese aus Philosophie, Literatur, Wissenschaft und eigenen Undercover-Reportagen bricht Foer in »Tiere essen« eine Lanze für eine bewusste Wahl. Er hinterfragt die Geschichten, die wir uns selbst erzählen, um unser Essverhalten zu rechtfertigen, und die dazu beitragen, dass wir der Wirklichkeit der Massentierhaltung und deren Konsequenzen nicht ins Auge sehen.",
+    "thumbnail": "http://books.google.com/books/content?id=qNBmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "290"
+  },
+  {
+    "title": "Der Schwarm",
+    "authors": [
+      "Schätzing, Frank"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-09-21",
+    "isbn": "9783462300260",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Ein Fischer verschwindet vor Peru, spurlos. Ölbohrexperten stoßen in der norwegischen See auf merkwürdige Organismen, die hunderte Quadratkilometer Meeresboden in Besitz genommen haben. Währenddessen geht mit den Walen entlang der Küste British Columbias eine unheimliche Veränderung vor. Nichts von alledem scheint miteinander in Zusammenhang zu stehen. Doch Sigur Johanson, norwegischer Biologe und Schöngeist, glaubt nicht an Zufälle. Auch der indianische Walforscher Leon Anawak gelangt zu einer beunruhigenden Erkenntnis: Eine Katastrophe bahnt sich an. Doch wer oder was löst sie aus? Während die Welt an den Abgrund gerät, kommen die Wissenschaftler zusammen mit der britischen Journalistin Karen Weaver einer ungeheuerlichen Wahrheit auf die Spur.",
+    "thumbnail": "http://books.google.com/books/content?id=WM5mAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "914"
+  },
+  {
+    "title": "Der Vorleser",
+    "authors": [
+      "Schlink, Bernhard"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1997",
+    "isbn": "3 257 22953 4",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Sie ist reizbar, rätselhaft und viel älter als er ... und sie wird seine erste Leidenschaft. Sie hütet verzweifelt ein Geheimnis. Eines Tages ist sie spurlos verschwunden. Erst Jahre später sieht er sie wieder. Die fast kriminalistische Erforschung einer sonderbaren Liebe und bedrängenden Vergangenheit.",
+    "thumbnail": "http://books.google.com/books/content?id=iWgqYQ3zIlcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "216"
+  },
+  {
+    "title": "Oskar und die Dame in Rosa",
+    "authors": [
+      "Schmitt, Éric-Emmanuel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2003",
+    "isbn": "9783250600572",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Unsentimentale Erzählung über den 10-jährigen Oskar, der nur noch kurze Zeit zu leben hat. Mithilfe von Oma Rosa und seiner Zwiesprache mit Gott gelingt es ihm, in seinen letzten Tagen das volle Leben zu durchmessen.",
+    "thumbnail": "http://books.google.com/books/content?id=PGXZQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "104"
+  },
+  {
+    "title": "Schlafes Bruder",
+    "authors": [
+      "Schneider, Robert"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1994",
+    "isbn": "3379015180",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Die Geschichte des Musikers Johannes Elias Alder, der 22jährig sein Leben zu Tode brachte, nachdem er beschlossen hatte, nicht mehr zu schlafen.",
+    "thumbnail": "http://books.google.com/books/content?id=eOrtAW94L0IC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "216"
+  },
+  {
+    "title": "Bildung",
+    "authors": [
+      "Schwanitz, Dietrich"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1999",
+    "isbn": "3821808187",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Ein Bildungskanon, ein Buch, das sagt, was wesentlich ist und was nicht. Schwanitz hat unser Allgemeinwissen gesichtet und unser kulturelles Gedächtnis neu justiert. Er beseitigt die Hindernisse, die vielen Menschen den Zugang zu unserer Kultur versperren und erstickt jeden Bildungsdünkel im Keim. Unser Wissen ist im Umbruch, unser Bildungssystem ist in der Krise, der Ruf nach einem Kanon wird immer lauter. Dieses Handbuch bietet nun die erste Neuorientierung hinsichtlich der Kernbestände unserer Kultur.",
+    "thumbnail": "http://books.google.com/books/content?id=gs4YAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "552"
+  },
+  {
+    "title": "Fermats letzter Satz",
+    "authors": [
+      "Singh, Simon"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1998",
+    "isbn": "9783446193130",
+    "category": "Sachbuch",
+    "genre": "Mathematik",
+    "description": "Der Satz des Pythagoras: a²+b²=c² steht im Zentrum des Rätsels, um das es hier geht. Diese »Urformel« gilt immer und überall, aber nur in der Zweier-Potenz, mit keiner anderen ganzen Zahl. In den Notizen des französischen Mathematikers Pierre Fermat, der im 17. Jahrhundert lebte, gibt es einen Hinweis, dass er den Beweis für dieses Phänomen gefunden hat. Doch der Beweis selbst ist verschollen.\n\n350 Jahre lang versuchten nun die Mathematiker der nachfolgenden Generationen, diesen Beweis zu führen. Keinem wollte es gelingen, manche trieb das Problem sogar in den Selbstmord. Schließlich wurde ein Preis für die Lösung des Rätsels ausgesetzt. Nun gelang dem britischen Mathematiker Andrew Wiles 1995 der Durchbruch. Simon Singh wiederum gelang es, diese auf den ersten Blick abgelegene Geschichte so zu erzählen, dass niemand und auch kein Mathematikhasser sich ihrer Faszination entziehen kann.",
+    "thumbnail": "http://books.google.com/books/content?id=N0u5SQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "363"
+  },
+  {
+    "title": "Von Menschen und Ratten. Die berühmten Experimente der Psychologie",
+    "authors": [
+      "Slater, Lauren"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2005",
+    "isbn": "9783407857828",
+    "category": "Sachbuch",
+    "genre": "Psychologie",
+    "description": "Die zehn bedeutendsten psychologischen Experimente des 20. Jahrhunderts haben die tiefsten Fragen des menschlichen Lebens unserer Zeit berührt. Lauren Slater erweckt sie in ihrem preisgekrönten Buch zu neuem Leben.",
+    "thumbnail": "http://books.google.com/books/content?id=KLzQwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "345"
+  },
+  {
+    "title": "Die Violine von Auschwitz",
+    "authors": [
+      "Anglada, Maria Àngels"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011",
+    "isbn": "9783442742981",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "\"Die Violine von Auschwitz\" erzählt die Geschichte des Geigenbauers Daniel, dessen Überleben im Konzentrationslager vom Bau einer Geige für einen Lagerkommandanten abhängt - einer Geige, die inmitten des Grauens zum Symbol für Hoffnung und Menschlichkeit wird.",
+    "thumbnail": "http://books.google.com/books/content?id=0paJpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "2",
+    "pageCount": "170"
+  },
+  {
+    "title": "Eine Frau in Berlin. Tagebuchaufzeichnungen vom 20. April bis 22. Juni 1945",
+    "authors": [
+      "Anonyma"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2003",
+    "isbn": "3821847379",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Die Autorin schildert eindrücklich die Situation der Frauen im Nachkriegsberlin, die geprägt war von Angst, Hunger und dem Kampf ums Überleben.",
+    "thumbnail": "http://books.google.com/books/content?id=Pk9nAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "304"
+  },
+  {
+    "title": "Denken hilft zwar, nützt aber nichts. Warum wir immer wieder unvernünftige Entscheidungen treffen",
+    "authors": [
+      "Ariely, Dan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-12-31",
+    "isbn": "9783426402092",
+    "category": "Sachbuch",
+    "genre": "Psychologie",
+    "description": "Kennen Sie das auch? Beim Anblick eines köstlichen Desserts fallen uns spontan tausend vernünftige Gründe ein, unser Diät-Gelübde zu brechen. Wir sind fest davon überzeugt, dass teure Produkte besser wirken als billige. Und für jeden von uns gibt es etwas, für das wir bereit sind, deutlich mehr Geld auszugeben, als wir haben – aus ganz vernünftigen Gründen, versteht sich.",
+    "thumbnail": "http://books.google.com/books/content?id=2rhtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "3",
+    "pageCount": "308"
+  },
+  {
+    "title": "Happy Birthday, Türke",
+    "authors": [
+      "Arjouni, Jakob"
+    ],
+    "series": "Kemal Kayankaya",
+    "volume": "1",
+    "publishedDate": "1987",
+    "isbn": "3257215444",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Ein Türke wird in einem Bordell ermordet. Für die Polizei offenbar kein Grund für genaue Ermittlungen. Da engagiert die Witwe den Privatdetektiv Kemal Kayankaya, und der wirbelt Staub auf.",
+    "thumbnail": "http://books.google.com/books/content?id=fk8hAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "188"
+  },
+  {
+    "title": "Mehr Bier",
+    "authors": [
+      "Arjouni, Jakob"
+    ],
+    "series": "Kemal Kayankaya",
+    "volume": "2",
+    "publishedDate": "1987",
+    "isbn": "3257215452",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Vier Mitglieder der ›Ökologischen Front‹ sind wegen Mordes an dem Vorstandsvorsitzenden der ›Rheinmainfarben-Werke‹ angeklagt. Zwar geben die vier zu, in der fraglichen Nacht einen Sprengstoffanschlag verübt zu haben, bestreiten aber jede Verbindung mit dem Mord. Nach Zeugenaussagen waren an dem Anschlag fünf Personen beteiligt. Privatdetektiv Kemal Kayankaya soll den verschwundenen fünften Mann zu finden.",
+    "thumbnail": "http://books.google.com/books/content?id=rFAhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "188"
+  },
+  {
+    "title": "Ein Mann, ein Mord",
+    "authors": [
+      "Arjouni, Jakob"
+    ],
+    "series": "Kemal Kayankaya",
+    "volume": "3",
+    "publishedDate": "1993",
+    "isbn": "3257225636",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Kayankaya sucht ein Mädchen aus Thailand: sie ist in jenem gesetzlosen Raum verschwunden, in dem Flüchlinge, die in Deutschland um Asyl nachsuchen, unbemerkt und ohne Spuren zu hinterlassen, leicht verschwinden können.",
+    "thumbnail": "http://books.google.com/books/content?id=DUTbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "196"
+  },
+  {
+    "title": "Kismet",
+    "authors": [
+      "Arjouni, Jakob"
+    ],
+    "series": "Kemal Kayankaya",
+    "volume": "4",
+    "publishedDate": "2012-08-28",
+    "isbn": "9783257601848",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "›Kismet‹ beginnt mit einem Freundschaftsdienst und endet mit einem so blutigen Bandenkrieg, wie ihn keine deutsche Großstadt zuvor erlebt hat. Kayankaya ermittelt – nicht nach einem Mörder, sondern nach der Identität zweier Mordopfer. Und er gerät in den Bann einer geheimnisvollen Frau, die er in einem Videofilm gesehen hat.",
+    "thumbnail": "http://books.google.com/books/content?id=pmltAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "205"
+  },
+  {
+    "title": "Bruder Kemal",
+    "authors": [
+      "Arjouni, Jakob"
+    ],
+    "series": "Kemal Kayankaya",
+    "volume": "5",
+    "publishedDate": "2012-08-28",
+    "isbn": "9783257601824",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Der Frankfurter Privatdetektiv Kayankaya ist zurück: älter, entspannter, cooler – und sogar in festen Händen. Ein Mädchen verschwindet, und Kayankaya soll während der Frankfurter Buchmesse einen marokkanischen Schriftsteller beschützen. Zwei scheinbar einfache Fälle, doch zusammen führen sie zu Mord, Vergewaltigung, Entführung. Und Kayankaya kommt in den Verdacht, ein Auftragskiller zu sein.",
+    "thumbnail": "http://books.google.com/books/content?id=Sd5tAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": "5",
+    "pageCount": "175"
   }
 ]
