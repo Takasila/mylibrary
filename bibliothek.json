@@ -3376,10 +3376,28 @@
     "read": false,
     "pageCount": "255",
     "category": "Belletristik",
-    "genre": "Klassiker",
+    "genre": "Klassiker; Romane & Erzählungen",
     "rating": null,
     "tags": [
       "Österreich"
     ]
+  },
+  {
+    "title": "Der Fluch der bösen Tat. Das Scheitern des Westens im Orient",
+    "authors": [
+      "Scholl-Latour, Peter"
+    ],
+    "isbn": "9783843709491",
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-09-12",
+    "description": "Es gärt und brodelt überall: Syrien und der Irak versinken im grausamen Bürgerkrieg aller gegen alle, in der Türkei ringen islamistische und säkulare Kräfte um die Vormacht. Ägypten ist im Daueraufruhr, und auch am Nordrand dieser unruhigen Weltgegend, im Kaukasus und in der Ukraine, ist die Lage explosiv. Mit der ihm eigenen Scharfsicht beleuchtet Peter Scholl-Latour eine Region, über der nach jahrzehntelanger politischer und militärischer Intervention des Westens ein Fluch zu liegen scheint – der Fluch der bösen Tat heilloser Einmischung.",
+    "thumbnail": "https://books.google.com/books/content?id=Yn8XBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "pageCount": "356",
+    "category": "Sachbuch",
+    "genre": "Politik",
+    "rating": 4,
+    "tags": []
   }
 ]
