@@ -1352,8 +1352,7 @@ let books = [];
 
 document.addEventListener("DOMContentLoaded", async () => {
   renderFilterBar();
-  populateCategoryAndGenreDropdowns();
-
+  
   const storedBooks = localStorage.getItem("epubLibrary");
 
   if (storedBooks) {
