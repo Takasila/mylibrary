@@ -3336,7 +3336,7 @@
     "thumbnail": "https://books.google.com/books/content?id=oEcSBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": false,
     "pageCount": "262",
-    "category": "Sachbuch",
+    "category": "Ratgeber",
     "genre": "Sport",
     "rating": null,
     "tags": [
@@ -3460,5 +3460,117 @@
     "tags": [
       "Schweden"
     ]
+  },
+  {
+    "title": "Parasitus Rex. Die bizarre Welt der gefährlichsten Geschöpfe der Natur",
+    "authors": [
+      "Zimmer, Carl"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2001",
+    "isbn": "9783829575027",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Seit Jahrhunderten lebten Parasiten in Alpträumen Gruselgeschichten und im finsteren Schatten der Wissenschaft. Nun führt uns der Autor Carl Zimmer auf eine fantastische Reise in das verborgene Parasitenuniversum, in dem wir leben und dies lange nicht erkannt haben. Er zeigt nicht nur, dass Parasiten die erfolgreichste Lebensform auf der Erde sind, sondern auch, dass auf sie die Entwicklung der Geschlechter zurückgeht, die Bildung von Ökosystemen – dass sie der Motor der Evolution waren.\n\nZimmer macht die erstaunliche Beobachtung, dass die meisten Arten Parasiten sind und dass fast jedes Tier und ebenso jeder Mensch irgendwann der Wirt eines Parasiten wird. Er zeigt, wie hoch entwickelt Parasiten sind, und beschreibt die furchteinflößende und bemerkenswerte Findigkeit, die diese Eindringlinge anwenden, sich in den Wirten einzunisten und deren Verhalten zu kontrollieren.",
+    "pageCount": "272",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783829575027-de-300.jpg",
+    "read": true,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der Fangschuss",
+    "authors": [
+      "Yourcenar, Marguerite"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1986-01-01",
+    "isbn": "9783446142947",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Während der Wirren der Russischen Revolution finden sich zwei Männer und eine Frau in einem baltischen Schloß. In der Atmosphäre des Krieges, der Not und des Zusammenbruchs der geistigen Welt entwickelt sich eine Geschichte voll erotischer Spannung zwischen diesen drei ungleichen, wurzellos gewordenen Menschen, die in einen ausweglosen Konflikt von Liebe und Haß, Stolz und Einsamkeit führt.",
+    "pageCount": "162",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md30954995306.jpg",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "1. Weltkrieg"
+    ]
+  },
+  {
+    "title": "Tage der Toten. Kriminalroman",
+    "authors": [
+      "Winslow, Don"
+    ],
+    "isbn": "9783518462003",
+    "series": "Art Keller",
+    "volume": "1",
+    "publishedDate": "2010",
+    "description": "Mit grossem Tatendrang hat sich der US-Drogenfahnder Art Keller daran gemacht, in die Strukturen der mexikanischen Drogenmafia einzudringen - mit Erfolg. So viel Erfolg, dass die Drogendepots reihenweise auffliegen und die Narcotraficantes die Jagd auf ihn eröffnen. Nachdem sein Mitarbeiter von den Gangstern zu Tode gefoltert wurde, schwört Art Keller Rache und startet einen gnadenlosen, blutigen Feldzug gegen die Drogenbarone. Zu spät bemerkt er, dass er sich damit neue Feinde macht, und die sitzen in Washington. Was als Iran-Contra-Affäre in die Geschichte einging, erlebt Keller als gigantisches Drogen-, Geldwäsche- und Waffengeschäft. Vor die Wahl gestellt, seiner Regierung zu dienen oder seinem Gewissen zu folgen, trifft er eine einsame Entscheidung und stösst dabei auf unverhoffte Verbündete.",
+    "thumbnail": "https://books.google.com/books/content?id=wPjjSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "pageCount": "689",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Marsianer",
+    "authors": [
+      "Weir, Andy"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-10-13",
+    "isbn": "9783641144005",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Gestrandet auf dem Mars Der Astronaut Mark Watney war auf dem besten Weg, eine lebende Legende zu werden, schließlich war er der erste Mensch in der Geschichte der Raumfahrt, der je den Mars betreten hat. Nun, sechs Tage später, ist Mark auf dem besten Weg, der erste Mensch zu werden, der auf dem Mars sterben wird: Bei einer Expedition auf dem Roten Planeten gerät er in einen Sandsturm, und als er aus seiner Bewusstlosigkeit erwacht, ist er allein. Auf dem Mars. Ohne Ausrüstung. Ohne Nahrung. Und ohne Crew, denn die ist bereits auf dem Weg zurück zur Erde. Es ist der Beginn eines spektakulären Überlebenskampfes ...",
+    "pageCount": "382",
+    "thumbnail": "https://books.google.com/books/content?id=rhubAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Fall Demjanjuk. Der letzte große NS-Prozess",
+    "authors": [
+      "Wefing, Heinrich"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-08-22",
+    "isbn": "9783406619106",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Der letzte große NS-Prozess ist zu Ende. John Demjanjuk wurde am 12. Mai 2011 zu fünf Jahren Gefängnis verurteilt, wegen seines hohen Alters aber von der Haft verschont. Doch Zweifel bleiben. Was sagt der Prozess über die Schuld des Angeklagten? Und was sagt er über uns, die Nachgeborenen? Heinrich Wefing beschreibt den Prozessverlauf und schildert die verstörende Biographie dieses schlichten Mannes, der zwischen alle Fronten des 20. Jahrhunderts geraten ist. Ein aufwühlendes Buch über die späte deutsche Suche nach Gerechtigkeit. Am 30. November 2009 wurde in München der Prozess gegen John Demjanjuk eröffnet. Die Anklage war der Schlusspunkt im abenteuerlichen Leben eines ukrainischen Bauern, der zwischen alle Fronten des 20. Jahrhunderts geraten ist.",
+    "pageCount": "248",
+    "thumbnail": "https://books.google.com/books/content?id=xmhjdPUeu2gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Holocaust"
+    ]
+  },
+  {
+    "title": "Der Hase mit den Bernsteinaugen",
+    "authors": [
+      "Waal, Edmund de"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-12-01",
+    "isbn": "9783423143653",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "264 Netsuke, japanische Miniatur-Schnitzereien aus Holz und Elfenbein, liegen in der Vitrine des britischen Töpfers Edmund de Waal, Nachkomme der jüdischen Familie Ephrussi aus Odessa. Wie sie dorthin kamen, erzählt dieses Erinnerungsbuch.\n\nVom Paris der Belle Époque gelangte die Sammlung ins Wien des Fin de Siècle, aus Tokio in den 1950er-Jahren schließlich nach London. Die Ephrussis, einst an Einfluss und Reichtum den Rothschilds ebenbürtig, erlebten mit dem »Anschluss« 1938 den Niedergang – ihr gesamtes Vermögen fiel der »Arisierung« zum Opfer. Nur die Netsuke wurden – jede einzeln – in der Schürze des Dienstmädchens Anna gerettet.",
+    "pageCount": "406",
+    "thumbnail": "https://books.google.com/books/content?id=FXx2oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": []
   }
 ]
