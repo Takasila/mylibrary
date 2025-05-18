@@ -5,7 +5,7 @@
     "authors": [
       "Brater, Jürgen"
     ],
-    "description": "Visionäres Genie und skurriler Zeitgenosse: der spannende Roman über den Entdecker der Evolution. \"Eine schicht Muscheln, offensichtlich mariner natur, in dieser Höhe. Erstaunlich.\" \"Wie sind die denn hierher gekommen!\", fragte King. Die hat Gott in seinem famosen Ratschluss hochgeschleppt, wollte Darwin schon antworten. Doch im letzten Moment biss er sich auf die Zunge. \"Keine Ahnung. Ich werde auf jeden Fall einen Brocken mitnehmen.\" Die Weltreise auf des Beagle wird sein Leben verändern - und das der Menschheit ...\nWo Charles Darwin auch hinkommt, erforscht er Pflanzen, Tiere und Gestein, kämpft sich durch den Urwald, katalogisiert sämtliche Käfer, die ihm unter die Finger kommen und findet mehrfach beinahe den Tod. Gleichzeitig bemüht er sich verzweifelt, seine \"gottlosen\" Erkenntnisse über die Entstehung der Arten zu verdrängen. Hin- und hergerissen zwischen der Liebe zu seiner Frau und seiner Forschung, muss er sich schließlich entscheiden.",
+    "description": "Visionäres Genie und skurriler Zeitgenosse: der spannende Roman über den Entdecker der Evolution. \"Eine schicht Muscheln, offensichtlich mariner natur, in dieser Höhe. Erstaunlich.\" \"Wie sind die denn hierher gekommen!\", fragte King. Die hat Gott in seinem famosen Ratschluss hochgeschleppt, wollte Darwin schon antworten. Doch im letzten Moment biss er sich auf die Zunge. \"Keine Ahnung. Ich werde auf jeden Fall einen Brocken mitnehmen.\" Die Weltreise auf des Beagle wird sein Leben verändern - und das der Menschheit ...",
     "publishedDate": "2016-05-26",
     "thumbnail": "https://books.google.com/books/content?id=CrwhCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "series": "",
@@ -14,7 +14,8 @@
     "genre": "Naturwissenschaft",
     "read": false,
     "pageCount": "288",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783492601429",
@@ -36,7 +37,7 @@
   },
   {
     "isbn": "9783518775387",
-    "title": "Die unbequeme Vergangenheit. Vom Umgang mit Staatsverbrechen in Russland und anderswo",
+    "title": "Die unbequeme Vergangenheit",
     "authors": [
       "Epplée, Nikolai"
     ],
@@ -49,11 +50,13 @@
     "genre": "Politik",
     "read": false,
     "pageCount": "403",
-    "rating": null
+    "rating": null,
+    "subtitle": "Vom Umgang mit Staatsverbrechen in Russland und anderswo",
+    "tags": []
   },
   {
     "isbn": "9783492957700",
-    "title": "Es ist so einfach. Vom Vergnügen, Dinge zu entdecken",
+    "title": "Es ist so einfach",
     "authors": [
       "Feynman, Richard P."
     ],
@@ -66,7 +69,11 @@
     "genre": "Naturwissenschaft",
     "read": false,
     "pageCount": "239",
-    "rating": null
+    "rating": null,
+    "subtitle": "Vom Vergnügen, Dinge zu entdecken",
+    "tags": [
+      "Physik"
+    ]
   },
   {
     "isbn": "9783423443395",
@@ -87,7 +94,7 @@
   },
   {
     "isbn": "9783961226030",
-    "title": "Undercover - der Preis der Wahrheit",
+    "title": "Undercover. Der Preis der Wahrheit",
     "authors": [
       "Franke, Thomas"
     ],
@@ -100,7 +107,8 @@
     "genre": "Science Fiction",
     "read": false,
     "pageCount": "274",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783959120012",
@@ -159,7 +167,7 @@
     "authors": [
       "Hawking, Stephen"
     ],
-    "description": "Der Stephen Hawking für alle! Mit der bewusst für ein noch breiteres Publikum geschriebenen 'Die Kürzeste Geschichte der Zeit' gelingt Stephen Hawking eine aufregende Zeitreise von der Erde und ihren Gesetzen über die Grenzen unseres Universums hinaus – ein einmaliges, ein unvergessliches Leseerlebnis. Es sind die großen Fragen unseres Daseins, denen sich Stephen Hawking in seinem Bestseller Die kürzeste Geschichte der Zeit widmet: Zu Wurmlöchern und Zeitreisen, zu Einsteins Relativitätstheorie und Newtons Schwerkraft, zu Quantengravitation und Gekrümmtem Raum haben sich bereits Viele vor und nach Hawking geäußert; doch nie waren die Erklärungen so nachvollziehbar und prägnant, so anschaulich und allgemeinverständlich. Er lässt die ganz theoretischen Passagen, die wir aus der Kurzen Geschichte der Zeit kennen, beiseite, um die wichtigsten Begriffe noch klarer, unmittelbarer und ausführlicher zu erläutern. Stephen Hawking erweist sich in diesem Buch einmal mehr als brillanter Astrophysiker und begnadeter Erzähler – als der unbestrittene Meister seines Fachs!",
+    "description": "Es sind die großen Fragen unseres Daseins, denen sich Stephen Hawking in seinem Bestseller Die kürzeste Geschichte der Zeit widmet: Zu Wurmlöchern und Zeitreisen, zu Einsteins Relativitätstheorie und Newtons Schwerkraft, zu Quantengravitation und Gekrümmtem Raum haben sich bereits Viele vor und nach Hawking geäußert; doch nie waren die Erklärungen so nachvollziehbar und prägnant, so anschaulich und allgemeinverständlich. Er lässt die ganz theoretischen Passagen, die wir aus der Kurzen Geschichte der Zeit kennen, beiseite, um die wichtigsten Begriffe noch klarer, unmittelbarer und ausführlicher zu erläutern.",
     "publishedDate": "2024-03-27",
     "thumbnail": "https://books.google.com/books/content?id=6nLiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "series": "",
@@ -168,7 +176,8 @@
     "genre": "Naturwissenschaft",
     "read": false,
     "pageCount": "156",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783257614664",
@@ -189,7 +198,7 @@
   },
   {
     "isbn": "9783406806261",
-    "title": "Mächte und Throne. Eine neue Geschichte des Mittelalters",
+    "title": "Mächte und Throne",
     "authors": [
       "Jones, Dan"
     ],
@@ -202,7 +211,9 @@
     "genre": "Geschichte",
     "read": false,
     "rating": null,
-    "pageCount": "957"
+    "pageCount": "957",
+    "subtitle": "Eine neue Geschichte des Mittelalters",
+    "tags": []
   },
   {
     "isbn": "9783455850031",
@@ -223,7 +234,7 @@
   },
   {
     "isbn": "9783446297869",
-    "title": "Sage nichts. Mord und Verrat in Nordirland",
+    "title": "Sage nichts",
     "authors": [
       "Keefe, Patrick Radden"
     ],
@@ -236,7 +247,9 @@
     "genre": "Historisch",
     "read": false,
     "rating": null,
-    "pageCount": "681"
+    "pageCount": "681",
+    "subtitle": "Mord und Verrat in Nordirland",
+    "tags": []
   },
   {
     "isbn": "9783423444163",
@@ -257,7 +270,7 @@
   },
   {
     "isbn": "9783641067014",
-    "title": "Ich habe den Todesengel überlebt. Ein Mengele-Opfer erzählt",
+    "title": "Ich habe den Todesengel überlebt",
     "authors": [
       "Kor, Eva Mozes",
       "Buccieri, Lisa Rojany"
@@ -268,13 +281,14 @@
     "series": "",
     "volume": "",
     "category": "Sachbuch",
-    "genre": "Biografien & Erinnerungen",
+    "genre": "Biografien & Erinnerungen; Geschichte",
     "read": false,
     "rating": null,
     "pageCount": "174",
     "tags": [
       "Holocaust"
-    ]
+    ],
+    "subtitle": "Ein Mengele-Opfer erzählt"
   },
   {
     "isbn": "9783866488236",
@@ -368,7 +382,7 @@
     "authors": [
       "Neidhardt, Fabian"
     ],
-    "description": "Dafür aber 1000 Liebe Von einem alleinerziehenden Vater und einer Tochter, die sich kaum bändigen lässt, von Nähe und Loslassen, von Entscheidungen, die das Leben verlangt. Ben ist Mitte dreißig, er zieht allein seine 12-jährige Tochter Mia groß – und: er hat sich in seinem Leben eingerichtet. Was aber, wenn sich plötzlich alles verändert? Denn: Bens Vater steht vor der Tür und muss für ein paar Nächte bei ihm unterkommen, weil er seine Frau, Bens Mutter, betrogen hat. Außerdem bringt die Polizei Mia nach Hause, die auf eigene Faust nach Hamburg reisen wollte. Um ihre Mutter zu suchen. Um endlich Antworten zu finden. Was bedeutet es, als Frau keine Mutter werden zu wollen? Auf der anderen Seite – und für Mia nicht greifbar: Orna. Bens große Liebe und Mias Mama. Die Beziehung zu Ben war gerade beendet, als Orna den Test macht. Sie: wollte nie Kinder. Er: konnte keine bekommen, eigentlich. Was für Ben eine einmalige Chance war, Vater zu werden, war für Orna die Idee von einem Leben, für das sie sich nie entschieden hat. Die beiden machen einen Deal: Orna behält das Baby, bringt es zur Welt; Ben wird das Kind großziehen. So war es seit Beginn der Schwangerschaft vereinbart.",
+    "description": "Ben ist Mitte dreißig, er zieht allein seine 12-jährige Tochter Mia groß – und: er hat sich in seinem Leben eingerichtet. Was aber, wenn sich plötzlich alles verändert? Denn: Bens Vater steht vor der Tür und muss für ein paar Nächte bei ihm unterkommen, weil er seine Frau, Bens Mutter, betrogen hat. Außerdem bringt die Polizei Mia nach Hause, die auf eigene Faust nach Hamburg reisen wollte. Um ihre Mutter zu suchen. Um endlich Antworten zu finden. Was bedeutet es, als Frau keine Mutter werden zu wollen? Auf der anderen Seite – und für Mia nicht greifbar: Orna. Bens große Liebe und Mias Mama. Die Beziehung zu Ben war gerade beendet, als Orna den Test macht. Sie: wollte nie Kinder. Er: konnte keine bekommen, eigentlich. Was für Ben eine einmalige Chance war, Vater zu werden, war für Orna die Idee von einem Leben, für das sie sich nie entschieden hat. Die beiden machen einen Deal: Orna behält das Baby, bringt es zur Welt; Ben wird das Kind großziehen. So war es seit Beginn der Schwangerschaft vereinbart.",
     "publishedDate": "2023-02-21",
     "thumbnail": "https://books.google.com/books/content?id=BtedEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "series": "",
@@ -377,7 +391,8 @@
     "genre": "Romane & Erzählungen",
     "read": false,
     "rating": null,
-    "pageCount": "251"
+    "pageCount": "251",
+    "tags": []
   },
   {
     "isbn": "9783518778999",
@@ -632,7 +647,7 @@
   },
   {
     "isbn": "9783492998284",
-    "title": "Scheibenwelt All Stars. Gevatter Tod. MacBest. Wachen! Wachen!",
+    "title": "Scheibenwelt All Stars",
     "authors": [
       "Pratchett, Terry"
     ],
@@ -645,7 +660,9 @@
     "genre": "Fantasy",
     "read": false,
     "rating": null,
-    "pageCount": "1245"
+    "pageCount": "1245",
+    "subtitle": "Gevatter Tod. MacBest. Wachen! Wachen!",
+    "tags": []
   },
   {
     "isbn": "9783641216856",
@@ -687,7 +704,7 @@
     "authors": [
       "Alsterdal, Tove"
     ],
-    "description": "Olof Hagström fährt an der malerischen Nordküste Schwedens entlang, als er einem Impuls folgt und in die Kleinstadt abbiegt, in der er aufgewachsen ist. Und in der er seit über zwanzig Jahren nicht mehr war. Vor dem Haus seiner Kindheit überfällt ihn Unruhe. Er findet den Schlüssel, der noch immer unter dem vertrauten Stein liegt. Im Haus erwarten ihn ein panischer Hund, schrecklicher Gestank und Wasser, das sich auf dem Boden sammelt. Im Badezimmer findet er seinen Vater, den er seit fast zwei Jahrzehnten nicht gesprochen hat. Tot. Erstochen mit einem Jagdmesser. Polizistin Eira Sjödin hat Stockholm verlassen und ist in die nordschwedische Region Ådalen zurückgekehrt, um sich um ihre demente Mutter zu kümmern. Als Eira den Tod eines älteren Mannes untersuchen soll, werden die Albträume ihrer Kindheit wieder wach. Sie war erst neun, als der damals vierzehnjährige Olof Hagström gestand, ein Mädchen namens Lina Stavred vergewaltigt und ermordet zu haben. Zu jung, um verurteilt zu werden, wurde Olof in einem Jugendheim untergebracht und nie wieder in der Stadt gesehen. Bis jetzt. Eira Sjödin macht sich auf die Suche nach dem Mörder, die sie zurück zum Fall Lina führt. Und zu Ereignissen in der Vergangenheit und in der Gegenwart, die die Stadt bis ins Mark erschüttern.",
+    "description": "Olof Hagström fährt an der malerischen Nordküste Schwedens entlang, als er einem Impuls folgt und in die Kleinstadt abbiegt, in der er aufgewachsen ist. Und in der er seit über zwanzig Jahren nicht mehr war. Vor dem Haus seiner Kindheit überfällt ihn Unruhe. Er findet den Schlüssel, der noch immer unter dem vertrauten Stein liegt. Im Haus erwarten ihn ein panischer Hund, schrecklicher Gestank und Wasser, das sich auf dem Boden sammelt. Im Badezimmer findet er seinen Vater, den er seit fast zwei Jahrzehnten nicht gesprochen hat. Tot. Erstochen mit einem Jagdmesser.\nPolizistin Eira Sjödin hat Stockholm verlassen und ist in die nordschwedische Region Ådalen zurückgekehrt, um sich um ihre demente Mutter zu kümmern. Als Eira den Tod eines älteren Mannes untersuchen soll, werden die Albträume ihrer Kindheit wieder wach. Sie war erst neun, als der damals vierzehnjährige Olof Hagström gestand, ein Mädchen namens Lina Stavred vergewaltigt und ermordet zu haben. Zu jung, um verurteilt zu werden, wurde Olof in einem Jugendheim untergebracht und nie wieder in der Stadt gesehen. Bis jetzt.",
     "publishedDate": "2022-07-01",
     "thumbnail": "https://books.google.com/books/content?id=9GhrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "series": "Eira Sjödin",
@@ -696,7 +713,8 @@
     "genre": "Krimi & Thriller",
     "read": false,
     "rating": null,
-    "pageCount": "565"
+    "pageCount": "565",
+    "tags": []
   },
   {
     "title": "Der Gebirgspass",
@@ -716,7 +734,7 @@
     "rating": null
   },
   {
-    "title": "Götter, Gräber und Gelehrte. Roman der Archäologie",
+    "title": "Götter, Gräber und Gelehrte",
     "authors": [
       "Ceram, C.W."
     ],
@@ -730,7 +748,9 @@
     "genre": "Geschichte",
     "read": false,
     "pageCount": "440",
-    "rating": null
+    "rating": null,
+    "subtitle": "Roman der Archäologie",
+    "tags": []
   },
   {
     "title": "Wilde Schwäne",
@@ -784,7 +804,7 @@
     "pageCount": "451"
   },
   {
-    "title": "Monas Augen. Eine Reise zu den schönsten Kunstwerken unserer Zeit",
+    "title": "Monas Augen",
     "authors": [
       "Schlesser, Thomas"
     ],
@@ -798,7 +818,9 @@
     "genre": "Kunst",
     "read": false,
     "rating": null,
-    "pageCount": "555"
+    "pageCount": "555",
+    "subtitle": "Eine Reise zu den schönsten Kunstwerken unserer Zeit",
+    "tags": []
   },
   {
     "title": "Der Letzte seiner Art",
@@ -826,7 +848,7 @@
     "series": "",
     "volume": "",
     "publishedDate": "2019-11-27",
-    "description": "Juni 1914. Es ist die Woche, die alles entscheidet. Die Woche, in der sich drei junge Serben auf den Weg nach Sarajevo machen. Dort soll Franz Ferdinand, Thronfolger Österreich-Ungarns, einem Militärmanöver beiwohnen - und sterben. Gavrilo Princip und seine Gefährten haben sich seit Monaten auf diesen Tag vorbereitet. Doch dem Geheimdienst sind Gerüchte zu Ohren gekommen, und Major Rudolf Markovic tut alles, um den Thronfolger zu retten und eine diplomatische Katastrophe zu vermeiden ... Ulf Schiewe lässt uns diese entscheidende Woche der europäischen Geschichte hautnah miterleben - packend und extrem spannend.",
+    "description": "Juni 1914. Es ist die Woche, die alles entscheidet. Die Woche, in der sich drei junge Serben auf den Weg nach Sarajevo machen. Dort soll Franz Ferdinand, Thronfolger Österreich-Ungarns, einem Militärmanöver beiwohnen - und sterben. Gavrilo Princip und seine Gefährten haben sich seit Monaten auf diesen Tag vorbereitet. Doch dem Geheimdienst sind Gerüchte zu Ohren gekommen, und Major Rudolf Markovic tut alles, um den Thronfolger zu retten und eine diplomatische Katastrophe zu vermeiden ...",
     "thumbnail": "https://books.google.com/books/content?id=ESSXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "category": "Belletristik",
@@ -1066,7 +1088,7 @@
     "publishedDate": "2003",
     "isbn": "3932109325",
     "category": "Sachbuch",
-    "genre": "Biografien & Erinnerungen",
+    "genre": "Biografien & Erinnerungen; Geschichte",
     "description": "Nach dem Ende des 2. Weltkrieges, wird Klara, die das KZ Auschwitz überlebt hat, von ihrer Schwägerin Angelica in Paris betreut. Mit der Zeit gelingt es Angelica, zu Klaras Innerstem vorzudringen und ihr zu helfen, das auszusprechen, was sie erleben musste.",
     "thumbnail": "https://szene-hamburg.com/wp-content/uploads/2017/01/KlarasNein_Cover-186x300.jpg",
     "read": true,
@@ -1074,10 +1096,11 @@
     "pageCount": "187",
     "tags": [
       "Holocaust"
-    ]
+    ],
+    "subtitle": ""
   },
   {
-    "title": "Flächenland. Ein mehrdimensionaler Roman",
+    "title": "Flächenland",
     "authors": [
       "Abbott, Edwin A."
     ],
@@ -1092,7 +1115,8 @@
     "read": true,
     "rating": 5,
     "pageCount": "240",
-    "tags": []
+    "tags": [],
+    "subtitle": "Ein mehrdimensionaler Roman"
   },
   {
     "title": "Per Anhalter durch die Galaxis",
@@ -1150,7 +1174,7 @@
     ]
   },
   {
-    "title": "Eichmann in Jerusalem. Ein Bericht von der Banalität des Bösen",
+    "title": "Eichmann in Jerusalem",
     "authors": [
       "Arendt, Hannah"
     ],
@@ -1167,7 +1191,8 @@
     "pageCount": "357",
     "tags": [
       "Holocaust"
-    ]
+    ],
+    "subtitle": "Ein Bericht von der Banalität des Bösen"
   },
   {
     "title": "Schändung",
@@ -1715,7 +1740,7 @@
     ]
   },
   {
-    "title": "Ich muss erzählen. Mein Tagebuch 1941–1945",
+    "title": "Ich muss erzählen",
     "authors": [
       "Rolnikaite, Mascha"
     ],
@@ -1724,7 +1749,7 @@
     "publishedDate": "2002",
     "isbn": "3463404273",
     "category": "Sachbuch",
-    "genre": "Biografien & Erinnerungen",
+    "genre": "Biografien & Erinnerungen; Geschichte",
     "description": "Als die Deutschen am 24. Juni 1941 die litauische Hauptstadt Wilna besetzen, ist Mascha dreizehn Jahre alt. So ungeheuerlich sind die Veränderungen, die ihre kleine Welt urplötzlich zerstören, dass sie beschließt, die Ereignisse in einem Tagebuch festzuhalten. Im September kommen die Wilnaer Juden ins Ghetto, auch Mascha mit ihrer Mutter und den drei Geschwistern. Abends schreibt sie ihre Beobachtungen auf. Dies spricht sich herum, und bald bitten die Menschen das Mädchen aufzuschreiben, was sie selbst gesehen haben. So wird Mascha zur Chronistin des Wilnaer Ghettos.",
     "thumbnail": "http://books.google.com/books/content?id=K6NtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
@@ -1732,7 +1757,8 @@
     "pageCount": "304",
     "tags": [
       "Holocaust"
-    ]
+    ],
+    "subtitle": "Mein Tagebuch 1941–1945"
   },
   {
     "title": "Factfulness",
@@ -1896,7 +1922,7 @@
     "pageCount": "363"
   },
   {
-    "title": "Von Menschen und Ratten. Die berühmten Experimente der Psychologie",
+    "title": "Von Menschen und Ratten",
     "authors": [
       "Slater, Lauren"
     ],
@@ -1909,8 +1935,10 @@
     "description": "Die zehn bedeutendsten psychologischen Experimente des 20. Jahrhunderts haben die tiefsten Fragen des menschlichen Lebens unserer Zeit berührt. Lauren Slater erweckt sie in ihrem preisgekrönten Buch zu neuem Leben.",
     "thumbnail": "http://books.google.com/books/content?id=KLzQwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
-    "rating": "5",
-    "pageCount": "345"
+    "rating": 5,
+    "pageCount": "345",
+    "subtitle": "Die berühmten Experimente der Psychologie",
+    "tags": []
   },
   {
     "title": "Die Violine von Auschwitz",
@@ -1933,7 +1961,7 @@
     ]
   },
   {
-    "title": "Eine Frau in Berlin. Tagebuchaufzeichnungen vom 20. April bis 22. Juni 1945",
+    "title": "Eine Frau in Berlin",
     "authors": [
       "Anonyma"
     ],
@@ -1942,29 +1970,14 @@
     "publishedDate": "2003",
     "isbn": "3821847379",
     "category": "Sachbuch",
-    "genre": "Biografien & Erinnerungen",
+    "genre": "Biografien & Erinnerungen; Geschichte",
     "description": "Die Autorin schildert eindrücklich die Situation der Frauen im Nachkriegsberlin, die geprägt war von Angst, Hunger und dem Kampf ums Überleben.",
     "thumbnail": "http://books.google.com/books/content?id=Pk9nAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
-    "rating": "5",
-    "pageCount": "304"
-  },
-  {
-    "title": "Denken hilft zwar, nützt aber nichts. Warum wir immer wieder unvernünftige Entscheidungen treffen",
-    "authors": [
-      "Ariely, Dan"
-    ],
-    "series": "",
-    "volume": "",
-    "publishedDate": "2009-12-31",
-    "isbn": "9783426402092",
-    "category": "Sachbuch",
-    "genre": "Psychologie",
-    "description": "Kennen Sie das auch? Beim Anblick eines köstlichen Desserts fallen uns spontan tausend vernünftige Gründe ein, unser Diät-Gelübde zu brechen. Wir sind fest davon überzeugt, dass teure Produkte besser wirken als billige. Und für jeden von uns gibt es etwas, für das wir bereit sind, deutlich mehr Geld auszugeben, als wir haben – aus ganz vernünftigen Gründen, versteht sich.",
-    "thumbnail": "http://books.google.com/books/content?id=2rhtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "read": true,
-    "rating": "3",
-    "pageCount": "308"
+    "rating": 5,
+    "pageCount": "304",
+    "subtitle": "Tagebuchaufzeichnungen vom 20. April bis 22. Juni 1945",
+    "tags": []
   },
   {
     "title": "Happy Birthday, Türke",
@@ -1980,8 +1993,12 @@
     "description": "Ein Türke wird in einem Bordell ermordet. Für die Polizei offenbar kein Grund für genaue Ermittlungen. Da engagiert die Witwe den Privatdetektiv Kemal Kayankaya, und der wirbelt Staub auf.",
     "thumbnail": "http://books.google.com/books/content?id=fk8hAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
-    "rating": "5",
-    "pageCount": "188"
+    "rating": 5,
+    "pageCount": "188",
+    "subtitle": "",
+    "tags": [
+      "Deutschland"
+    ]
   },
   {
     "title": "Mehr Bier",
@@ -1997,8 +2014,12 @@
     "description": "Vier Mitglieder der ›Ökologischen Front‹ sind wegen Mordes an dem Vorstandsvorsitzenden der ›Rheinmainfarben-Werke‹ angeklagt. Zwar geben die vier zu, in der fraglichen Nacht einen Sprengstoffanschlag verübt zu haben, bestreiten aber jede Verbindung mit dem Mord. Nach Zeugenaussagen waren an dem Anschlag fünf Personen beteiligt. Privatdetektiv Kemal Kayankaya soll den verschwundenen fünften Mann zu finden.",
     "thumbnail": "http://books.google.com/books/content?id=rFAhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
-    "rating": "5",
-    "pageCount": "188"
+    "rating": 5,
+    "pageCount": "188",
+    "subtitle": "",
+    "tags": [
+      "Deutschland"
+    ]
   },
   {
     "title": "Ein Mann, ein Mord",
@@ -2014,8 +2035,12 @@
     "description": "Kayankaya sucht ein Mädchen aus Thailand: sie ist in jenem gesetzlosen Raum verschwunden, in dem Flüchlinge, die in Deutschland um Asyl nachsuchen, unbemerkt und ohne Spuren zu hinterlassen, leicht verschwinden können.",
     "thumbnail": "http://books.google.com/books/content?id=DUTbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
-    "rating": "5",
-    "pageCount": "196"
+    "rating": 5,
+    "pageCount": "196",
+    "subtitle": "",
+    "tags": [
+      "Deutschland"
+    ]
   },
   {
     "title": "Kismet",
@@ -2031,8 +2056,12 @@
     "description": "›Kismet‹ beginnt mit einem Freundschaftsdienst und endet mit einem so blutigen Bandenkrieg, wie ihn keine deutsche Großstadt zuvor erlebt hat. Kayankaya ermittelt – nicht nach einem Mörder, sondern nach der Identität zweier Mordopfer. Und er gerät in den Bann einer geheimnisvollen Frau, die er in einem Videofilm gesehen hat.",
     "thumbnail": "http://books.google.com/books/content?id=pmltAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
-    "rating": "5",
-    "pageCount": "205"
+    "rating": 5,
+    "pageCount": "205",
+    "subtitle": "",
+    "tags": [
+      "Deutschland"
+    ]
   },
   {
     "title": "Bruder Kemal",
@@ -2048,8 +2077,12 @@
     "description": "Der Frankfurter Privatdetektiv Kayankaya ist zurück: älter, entspannter, cooler – und sogar in festen Händen. Ein Mädchen verschwindet, und Kayankaya soll während der Frankfurter Buchmesse einen marokkanischen Schriftsteller beschützen. Zwei scheinbar einfache Fälle, doch zusammen führen sie zu Mord, Vergewaltigung, Entführung. Und Kayankaya kommt in den Verdacht, ein Auftragskiller zu sein.",
     "thumbnail": "http://books.google.com/books/content?id=Sd5tAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
-    "rating": "5",
-    "pageCount": "175"
+    "rating": 5,
+    "pageCount": "175",
+    "subtitle": "",
+    "tags": [
+      "Deutschland"
+    ]
   },
   {
     "title": "Der Metzger geht fremd",
@@ -2302,7 +2335,7 @@
     "isbn": "9783552057630",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
-    "description": "Ein Kalb wird bei lebendigem Leib verbrannt, und sechs brennende Schwäne fliegen über den Marebo-See. Frauen verschwinden, eine Amerikanerin wird in der Kirche erdrosselt, und ein Lastwagen voller Dynamit lässt den Dom von Lund in Flammen aufgehen. In seinem neuen Kriminalroman spannt Henning Mankell den Bogen von dem furchtbaren Massaker in Jonestown, Guyana 1978, wo ein religiöser Fanatiker seinen Anhängern befahl, Selbstmord zu begehen, bis zum 11. September 2001. Mankell ist ein atemberaubender Roman gelungen: diesmal mit Linda Wallander in der Hauptrolle.",
+    "description": "Ein Kalb wird bei lebendigem Leib verbrannt, und sechs brennende Schwäne fliegen über den Marebo-See. Frauen verschwinden, eine Amerikanerin wird in der Kirche erdrosselt, und ein Lastwagen voller Dynamit lässt den Dom von Lund in Flammen aufgehen.",
     "thumbnail": "http://books.google.com/books/content?id=8mOwCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 4,
@@ -2322,7 +2355,7 @@
     "isbn": "9783552057616",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
-    "description": "Wer fordert einen toten Mann zum Tango auf? Mankells neuer Kommissar Stefan Lindman, 37, steht vor einem Rätsel: Sein ehemaliger Kollege Herbert Molin ist ermordet worden, und am Tatort werden blutige Fußspuren gefunden, die wie Tangoschritte aussehen. Gibt es einen Zusammenhang mit Molins Vergangenheit als SS-Mann? Lindman ermittelt auf eigene Faust in Mankells Heimatort Härjedalen ... Henning Mankell hat einen grandiosen Kriminalroman geschrieben, der ein Stück deutsch-schwedischer Geschichte erzählt.",
+    "description": "Wer fordert einen toten Mann zum Tango auf? Mankells neuer Kommissar Stefan Lindman, 37, steht vor einem Rätsel: Sein ehemaliger Kollege Herbert Molin ist ermordet worden, und am Tatort werden blutige Fußspuren gefunden, die wie Tangoschritte aussehen. Gibt es einen Zusammenhang mit Molins Vergangenheit als SS-Mann? Lindman ermittelt auf eigene Faust in Mankells Heimatort Härjedalen ...",
     "thumbnail": "http://books.google.com/books/content?id=zWOwCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 5,
@@ -2332,7 +2365,7 @@
     ]
   },
   {
-    "title": "Still - Chronik eines Mörders",
+    "title": "Still",
     "authors": [
       "Raab, Thomas"
     ],
@@ -2349,7 +2382,8 @@
     "pageCount": "403",
     "tags": [
       "Österreich"
-    ]
+    ],
+    "subtitle": "Chronik eines Mörders"
   },
   {
     "title": "Operation Elite",
@@ -2471,7 +2505,7 @@
     "pageCount": "317"
   },
   {
-    "title": "Puppenmord oder bis dass ihr Tod ihn scheidet",
+    "title": "Puppenmord",
     "authors": [
       "Sharpe, Tom"
     ],
@@ -2484,8 +2518,10 @@
     "description": "Dieser Henry Wilt, Sharpes Romanheld – was ist das für ein Mann?\nEin Unglücksrabe, ein Versager? Oder der heimliche Sieger? Seines Standes Berufsschullehrer, ist er gefesselt an diesen dämlichen Job und an seine dominierende Frau. Alles, was Henry Wilt seiner Eva nicht geben kann – Ansehen, Geld und sexuelle Promiskuität –, kompensiert sie, sein über- und allmächtiges Weib, mittels Judo, transzendentaler Meditation, Ikebana, Trampolinspringen und anderen Disziplinen\nmodischer Beschäftigungstherapie. Es wird Zeit, daß sich für Wilt, den Spielball des Lebens, die Zielscheibe allen Pechs, etwas ändert; und sei es nur in seiner Phantasie. Doch die wird immer mörderischer …",
     "thumbnail": "https://pictures.abebooks.com/isbn/9783807701349-de.jpg",
     "read": true,
-    "rating": "5",
-    "pageCount": "285"
+    "rating": 5,
+    "pageCount": "285",
+    "subtitle": "oder bis dass ihr Tod ihn scheidet",
+    "tags": []
   },
   {
     "title": "Tohuwabohu",
@@ -2884,7 +2920,7 @@
     "pageCount": "692"
   },
   {
-    "title": "1913. Der Sommer des Jahrhunderts",
+    "title": "1913",
     "authors": [
       "Illies, Florian"
     ],
@@ -2897,11 +2933,13 @@
     "description": "1913: Es ist das eine Jahr, in dem unsere Gegenwart begann. In Literatur, Kunst und Musik werden die Extreme ausgereizt, als gäbe es kein Morgen. Zwischen Paris und Moskau, zwischen London, Berlin und Venedig begegnen wir zahllosen Künstlern, deren Schaffen unsere Welt auf Dauer prägte. Man kokst, trinkt, ätzt, hasst, schreibt, malt, zieht sich gegenseitig an und stößt sich ab, liebt und verflucht sich. Es ist ein Jahr, in dem alles möglich scheint. Und doch wohnt dem gleißenden Anfang das Ahnen des Verfalles inne. Literatur, Kunst und Musik wussten schon 1913, dass die Menschheit ihre Unschuld verloren hatte.werden.",
     "thumbnail": "http://books.google.com/books/content?id=bB5vAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
-    "rating": "4",
-    "pageCount": "289"
+    "rating": 4,
+    "pageCount": "289",
+    "subtitle": "Der Sommer des Jahrhunderts",
+    "tags": []
   },
   {
-    "title": "Gekaufte Journalisten. Wie Politiker, Geheimdienste und Hochfinanz Deutschlands Massenmedien lenken",
+    "title": "Gekaufte Journalisten",
     "authors": [
       "Ulfkotte, Udo"
     ],
@@ -2914,8 +2952,10 @@
     "description": "Haben auch Sie das Gefühl, häufig manipuliert und von den Medien belogen zu werden? Dann geht es Ihnen wie der Mehrheit der Deutschen. Bislang galt es als »Verschwörungstheorie«, dass Leitmedien uns Bürger mit Propagandatechniken gezielt manipulieren. Jetzt enthüllt ein Insider, was wirklich hinter den Kulissen passiert.",
     "thumbnail": "http://books.google.com/books/content?id=TZfioQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
-    "rating": "1",
-    "pageCount": "336"
+    "rating": 1,
+    "pageCount": "336",
+    "subtitle": "Wie Politiker, Geheimdienste und Hochfinanz Deutschlands Massenmedien lenken",
+    "tags": []
   },
   {
     "title": "Kongo",
@@ -3191,7 +3231,7 @@
     "tags": []
   },
   {
-    "title": "Sternstunden Österreichs: Die helle Seite unserer Geschichte",
+    "title": "Sternstunden Österreichs",
     "authors": [
       "Jelinek, Gerhard"
     ],
@@ -3206,7 +3246,8 @@
     "category": "Sachbuch",
     "genre": "Geschichte",
     "rating": 3,
-    "tags": []
+    "tags": [],
+    "subtitle": "Die helle Seite unserer Geschichte"
   },
   {
     "title": "Silo",
@@ -3249,7 +3290,7 @@
     ]
   },
   {
-    "title": "Exit. Roman",
+    "title": "Exit",
     "authors": [
       "Howey, Hugh"
     ],
@@ -3287,7 +3328,7 @@
     "tags": []
   },
   {
-    "title": "Stolz und Vorurteil. Roman",
+    "title": "Stolz und Vorurteil",
     "authors": [
       "Austen, Jane"
     ],
@@ -3297,7 +3338,7 @@
     "isbn": "9783104027753",
     "category": "Belletristik",
     "genre": "Frauen, Liebesroman; Historisch",
-    "description": "Der beliebteste Roman von Jane Austen – keiner wurde öfter verfilmt. Seit vor 200 Jahren ›Stolz und Vorurteil‹ anonym erschien, wurde es gelesen und geliebt. Tausende Nächte vergingen über dieser Liebesgeschichte wie im Flug. Sie wurde verfilmt, zum Musical gemacht, und doch ist sie immer wieder neu: die Geschichte der stolzen Elizabeth und des Snobs Darcy, die schließlich ihren Standesdünkel überwinden. Famos gelingt es den beiden gefeierten Übersetzern Manfred Allié und Gabriele Kempf-Allié, den lebendigen und heiteren Ton und die geschliffenen Dialoge Austens wiederzugeben. Entstaubt ist ein Meisterwerk zu entdecken – und man versteht, warum Darcy in ›Schokolade zum Frühstück‹ wiederkehrt: Er ist einfach zu köstlich! Mit einem Nachwort von Felicitas von Lovenberg",
+    "description": "Fünf Töchter gilt es zu verheiraten - kein leichtes Unterfangen für Mr. und Mrs. Bennet, die wenig zu vererben haben, sich aber möglichst vermögende Schwiegersöhne wünschen. Als eines Tages der neureiche Junggeselle Mr. Bingley und sein Freund Mr. Darcy in ihre Nachbarschaft ziehen, sind plötzlich zwei vielversprechende Kandidaten für die beiden ältesten Töchter Jane und Elizabeth in Sicht. Doch das Glück lässt auf sich warten, denn ehe die Paare in den Irrungen der gesellschaftlichen Gepflogenheiten des georgianischen Englands zusammenfinden, muss eine gehörige Portion Stolz abgelegt und so manches Vorurteil aus dem Weg geräumt werden.",
     "pageCount": "653",
     "thumbnail": "https://books.google.com/books/content?id=AOCmAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
@@ -3384,7 +3425,7 @@
     ]
   },
   {
-    "title": "Der Fluch der bösen Tat. Das Scheitern des Westens im Orient",
+    "title": "Der Fluch der bösen Tat",
     "authors": [
       "Scholl-Latour, Peter"
     ],
@@ -3399,10 +3440,11 @@
     "category": "Sachbuch",
     "genre": "Politik",
     "rating": 4,
-    "tags": []
+    "tags": [],
+    "subtitle": "Das Scheitern des Westens im Orient"
   },
   {
-    "title": "Verblendung. Roman",
+    "title": "Verblendung",
     "authors": [
       "Larsson, Stieg"
     ],
@@ -3422,7 +3464,7 @@
     ]
   },
   {
-    "title": "Verdammnis. Roman",
+    "title": "Verdammnis",
     "authors": [
       "Larsson, Stieg"
     ],
@@ -3442,7 +3484,7 @@
     ]
   },
   {
-    "title": "Vergebung. Roman",
+    "title": "Vergebung",
     "authors": [
       "Larsson, Stieg"
     ],
@@ -3462,7 +3504,7 @@
     ]
   },
   {
-    "title": "Parasitus Rex. Die bizarre Welt der gefährlichsten Geschöpfe der Natur",
+    "title": "Parasitus Rex",
     "authors": [
       "Zimmer, Carl"
     ],
@@ -3477,7 +3519,8 @@
     "thumbnail": "https://pictures.abebooks.com/isbn/9783829575027-de-300.jpg",
     "read": true,
     "rating": 4,
-    "tags": []
+    "tags": [],
+    "subtitle": "Die bizarre Welt der gefährlichsten Geschöpfe der Natur"
   },
   {
     "title": "Der Fangschuss",
@@ -3500,7 +3543,7 @@
     ]
   },
   {
-    "title": "Tage der Toten. Kriminalroman",
+    "title": "Tage der Toten",
     "authors": [
       "Winslow, Don"
     ],
@@ -3536,7 +3579,7 @@
     "tags": []
   },
   {
-    "title": "Der Fall Demjanjuk. Der letzte große NS-Prozess",
+    "title": "Der Fall Demjanjuk",
     "authors": [
       "Wefing, Heinrich"
     ],
@@ -3553,7 +3596,8 @@
     "rating": 5,
     "tags": [
       "Holocaust"
-    ]
+    ],
+    "subtitle": "Der letzte große NS-Prozess"
   },
   {
     "title": "Der Hase mit den Bernsteinaugen",
@@ -3572,5 +3616,1967 @@
     "read": true,
     "rating": 4,
     "tags": []
+  },
+  {
+    "title": "Nackt unter Wölfen",
+    "authors": [
+      "Apitz, Bruno"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-03-20",
+    "isbn": "9783841204356",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "In einem Koffer versteckt, wird im Frühjahr 1945 ein dreijähriger Junge in das KZ Buchenwald gebracht. Wenn die SS das Kind findet, ist ihm der Tod gewiss. Mit Hilfe des illegalen Lagerkomitees könnte es verborgen werden, aber man fürchtet, die gesamte konspirative Arbeit zu gefährden. Aller Vernunft zum Trotz widersetzen sich zwei Häftlinge der Anweisung des ILK, den Kleinen mit einem Transport nach Bergen-Belsen weiterzuschicken. Herz und Gewissen siegen über die Parteidisziplin, denn das Überleben des Jungen ist längst zum Sinnbild für den Überlebenswillen der Häftlinge geworden.",
+    "pageCount": "432",
+    "thumbnail": "https://books.google.com/books/content?id=tufXAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "Holocaust"
+    ],
+    "subtitle": ""
+  },
+  {
+    "title": "Schmetterling und Taucherglocke",
+    "authors": [
+      "Bauby, Jean-Dominique"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-06-05",
+    "isbn": "9783552058668",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Er war 43 Jahre alt, Vater zweier Kinder und ein erfolgreicher Redakteur, als ihn am 8. Dezember 1995 ein Gehirnschlag all seiner bisherigen Lebensmöglichkeiten beraubte. Fünfzehn Monate später beendete er ein Buch, das er allein mit dem Blinzeln seines linken Augenlids - die einzige verbleibende Verständigungsmöglichkeit - diktiert hatte. Es ist ein einzigartiges Dokument, ein Akt der Selbstbehauptung des Geistes angesichts der totalen physischen Niederlage. Die Krankheit hat Bauby zu einem Schriftsteller gemacht, der mit bewundernswertem Humor seine Situation analysiert. Ein erschütterndes Selbstzeugnis, ein einzigartiges Stück Literatur und ein Buch, das Mut macht zum Leben.",
+    "pageCount": "104",
+    "thumbnail": "https://books.google.com/books/content?id=zG4kDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "Behinderung",
+      "Schlaganfall"
+    ]
+  },
+  {
+    "title": "Stalingrad",
+    "authors": [
+      "Beevor, Antony"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2001",
+    "isbn": "9783442151011",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Als die sechste deutsche Armee im November 1942 von der Roten Armee in Stalingrad eingekesselt wurde und ein an Grausamkeit kaum zu überbietender Häuserkampf begann, war die kriegsentscheidende Bedeutung bald offensichtlich. Antony Beevors spannend erzählte Geschichte dieser Schlacht beleuchtet die Ereignisse aus allen relevanten Perspektiven zwischen sowjetischer und deutscher Front, Schützengraben und Etappe, Wolfsschanze und Kreml und macht den Leser zum unmittelbaren Augenzeugen. Seine Darstellung stützt sich auf die Befragung noch lebender Zeitzeugen und das Studium unzähliger Dokumente sowie Briefe und Tagebücher von Soldaten und bislang unter Verschluss gehaltener Geheimdienstunterlagen. Entstanden ist ein faktengesättigtes Standardwerk von erzählerischer Kraft und erschütternder Eindringlichkeit.",
+    "pageCount": "543",
+    "thumbnail": "https://books.google.com/books/content?id=w4k7PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ]
+  },
+  {
+    "title": "JoJo und ich",
+    "authors": [
+      "Bernal, Dean"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012",
+    "isbn": "9783778792322",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Als der junge Tauchlehrer Dean Bernal in den stillen Buchten der karibischen Turks- und Caicosinseln auf einen wild lebenden Delfin trifft, ist dies der Beginn einer tiefen Freundschaft. Fasziniert von der Anmut und Verspieltheit des intelligenten Tieres gibt er ihm einen Namen: JoJo. Behutsam und mit großer Geduld gewinnt er das Vertrauen des Delfins. Zwischen ihnen entsteht ein ganz besonderes Band, und beide erleben atemberaubende Abenteuer miteinander. So, wie JoJo seinen menschlichen Freund vor Haiangriffen und in gefährlichen Tropenstürmen beschützt, so bewahrt ihn Dean Bernal vor der drohenden Vernichtung seines Lebensraums durch den Tourismus.",
+    "pageCount": "319",
+    "thumbnail": "https://books.google.com/books/content?id=yumapwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 3,
+    "tags": [
+      "Delfine"
+    ],
+    "subtitle": "Die Geschichte einer tiefen Freundschaft"
+  },
+  {
+    "title": "1000 Jahre habe ich gelebt",
+    "authors": [
+      "Jackson, Livia Bitton"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783825174521",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "Die Autorin - eine Auschwitz-Überlebende - schildert ihre Erlebnisse in Ghetto und Konzentrationslager. Differenziertes, reflektiertes Zeugnis einer Jugend im Holocaust.",
+    "pageCount": "224",
+    "thumbnail": "https://books.google.com/books/content?id=twuHAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [],
+    "subtitle": "Eine Jugend im Holocaust"
+  },
+  {
+    "title": "Leben auf dem Menschen",
+    "authors": [
+      "Blech, Jörg"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2000",
+    "isbn": "9783499608803",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Wenn Sie diesen Satz gelesen haben, sind Milliarden putzmunterer Geschöpfe in und auf Ihnen zur Welt gekommen. 90 Prozent aller Zellen im Körper sind Bakterien, Einzeller und andere Besiedler – wir sind mehr Mikrobe als Mensch. Jörg Blech berichtet, wie Forscher nun sämtliche Untermieter enttarnen und erstmals erkennen, was sie eigentlich mit uns veranstalten. Die Winzlinge haben das Sagen und sorgen für uns. Wer ihnen mit übertriebener Reinlichkeit begegnet, der schadet nur sich selbst.",
+    "pageCount": "228",
+    "thumbnail": "https://books.google.com/books/content?id=0vwgAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [],
+    "subtitle": "Die Geschichte unserer Besiedler"
+  },
+  {
+    "title": "Der Fledermausmann",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "1",
+    "publishedDate": "2010-09-08",
+    "isbn": "9783548920658",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der Polizist Harry Hole wird zur Aufklärung des Mordes an der norwegischen Schauspielerin Inger Holter nach Australien gesandt. Dort steht ihm sein Kollege Andrew Kensington, ein Aborigine, zur Seite. Die beiden unkonventionellen Polizisten freunden sich schnell an. Von Andrew erfährt Hole eine Menge über Australien, seine Geschichte und das Leben in Sydney. Doch der Mord an Inger Holter ist kein Einzelfall. Im ganzen Osten von Australien werden junge, blonde Frauen vergewaltigt, mitunter auch erwürgt. Ist der Täter ein psychopathischer Frauenmörder?",
+    "pageCount": "435",
+    "thumbnail": "https://books.google.com/books/content?id=S-waAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 2,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Kakerlaken",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "2",
+    "publishedDate": "2010-09-08",
+    "isbn": "9783548920726",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In Bangkok wurde der norwegische Botschafter ermordet. Harry soll die thailändische Polizei unterstützen und taucht tief ein in die Unterwelt einer Stadt, in der Moral und Gesetz keine Rolle spielen. Dabei findet er mehr über den Ermordeten heraus, als seinen Vorgesetzten lieb ist.",
+    "pageCount": "430",
+    "thumbnail": "https://books.google.com/books/content?id=Ue4aAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 2,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Rotkehlchen",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "3",
+    "publishedDate": "2010-09-08",
+    "isbn": "9783548920665",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Als der norwegische Staatsschutz Hinweise auf ein geplantes Attentat auf den Thronfolger erhält, beginnt für Harry Hole ein Alptraum aus Lügen und Verrat. Die Spur der Verdächtigen führt in das dunkelste Kapitel norwegischer Vergangenheit: Eine Gruppe von Nazikollaborateuren hat im Untergrund ihr verhängnisvolles Netz gewoben und Harry sieht sich mit einem mörderischen Filz von Intrigen und Verblendung konfrontiert.",
+    "pageCount": "536",
+    "thumbnail": "https://books.google.com/books/content?id=Ke0aAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 3,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Die Fährte",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "4",
+    "publishedDate": "2010-09-08",
+    "isbn": "9783548920818",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der Osloer Kriminalbeamte Harry Hole jagt einen Bankräuber, der während eines Überfalls scheinbar grundlos eine junge Angestellte erschoss. Da wird er selbst in einen Mordfall verwickelt: seine ehemalige Geliebte wird tot aufgefunden, und Harry ist der Letzte, der sie lebend sah. Er gerät nun selbst unter Mordverdacht und muss untertauchen, um auf eigenen Faust weiterermitteln zu können. Eine heiße Fährte führt in bis nach Südamerika.",
+    "pageCount": "541",
+    "thumbnail": "https://books.google.com/books/content?id=wS8cAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Das fünfte Zeichen",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "5",
+    "publishedDate": "2010-06-09",
+    "isbn": "9783548920160",
+    "category": "",
+    "genre": "",
+    "description": "Ein Kommissar am Tiefpunkt seiner Karriere, ein Mörder, der das hochsommerliche Oslo in Angst und Schrecken versetzt, ein Zeichen, das allen ein großes Rätsel aufgibt: Auf der Jagd nach einem Frauenmörder muss Hauptkommissar Harry Hole nicht nur eine Grenze überschreiten ...",
+    "pageCount": "399",
+    "thumbnail": "https://books.google.com/books/content?id=OeYaAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Der Erlöser",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "6",
+    "publishedDate": "2010-09-08",
+    "isbn": "9783548920702",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Oslo im Weihnachtslichterglanz, ein kaltblütiger Killer und ein Kommissar, dessen Leben aus den Fugen zu geraten droht. Harry Hole steht in seinem sechsten Fall vor einer ganz besonderen Herausforderung. In Oslo wird ein junger Mann auf offener Straße ermordet. Robert Karlsen, Offizier der Heilsarmee, wurde das Opfer des berüchtigten kroatischen Auftragskillers Stankic. Hauptkommissar Harry Hole, der gerade andere Probleme hat, hofft auf einen schnellen Ermittlungserfolg. Seine Freundin Rakel hat ihn verlassen und der eigenwillige Kommissar will endlich versuchen, die Beziehung zu kitten. Doch Stankic erweist sich als ebenbürtiger Gegner. Als Hole merkt, dass der Mörder es auch auf Roberts Bruder Jon Karlsen abgesehen hat, beginnt eine atemberaubende Verfolgungsjagd. In wessen Auftrag ist Stankic unterwegs? Was ist das Motiv für die Mordanschläge? Und was spielt sich hinter der makellosen Fassade der norwegischen Heilsarmee wirklich ab?",
+    "pageCount": "560",
+    "thumbnail": "https://books.google.com/books/content?id=lewaAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Schneemann",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "7",
+    "publishedDate": "2009-10-14",
+    "isbn": "9783550920073",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein Serienmörder tötet auf bestialische Art und Weise. Seine Opfer: junge Mütter. Auf der fieberhaften Jagd nach dem unheimlichen »Schneemann« kämpft sich Kommissar Harry Hole durch ein Labyrinth aus Verdächtigungen und falschen Spuren. Immer neue Morde geschehen. Als Hole selbst ins Visier des Killers gerät, kommt es zu einem gnadenlosen Duell.",
+    "pageCount": "541",
+    "thumbnail": "https://books.google.com/books/content?id=qvMaAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Leopard",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "8",
+    "publishedDate": "2010-01-26",
+    "isbn": "9783550920110",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Harry Hole ist am Ende, er hat alle Brücken hinter sich abgebrochen und lebt zurückgezogen in Hongkong. Da erschüttert eine Serie aufsehenerregender Morde Oslo. Die junge Kommissarin Kaja schafft es schließlich, ihren berühmten Kollegen zurückzuholen. Schnell wird Harry in den Fall hineingezogen. Der Täter erweist sich als äußerst unberechenbar und intelligent. Als Harry dem Killer schließlich gegenübersteht, muss er eine beinahe übermenschliche Entscheidung treffen.",
+    "pageCount": "581",
+    "thumbnail": "https://books.google.com/books/content?id=O_MaAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Die Larve",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "9",
+    "publishedDate": "2011-09-30",
+    "isbn": "9783843700719",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Harry Hole ist endgültig aus dem Polizeidienst ausgestiegen und lebt in Hongkong. Doch dann erreicht ihn ein Alarmruf: Oleg, der Sohn seiner großen Liebe Rakel, sitzt im Gefängnis. Angeklagt wegen Mordes an einem Freund. Sämtliche Indizien deuten darauf hin, dass Oleg tatsächlich der Täter ist. Harry Hole glaubt nicht an diese einfache Lösung. Er kehrt nach Oslo zurück, um den wahren Mörder zu finden – und muss sich seiner eigenen Vergangenheit stellen.",
+    "pageCount": "428",
+    "thumbnail": "https://books.google.com/books/content?id=RxwbAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Koma",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "10",
+    "publishedDate": "2013-11-11",
+    "isbn": "9783843706278",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein junges Mädchen wird tot im Wald gefunden. Sie wurde brutal vergewaltigt. Zehn Jahre später wird an derselben Stelle ein Polizist getötet, sein Gesicht ist grausam entstellt. Eine Sonderkommission ermittelt unter Hochdruck. Doch es geschehen weitere Morde. Die Polizei hat keine Spur, und ihr bester Ermittler Harry Hole fehlt. In einem Krankenhaus liegt ein schwerverletzter Mann im Koma. Das Zimmer wird von der Polizei bewacht. Niemand soll erfahren, wer der geheimnisvolle Patient ist. Denn er hat einen Feind. Und der ist überall.",
+    "pageCount": "475",
+    "thumbnail": "https://books.google.com/books/content?id=iD4bAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Durst",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "11",
+    "publishedDate": "2017-09-15",
+    "isbn": "9783843714822",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein Serienkiller findet seine Opfer über die Dating-App Tinder. Die Osloer Polizei hat keine Spur. Der einzige Spezialist für Serientäter, Harry Hole, unterrichtet an der Polizeihochschule, weil er mehr Zeit für seine Frau Rakel und ihren Sohn Oleg haben möchte. Doch Holes alter Chef Mikael Bellmann kennt Olegs Vergangenheit und setzt Hole unter Druck. Der Kommissar gibt schließlich nach und arbeitet hochkonzentriert mit seinen Leuten an dem Fall. In einer Atmosphäre der Angst zögern viele Frauen, sich weiter über die App zu verabreden. Die schlimmsten Befürchtungen werden wahr, als tatsächlich eine weitere junge Frau verschwindet, ausgerechnet eine Kellnerin aus Holes Stammlokal. Und der Kommissar kann nicht länger die Augen davor verschließen, dass der Mörder für ihn kein Unbekannter ist.",
+    "pageCount": "675",
+    "thumbnail": "https://books.google.com/books/content?id=8umoDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Messer",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "12",
+    "publishedDate": "2019-08-27",
+    "isbn": "9783843720076",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Kommissar Harry Hole ist am Boden. Seine Ehe und seine Karriere hat er aufs Spiel gesetzt. Und verloren. Nach einer durchzechten Nacht erwacht er ohne jede Erinnerung. Seine Kleidung ist voller Blut. Und nun beginnt für ihn der wahre Albtraum.",
+    "pageCount": "619",
+    "thumbnail": "https://books.google.com/books/content?id=VGRrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Blutmond",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "Harry Hole",
+    "volume": "13",
+    "publishedDate": "2022-11-24",
+    "isbn": "9783843728775",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Harry Hole hat alle Brücken hinter sich abgebrochen. In Los Angeles trinkt er sich als einer der zahllosen Obdachlosen fast zu Tode. Hin und wieder hilft er Lucille, einer älteren Filmdiva, die einem Drogenkartell eine Million Dollar schuldet. Zur gleichen Zeit werden in Oslo zwei Mädchen ermordet. Beide feierten auf der Yacht eines stadtbekannten Immobilienmaklers. Kommissarin Katrine Bratt fordert Harry Hole an, doch die Führungsetage der Polizei hat kein Interesse an dem Spezialisten für Mordserien. Der Makler hat weniger Skrupel und bietet Hole als privatem Ermittler ein Vermögen, um seinen Ruf zu schützen. Hole willigt ein, denn er sieht eine Chance, Lucille freizukaufen, und sucht sich ein Team, bestehend aus einem Kokain-dealendem Schulfreund, einem korrupten Polizisten und einem schwer an Krebs erkrankten Psychologen. Die Zeit läuft, während über Oslo ein Blutmond aufzieht.",
+    "pageCount": "594",
+    "thumbnail": "https://books.google.com/books/content?id=KgR7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Headhunter",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010",
+    "isbn": "9783548280455",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Roger Brown, ein eher kleinwüchsiger Headhunter, genießt in Wirtschaftskreisen einen exzellenten Ruf. Doch Roger betreibt ein doppeltes Spiel. Um die kostspielige Galerie seiner wunderschönen Frau Diana zu unterstützen, stiehlt er seinen Klienten wertvolle Gemälde. Als er es auf ein Bild von Rubens abgesehen hat, wird er plötzlich selbst zum Gejagten und hat alle Mühe seinen Kopf zu retten ...",
+    "pageCount": "301",
+    "thumbnail": "https://books.google.com/books/content?id=h6jKQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Ihr Königreich",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2020-09-02",
+    "isbn": "9783843723954",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In den norwegischen Bergen lebt ein Mann ein friedvolles Leben. Doch eines Tages kehrt sein jüngerer Bruder – schon immer der erfolgreichere und charmantere der beiden - in ihren Heimatort zurück, in Begleitung seiner neuen schönen Frau. Schon bald wird klar, dass er nicht so unschuldig ist, wie es scheint.",
+    "pageCount": "635",
+    "thumbnail": "https://books.google.com/books/content?id=30bkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Der Sohn",
+    "authors": [
+      "Nesbø, Jo"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-11-14",
+    "isbn": "9783843710299",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Sonny Lofthus sitzt im modernen Hochsicherheitsgefängnis Staten in Oslo. Seine kriminelle Karriere begann, als sein Vater Ab sich das Leben nahm. Ab Lofthus war Polizist. Kurz vor seinem Tod gestand er, korrupt gewesen zu sein. Dieser Verrat zerstörte Sonnys Leben. Jetzt, viele Jahre später, hört er von einem Mitgefangenen, dass alles ganz anders gewesen ist. Sonny will Rache. Er flieht aus dem Gefängnis, denn die Verantwortlichen sollen für ihre Verbrechen büßen.",
+    "pageCount": "524",
+    "thumbnail": "https://books.google.com/books/content?id=a0odBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Norwegen"
+    ]
+  },
+  {
+    "title": "Eine ganz andere Geschichte",
+    "authors": [
+      "Nesser, Håkan"
+    ],
+    "series": "Gunnar Barbarotti",
+    "volume": "2",
+    "publishedDate": "2009-03-11",
+    "isbn": "9783641025366",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Die Bretagne im Sommer: Ein paar schwedische Touristen verbringen im Finistère ein paar vergnügte Urlaubswochen. Es ist eine zusammengewürfelte Gesellschaft: zwei Paare und zwei Einzelkämpfer, alles in allem sechs Leute, die freizeitbedingt miteinander Freundschaft schließen. Sie baden, sie essen, sie machen Ausflüge und flirten ein wenig über die Ehegrenzen hinweg. Und als die Ferien vorbei sind, trennen sich ihre Wege, wie das ja oft der Fall ist. Übrig bleiben ein paar vereinzelte Fotos, womöglich ein Gruppenbild, das ein oder andere Aquarell – und ein anonymes Tagebuch, das ihre Eskapaden schildert, wie sich später herausstellen wird, als die Tragödie bereits ihren Lauf genommen hat. Denn fünf Jahre später beginnt jemand, sie zu töten, einen nach dem anderen, wobei die Morde Gunnar Barbarotti, Inspektor in Kymlinge, jeweils zuvor brieflich angekündigt werden.",
+    "pageCount": "398",
+    "thumbnail": "https://books.google.com/books/content?id=APnAixzo09YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "Schweden"
+    ]
+  },
+  {
+    "title": "Das falsche Urteil",
+    "authors": [
+      "Nesser, Håkan"
+    ],
+    "series": "Van Veeteren",
+    "volume": "3",
+    "publishedDate": "2012-05-31",
+    "isbn": "9783641090425",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "An einem sonnigen Augustmorgen wird Leopold Verhaven aus dem Gefängnis entlassen, wo er wegen Mordes in zwei Fällen insgesamt 14 Jahre seines Lebens verbrachte. Acht Monate später entdecken spielende Kinder seine übel zugerichtete Leiche. Warum wurde er ermordet? Weil jemand fand, er sei noch nicht genug bestraft worden? Oder hatte jemand Angst vor ihm? Van Veeteren beginnt, sich die Zeugen aus Verhavens Prozessen nochmal genauer unter die Lupe zu nehmen, denn er wird den Verdacht nicht los, dass der Mann unschuldig war ...",
+    "pageCount": "276",
+    "thumbnail": "https://books.google.com/books/content?id=IYc-FzD-QWUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "Schweden"
+    ]
+  },
+  {
+    "title": "Die Schatten und der Regen.",
+    "authors": [
+      "Nesser, Håkan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2005-08-22",
+    "isbn": "9783894808884",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ist Viktor Vinblad tatsächlich ein Mörder? Oder hat man ihm vor Jahren Unrecht getan, als seine Jugendliebe ermordet wurde und er selbst danach spurlos verschwand? Ist er etwa selbst einem Verbrechen zum Opfer gefallen? Nach Jahrzehnten des Schweigens und der Verdrängung versucht sein Pflegebruder David, dem Geheimnis auf die Spur zu kommen.",
+    "pageCount": "391",
+    "thumbnail": "https://books.google.com/books/content?id=FvRIZh-VB5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Schweden"
+    ]
+  },
+  {
+    "title": "Die Wahrheit über Kim Novak und den Mord an Berra Albertsson",
+    "authors": [
+      "Nesser, Håkan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-09-26",
+    "isbn": "9783641066451",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Wer war es, der in Håkan Nessers Bestseller »Kim Novak badete nie im See von Genezareth« zum Mörder wurde? Wer brachte Kanonen-Berra wirklich um die Ecke? Vier Verdächtige gibt es am Schluss des Romans: Berras Verlobte Ewa Kaludis, ob ihrer Schönheit auch Kim Novak genannt; Henry Wassmann, mit dem die umwerfende Erscheinung eine Affäre hatte; seinen Bruder Erik Wassmann, in diesem Sommer der Sünde gerade einmal vierzehn Jahre alt, sowie dessen krimibesessenen Schulfreund Edmund Wester. Zehn Jahre schwieg Nesser beharrlich. Er hatte gute Gründe. Auch wenn ihm auf Lesereisen, in Interviews, per Brief und via Email, immer nur die eine Frage gestellt wurde: Wer war der Mörder? Das Geheimnis sollte gewahrt bleiben, bis jetzt ...",
+    "pageCount": "31",
+    "thumbnail": "https://books.google.com/books/content?id=w6Ucx5rw-hYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 3,
+    "tags": [
+      "Schweden"
+    ]
+  },
+  {
+    "title": "Kim Novak badete nie im See von Genezareth",
+    "authors": [
+      "Nesser, Håkan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-05-31",
+    "isbn": "9783641090456",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Schweden in den 60er Jahren. Ein kleines Sommerhaus an einem der unzähligen Seen. Hier verbringen der 14jährige Erik und sein Freund Edmund die Ferien. Sie schwärmen von der jungen Aushilfslehrerin Ewa, die aussieht wie Kim Novak und sich schon bald beim Dorffest in voller Blüte zeigt. Zwei Tage später findet man die Leiche von Ewas Verlobtem, und Eriks älterer Bruder, der eine Affäre mit Ewa hatte, steht unter Mordverdacht. Der Täter wird jedoch nie gefunden. 25 Jahre später liest der erwachsene Erik zufällig einen Bericht über ungeklärte Verbrechen, und der Sommer von damals bricht mit aller Gewalt über ihn herein. Was ist damals wirklich geschehen?",
+    "pageCount": "192",
+    "thumbnail": "https://books.google.com/books/content?id=fl9TWOpalCQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Schweden"
+    ]
+  },
+  {
+    "title": "Denken hilft zwar, nützt aber nichts",
+    "subtitle": "Warum wir immer wieder unvernünftige Entscheidungen treffen",
+    "authors": [
+      "Ariely, Dan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-12-31",
+    "isbn": "9783426402092",
+    "category": "",
+    "genre": "",
+    "description": "Warum wir ticken, wie wir ticken Der Sachbuch-Bestseller des Verhaltens-Psychologen Dan Ariely erklärt, wie wir Entscheidungen treffen: mit der Logik der Unvernunft Kennen Sie das auch? Beim Anblick eines köstlichen Desserts fallen uns spontan tausend vernünftige Gründe ein, unser Diät-Gelübde zu brechen. Wir sind fest davon überzeugt, dass teure Produkte besser wirken als billige. Und für jeden von uns gibt es etwas, für das wir bereit sind, deutlich mehr Geld auszugeben, als wir haben – aus ganz vernünftigen Gründen, versteht sich. Bestseller-Autor Dan Ariely stellt unser Verhalten auf den Prüfstand, um herauszufinden, warum wir immer wieder unvernünftig handeln – und dabei felsenfest überzeugt sind, uns von Vernunft leiten zu lassen. Denn wenn wir Entscheidungen treffen, gehen wir davon aus, dass wir das Für und Wider vernünftig abwägen. In Wahrheit werden unsere Entscheidungen jedoch meist von vorgefassten Urteilen und einer gelernten Weltsicht beeinflusst. Unvernünftige Entscheidungen liegen offenbar in der menschlichen Natur begründet. Ebenso unterhaltsam wie spannend zeigt der renommierte amerikanische Verhaltens-Psychologe Dan Ariely in seinem Bestseller, wie die meisten unserer Entscheidungen tatsächlich zustande kommen, und wie unvernünftig unsere Vernunft oft ist. »Ein ebenso amüsantes wie lehrreiches Buch.« Der Spiegel",
+    "pageCount": "308",
+    "thumbnail": "https://books.google.com/books/content?id=2rhtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": false
+  },
+  {
+    "title": "Opernball",
+    "subtitle": "",
+    "authors": [
+      "Haslinger, Josef"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-07-10",
+    "isbn": "9783104001203",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Die Gäste des Wiener Opernballs werden zum Ziel eines Terroranschlags. Ein Fernsehjournalist, der die Live-Übertragung aus den Ballsälen koordinieren soll, beobachtet das Verbrechen auf den Monitoren. Sein eigener Sohn ist unter den Opfern. Die Kameras laufen weiter und senden weltweit auf zahllose Bildschirme das Sterben von Tausenden. Der TV-Journalist versucht, von Trauer um seinen Sohn getrieben, die Hintergründe des Anschlags zu klären. Sie sind verworren, von Schlamperei und Zufällen geprägt. Mindestens so verworren wie das Weltbild jener kleinen Gruppe, die das Morden vorbereitete.",
+    "pageCount": "412",
+    "thumbnail": "https://books.google.com/books/content?id=O_VuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Die Essensfälscher",
+    "subtitle": "Was uns die Lebensmittelkonzerne auf die Teller lügen",
+    "authors": [
+      "Bode, Thilo"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-10-05",
+    "isbn": "9783104007403",
+    "category": "Sachbuch",
+    "genre": "Gesundheit & Medizin",
+    "description": "Noch nie waren Lebensmittel so gut wie heute? Von wegen! Thilo Bode, Gründer der Verbraucherorganisation foodwatch, seziert die ausgebufften Strategien der Lebensmittelkonzerne. \"Fitness\"-Produkte? Machen nicht fit, sondern fett. - Der traditionell und regional hergestellte Schwarzwälder Schinken? Stammt tatsächlich aus Massentierhaltung und kommt aus ganz Europa. - \"Gesunde\" Kinderprodukte? Versteckte Zuckerbomben. - Bio-Apfelgetränke? Haben noch nie einen Apfel gesehen ...",
+    "pageCount": "173",
+    "thumbnail": "https://books.google.com/books/content?id=8yNuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Persönlichkeitsrechte für Tiere",
+    "subtitle": "Die nächste Stufe der moralischen Evolution",
+    "authors": [
+      "Brensing, Karsten"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-06-05",
+    "isbn": "9783451346927",
+    "category": "Sachbuch",
+    "genre": "Tiere",
+    "description": "Was gibt uns das Recht, eine Sonderstellung einzunehmen und Tiere auszubeuten? Die Themen Tierrechte und -schutz sind aktueller denn je. Karsten Brensing schildert, inwiefern die Menschheit vor einer tiefgreifenden Zäsur ihrer ethischen und moralischen Grenzen steht und auf welcher Grundlage und warum sich diese Revolution jetzt vollziehen muss. Sein Buch ist ein eindringliches Plädoyer, unser Verhältnis zu Delfinen, Schimpansen und vielen anderen Tierarten auf eine neue Basis zu stellen.",
+    "pageCount": "198",
+    "thumbnail": "https://books.google.com/books/content?id=yPXmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die sieben größten Rätsel der Wissenschaft",
+    "subtitle": "... und wie man sie versteht.",
+    "authors": [
+      "Brody, David E.",
+      "Brody, Arnold R."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2001",
+    "isbn": "9783548750309",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Wer weiß schon, dass der junge Newton die entscheidende Inspiration zur Entdeckung der Schwerkraft erhielt, als er entspannt im Garten seiner Mutter saß und den berühmten Apfel vom Baum fallen sah? Fundamentale wissenschaftliche Entdeckungen und Erkenntnisse wie die der Schwerkraft, der Atome, der Relativitätstheorie oder der Theorie des Urknalls werden in dieser Wissenschaftsgeschichte auf gutverständliche, spannende Weise dargeboten.",
+    "pageCount": "431",
+    "thumbnail": "https://books.google.com/books/content?id=EujYAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Begrabt mein Herz an der Biegung des Flusses",
+    "subtitle": "",
+    "authors": [
+      "Brown, Dee Alexander"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012",
+    "isbn": "9783866478367",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "Fernab aller Wildwest-Romantik erzählt Brown in farbiger, kraftvoller Prosa von der Besiedlung des amerikanischen Westens aus der Sicht der 'Native Americans', führt ergreifend die grausame Gier der weißen Siedler und den verzweifelten Kampf der Indianerstämme gegen die skrupellose Landnahme vor Augen.",
+    "pageCount": "542",
+    "thumbnail": "https://books.google.com/books/content?id=9JXzugAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Meines Vaters Land",
+    "subtitle": "Geschichte einer deutschen Familie",
+    "authors": [
+      "Bruhns, Wibke"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-08-12",
+    "isbn": "9783843701648",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "Am 26. August 1944 wird der Abwehroffizier Hans Georg Klamroth wegen Hochverrats hingerichtet. Jahrzehnte später sieht seine jüngste Tochter in einer Fernsehdokumentation über den 20. Juli Bilder ihres Vaters aufgenommen während des Prozesses im Volksgerichtshof. Ein Anblick, der Wibke Bruhns nicht mehr loslässt. Wer war dieser Mann, den sie kaum kannte, der fremde Vater, der ihr plötzlich so nah ist. Die lange Suche nach seiner, ja auch ihrer eigenen Geschichte führt sie zurück in die Vergangenheit: Die Klamroths sind eine angesehene großbürgerliche Kaufmannsfamilie und muten wie ein Halberstädter Pendant zu den Buddenbrooks an. Unzählige Fotos, Briefe und Tagebücher sind der Fundus für ein einzigartiges Familienepos.",
+    "pageCount": "382",
+    "thumbnail": "https://books.google.com/books/content?id=UgcbAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Helter Skelter. Der Mordrausch des Charles Manson",
+    "subtitle": "Eine Chronik des Grauens",
+    "authors": [
+      "Bugliosi, Vincent"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-04-19",
+    "isbn": "9783864130649",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Im Sommer 1969 erschüttert eine Reihe bestialischer Morde Los Angeles und die USA. Sharon Tate, die schwangere Ehefrau von Roman Polanski, ist eines der sieben Opfer. Vincent Bugliosi war Leitender Staatsanwalt in diesem spektakulären Fall. In seinem meisterhaft geschriebenen Buch berichtet er, wie es ihm in minutiöser Detektivarbeit gelang, Charles Manson und seine ihm blind ergebene Hippie-Kommune für das Massaker hinter Gitter zu bringen. Die akribischen Ermittlungen, der komplexe Prozess, die kranke Weltanschauung, die Manson seinen Anhängern einflößte ...",
+    "pageCount": "784",
+    "thumbnail": "https://books.google.com/books/content?id=SR5RAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Hitlers Österreich",
+    "subtitle": "\"Eine Bewegung und ein Volk\"",
+    "authors": [
+      "Burr Bukey, Evan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2001-01",
+    "isbn": "9783203755755",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Sie machten nur acht Prozent der Bevölkerung im »Reich« aus, stellten aber 14 Prozent der SS und waren gar zu 40 Prozent unmittelbar an der Tötungsmaschinerie beteiligt: Die Mehrheit der Österreicher unterstützte bis zum bitteren Ende das Anschlussregime Hitlers, vor allem seine Wirtschafts- und Sozialpolitik und die Judenverfolgung.<br>\nEvan Burr Bukey räumt in seinem sorgfältig recherchierten, engagierten und verständlich geschriebenen Buch endgültig mit dem lange Zeit gepflegten Mythos auf, Österreich sei im Zweiten Weltkrieg bloß »Opfer« gewesen. Er hat unzählige bislang unter Verschluss gehaltene Archivalien ausgewertet, darunter Lageberichte des Sicherheitsdienstes. Das Ergebnis ist der erste detaillierte Vergleich der Haltungen, Aktivitäten und Umschwünge in den Reichsgauen der Ostmark, speziell in Wien, und im benachbarten Bayern.",
+    "pageCount": "416",
+    "thumbnail": "https://books.google.com/books/content?id=1MGCPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "2. Weltkrieg",
+      "Holocaust"
+    ]
+  },
+  {
+    "title": "Endlich Nichtraucher!",
+    "subtitle": "Der einfache Weg, mit dem Rauchen Schluss zu machen",
+    "authors": [
+      "Carr, Allen"
+    ],
+    "isbn": "3442136644",
+    "series": "",
+    "volume": "",
+    "publishedDate": "1998",
+    "description": "All jenen, die bereit sind, mit dem Rauchen endgültig Schluss zu machen, zeigt dieses Buch den Weg. Mit Allen Carrs sensationeller und weltweit bekannter „Easyway“-Methode kann jeder in wenigen Wochen und ohne übermenschliche Willensanstrengung die körperliche und psychische Sucht überwinden, indem er seine Abhängigkeit kritisch hinterfragt und ihr schließlich aus Überzeugung den Rücken kehrt.",
+    "thumbnail": "https://books.google.com/books/content?id=gO4ORAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "pageCount": "183",
+    "category": "Ratgeber",
+    "genre": "Gesundheit & Medizin",
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Leila",
+    "subtitle": "Ein bosnisches Mädchen",
+    "authors": [
+      "Cavelius, Alexandra"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2000",
+    "isbn": "9783898340007",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Leila, heut 24 Jahre alt, überlebte einen Alptraum zwei Jahre Vergewaltigungslager in Bosnien. Jetzt erzählt sie ihre Geschichte. Ihr aufwühlender, schonungslos offener und ehrlicher Bericht ist das Zeugnis großer Überlebenskraft eines Mädchens, das lernen muß, mit einem Leid zu leben, das Tausende von Frauen in ihrer Heimat traumatisiert hat.",
+    "pageCount": "248",
+    "thumbnail": "http://books.google.com/books/content?id=NT4cAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Wüstenblume",
+    "subtitle": "",
+    "authors": [
+      "Dirie, Waris",
+      "Miller, Cathleen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1999",
+    "isbn": "9783548359120",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Als die dreizehnjährige Waris Dirie für fünf Kamele an einen 60jährigen verheiratet werden soll, flieht sie aus ihrem Heimatdorf zu ihrer Grossmutter nach Mogadischu. Dort nutzt sie die Chance, als Dienstmädchen mit ihrem Onkel nach London zu gehen. Zufällig wird ein Modefotograf auf sie aufmerksam, und für sie beginnt ein neues Leben auf den Laufstegen der teuersten Designer der Welt.",
+    "pageCount": "280",
+    "thumbnail": "http://books.google.com/books/content?id=2ZxsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Kunst des klaren Denkens",
+    "subtitle": "52 Denkfehler, die Sie besser anderen überlassen",
+    "authors": [
+      "Dobelli, Rolf"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2020-04-06",
+    "isbn": "9783492996709",
+    "category": "Ratgeber",
+    "genre": "Lebensführung",
+    "description": "Unser Gehirn ist für das Leben als Jäger und Sammler optimiert. Heute leben wir in einer radikal anderen Welt. Das führt zu systematischen Denkfehlern – die verheerend sein können für unsere Finanzen, unsere Karriere, unser Glück.",
+    "pageCount": "324",
+    "thumbnail": "https://books.google.com/books/content?id=nc7LDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Der Untergang",
+    "subtitle": "Hitler und das Ende des Dritten Reiches",
+    "authors": [
+      "Fest, Joachim C."
+    ],
+    "isbn": "9783828601727",
+    "series": "",
+    "volume": "",
+    "publishedDate": "2002",
+    "description": "Die neuere Geschichte kennt nichts, was den Ereignissen des Frühjahrs 1945 vergleichbar wäre. Niemals zuvor sind im Untergang eines Reiches so viele Menschenleben vernichtet, so viele Städte ausgelöscht und Landstriche verwüstet worden. Die Herrschaft des Hitler-Regimes endete nicht einfach – das Land im ganzen ging buchstäblich unter. Joachim Fest schildert die Schlußphase des Krieges, von der im gespenstischen Scheinwerferlicht eröffneten Schlacht um Berlin bis hin zum Selbstmord Hitlers im Bunker unter der Reichskanzlei. Er versucht darüber hinaus, einige Fragen neu zu stellen sowie an ein Geschehen zu erinnern, das nicht nur politisch-historisch, sondern vor allem menschlich nichts anderes als ein Weltuntergang war.",
+    "thumbnail": "https://books.google.com/books/content?id=2h9oAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "pageCount": "216",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ]
+  },
+  {
+    "title": "Des Gesicht des Dritten Reiches",
+    "subtitle": "Profile einer totalitäteren Herrschaft",
+    "authors": [
+      "Fest, Joachim C."
+    ],
+    "isbn": "3492011993",
+    "series": "",
+    "volume": "",
+    "publishedDate": "1963",
+    "description": "Joachim C. Fest zeichnet in seinen psychologisch-biographisch angelegten Porträts der Führungsclique des Dritten Reiches ein kenntnis- und detailreiches Bild des Nationalsozialismus, das alle wesentlichen Züge dieses totalitären Herrschaftssystems aufdeckt.",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Fn7VBW9lL._SY342_.jpg",
+    "read": true,
+    "pageCount": "540",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ]
+  },
+  {
+    "title": "QED",
+    "subtitle": "Die seltsame Theorie des Lichts und der Materie",
+    "authors": [
+      "Feynman, Richard P."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-10-19",
+    "isbn": "9783492959865",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Richard P. Feynman (1918–1988) erhielt 1965 für seine Beiträge zur Quantenelektrodynamik (QED) den Nobelpreis für Physik. Seine spektakulären Arbeiten zur »Theorie des Lichts und der Materie« erklärt der »brillanteste, respektloseste und einflussreichste theoretische Physiker der Nachkriegszeit« hier auch für Nichtphysiker.",
+    "pageCount": "181",
+    "thumbnail": "https://books.google.com/books/content?id=rO4UAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "Physik"
+    ]
+  },
+  {
+    "title": "Tagebuch",
+    "subtitle": "Die weltweit gültige und verbindliche Fassung des Tagebuchs der Anne Frank",
+    "authors": [
+      "Frank, Anne"
+    ],
+    "isbn": "9783104026091",
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-10-04",
+    "description": "Das Tagebuch von Anne Frank ist Symbol und Dokument zugleich. Symbol für den Völkermord an den Juden durch die Nazi-Verbrecher und Dokument der Lebenswelt einer einzigartig begabten jungen Schriftstellerin. Die vorliegende Ausgabe ist die einzige vom Anne Frank Fonds in Basel autorisierte Fassung des Tagebuchs, von dem es eine erste und eine zweite, spätere Version gibt, die beide von Anne Frank selbst stammen. Sie hatte das von ihr über mehr als zwei Jahre geführte Tagebuch zu einem späteren Zeitpunkt überarbeitet, weil die erste Fassung ihren schriftstellerischen Ansprüchen nicht mehr genügte. Diese Ausgabe enthält den von Anne Frank überarbeiteten Tagebuchtext samt den unverändert aus der ersten Fassung übernommenen Teilen, ohne jene Auslassungen, die Annes Vater Otto Frank aus Diskretion vorgenommen hatte.",
+    "thumbnail": "https://books.google.com/books/content?id=yM5qAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "pageCount": "695",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "rating": 5,
+    "tags": [
+      "Holocaust"
+    ]
+  },
+  {
+    "title": "... trotzdem Ja zum Leben sagen",
+    "subtitle": "Ein Psychologe erlebt das Konzentrationslager",
+    "authors": [
+      "Frankl, Viktor E."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-12-09",
+    "isbn": "9783641059033",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "Mit 35 Jahren kam der österreichische Psychiater Viktor E. Frankl in ein Konzentrationslager. In den Jahren der Gefangenschaft lernte er, wie Menschen mit unvorstellbarem Leid umgehen und wie es selbst an Orten größter Unmenschlichkeit möglich ist, einen Sinn im Leben zu sehen. Nach der Befreiung verfasste er in nur neun Tagen diesen bewegenden Erfahrungsbericht über seine Erlebnisse in den Konzentrationslagern Theresienstadt, Auschwitz und Türkheim. In den folgenden Jahrzehnten wurde das Buch zum Klassiker der Überlebensliteratur, Generationen von Leserinnen und Lesern finden darin Trost und Orientierung.",
+    "pageCount": "196",
+    "thumbnail": "https://books.google.com/books/content?id=46lH0NMFnqsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "Holocaust"
+    ]
+  },
+  {
+    "title": "Hühnersuppe für die Seele",
+    "subtitle": "Geschichten, die das Herz erwärmen",
+    "authors": [
+      "Canfield, Jack"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2001",
+    "isbn": "9783828919327",
+    "category": "Ratgeber",
+    "genre": "Lebensführung",
+    "description": "Hühnersuppe: ein altes jüdisches Hausrezept zur Vitalisierung macht Karriere. Hühnersuppe für die Seele - wahre Geschichten, die Herz und Verstand ansprechen. Geschichten, die ermutigen, zum Nachdenken anregen und veranschaulichen, daß wir nicht alleine sind mit unseren Problemen.",
+    "pageCount": "220",
+    "thumbnail": "http://books.google.com/books/content?id=6dFjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Ice Man",
+    "subtitle": "Bekenntnisse eines Mafia-Killers",
+    "authors": [
+      "Carlo, Philip"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011",
+    "isbn": "9783492264341",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Als Richard Kuklinski die Ratte im Dickicht wahrnahm, diente ihre Tötung nur Übungszwecken. Doch dann fand er die Höhle: ein riesiges unterirdisches Rattennest. Und Richard entschied, diesen Ort nicht zu nutzen, um Tiere zu töten, sondern einen Menschen. Sein Opfer. Den Feind seines Auftraggebers. Bei lebendigem Leib würde er ihn den gierigen Ratten zum Fraß vorwerfen … Unter dem Namen »Ice Man« wird Richard zum grausamsten Mafiakiller der USA.",
+    "pageCount": "505",
+    "thumbnail": "https://books.google.com/books/content?id=WI2nZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Ermittler in Weiß",
+    "subtitle": "Tote sagen aus. Ein Tatsachenbericht",
+    "authors": [
+      "Dürwald, Wolfgang"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2002",
+    "isbn": "9783453197046",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Die Geschichten, die der Tod schreibt, sind nicht immer einfach zu verstehen: Gerichtsmediziner Wolfgang Dürwald schildert Erfahrungen aus seinem außergewöhnlichen Beruf und beschreibt, wie in vielen Kriminalfällen oft erst durch die Obduktion die wirkliche Todesursache geklärt werden kann.",
+    "pageCount": "284",
+    "thumbnail": "https://covers.openlibrary.org/b/id/2206088-L.jpg",
+    "read": true,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Es geschah nebenan",
+    "subtitle": "Die unfassbare Geschichte einer Mutter",
+    "authors": [
+      "Egginton, Joyce"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1994",
+    "isbn": "9783453075825",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "In vierzehn Jahren wird Marybeth Tinning neunmal Mutter. Doch ihre Kinder sterben früh - alle neun, eins nach dem anderen. Die Ärzte sind ratlos. Böses vermutet niemand - weder die Polizei noch Sozialarbeiter, noch die Nachbarn. Sechsmal wird eine Autopsie durchgeführt - es gibt keinerlei Anzeichen von Misshandlung. Doch am Ende kommt die unbegreifliche Wahrheit über die schreckliche Todesserie ans Licht.",
+    "pageCount": "430",
+    "thumbnail": "https://m.media-amazon.com/images/I/51erY7vmFvL._SY342_.jpg",
+    "read": true,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Die Hundeesser von Svinia",
+    "subtitle": "",
+    "authors": [
+      "Gauß, Karl-Markus"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783552052925",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "In der Slowakei gibt es etwa 300 Slums. Unter ihnen gilt Svinia als Vorhölle. Dort leben 700 Roma, die Ärmsten der Armen, ausgestoßen, vertrieben, von allen, sogar von anderen Roma verachtet, weil sie als »Hundeesser« gelten. Sie leben ohne jede Perspektive unter Umständen, die für Europäer gar nicht mehr vorstellbar sind. Karl-Markus Gauß, der Chronist des randständigen Europa, hat sie besucht. »Dort, wo das größte Elend herrscht«, stieß er immer wieder »auf eine rätselhafte Lebenskraft«.",
+    "pageCount": "128",
+    "thumbnail": "https://books.google.com/books/content?id=oPxlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Bauchentscheidungen",
+    "subtitle": "Die Intelligenz des Unbewussten und die Macht der Intuition",
+    "authors": [
+      "Gigerenzer, Gerd"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2007",
+    "isbn": "9783570009376",
+    "category": "Sachbuch",
+    "genre": "Psychologie",
+    "description": "»Das Herz hat seine Gründe, die der Verstand nicht kennt«, schrieb Blaise Pascal bereits im 17. Jahrhundert. Die Wissenschaft scheute lange die »Herzensgründe« oder auch Bauchentscheidungen wie der Teufel das Weihwasser. Aber: Gute Entscheidungen basieren oft auf einer unbewussten Intelligenz, die sehr schnell operiert und gerade in komplexen Situationen faszinierend einfach ist, sicher im Erkennen des Wesentlichen und logischen Abwägungen weit überlegen.",
+    "pageCount": "283",
+    "thumbnail": "https://books.google.com/books/content?id=RPRIGQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Klick",
+    "subtitle": "Wie wir in einer digitalen Welt die Kontrolle behalten und die richtigen Entscheidungen treffen",
+    "authors": [
+      "Gigerenzer, Gerd"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2021-09-13",
+    "isbn": "9783641277369",
+    "category": "Sachbuch",
+    "genre": "Psychologie",
+    "description": "Was genau zeichnen die smarten Geräte bei uns zu Hause auf? Gehört dem autonomen Fahren die Zukunft? Wo entscheiden Algorithmen besser als der Mensch, wo aber nicht? Und wie groß ist die Chance wirklich, beim Online-Dating den Partner fürs Leben zu finden? Der weltweit renommierte Psychologe und Risikoforscher Gerd Gigerenzer beschreibt anhand vieler konkreter Beispiele, wie wir die Chancen und Risiken der digitalen Welt für unser Leben richtig einschätzen und uns vor den Verlockungen sozialer Medien schützen können.",
+    "pageCount": "293",
+    "thumbnail": "https://books.google.com/books/content?id=WxsnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Nürnberger Tagebuch",
+    "subtitle": "Gespräche der Angeklagten mit dem Gerichtspsychologen",
+    "authors": [
+      "Gilbert, Gustave Mark"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1987",
+    "isbn": "9783596218851",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Vom ersten Tag des Nürnberger Hauptkriegsverbrecher-Prozesses an unterhielt sich der Autor, der als Gerichtspsychologe hinzugezogen wurde, mit jedem der Angeklagten unter vier Augen. Seine ausführlichen Gespräche hielt er in einem exakt geführten Tagebuch fest. Das Buch enthält ungekürzt wichtige sachliche sowie atmosphärische Hintergrundinformationen über die Reaktion der Hauptangeklagten auf das Verfahren. Es gelang damals dem erfahrenen Psychologen, das Vertrauen der Häftlinge zu gewinnen. Mit all ihren subalternen Rechtfertigungsversuchen, mit politischen Halbwahrheiten und zynischen Erklärungen enthüllten sie ihm ihre wahren Charaktere.",
+    "pageCount": "472",
+    "thumbnail": "https://books.google.com/books/content?id=eLiQ5u3M1mUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg",
+      "Holocaust"
+    ]
+  },
+  {
+    "title": "Die geheimnisvollen Visionen des Herrn S.",
+    "subtitle": "Ein physikalisches Märchen nach Charles Dickens",
+    "authors": [
+      "Gilmore, Robert"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1996-08-28",
+    "isbn": "9783764353353",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Dieses Buch erzählt, wie geisterhafte Wesen Herrn Scrooge auf eine Reise durchs Universum führen und ihm Bilder zeigen, die die Theorien der Physik veranschaulichen. Die Botschaft der Geister ist nicht immer vollkommen schlüssig, denn sie beschreiben das Bild, das die Wissenschaft unsere Wissenschaft von der Welt entwirft. Die Wissenschaft verändert von Zeit zu Zeit leicht ihr Bild von der Welt. Die Aussagen früherer Besucher werden abgewandelt von denen, die nach ihnen kommen. Das liegt in der Natur der Wissenschaft. Ältere Theorien, auch gut fundierte, stellen sich unter bestimmten Bedingungen nur als Annäherungen an neuere (und in der Regel ungewöhnlichere) Weltbilder heraus. Am Ende dieser Folge von Besuchen liegt Ihnen vielleicht die Frage auf den Lippen: Was ist die endgültige Wahrheit? Das ist eine vernünftige Frage, aber wie kann ich die Antwort wissen?",
+    "pageCount": "260",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8540443-L.jpg",
+    "read": true,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "155. Kriminalfall Kaprun",
+    "subtitle": "",
+    "authors": [
+      "Godeysen, Hubertus",
+      "Uhl, Hannes"
+    ],
+    "isbn": "9783990010761",
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014",
+    "description": "Sie ist inzwischen im Ruhestand, doch der Prozess nach der Seilbahnkatastrophe von Kaprun, der ohne Schuldsprüche endete, ließ ihr keine Ruhe. Als der Vater eines Opfers viele Jahre danach sie der Mitschuld an der großen staatlichen Vertuschung bezichtigte, konnte sie das nicht mehr hinnehmen. So brach die ehemalige Staatsanwältin das Schweigen, das seit Jahren über der Kaprun-Katastrophe lag, und unterstützte die beiden Journalisten Hubertus Godeysen und Hannes Uhl gemeinsam mit anderen Insidern bei der tabulosen Aufarbeitung der Katastrophe. Die beiden deklarierten Kaprun-Aufdecker präsentieren ihre seit über fünf Jahren erarbeiteten Recherchen und ziehen jetzt den Schleier von den Ereignissen, den Gerichte und Anwälte sorgsam darüber ausgebreitet haben. Sie erinnern mit schmerzhafter Detailtreue an das Drama der Opfer und ihrer Angehörigen und geben Einblicke in die Funktionsweise einer Republik, in der die Wahrheit auch vor Gericht keine Kategorie zu sein scheint.",
+    "thumbnail": "https://books.google.com/books/content?id=Nl_engEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "pageCount": "192",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "rating": 5,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Das Verbrechen",
+    "subtitle": "Die wahre Geschichte hinter der spektakulärsten Mordserie Amerikas",
+    "authors": [
+      "Grann, David"
+    ],
+    "isbn": "9783442757268",
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-04-25",
+    "description": "In den 1920ern hatten nicht die Bewohner von New York oder Paris das höchste Pro-Kopf-Einkommen: die reichsten Menschen der Welt waren die Osage-Indianer im amerikanischen Bundesstaat Oklahoma. Das karge Land, das ihnen als Reservat zugewiesen worden war, barg gigantische Ölvorkommen, die ihnen ein Leben in ungeahntem Luxus ermöglichten. Doch der Reichtum brachte den Osage kein Glück: Eine mysteriöse Serie von Morden nahm ihren Anfang, der schließlich mehr als 300 Stammesmitglieder zum Opfer fallen sollten – sie wurden vergiftet, erschlagen oder erschossen.",
+    "thumbnail": "https://m.media-amazon.com/images/I/61xcafkWrTL._SL1020_.jpg",
+    "read": true,
+    "pageCount": "288",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Moskau",
+    "subtitle": "",
+    "authors": [
+      "Plievier, Theodor"
+    ],
+    "series": "Ost-Trilogie",
+    "volume": "1",
+    "publishedDate": "1952",
+    "isbn": "keine Isbn",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "In dem erbarmungslosen Winter des Jahres 1941\nhat sich im Vorfeld Moskaus das Schicksal\nDeutschlands und Rußlands und damit Europas\nentschieden. Theodor Plievier hat dieses dramatische\nGeschehen in seinem Dokumentar-Roman\nMoskau gestaltet. Das Thema ist hier noch weiter\ngespannt als in Stalingrad. Plievier zeigt uns zwei\nVölker im Kriege, Soldaten und Zivilisten, Führer\nund Geführte, Frauen und Kinder, die Hybris und\ndie Menschenverachtung der Machthaber und die\nerschütternden Schicksale derer, die aus Pflicht\noder Treue den Gesetzen und Befehlen folgten.\nDas Geschehen spielt in den endlosen Räumen\nzwischen dem deutschen Hauptquartier in Ostpreußen\nund der fernen Wolga, weit hinter\nMoskau. In den Hauptquartieren, im Zentrum der\nSchlachten, in den Kellern unter dem Bombenhagel,\nin Wäldern und kleinen Dörfern, erleben wir\ndie dramatischen Stunden, die das Schicksal eines\nKontinents bestimmten.",
+    "pageCount": "444",
+    "thumbnail": "https://www.buchfreund.de/produkt-bilder-lg/98202655/1/moskau.jpg",
+    "read": true,
+    "addedAt": 1747419108415,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ]
+  },
+  {
+    "title": "Stalingrad",
+    "subtitle": "",
+    "authors": [
+      "Plievier, Theodor"
+    ],
+    "series": "Ost-Trilogie",
+    "volume": "2",
+    "publishedDate": "1959",
+    "isbn": "keine Isbn",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Theodor Plieviers Roman Stalingrad, in 26 Sprachen übersetzt und seit seinem Erscheinen ein Bestseller, ist unbestritten das bedeutendste dokumentarische Epos über den Zweiten Weltkrieg. Es verdankt seine unübertroffene Authentizität dem Umstand, dass Plievier, damals Emigrant in Moskau, die Überlebenden der 6. Armee in Gefangenenlagern interviewen konnte. Seine schonungslose Beschreibung der Schlacht und des Versagens der militärischen Führung ist nicht nur eine politische und moralische Abrechnung mit dem Größenwahn und der Menschenverachtung des Hitlerregimes, sondern auch ein entschiedenes Plädoyer für den Frieden und ein Appell gegen das Vergessen.",
+    "pageCount": "464",
+    "thumbnail": "https://d3525k1ryd2155.cloudfront.net/h/266/766/315766266.0.x.1.jpg",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ],
+    "addedAt": 1747419854029
+  },
+  {
+    "title": "Berlin",
+    "subtitle": "",
+    "authors": [
+      "Plievier, Theodor"
+    ],
+    "series": "Ost-Trilogie",
+    "volume": "3",
+    "publishedDate": "1954",
+    "isbn": "keine Isbn",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Frühling 1945. In einer Apokalypse aus Kämpfen, Massakern und Vergewaltigungen endet der Zweite Weltkrieg in den Ruinen Berlins. Während Hitler, in seinem Bunker eingeschlossen, weiterhin Entsatzarmeen herbeiruft, die es nicht mehr gibt, marschiert die Rote Armee in die Stadt ein und unterwirft die Bevölkerung. Ihre Tyrannei löst die vorherige ab.",
+    "pageCount": "589",
+    "thumbnail": "https://m.media-amazon.com/images/I/71DT0YJQCNL._AC_UF894,1000_QL80_.gif",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ],
+    "addedAt": 1747432594450
+  },
+  {
+    "title": "Anmerkungen zu Hitler",
+    "subtitle": "",
+    "authors": [
+      "Haffner, Sebastian"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1981",
+    "isbn": "9783596234899",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "In seinen scharfsinnigen Analysen zeigt Haffner, dass es keinen vorherbestimmten Weg in die Katastrophe des Nationalsozialismus gab. Vielmehr waren es einzelne Entscheidungen und Persönlichkeiten, allen voran Adolf Hitler selbst, die den Lauf der Geschichte maßgeblich prägten. Haffners Werk ist eine eindringliche Mahnung, die Macht des Einzelnen nicht zu unterschätzen und die Lehren aus der Vergangenheit stets wachsam im Blick zu behalten.",
+    "pageCount": "168",
+    "thumbnail": "https://books.google.com/books/content?id=maYqAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1747433010574,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ]
+  },
+  {
+    "title": "Geschichte eines Deutschen",
+    "subtitle": "Die Erinnerungen 1914-1933",
+    "authors": [
+      "Haffner, Sebastian"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-10-29",
+    "isbn": "9783641155537",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "Einer der aufschlussreichsten Texte über Deutschland in der Zeit nach dem Ersten Weltkrieg bis zur Errichtung des NS-Diktatur – ein einzigartiges Zeitzeugnis und hellsichtiger Blick auf die sich anbahnende Katastrophe des Nationalsozialismus Als Kind und junger Mann erlebte Sebastian Haffner den Ersten Weltkrieg, die galoppierende Inflation 1923, die Radikalisierung der politischen Parteien in der Weimarer Republik, den unaufhaltsamen Aufstieg der Nationalsozialisten. Ohne politisch oder rassisch verfolgt zu sein, emigrierte er 1938 nach England. Aus seinem Nachlass stammen diese Erinnerungen an seine ersten drei Lebensjahrzehnte, die Haffner 1939 in England zu Papier gebracht hatte. Aus der Distanz des Exils und zugleich unter dem Eindruck des unmittelbar Erlebten blickt der angehende Journalist und Publizist auf die sich anbahnende Katastrophe.",
+    "pageCount": "334",
+    "thumbnail": "https://books.google.com/books/content?id=GwgTBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747433287673,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ]
+  },
+  {
+    "title": "Eine kurze Geschichte der Menschheit",
+    "subtitle": "",
+    "authors": [
+      "Harari, Yuval Noah"
+    ],
+    "isbn": "9783641104986",
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-09-02",
+    "description": "Vor 100 000 Jahren war der Homo sapiens noch ein unbedeutendes Tier, das unauffällig in einem abgelegenen Winkel des afrikanischen Kontinents lebte. Unsere Vorfahren teilten sich den Planeten mit mindestens fünf weiteren menschlichen Spezies, und die Rolle, die sie im Ökosystem spielten, war nicht größer als die von Gorillas, Libellen oder Quallen. Vor 70 000 Jahren dann vollzog sich ein mysteriöser und rascher Wandel mit dem Homo sapiens, und es war vor allem die Beschaffenheit seines Gehirns, die ihn zum Herren des Planeten und zum Schrecken des Ökosystems werden ließ. Bis heute hat sich diese Vorherrschaft stetig zugespitzt: Der Mensch hat die Fähigkeit zu schöpferischem und zu zerstörerischem Handeln wie kein anderes Lebewesen.",
+    "thumbnail": "https://books.google.com/books/content?id=2RhBAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "pageCount": "497",
+    "addedAt": 1747433676174,
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Mitternacht in Tschernobyl",
+    "subtitle": "Die geheime Geschichte der größten Atomkatastrophe aller Zeiten",
+    "authors": [
+      "Higginbotham, Adam"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2019-11-27",
+    "isbn": "9783104038254",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "In seinem Tschernobyl-Thriller deckt Adam Higginbotham auf, was wirklich geschah. Mit großer Erzählkunst und basierend auf intensiver Recherche zeichnet er nach, wie am frühen Morgen des 26. April 1986 der Reaktor 4 des Kernkraftwerks in Tschernobyl explodierte und die schlimmste Atomkatastrophe der Geschichte auslöste. Seither gehört Tschernobyl zu den kollektiven Albträumen der Welt: eine gefährliche Technologie, die aus den Rudern läuft, die ökologische Zerbrechlichkeit und ein ebenso verlogener wie unachtsamer Staat, der nicht nur seine eigenen Bürger, sondern die gesamte Menschheit gefährdet. Wie und warum es zu der Katastrophe kam, war lange unklar. Adam Higginbotham hat zahllose Interviews mit Augenzeugen geführt, Archive durchforstet, bislang nicht veröffentlichte Briefe und Dokumente gesichtet. So bringt er Licht in die Geschichte, die bislang im Sumpf von Propaganda, Geheimhaltung und Fehlinformationen verborgen lag. Erschütternd, packend: »Wie ein Thriller.« Luke Harding",
+    "pageCount": "668",
+    "thumbnail": "https://books.google.com/books/content?id=L-yUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747433910648,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Sechs Pflanzen verändern die Welt",
+    "subtitle": "Chinarinde, Zuckerrohr, Tee, Baumwolle, Kartoffel, Kokastrauch",
+    "authors": [
+      "Hobhouse, Henry"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2001",
+    "isbn": "9783608910247",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Diese Natur- und Kulturgeschichte ist den unbeachteten Helden der Geschichte gewidmet: den Pflanzen, denen die Menschen ihr Überleben verdanken. Der Chinarinde, dem Zuckerrohr, dem Tee, der Kartoffel, der Baumwolle und dem Koka-Strauch aber verdankt die Menschheit viele entscheidende Durchbrüche bei der Kolonisierung der Erde.",
+    "pageCount": "400",
+    "thumbnail": "https://books.google.com/books/content?id=RKzcswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1747434091560,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Handbuch gegen Vorurteile",
+    "subtitle": "Von Auschwitzlüge bis Zuwanderungstsunami",
+    "authors": [
+      "Horaczek, Nina",
+      "Wiese, Sebastian"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-04-10",
+    "isbn": "9783707603934",
+    "category": "Sachbuch",
+    "genre": "Politik",
+    "description": "Ausländerpolitik, Islam, EU und Nationalsozialismus. Zu diesen Themen hat jeder eine Meinung. Zu diesen Themen haben aber auch Vorurteile Konjunktur: Oft ist man sprachlos ob der geäußerten Meinungen, hat aber objektive Daten und Fakten nicht zur Hand. Dem Leser des vorliegenden Handbuchs gegen Vorurteile wird das nicht mehr passieren. Nina Horaczek und Sebastian Wiese untersuchen mehr als 50 gängige Vorurteile und Geschichtsverharmlosungen auf ihren Wahrheitsgehalt. Ergebnis umfangreicher Recherchen ist eine umfassende und objektive Auseinandersetzung mit den unterschiedlichsten Vorurteilen, die zahlreiche Überraschungen bietet.",
+    "pageCount": "291",
+    "thumbnail": "https://books.google.com/books/content?id=Lfp3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747434347787,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Bis zur letzten Stunde",
+    "subtitle": "Hitlers Sekretärin erzählt ihr Leben",
+    "authors": [
+      "Junge, Traudl",
+      "Müller, Melissa"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-11-30",
+    "isbn": "9783843705820",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "Traudl Junge war 22 und träumte von einer Karriere als Tänzerin als sie die »Chance ihres Lebens« bekam: Adolf Hitler bat die junge Sekretärin zum Diktat. Von 1942 bis zu Hitlers Tod war sie stets an seiner Seite, tippte seine Reden, seine Briefe und sogar sein so genanntes »privates« und »politisches« Testament.",
+    "pageCount": "296",
+    "thumbnail": "https://books.google.com/books/content?id=5TscAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747434477149,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ]
+  },
+  {
+    "title": "3096 Tage",
+    "subtitle": "",
+    "authors": [
+      "Kampusch, Natascha",
+      "Gronemeier, Heike",
+      "Milborn, Corinna"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010",
+    "isbn": "9783471350409",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Natascha Kampusch erlitt das schrecklichste Schicksal, das einem Kind zustoßen kann: Am 2. März 1998 wurde sie im Alter von zehn Jahren auf dem Schulweg entführt. Ihr Peiniger, der Nachrichtentechniker Wolfgang Priklopil, hielt sie in einem Kellerverlies gefangen - 3096 Tage lang. Am 23. August 2006 gelang ihr aus eigener Kraft die Flucht. Priklopil nahm sich noch am selben Tag das Leben. Jetzt spricht Natascha Kampusch zum ersten Mal offen über die Entführung, die Zeit der Gefangenschaft, ihre Beziehung zum Täter und darüber, wie es ihr gelang, der Hölle zu entkommen.",
+    "pageCount": "296",
+    "thumbnail": "https://books.google.com/books/content?id=0q9CAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1747434568531,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Rikscha-Fahrer, der das Glück verschenkt",
+    "subtitle": "",
+    "authors": [
+      "Kattilathu, Biyon"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2019-09-02",
+    "isbn": "9783833872242",
+    "category": "Ratgeber",
+    "genre": "Lebensführung",
+    "description": "Biyon Kattilathu, Kind indischer Einwanderer, ist DER Motivations-Entertainer im digitalen Raum. Beflügelt von seiner eigenen Geschichte, hat er in kürzester Zeit die Social-Media-Bühne erobert und über seine Kanäle Menschen in Scharen begeistert. Erstmals wendet er sich nun in Buchform an seine Fans: Die Hauptfigur in seinem erzählten Ratgeber ist ein indischer Rikscha-Fahrer. So wie Biyon in seiner Eigenschaft als Speaker und Lebenslehrer, hilft der Rikscha-Fahrer ganz nebenbei auf der Fahrt jedem seiner Gäste bei wichtigen Lebensproblemen. In 7 Kapiteln bzw. Episoden werden die wichtigsten Lebensthemen behandelt, die uns Menschen umtreiben. Es geht um Liebe und Verlust, um Angst und Mut, um Verletzlichkeit und Selbstliebe, um Aufrichtigkeit und das konsequente Verfolgen unserer Lebensziele sowie die Kraft, zu uns zu stehen und Entscheidungen zu treffen, die uns stark machen für die Herausforderungen des Lebens.",
+    "pageCount": "194",
+    "thumbnail": "https://books.google.com/books/content?id=ALeZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747434674498,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Die Tagebücher der Schöpfung",
+    "subtitle": "Vom Urknall zum geklonten Menschen",
+    "authors": [
+      "Klein, Stefan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2000",
+    "isbn": "9783423242073",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Wie entstand die Welt? Was ist Leben? Was bedeutet Bewusstsein? Die unglaublichen Fortschritte, die Forscher in den letzten Jahrzehnten in der Physik, in der Evolutionsbiologie, in den Neurowissenschaften und in der Gentechnologie gemacht haben, erlauben ganz neue Antworten auf diese alten Fragen der Menschheit. Stefan Klein zeichnet die aufregende Chronik der Schöpfung nach und berichtet vom aktuellen Stand der Forschung.",
+    "pageCount": "217",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783423341547-us.jpg",
+    "read": true,
+    "addedAt": 1747503109993,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Zeit, gehört zu werden",
+    "subtitle": "",
+    "authors": [
+      "Knox, Amanda"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013",
+    "isbn": "9783426276068",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Es war ein bestialischer Mord. Am 1. November 2007 wurde in Perugia die britische Austauschstudentin Meredith Kercher in ihrer Wohnung vergewaltigt und brutal abgeschlachtet. Im Fokus der Ermittlungen stand sofort Merediths amerikanische Mitbewohnerin Amanda Knox. Gemeinsam mit ihrem Freund Raffaele Sollecito und einem Afrikaner soll sie die Bluttat begangen haben. In einem spektakulären Indizienprozess wurde Amanda Knox schuldig gesprochen und zu 26 Jahren Haft verurteilt. Doch die Ermittlungen waren durch schwere Pannen und massive mediale Vorverurteilungen gekennzeichnet. In einem Berufungsverfahren im Oktober 2011 wurde dann die Beweisführung der Anklage verworfen – Amanda war endlich wieder frei und konnte in ihre Heimat ausreisen.\nNun meldet sie sich zu Wort und erzählt, wie sie Opfer eines Justizskandals wurde. Sie berichtet über die beispiellose Hexenjagd und die rüden Verhörmethoden der italienischen Polizei; über ihre seelischen Qualen während des Prozesses und der über 1400 Tage im Gefängnis. Sie erzählt aber auch von dem starken Rückhalt, den sie von ihrer Familie, ihren Freunden und vielen Unbekannten aus aller Welt erfahren hat.\nEs ist die Geschichte einer jungen Frau, die fast für ein Verbrechen gebüßt hätte, das sie nicht begangen hat.",
+    "pageCount": "504",
+    "thumbnail": "https://books.google.com/books/content?id=nWYpkgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1747503409182,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der SS-Staat",
+    "subtitle": "Das System der deutschen Konzentrationslager",
+    "authors": [
+      "Kogon, Eugen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1988",
+    "isbn": "keine Isbn",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Kogons einzigartiger Bericht stützt sich auf 150 Einzelprotokolle und Eigenerlebnisse als Inhaftierter. Wiederholt wollte der Autor sein Manuskript vernichten, so furchtbar war sein Inhalt. Aber er verwirklichte seine Absicht, die nackte Wahrheit zu schildern, objektiv, nichts zu verändern, nichts zu beschönigen und nichts zu verschweigen. So entstand ein historisches Werk ersten Ranges, das die Öffentlichkeit zum ersten Mal mit einer bis dahin für unvorstellbar gehaltenen Wirklichkeit und einem der dunkelsten Kapitel der deutschen Geschichte konfrontierte.",
+    "pageCount": "432",
+    "thumbnail": "https://m.media-amazon.com/images/I/712-35Bc1lL._SL1500_.jpg",
+    "read": false,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg",
+      "Holocaust"
+    ],
+    "addedAt": 1747503694235
+  },
+  {
+    "title": "Gespräche",
+    "subtitle": "",
+    "authors": [
+      "Konfuzius"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-12-22",
+    "isbn": "9783104019215",
+    "category": "Sachbuch",
+    "genre": "Philosophie",
+    "description": "Konfuzius kannte die Schwächen der Menschen: »Der Meister sprach: ›Ich habe noch keinen gesehen, der moralischen Wert liebt ebenso, wie er die Frauenschönheit liebt.‹« Mit seinen poetischen Sentenzen legt Konfuzius nicht nur den Finger in die Wunde, seine ›Gespräche‹ sind zu einem der einflussreichsten Werke der Weltliteratur geworden. Was für den Einzelnen gilt, wendet er auch an auf Familie, Gesellschaft und Politik: »Der Fürst von Schê fragte nach dem Wesen der Regierung. Der Meister sprach: ›Wenn die Nahen erfreut werden und die Fernen herankommen.‹«",
+    "pageCount": "550",
+    "thumbnail": "https://books.google.com/books/content?id=1n9vAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747503794381,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Einbruch in die Freiheit",
+    "subtitle": "",
+    "authors": [
+      "Krishnamurti, Jiddu"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2021-03-09",
+    "isbn": "9783968612393",
+    "category": "Sachbuch",
+    "genre": "Philosophie",
+    "description": "„Einbruch in die Freiheit” ist wahrscheinlich das tiefste und inspirierendste aller Bücher von Krishnamurti. Es enthält zu allen wichtigen Fragen des menschlichen Lebens wegweisende Antworten, die in ihrer Tiefe und Wahrheit wohl nur noch mit der “Bergpredigt” oder der “Bhagavad Gita” verglichen werden können. Kein spiritueller Lehrer des 20. Jahrhunderts hat in solcher Klarheit und Radikalität über den geistigen Pfad gesprochen wie Krishnamurti. Er führt den Menschen in unbestechlicher Lauterkeit zu sich selbst. Niemand vermag zur Zeit unmissverständlicher und erhellender über Liebe und Freiheit, Tod und Wiedergeburt, Angst und Sexualität, Intelligenz und Moral, Erziehung oder Lebenssinn zu sprechen als Krishnamurti.",
+    "pageCount": "138",
+    "thumbnail": "https://books.google.com/books/content?id=R5kiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747503948726,
+    "rating": 2,
+    "tags": [
+      "Esoterik"
+    ]
+  },
+  {
+    "title": "Österreichs Geschichte",
+    "subtitle": "Wissenswertes in 99 Fragen",
+    "authors": [
+      "Kugler, Georg",
+      "Wolfram, Herwig"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-02-27",
+    "isbn": "9783800079568",
+    "category": "",
+    "genre": "",
+    "description": "In diesem Buch versammeln die renommierten und bekannten Historiker Georg Kugler und Herwig Wolfram die wichtigsten und spannendsten 99 Fragen zur österreichischen Geschichte. \"Woher kommt der Titel Erzherzog in Österreich?\", \"Wie kam Österreich zu seinem Namen, was bedeutet er und wo ist er entstanden?\" sind nur zwei der Fragen, die die Autoren beantworten und damit einen Bogen vom Beginn Österreichs bis heute spannen. Sachkundig und kompakt!",
+    "pageCount": "165",
+    "thumbnail": "https://books.google.com/books/content?id=CGN4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747504089346,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "635 Tage im Eis",
+    "subtitle": "Die Shackleton-Expedition -",
+    "authors": [
+      "Lansing, Alfred"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-11-30",
+    "isbn": "9783641211059",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "Am Anfang steht der Plan von der erstmaligen Durchquerung des weißen Kontinents. Doch das gewaltige Naturwunder Antarktis wird im Jahr 1915 für die Crew der 'Endurance' zur Hölle aus Eis. Beharrlich verfolgt Expeditionsleiter Sir Ernest Shackleton bald nur noch ein Ziel: 28 Männer lebend wieder in die Zivilisation zurückzubringen. Die faszinierende Geschichte einer Irrfahrt ans Ende der Welt.",
+    "pageCount": "331",
+    "thumbnail": "https://books.google.com/books/content?id=92uSDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747504146733,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Eiskalter Tod",
+    "subtitle": "Unfall oder Verbrechen?",
+    "authors": [
+      "Leake, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-01-29",
+    "isbn": "9783701743353",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Im August 1989 verschwindet der Profi-Eishockeyspieler Duncan MacPherson am Stubaier Gletscher in Tirol. Laut Behörden hat er das Skigebiet verlassen und ist beim Wandern verunglückt. Doch 14 Jahre später gibt das Eis die Leiche frei: mitsamt dem Snowboard, mitten auf der Piste. Der Fall wird dennoch geschlossen. Die Eltern des jungen Kanadiers kämpfen seither gegen ein Dickicht aus Lügen, widersprüchlichen Aussagen, krassen Ermittlungsfehlern - und gegen menschliche Kälte. Wie starb Duncan tatsächlich?",
+    "pageCount": "346",
+    "thumbnail": "https://books.google.com/books/content?id=o3x3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747504294937,
+    "rating": 5,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Das Mädchen im roten Mantel",
+    "subtitle": "",
+    "authors": [
+      "Ligocka, Roma"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-01-04",
+    "isbn": "9783426420010",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "In Krakau wird 1938 ein kleines Mädchen geboren, während in Deutschland die Synagogen brennen. Sie ist noch kein Jahr alt, als ihre Eltern den Judenstern tragen müssen. Die erste Realität, die sie kennenlernt, ist die Realität des Grauens - für sie die Normalität: Ihre Welt besteht aus Schreien, Schüssen und Toten. Mit den Augen eines Kindes beschreibt Roma Ligocka, wie aus einer Kindheit, die behütet und wohlhabend hätte sein sollen, ein Alptraum wird. Kurz vor der Liquidierung des Krakauer Ghettos kann sie mit ihrer Mutter fliehen. Der rote Mantel des Mädchens rettet ihnen das Leben, weil »die kleine Erdbeere« eine polnische Familie so rührt, dass sie den beiden Unterschlupf gewährt. Mit falschen Papieren und blond gefärbten Haaren überlebt die kleine Roma die Nazi-Zeit.",
+    "pageCount": "294",
+    "thumbnail": "https://books.google.com/books/content?id=wblsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747504397495,
+    "rating": 3,
+    "tags": [
+      "Holocaust"
+    ]
+  },
+  {
+    "title": "Ist Gott ein Mathematiker?",
+    "subtitle": "Warum das Buch der Natur in der Sprache der Mathematik geschrieben ist",
+    "authors": [
+      "Livio, Mario"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-03-01",
+    "isbn": "9783406616600",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Von der Antike bis in unsere Tage haben sich Wissenschaftler und Philosophen darüber gewundert, dass eine so abstrakte Disziplin wie die Mathematik die Natur derart perfekt erklären kann. Sogar mehr als das: Mathematiker haben oft Voraussagen gemacht, etwa über die Existenz bestimmter Teilchen, die sich später als richtig erwiesen haben. Was ist es, das der Mathematik solch unglaubliche Macht verleiht? Oder, wie Einstein sich einst fragte: „Wie ist es möglich, dass die Mathematik, die doch ein von aller Erfahrung unabhängiges Produkt des menschlichen Denkens ist, auf die Gegenstände der Welt so vortrefflich passt?“",
+    "pageCount": "370",
+    "thumbnail": "https://books.google.com/books/content?id=tiRBfR9Z33gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747504503129,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Deutsche Geschichte",
+    "subtitle": "",
+    "authors": [
+      "Mai, Manfred"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009",
+    "isbn": "9783407741448",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Die ganze deutsche Geschichte von den Germanen bis zur Gegenwart auf weniger als zweihundert Seiten zu erzählen ist ein mutiges, aber notwendiges Unterfangen. Jugendliche haben zwar Geschichtsunterricht, aber was das wirkliche Verstehen von Geschichte erst möglich macht - die Zusammenschau des Grossen und Ganzen -, steht erst an dessen Ende.",
+    "pageCount": "171",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1001733-L.jpg",
+    "read": true,
+    "addedAt": 1747504581463,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Weg zum Mars - Aufbruch in eine neue Welt",
+    "subtitle": "",
+    "authors": [
+      "Mamczak, Sascha",
+      "Pirling, Sebastian"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-10-12",
+    "isbn": "9783641173067",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Spätestens seit dem Welterfolg von Andy Weirs Bestseller Der Marsianer stellen sich viele Menschen nun die Frage: Wann fliegen wir zum Mars? Und vor allem: Wie kommen wir da hin? Diesen Fragen geht Der Weg zum Mars nach und trägt alles Wissenswerte, konkrete Planungen und die Visionen der Science-Fiction über die bemannte Marsmission zusammen: Wie weit sind wir wirklich auf dem Weg zum Mars?",
+    "pageCount": "225",
+    "thumbnail": "https://books.google.com/books/content?id=L6NpCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747504747690,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Mister Nice",
+    "subtitle": "",
+    "authors": [
+      "Marks, Howard"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1998",
+    "isbn": "9783933806000",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Mr Nice alias Howard Marks war der berühmteste Drogendealer der Welt. Nach einem Studium in Oxford vernebelte er in den Siebzigerjahren das Bermuda-Dreieck zwischen Irland, Großbritannien und Spanien mit Stoff aus Pakistan. In den Achtzigern besaß er 43 Decknamen, 89 Telefonanschlüsse und 25 Firmen. Nach seiner Verhaftung 1988 saß er sieben Jahre in Amerikas härtestem Knast ein. Seine Biographie klingt unglaublich und ist doch wahr.",
+    "pageCount": "464",
+    "thumbnail": "https://books.google.com/books/content?id=C9nrQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1747504815550,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Land ohne Eigenschaften",
+    "subtitle": "Essay zur österreichischen Identität",
+    "authors": [
+      "Menasse, Robert"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1993",
+    "isbn": "9783854490470",
+    "category": "Sachbuch",
+    "genre": "Politik",
+    "description": "Kein Land der Welt hat sich selbst öffentlich so wenig problematisiert und grundsätzlich reflektiert wie die Zweite österreichische Republik. Dies ist einer der Ansatzpunkte für Robert Menasse, der sich in seinem neuen Essay-Band auf die Suche nach der österreichischen Identität begibt. Mit Detailverliebtheit in seinen Recherchen und mit der Fähigkeit, in großen Zusammenhängen zu denken, wendet er sich den Themen Neutralität und Staatsvertrag, Bundeshymne und Staatswappen, EG-Beitritt und Sozialpartnerschaft zu.",
+    "pageCount": "140",
+    "thumbnail": "https://pictures.abebooks.com/inventory/31709101602.jpg",
+    "read": true,
+    "addedAt": 1747504909792,
+    "rating": 5,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Vom Mann, der mit zwei Flaschen Whiskey den Untergang der Titanic überlebte",
+    "subtitle": "In kuriosen Anekdoten durch die Weltgeschichte",
+    "authors": [
+      "Milton, Giles"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2020-08-20",
+    "isbn": "9783710950872",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Manchmal wirkt die Realität absurder als jede fiktive Erzählung: Hätten Sie beispielsweise gewusst, dass in Großbritannien einst ein Crossdresser für riesige Wetteinsätze sorgte? Oder dass Sir Arthur Conan Doyle ein Medium nach Agatha Christie suchen ließ? Der britische Historiker Giles Milton verbringt viel Zeit mit der Recherche in Archiven und stößt dabei immer wieder auf Spannendes, Erheiterndes und Befremdliches. In diesem Buch hat er die interessantesten historischen Anekdoten, über die er bisher gestolpert ist, zusammengetragen – alles wahr, alles unglaublich! Nächtliche Besuche bei der Queen und das Ende der Dodos Wer hätte gedacht, dass es einem Laien ohne kriminelle Vorgeschichte gelingen könnte, in den Buckingham Palace einzubrechen – und das gleich mehrmals? Ebenso unglaublich scheint, dass die Mona Lisa ihre Berühmtheit hauptsächlich einem Diebstahl verdankt. Und damit nicht genug an Kuriosem: Dodos sind nur ausgestorben, weil sie eine leichte Jagdbeute darstellten, obwohl sie geschmacklich eher eine Enttäuschung waren.",
+    "pageCount": "202",
+    "thumbnail": "https://books.google.com/books/content?id=BbLnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747527152118,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Licht von drüben",
+    "subtitle": "Neue Fragen und Antworten",
+    "authors": [
+      "Moody, Raymond A."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2019-03-26",
+    "isbn": "9783644004184",
+    "category": "",
+    "genre": "",
+    "description": "Der Arzt Raymond A. Moody hat mit seinem Sachbuchbestseller «Leben nach dem Tod» in vielen Ländern der Welt den Anstoß gegeben zu intensiver Sterbe- und Todesnäheforschung (Thanatologie). Aus über 1000 Fallbeispielen wählte er die typischen und die verblüffendsten aus, um das von ihm formulierte Paradigma der Todesnähe-Erfahrung auszubauen und abzusichern.",
+    "pageCount": "279",
+    "thumbnail": "https://books.google.com/books/content?id=dHWODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747527334347,
+    "rating": 1,
+    "tags": []
+  },
+  {
+    "title": "Crashkurs",
+    "subtitle": "Weltwirtschaftskrise oder Jahrhundertchance? Wie Sie das Beste aus Ihrem Geld machen",
+    "authors": [
+      "Müller, Dirk"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009",
+    "isbn": "9783426275061",
+    "category": "Ratgeber",
+    "genre": "Wirtschaft",
+    "description": "Droht die wirtschaftliche Kernschmelze? Überall auf der Welt kämpfen Regierungen gegen den Staatsbankrott, Banken sind auf staatliche Garantien angewiesen, Börsenunternehmen gehen über Nacht pleite. Doch wer kümmert sich um das Geld der Bürger? Wer garantiert für das Ersparte, die Altersvorsorge, die Ausbildung der Kinder?\nDirk Müller klärt auf: über die Hintergründe der Krise, über Blender und Verführer. Und über die Chancen, die sich trotz allem für Ihr Geld bieten.",
+    "pageCount": "255",
+    "thumbnail": "http://books.google.com/books/content?id=MUJtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747602126699,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Bestie Mensch",
+    "subtitle": "Tarnung - Lüge - Strategie",
+    "authors": [
+      "Müller, Thomas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004-09-24",
+    "isbn": "9783711050298",
+    "category": "Sachbuch",
+    "genre": "Psychologie",
+    "description": "Trauen Sie sich zu, Lüge und Strategien des Bösen zu erkennen? Können wir davon ausgehen, dass wir der Bestie Mensch nie begegnen? Aber wir begegnen ihr tagtäglich, weil wir die Tarnung nicht erkennen und uns in der falschen Sicherheit wiegen, das Böse sei weit weg. \"Es gibt Menschen, die in Erfahrungswelten leben, die wir nicht betreten können\" meint Nobelpreisträger John Steinbeck. Und doch: Sie wandeln in den Schuhen jener, die in den gleichen Erfahrungswelten leben. Begleiten Sie jenen Mann ein Stück, der seit Jahren von den wahren Experten der Lüge, der Tarnung und des Betruges lernt.",
+    "pageCount": "254",
+    "thumbnail": "https://books.google.com/books/content?id=ejt3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747602390016,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "What if? Was wäre wenn?",
+    "subtitle": "Wirklich wissenschaftliche Antworten auf absurde hypothetische Fragen",
+    "authors": [
+      "Munroe, Randall"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-09-08",
+    "isbn": "9783641143114",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Antworten auf Fragen, die Sie sich vermutlich noch nie gestellt haben Wenn man eine zufällige Nummer wählt und »Gesundheit« sagt, wie hoch ist die Wahrscheinlichkeit, dass der Angerufene gerade geniest hat? Randall Munroe beantwortet die verrücktesten Fragen hochwissenschaftlich und umwerfend kreativ. Von der Anzahl an Menschen, die den täglichen Kalorienbedarf eines Tyrannosaurus decken würden bis zum Erlebnis, in einem Mondsee zu schwimmen: Illustriert mit Munroes berühmten Strichzeichnungen, bietet what if? originelle Unterhaltung auf höchstem Niveau. Jetzt in der Neuausgabe mit zusätzlichen Kapiteln.",
+    "pageCount": "461",
+    "thumbnail": "https://books.google.com/books/content?id=X0P3AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747602479598,
+    "rating": 3,
+    "tags": [
+      "Humor"
+    ]
+  },
+  {
+    "title": "Soldaten",
+    "subtitle": "Protokolle vom Kämpfen, Töten und Sterben",
+    "authors": [
+      "Neitzel, Sönke",
+      "Welzer, Harald"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-04-12",
+    "isbn": "9783104007922",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Dieses Buch legt auf einer einzigartigen Quellengrundlage erstmals eine überzeugende Mentalitätsgeschichte des Krieges vor. Auf der Grundlage von 150.000 Seiten Abhörprotokolle deutscher Soldaten in britischer und amerikanischer Gefangenschaft wird das Wissen um die Mentalität der Soldaten auf eine völlig neue Basis gestellt. In eigens eingerichteten Lagern wurden Kriegsgefangene aller Waffengattungen und Ränge heimlich abgehört. Sie sprachen über militärische Geheimnisse, über ihre Sicht auf die Gegner, auf die Führung und auch auf die Judenvernichtung. Das Buch liefert eine Rekonstruktion der Kriegswahrnehmung von Soldaten in historischer Echtzeit - eine ungeheuer materialreiche Innenansicht des Zweiten Weltkriegs durch jene Soldaten, die große Teile Europas verwüsteten.",
+    "pageCount": "559",
+    "thumbnail": "https://books.google.com/books/content?id=HkhtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747602613647,
+    "rating": 4,
+    "tags": [
+      "2. Weltkrieg"
+    ]
+  },
+  {
+    "title": "Die Ibiza-Affäre",
+    "subtitle": "Innenansichten eines Polit-Skandals, der Österreich erschütterte",
+    "authors": [
+      "Obermayer, Bastian",
+      "Obermaier, Frederik"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2019-08-22",
+    "isbn": "9783462316605",
+    "category": "Sachbuch",
+    "genre": "Politik",
+    "description": "Ibiza, Sommer 2017: Der FPÖ-Spitzenkandidat Heinz-Christian Strache und sein Parteifreund Johann Gudenus machen Urlaub. In einer luxuriösen Villa wird ihnen eine Falle gestellt: Eine angeblich steinreiche Russin behauptet, die Kronen Zeitung kaufen zu wollen. Mit ihrer Unterstützung könnte die FPÖ die Wahlen gewinnen – und Strache Kanzler werden. Sie will wissen: Was bekommt sie dafür? München, Frühsommer 2018: Die Investigativreporter Bastian Obermayer und Frederik Obermaier erfahren von einem Video, auf dem sich die beiden FPÖ-Politiker für Korruption offen zeigen sollen. Sie beginnen zu recherchieren: Was zeigen die Aufnahmen genau? Wer steckt dahinter? Und was bedeutet das für Österreich? Ein spannendes Lehrstück über Journalismus. Ein Blick hinter die Kulissen der Politik. Und eine spannende Geschichte über Vertrauen und Verrat.",
+    "pageCount": "251",
+    "thumbnail": "https://books.google.com/books/content?id=Sy2eDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747602714441,
+    "rating": 5,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Das Weltgeheimnis",
+    "subtitle": "",
+    "authors": [
+      "Padova, Thomas de"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-05-23",
+    "isbn": "9783492956987",
+    "category": "Sachbuch",
+    "genre": "Geschichte, Naturwissenschaft",
+    "description": "Im Jahre 1609 baut Galileo Galilei in Padua ein Teleskop, und Johannes Kepler veröffentlicht in Prag seine Planetengesetze. Thomas de Padova zeigt ihr Leben und die große Epochenwende in ganz neuem Licht. Glänzend geschrieben und gestützt auf den kaum beachteten spannungsvollen Briefwechsel der beiden so unterschiedlichen Forscher, erzählt er, wie sie gleichzeitig, doch jeder auf seine Art, nach den Sternen greifen.",
+    "pageCount": "370",
+    "thumbnail": "https://books.google.com/books/content?id=ZuMUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747602832096,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Lügendetektor",
+    "subtitle": "Vernehmungen im besiegten Deutschland 1944/45",
+    "authors": [
+      "Padover, Saul Kussiel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1999",
+    "isbn": "9783821841748",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Als unbewaffneter Offizier der Abteilung für Psychologische Kriegsführung interviewte Saul K. Padover in den Jahren 1944/45 die deutsche Bevölkerung, um deren Stimmung und Lage zu verstehen, um zu wissen, was in den Köpfen der Besiegten vor sich ging. Ziel dieser Gespräche war, an wichtige politisch-militärische Informationen zu kommen. Padover führte seine Interviews mit Vertretern aller Bevölkerungsschichten: Von der Bauerntochter bis zum Industriellen, vom Bischof bis zum Zwangsarbeiter, vom Nazibonzen bis zum kommunistischen Arbeiter kamen alle zu Wort. Die Auskünfte zeugen von Mut und kollektiver Depression, von Selbstmitleid und unbelehrbarer Arroganz und zeigen, dass die Deutschen noch keine Zeit gefunden hatten, sich komplizierte Ausreden zurechtzulegen – die Zeit der Verdrängung war noch nicht gekommen. Neben dem Gemütszustand der Deutschen berichtet Padover auch von den politischen Auseinandersetzungen innerhalb der Militärregierung und von den ersten Regungen einer deutschen Selbstverwaltung.",
+    "pageCount": "337",
+    "thumbnail": "http://books.google.com/books/content?id=tlnzAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1747602932002,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ]
+  },
+  {
+    "title": "Ich war Hitlerjunge Salomon",
+    "subtitle": "",
+    "authors": [
+      "Perel, Shlomo",
+      "Perel, Sally"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1992",
+    "isbn": "9783875844245",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "Bei Beginn des Blitzkriegs gegen Rußland fällt Sally in die Hände der deutschen Wehrmacht. Den sicheren Tod vor Augen, erklärt er: \"Ich bin Volksdeutscher\". Der Jude Sally Perel rettete sein Leben in der Haut des Feindes als Hitlerjunge Josef Perjell.",
+    "pageCount": "208",
+    "thumbnail": "https://books.google.com/books/content?id=5LwWAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1747603212438,
+    "rating": 4,
+    "tags": [
+      "2. Weltkrieg",
+      "Holocaust"
+    ]
+  },
+  {
+    "title": "Long Walk Home",
+    "subtitle": "Die wahre Geschichte einer Flucht quer durch die Wüste Australiens",
+    "authors": [
+      "Pilkington, Doris"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2003",
+    "isbn": "9783499235047",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "In den 1930er Jahren beginnen die australischen Behörden, Kinder weißer Väter ihren Aborigine-Müttern fortzunehmen und in Erziehungsanstalten einzuweisen. Auch Molly, Daisy und Grace werden verschleppt. Doch Heimweh und Misshandlungen lassen die drei Mädchen das Unmögliche wagen: Sie fliehen und laufen zu Fuß nach Hause.Quer durch die australische Wüste, verfolgt von den Häschern der Eingeborenenbehörde, immer am Kaninchenzaun entlang, der den Kontinent teilt. Ein halbes Jahrhundert später hat Mollys Tochter die bewegende Geschichte ihrer Mutter aufgeschrieben.",
+    "pageCount": "156",
+    "thumbnail": "https://books.google.com/books/content?id=F-DfAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1747603299324,
+    "rating": 3,
+    "tags": [
+      "Australien"
+    ]
+  },
+  {
+    "title": "Wer bin ich - und wenn ja, wie viele?",
+    "subtitle": "Eine philosophische Reise",
+    "authors": [
+      "Precht, Richard David"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2007",
+    "isbn": "9783442311439",
+    "category": "Sachbuch",
+    "genre": "Philosophie",
+    "description": "Was ist Wahrheit? Woher weiß ich, wer ich bin? Was darf die Hirnforschung? Prechts Buch schlägt einen weiten Bogen über die verschiedenen Disziplinen und ist eine beispiellose Orientierungshilfe in der schier unüberschaubaren Fülle unseres Wissens vom Menschen: Eine Einladung, lustvoll und spielerisch nachzudenken – über das Abenteuer Leben und seine Möglichkeiten!",
+    "pageCount": "397",
+    "thumbnail": "https://books.google.com/books/content?id=qdE7PAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1747603503465,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Ich bin der letzte Jude",
+    "subtitle": "",
+    "authors": [
+      "Rajchman, Chil"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-10-18",
+    "isbn": "9783492954167",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen; Geschichte",
+    "description": "Mit Chil Rajchmans Bericht aus Treblinka öffnet sich ein Zeitfenster in die Vergangenheit: Verfasst unmittelbar unter dem Eindruck der Erlebnisse, wurde dieser Text erst nach über 60 Jahren wiederentdeckt. Seine Veröffentlichung war eine zeitgeschichtliche Sensation. Rajchman beschreibt die Todesfabrik Treblinka, wie sie unzählige Menschen verschlingt, sie vernichtet. Aber er erzählt auch, wie es 1943 zu jenem Aufstand der Häftlinge kam, an dem er führend beteiligt war. Als einer der wenigen gelingt ihm die Flucht. Er überlebt. Und berichtet für uns, die Nachgeborenen, was er in der Hölle von Treblinka erlebte.",
+    "pageCount": "102",
+    "thumbnail": "https://books.google.com/books/content?id=K8MUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747603588943,
+    "rating": 5,
+    "tags": [
+      "Holocaust"
+    ]
+  },
+  {
+    "title": "Auschwitz",
+    "subtitle": "Geschichte eines Verbrechens",
+    "authors": [
+      "Rees, Laurence"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-08-12",
+    "isbn": "9783843701891",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "In dieser ebenso fundierten wie erschütternden Darstellung gelingt es Laurence Rees, dem Leser die unfaßbaren Geschehnisse des Holocaust nachvollziehbar vor Augen zu führen – mit einem beunruhigenden Fazit: Der Holocaust ist kein düsterer Alptraum, kein singulärer Exzeß, sondern Ergebnis der menschlichen Veranlagung.",
+    "pageCount": "404",
+    "thumbnail": "https://books.google.com/books/content?id=NgobAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1747604053123,
+    "rating": 5,
+    "tags": [
+      "Holocaust"
+    ]
   }
 ]
