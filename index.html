@@ -856,6 +856,9 @@
     <datalist id="categorySuggestions"></datalist>
     <datalist id="genreSuggestions"></datalist>
 
+    <!-- Toast für Meldungen -->
+    <div id="toast"></div>
+
     <script src="https://unpkg.com/jszip/dist/jszip.min.js"></script>
     <script>
           // Globale Variable Paginierung
@@ -2195,6 +2198,31 @@
           function closeDetailModal() {
             document.getElementById("detail-modal").classList.add("hidden");
           }
+
+       // --------- GLOBALE FUNKTIONEN EXPORTIEREN ---------
+      window.toggleViewMode = toggleViewMode;
+      window.toggleMode = toggleMode;
+      window.addBookByISBN = addBookByISBN;
+      window.openImport = openImport;
+      window.newBookEntry = newBookEntry;
+      window.saveLibrary = saveLibrary;
+      window.openLoadLibrary = openLoadLibrary;
+      window.setFilterStatus = setFilterStatus;
+      window.openCategorySelector = openCategorySelector;
+      window.openGenreSelector = openGenreSelector;
+      window.clearSearch = clearSearch;
+      window.changeBooksPerPage = changeBooksPerPage;
+      window.applyGenreSelection = applyGenreSelection;
+      window.closeGenreSelector = closeGenreSelector;
+      window.closeCategorySelector = closeCategorySelector;
+      window.editBook = editBook;
+      window.confirmRemoveBook = confirmRemoveBook;
+      window.showDetailModal = showDetailModal;
+      window.closeDetailModal = closeDetailModal;
+      window.formatAuthors = formatAuthors;
+      window.renderLibrary = renderLibrary;
+      window.newBookEntry = newBookEntry;
+      window.saveLibrary = saveLibrary;
     </script>
   </body>
 </html>
