@@ -858,33 +858,32 @@
 
     <script src="https://unpkg.com/jszip/dist/jszip.min.js"></script>
     <script>
-      // Automatisches Laden von bibliothek.json beim Seitenstart
-      document.addEventListener("DOMContentLoaded", () => {
-        fetch("bibliothek.json")
-          .then((response) => {
-            if (!response.ok)
-              throw new Error("Datei nicht gefunden oder Fehler beim Laden.");
-            return response.json();
-          })
-          .then((data) => {
-            // Hier wird der geladene JSON-Inhalt verarbeitet.
-            // Ersetze ggf. "books" durch deinen Bibliotheks-Array-Namen!
-            books = data;
-            renderLibrary(); // Stelle sicher, dass diese Funktion existiert!
-          })
-          .catch((error) => {
-            console.warn(
-              "bibliothek.json konnte nicht automatisch geladen werden:",
-              error.message
-            );
-          });
-      });
+          
+     // Funktion zum Laden der JSON-Datei aus dem Repository
+async function loadLibraryFromRepo() {
+  const url = 'https://raw.githubusercontent.com/Takasila/mylibrary/main/bibliothek.json'; // URL zur JSON-Datei im Repo
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Fehler beim Laden der JSON-Datei: ${response.status}`);
+    }
+    const json = await response.json(); // JSON-Daten parsen
+    library = json; // Die geladene Bibliothek zuweisen
+    renderLibrary(); // Anzeige der Bibliothek aktualisieren
+    console.log('Bibliothek erfolgreich geladen:', library);
+  } catch (error) {
+    console.error('Fehler beim Laden der Bibliothek:', error);
+    alert('Die Bibliothek konnte nicht geladen werden. Überprüfe die Verbindung oder den Datei-Pfad.');
+  }
+}
       
           // Globale Variable Paginierung
           let currentPage = 1;
           let booksPerPage =
             parseInt(localStorage.getItem("booksPerPage"), 10) || 50;
           let showLatestAdded = false;
+          let library = [];
           let activeFilters = [];
 
           // Kategorie + Genre hier eintragen
