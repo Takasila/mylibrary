@@ -885,7 +885,7 @@
           let booksPerPage =
             parseInt(localStorage.getItem("booksPerPage"), 10) || 50;
           let showLatestAdded = false;
-          let activeFilters = [];
+          let activeFilters = {};
 
           // Kategorie + Genre hier eintragen
           const genreMap = {
