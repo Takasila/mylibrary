@@ -858,6 +858,27 @@
 
     <script src="https://unpkg.com/jszip/dist/jszip.min.js"></script>
     <script>
+      // Automatisches Laden von bibliothek.json beim Seitenstart
+      document.addEventListener("DOMContentLoaded", () => {
+        fetch("bibliothek.json")
+          .then((response) => {
+            if (!response.ok)
+              throw new Error("Datei nicht gefunden oder Fehler beim Laden.");
+            return response.json();
+          })
+          .then((data) => {
+            // Hier wird der geladene JSON-Inhalt verarbeitet.
+            // Ersetze ggf. "books" durch deinen Bibliotheks-Array-Namen!
+            books = data;
+            renderLibrary(); // Stelle sicher, dass diese Funktion existiert!
+          })
+          .catch((error) => {
+            console.warn(
+              "bibliothek.json konnte nicht automatisch geladen werden:",
+              error.message
+            );
+          });
+      });
           // Globale Variable Paginierung
           let currentPage = 1;
           let booksPerPage =
