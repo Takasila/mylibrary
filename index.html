@@ -708,11 +708,11 @@
     >
       <label for="booksPerPage">Bücher pro Seite:</label>
       <select id="booksPerPage" onchange="changeBooksPerPage(event)">
-        <option value="50">50</option>
-        <option value="100">100</option>
-        <option value="150">150</option>
-        <option value="200">200</option>
-        <option value="250">250</option>
+        <option value="60">60</option>
+        <option value="120">200</option>
+        <option value="180">180</option>
+        <option value="240">240</option>
+        <option value="300">300</option>
       </select>
       <div id="pagination-buttons"></div>
     </div>
@@ -1415,7 +1415,7 @@
           const sortedWithTimestamp = [...withTimestamp].sort(
             (a, b) => b.addedAt - a.addedAt
           );
-          books = sortedWithTimestamp.slice(0, 40);
+          books = sortedWithTimestamp.slice(0, 200);
         }
 
         // --- Sortierung ---
