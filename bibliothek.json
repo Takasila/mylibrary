@@ -2824,11 +2824,13 @@
     "isbn": "9783426639290",
     "category": "Belletristik",
     "genre": "Historisch",
-    "description": "99-jährige Mönch Hroswith von Wikala Pergamentseite um Pergamentseite einer Bibel ab, um die Geschichte seines Lebens niederzuschreiben. Doch dieses war alles andere als fromm und weltentrückt. Denn Hroswith, Sohn eines Schwertschmieds und selbst begabt in allerlei Handwerkskünsten, war zeitlebens ein Abenteurer und Freund der Frauen. Nachdem seine verbotene Liaison zur Tochter eines Grafen herauskommt, muss er fliehen – der Beginn einer abenteuerlichen Reise durch das mittelalterliche Europa, die ihn über Dänemark, England und Konstantinopel bis an den Hof des Sachsenkaisers Otto III. treibt.",
+    "description": "Der 99-jährige Mönch Hroswith von Wikala schabt Pergamentseite um Pergamentseite einer Bibel ab, um die Geschichte seines Lebens niederzuschreiben. Doch dieses war alles andere als fromm und weltentrückt. Denn Hroswith, Sohn eines Schwertschmieds und selbst begabt in allerlei Handwerkskünsten, war zeitlebens ein Abenteurer und Freund der Frauen. Nachdem seine verbotene Liaison zur Tochter eines Grafen herauskommt, muss er fliehen – der Beginn einer abenteuerlichen Reise durch das mittelalterliche Europa, die ihn über Dänemark, England und Konstantinopel bis an den Hof des Sachsenkaisers Otto III. treibt.",
     "thumbnail": "http://books.google.com/books/content?id=cq4OnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
-    "rating": "3",
-    "pageCount": "735"
+    "rating": 3,
+    "pageCount": "735",
+    "subtitle": "",
+    "tags": []
   },
   {
     "title": "Fandorin",
@@ -3225,9 +3227,10 @@
     "description": "Der Aufstieg einer Legende im Kampf um die Ehre Roms ... 110 v. Chr.: Gaius Marius ist der reichste Mann Roms, doch die verarmte Adelsfamilie der Julier kann ihm etwas bieten, das weitaus mächtiger ist als Geld: Ansehen. Eine Ehe mit ihrer ältesten Tochter Julia ist der perfekte politische Schachzug für den ehrgeizigen Emporkömmling aus der Provinz. Marius findet einen neuen Freund und Verbündeten in seinem Schwager Sulla, der seine rastlose Jagd nach Vergnügen aufgeben und zu Großem aufsteigen will. Seite an Seite erklimmen die beiden Männer die obersten Ränge des Senats, wo Intrigen und Verrat lauern, und ziehen in den Krieg gegen den Numiderkönig Jugurtha. Trotz all seiner Verdienste steht Sulla stets im Schatten des Marius, während dieser unaufhaltsam zum Ersten Mann Roms aufsteigt ...",
     "pageCount": "1055",
     "thumbnail": "https://books.google.com/books/content?id=PRc3EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "read": false,
-    "rating": null,
-    "tags": []
+    "read": true,
+    "rating": 4,
+    "tags": [],
+    "subtitle": ""
   },
   {
     "title": "Sternstunden Österreichs",
@@ -3414,14 +3417,15 @@
     "publishedDate": "2010-09-08",
     "description": "Eine Frau will mit ihrer Cousine und deren Mann ein paar Tage in einem Jagdhaus in den Bergen verbringen. Nach der Ankunft unternimmt das Paar noch einen Gang ins nächste Dorf und kehrt nicht mehr zurück. Am nächsten Morgen stößt die Frau auf ein unsichtbares, glattes, kühles Hindernis – eine unüberwindbare Wand, hinter der Totenstarre herrscht. Abgeschlossen von der übrigen Welt, richtet sie sich inmitten ihres engumgrenzten Stücks Natur und umgeben von einigen zugelaufenen Tieren aufs Überleben ein...",
     "thumbnail": "https://books.google.com/books/content?id=uuwaAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "read": false,
+    "read": true,
     "pageCount": "255",
     "category": "Belletristik",
     "genre": "Klassiker; Romane & Erzählungen",
-    "rating": null,
+    "rating": 5,
     "tags": [
       "Österreich"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Der Fluch der bösen Tat",
