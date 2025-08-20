@@ -3049,7 +3049,7 @@
     "authors": [
       "McCammon, Robert"
     ],
-    "series": "",
+    "series": "Matthew Corbett",
     "volume": "",
     "publishedDate": "2024-04-29",
     "isbn": "9783958351981",
@@ -3059,7 +3059,9 @@
     "pageCount": "591",
     "thumbnail": "https://books.google.com/books/content?id=M9d3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": false,
-    "rating": null
+    "rating": null,
+    "subtitle": "I + II",
+    "tags": []
   },
   {
     "title": "Die Cannabis-Connection",
@@ -8587,5 +8589,571 @@
     "addedAt": 1753912416848,
     "rating": 4,
     "tags": []
+  },
+  {
+    "title": "Wer die Nachtigall stört ...",
+    "subtitle": "",
+    "authors": [
+      "Lee, Harper"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2024-07-16",
+    "isbn": "9783644022386",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Amerika in den 30er-Jahren. Die Geschwister Scout und Jem Finch wachsen in einer äußerlich idyllischen Welt heran: im Örtchen Maycomb, Alabama, inmitten weißer Villen und tropischer Bäume. Erzogen von ihrem Vater Atticus, einem menschenfreundlichen Anwalt. Doch die Idylle trügt, durch die alte Gesellschaft des Südens ziehen sich tiefe Risse: zwischen Schwarz und Weiß, zwischen Arm und Reich. Als Scouts Vater die Verteidigung eines schwarzen Landarbeiters übernimmt, der angeblich ein weißes Mädchen vergewaltigt hat, erfährt die Achtjährige staunend, dass die Welt viel komplizierter ist, als sie angenommen hat. Tapfer versucht sie, die demokratischen Gerechtigkeitsideale ihres Vaters gegen alle Anfechtungen hochzuhalten, und gerät selbst in Gefahr ...",
+    "pageCount": "528",
+    "thumbnail": "https://books.google.com/books/content?id=S6kTEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1754129602077,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Israel, 7. Oktober",
+    "subtitle": "Protokoll eines Anschlags",
+    "authors": [
+      "Yaron, Lee"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2024-09-11",
+    "isbn": "9783104920832",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Eindringlich und bewegend erzählt die israelische Journalistin Lee Yaron von den letzten Stunden der Menschen, die am 7. Oktober 2023 von den Hamas-Terroristen ermordet wurden. Die Chronik eines Tages, der in die Geschichte Israels, des Nahen Ostens und der ganzen Welt eingehen wird, und ein literarisches Denkmal für die Opfer. Am Schabbat des 7. Oktober 2023 startet die Hamas einen Großangriff auf Israel: Zivilisten werden entführt, gefoltert, massakriert und verbrannt. Lee Yaron rekonstruiert den Tag der Katastrophe in 12 Kapiteln, jedes berichtet von einem einzigen Schauplatz der Attacke. Vom Musikfestival »Tribe of Nova« über ein Beduinendorf bis zum Kibbuz Kfar Aza führt uns Lee Yaron an die Orte der Trauer, um die unerhörte Gewalt, die sich an diesem Tag entlud, zu erfassen. Deshalb lässt sie die Opfer selbst zu Wort kommen - in szenischen Dialogen erfahren wir von ihrer Angst, ihrer Hoffnung und ihrem Mut.",
+    "pageCount": "371",
+    "thumbnail": "https://books.google.com/books/content?id=bpUCEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": false,
+    "addedAt": 1754129706399,
+    "rating": null,
+    "tags": []
+  },
+  {
+    "title": "Der Vampir von Ropraz",
+    "subtitle": "",
+    "authors": [
+      "Chessex, Jacques"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008",
+    "isbn": "9783312004164",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Im Februar 1903 wird in Ropraz eine junge und außergewöhnlich hübsche Frau zu Grabe getragen. Die zwanzigjährige Rosa Gilliéron ist an Hirnhautentzündung gestorben, ihr Tod bewegt das ganze Tal. Zwei Tage später ist der Sarg geöffnet, die Leiche von Stech- und Bisswunden entstellt. Die Empörung der Dorfbewohner ist groß. Am nächsten Tag berichtet die Zeitung vom «Vampir von Ropraz», die Nachricht gelangt bis nach New York. In den Schweizer Bergen wird fieberhaft nach dem Täter gefahndet. Hat die Verstorbene, die weit herum begehrt wurde, einen Verehrer abgewiesen? Gilt der Akt dem Vater, der Richter am Obersten Gerichtshof und Abgeordneter ist? Nachdem in der Gegend zwei weitere Fälle von Leichenschändung entdeckt werden, greift sich der Volkszorn einen verrohten Bauernjungen. Ob aber der Täter damit gefasst ist?",
+    "pageCount": "95",
+    "thumbnail": "https://books.google.com/books/content?id=zPwsNAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755016111044,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Größenwahn",
+    "subtitle": "",
+    "authors": [
+      "Child, Lee"
+    ],
+    "series": "Jack Reacher",
+    "volume": "1",
+    "publishedDate": "2017-05-15",
+    "isbn": "9783641214562",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Auf dem Weg von Tampa nach nirgendwo steigt der ehemalige Militärpolizist Jack Reacher in einer Kleinstadt in Georgia aus dem Bus. Wenige Stunden später findet er sich im Gefängnis wieder. Er steht unter Mordverdacht. Doch statt einer schnellen Lösung hat Detective Finley bald zwei große Probleme: einen Hauptverdächtigen, der seine Unschuld beweisen kann, und das Geständnis eines Bankers, der die Tat nicht begangen hat ...",
+    "pageCount": "380",
+    "thumbnail": "https://books.google.com/books/content?id=Jkq7DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755016337724,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Attic. Gefahr aus der Tiefe",
+    "subtitle": "",
+    "authors": [
+      "Child, Lincoln",
+      "Preston, Douglas"
+    ],
+    "series": "Pendergast",
+    "volume": "2",
+    "publishedDate": "2001-01",
+    "isbn": "9783426618233",
+    "category": "Belletristik",
+    "genre": "Mystery",
+    "description": "Der Fund mehrerer geköpfter Leichen in Manhattan lassen in Kommissar D'Agosta, FBI-Agent Pendergast und der Biologin Margo Green einen entsetzlichen Verdacht aufkommen. Ist das reptilienartige Untier zurückgekehrt oder treibt ein Irrer sein Unwesen?",
+    "pageCount": "544",
+    "thumbnail": "https://books.google.com/books/content?id=gIpOAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755016565095,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Und dann gab's keines mehr (Zehn kleine Negerlein; Letztes Weekend)",
+    "subtitle": "",
+    "authors": [
+      "Christie, Agatha"
+    ],
+    "series": "Hachette Collections",
+    "volume": "3",
+    "publishedDate": "2023-10-05",
+    "isbn": "9783455017229",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Zehn Männer und Frauen aus ganz unterschiedlichen Kreisen bekommen eine Einladung, die sie auf eine abgeschiedene Insel vor der Küste Devons lockt. Der Gastgeber, ein gewisser U. N. Owen, bleibt unsichtbar. Erst als die Gesellschaft beim Dinner zusammensitzt, ertönt seine Stimme aus einem alten Grammophon und verheißt Unheil. Ein Gast nach dem anderen kommt zu Tode, während die Verbleibenden verzweifelt versuchen, den Mörder zu enttarnen ...",
+    "pageCount": "245",
+    "thumbnail": "https://books.google.com/books/content?id=XA7KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755016831726,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Ruhe unsanft",
+    "subtitle": "Ein Fall für Miss Marple",
+    "authors": [
+      "Christie, Agatha"
+    ],
+    "series": "Hachette Collections",
+    "volume": "58",
+    "publishedDate": "2015-09-04",
+    "isbn": "9783455170368",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Gwenda Reed glaubt nicht an Geister. Doch in dem Haus, das sie gerade mit ihrem neuen Ehemann bezogen hat, spielen sich ungeheure Dinge ab. Die Gemäuer scheinen ein Eigenleben zu führen, Türen und Treppen sind plötzlich nicht mehr da. Zur Ablenkung flüchtet Gwenda sich zu Freunden, wo sie auf die neugierige Miss Marple trifft. Die alte Dame erkennt bald, dass hinter dem Spuk in der alten Villa eine tragische Familiengeschichte steht.",
+    "pageCount": "270",
+    "thumbnail": "https://books.google.com/books/content?id=XGFzCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755017023451,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Lauter reizende alte Damen",
+    "subtitle": "",
+    "authors": [
+      "Christie, Agatha"
+    ],
+    "series": "Hachette Collections",
+    "volume": "69",
+    "publishedDate": "2021-02-02",
+    "isbn": "9783455010909",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Schreckliche Gerüchte stören die Beschaulichkeit des Altenheims, in dem Tommy Beresfords Tante Ada lebt. Spätestens als eine der alten Damen spurlos verschwindet, glauben Tommy und Tuppence nicht mehr an bloße \"Schauermärchen\". Und tatsächlich sind die beiden bald einem lange gesuchten, eiskalten Mörder auf der Spur, was für Tuppence sehr gefährlich wird ...",
+    "pageCount": "203",
+    "thumbnail": "https://books.google.com/books/content?id=zakGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755017173368,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Gnadenlos",
+    "subtitle": "",
+    "authors": [
+      "Clancy, Tom"
+    ],
+    "series": "Jack Ryan",
+    "volume": "1",
+    "publishedDate": "2017-09-11",
+    "isbn": "9783641226640",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "John Kelly, ehemaliger US-Marine und Spezialist für riskante Missionen, erhält den Auftrag, amerikanische Geiseln aus Nordvietnam herauszuholen - eine beinahe aussichtslose Mission, zumal Kelly sich gerade durch einen privaten Rachefeldzug in Lebensgefahr gebracht hat. Ein Wettlauf gegen die Zeit beginnt, und der geringste Fehler könnte sein letzter sein ...",
+    "pageCount": "699",
+    "thumbnail": "https://books.google.com/books/content?id=mKUyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755017315233,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Vermesser",
+    "subtitle": "",
+    "authors": [
+      "Clark, Clare"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2005",
+    "isbn": "9783455008647",
+    "category": "Belletristik",
+    "genre": "Historisch; Krimi & Thriller",
+    "description": "London 1855. Unter der Stadt ein gewaltiges Labyrinth von alten Tunneln, das Menschen aller Couleur anzieht. Die einen suchen nach Dingen, die sich zu Geld machen lassen, andere sind auf der Flucht vor ihrer Vergangenheit. Bis ein grausiger Mord geschieht, der alle Tunnelmänner gleichermaßen erschüttert. Der Vermesser William May sucht häufig Zuflucht in den modrigen Gewölben unter der Stadt. Die Erneuerung des uralten Abwassersystems, mit der man ihn beauftragt, ist ihm ein willkommener Vorwand, immer wieder in die Tunnelwelt einzutauchen und dort ungestört sein Geheimnis zu pflegen. Mit den armen Schluckern der Stadt, die aus dem, was sie in den Tunneln finden, ihren Lebensunterhalt bestreiten, hat William May nichts zu tun. So weiß er auch nicht, dass die so genannten Kanaljäger alles andere als erfreut sind über die bevorstehende Sanierung von Londons Untergrund, fürchten sie doch um ihre Existenz. Als in den unterirdischen Gängen ein Mord geschieht und William May unter Verdacht gerät, ist der Kanaljäger Tom allerdings der Einzige, der ihn retten kann.",
+    "pageCount": "414",
+    "thumbnail": "https://books.google.com/books/content?id=6XgqPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755017550135,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Der Tausch – Zwei Frauen. Zwei Tickets. Und nur ein Ausweg.",
+    "subtitle": "",
+    "authors": [
+      "Clark, Julie"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2020-12-25",
+    "isbn": "9783641267575",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Zwei Frauen auf der Flucht. Eine Entscheidung, die alles verändert. Und kein Weg zurück. New York, Flughafen JFK: Claire soll nach Puerto Rico reisen, um ihren Mann, einen ehrgeizigen Politiker, beim Wahlkampf zu unterstützen. Doch in Wahrheit will sie nichts als fliehen – vor seinen gewalttätigen Übergriffen und der lückenlosen Kontrolle, die er über sie ausübt. Sie kommt mit Eva ins Gespräch, die bei ihrem schwerkranken Mann Sterbehilfe geleistet hat. Zu Hause in Kalifornien erwartet sie die Polizei. Innerhalb weniger Sekunden beschließen sie, die Bordkarten zu tauschen und sich gegenseitig ein neues Leben zu schenken. Erleichtert landet Claire in Kalifornien. In Evas Haus gibt es allerdings keine Hinweise auf einen Ehemann. Dann erfährt sie, dass das Flugzeug nach Puerto Rico abgestürzt ist. Und kurz darauf entdeckt sie die vermeintlich abgestürzte Eva in einer Fernsehreportage über das Unglück. Lebendig. Hat sie die Flucht in das Leben einer Anderen am Ende doch nur in eine Falle gelockt?",
+    "pageCount": "304",
+    "thumbnail": "https://books.google.com/books/content?id=YaXbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755017791148,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Monsieur Linh und die Gabe der Hoffnung",
+    "subtitle": "",
+    "authors": [
+      "Claudel, Philippe"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2007",
+    "isbn": "9783499242045",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "In seiner Heimat hat Monsieur Linh nach einem Bombenangriff alles verloren. Er flieht mit seiner kleinen Enkeltochter in ein fremdes Land, in eine kalte, verregnete Stadt. Mit anderen Flüchtlingen wohnt er in einem Heim, wo er sich einsam und verloren fühlt. Da lernt er auf einem Spaziergang den dicklichen Monsieur Bark kennen. Monsieur Bark redet und redet, obwohl Monsieur Linh ihn gar nicht verstehen kann. Ohne Worte erzählen sich die beiden Männer von Glück, Sehnsucht und Hoffnung - und teilen ein trauriges Geheimnis.",
+    "pageCount": "126",
+    "thumbnail": "https://books.google.com/books/content?id=V9s3GQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755017928087,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Gai-jin",
+    "subtitle": "",
+    "authors": [
+      "Clavell, James"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1995",
+    "isbn": "9783442429479",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "1862: Noble House Hongkong, das mächtige Familienunternehmen der Struans, hat an der japanischen Küste in Yokohama eine Niederlassung gegründet. Isoliert und von den Japanern argwöhnisch beobachtet, lebt ein bunt zusammengewürfeltes Häufchen Ausländer in einer umzäunten Siedlung. Immer wieder kommt es zu Überfällen auf die Gai-Jin, die Fremden, denn eine Gruppe fanatischer Samurai kann sich mit der Öffnung Japans nicht abfinden. Die verhassten Fremden sind in ihrem blutigen Machtspiel willkommene Schachfiguren. An einem Septembermorgen greifen zwei Samurai in der Nähe von Yokohama eine Gruppe Ausländer an. Dabei wird Malcolm Struan, ältester Sohn und Erbe des Noble House, schwer verwundet. Tag und Nacht wacht die schöne Französin Angélique Richaud an seinem Krankenbett, nicht ohne Hintergedanken, denn das mittellose Mädchen will heiraten – reich heiraten. Malcolm verfällt ihr und schlägt alle Warnungen seiner Mutter Tess Struan in den Wind. Als sein Vater tot ist und Malcolm der neue Tai-Pan wird, heiratet er Angélique, stirbt aber in der Hochzeitsnacht. Angélique ist entschlossen, sein Erbe anzutreten, doch dagegen setzt sich Tess Struan mit allen Mitteln zur Wehr.",
+    "pageCount": "1247",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1006570-L.jpg",
+    "read": true,
+    "addedAt": 1755018187799,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Noble House Hongkong",
+    "subtitle": "",
+    "authors": [
+      "Clavell, James"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1982",
+    "isbn": "9783426190609",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "In den Junitagen des Jahres 1960 wird Ian Dunross aus der ehrwürdigen schottischen Struan-Dynastie zum Tai-Pan, zum »obersten Führer«, des Unternehmens bestimmt. Dunross übernimmt ein schwieriges Erbe, da die hochfliegenden Pläne des Handelshauses an akutem Geldmangel zu scheitern drohen. Der als Patriarch so warmherzige Tai-Pan kann im geschäftlichen Konkurrenzkampf ein stahlharter Gegner sein – und Konkurrenz ist in Hongkong besonders erbittert. Seit Generationen wird hier ums große, weltweite Geschäft, oft aber auch nur ums bloße Überleben gekämpft.",
+    "pageCount": "877",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md16208797361.jpg",
+    "read": true,
+    "addedAt": 1755018531135,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Rattenkönig",
+    "subtitle": "",
+    "authors": [
+      "Clavell, James"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1977",
+    "isbn": "9783426088111",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Überlebende der geschlagenen allierten Truppen kämpfen in einem japanischen Gefangenenlager um die nackte Existenz. Tapferkeit und Versagen, Menschlichkeit und Brutalität, Stolz und Bestechung, Kameradschaft und Verrat bestimmen das aufregende Geschehen.",
+    "pageCount": "495",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783426006252-us.jpg",
+    "read": true,
+    "addedAt": 1755018714838,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Shogun",
+    "subtitle": "",
+    "authors": [
+      "Clavell, James"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2024-03-01",
+    "isbn": "9783426293522",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Im Jahr 1600 strandet der englische Navigator John Blackthorne an der Küste eines Landes, das erst wenige Europäer erreicht haben: Japan. Blackthorne bleibt nur wenig Zeit, um sich in der fremden Sprache und Kultur zurechtzufinden. Und er muss seine Vorstellungen von Loyalität, Mut und Moral hinterfragen. Schon bald gerät er mitten hinein in den Machtkampf der japanischen Fürsten, der das Land zu zerreißen droht. Blackthorne tritt in den Dienst des faszinierenden Strategen Toranaga. Doch als er sich in die Übersetzerin Mariko verliebt — die Frau eines Samurais in Toranagas Diensten — wird seine Loyalität auf eine harte Probe gestellt. In einem Land, das sich unaufhaltsam wandelt, hängt nicht nur Blackthornes Überleben davon ab, dass er die richtigen Entscheidungen trifft. Denn nur einer der rivalisierenden Fürsten kann siegreich sein und Shōgun werden.",
+    "pageCount": "1799",
+    "thumbnail": "https://books.google.com/books/content?id=xBDvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755018848106,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Tai-Pan",
+    "subtitle": "",
+    "authors": [
+      "Clavell, James"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2025-08-01",
+    "isbn": "9783426567906",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Der Schotte Dirk Struan gelangt an Bord eines Handelsschiffes nach China, und steigt dort zum Oberhaupt von Struan & Company auf, dem mächtigsten Handelshaus in Asien. Als \"Tai-Pan\" ist Struan eine ebenso einflussreiche wie charismatische Figur, deren Geschick und Mut entscheidend für den Erfolg seines Unternehmens sind. Vor dem Hintergrund der Gründung der britischen Kolonie Hongkong wagt Struan alles, um sein Imperium zu sichern und auszubauen. Er navigiert durch ein Geflecht aus politischen Intrigen, rivalisierenden Handelshäusern und den sensiblen Beziehungen zu den chinesischen Behörden.",
+    "pageCount": "1257",
+    "thumbnail": "https://books.google.com/books/content?id=wSZxEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755018980072,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Lieber Osama ...",
+    "subtitle": "Brief an einen Attentäter",
+    "authors": [
+      "Cleave, Chris"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-08-04",
+    "isbn": "9783423431767",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Eine wahnwitzige, anrührende, überwältigende Geschichte – der Brief einer Mutter an einen Attentäter. Ihr Mann, ein Polizist, und ihr vierjähriger Sohn sind bei einem Terroranschlag auf ein Londoner Fußballstadion getötet worden. In ihrem Brief an Osama bin Laden klagt sie an, schildert ihr Leben, ihre Familie, ihr Glück und ihr Unglück. Es entsteht das packende und herzzerreißende Bild einer Frau aus der Arbeiterschicht, die sympathisch, sarkastisch und ganz und gar keine Heilige ist. Auch ihre Familie war keine Bilderbuchfamilie – doch ohne sie kann die Briefschreiberin nicht weiterleben wie bisher. Der Terror bekommt eine furchtbare Macht über sie ...",
+    "pageCount": "277",
+    "thumbnail": "https://books.google.com/books/content?id=0tckDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755028046737,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der siebte Tod",
+    "subtitle": "",
+    "authors": [
+      "Cleave, Paul"
+    ],
+    "series": "Christchurch",
+    "volume": "1",
+    "publishedDate": "2007",
+    "isbn": "9783894804091",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Joe hat sein Leben scheinbar fest im Griff - tagsüber jobbt er als Putzmann bei der Polizei, abends geht er anderen Tätigkeiten nach. Er denkt daran, seine Fische zweimal täglich zu füttern und seine Mutter mindestens einmal pro Woche zu besuchen, obwohl er ihren Kaffee ab und zu mit Rattengift verfeinert. Er stört sich kaum an den Nachrichten über den Schlächter von Christchurch, der - so wird behauptet - sieben Frauen umgebracht hat. Joe weiß, dass der Schlächter nur sechs getötet hat. Er weiß es ganz einfach. Und Joe wird diesen Nachahmer finden; er wird ihn für die eine Tat bestrafen und ihm die anderen sechs Morde anhängen. Ein perfekter Plan, denn er weiß bereits, dass er die Polizei überlisten kann. Das Einzige, was noch getan werden muss, ist, sich um all die Frauen zu kümmern, die nicht aufhören, ihm im Weg zu stehen.",
+    "pageCount": "413",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783453432475-us.jpg",
+    "read": true,
+    "rating": 3,
+    "tags": [],
+    "addedAt": 1755028427197
+  },
+  {
+    "title": "Ready Player One",
+    "subtitle": "",
+    "authors": [
+      "Cline, Ernest"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-04-27",
+    "isbn": "9783104901947",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Im Jahr 2045 ist die Welt ein hässlicher Ort: Die Erdölvorräte sind aufgebraucht, ein Großteil der Bevölkerung lebt in Armut. Einziger Lichtblick ist die OASIS, eine virtuelle Ersatzwelt, in der man leben, arbeiten, zur Schule gehen und spielen kann. Die OASIS ist ein ganzes Universum, es gibt Tausende von Welten, von denen jede ebenso einzigartig wie phantasievoll ist. Und sie hat ein Geheimnis. Der exzentrische Schöpfer der OASIS hat tief im virtuellen Code einen Schatz vergraben, und wer ihn findet, wird seinen gesamten Besitz erben – zweihundertvierzig Milliarden Dollar. Eine Reihe von Rätseln weist den Weg, doch der Haken ist: Niemand weiß, wo die Fährte beginnt. Bis Wade Watts, ein ganz normaler Junge, der am Stadtrand von Oklahoma City in einem Wohnwagen lebt, den ersten wirklich brauchbaren Hinweis findet. Die Jagd ist eröffnet ...",
+    "pageCount": "628",
+    "thumbnail": "https://books.google.com/books/content?id=zspkDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755028545656,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Kein Sterbenswort",
+    "subtitle": "",
+    "authors": [
+      "Coben, Harlan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-01-26",
+    "isbn": "9783641010621",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Acht Jahre ist es her, dass David Becks Frau Elisabeth entführt und von einem Serienkiller ermordet wurde. Seither ist der Kinderarzt ein gebrochener Mann. Doch plötzlich scheint ihm jemand Botschaften von Elizabeth zuzuspielen: Dr. Beck erhält die Nachricht, dass seine Frau noch lebt. Man warnt ihn, kein Sterbenswort davon zu verraten, aber als das FBI auftaucht und David selbst des Mordes an seiner Frau verdächtigt, nimmt er die Suche nach ihr auf ...",
+    "pageCount": "341",
+    "thumbnail": "https://books.google.com/books/content?id=M0_6vAzj5HoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755028676388,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Ein Winter mit Baudelaire",
+    "subtitle": "",
+    "authors": [
+      "Cobert, Harold"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010",
+    "isbn": "9783866122581",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Es wird Herbst in Paris, als Philippe den Boden unter den Füßen verliert. Nach der Trennung von seiner Frau zwingt sie ihn, die gemeinsame Wohnung zu verlassen, und verwehrt ihm den Kontakt zu seiner Tochter. Als wenig später sein Arbeitsvertrag nicht verlängert wird, ist das der letzte Schritt, der ihn in den Abgrund stürzen lässt. Das Leben auf der Straße droht ihm den Rest seiner Würde zu nehmen. Doch dann begegnet er Baudelaire, der ihn mit beständigem Optimismus und treuem Hundeblick auf vier Pfoten zurück ins Leben führt. Dank ihm und mithilfe des einfallsreichen Kebabverkäufers Bébère und der weisen Toilettenfrau Sarah findet Philippe den Mut für einen Neuanfang. Und auf einmal scheint der Tag, an dem er seine Tochter wieder in die Arme schließen kann, gar nicht mehr so fern.",
+    "pageCount": "285",
+    "thumbnail": "https://books.google.com/books/content?id=RoraSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755028856080,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Lady Bag",
+    "subtitle": "",
+    "authors": [
+      "Cody, Liza"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-09-06",
+    "isbn": "9783944818566",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Sie ist die Frau ohne Gesicht. Manche beleidigen sie, manche ignorieren sie. Manche geben etwas. Manche nur wegen des Hundes an ihrer Seite. Sie ist eine Pennerin, die genau weiß, wie die Straßen von London riechen. Doch Diese abgeklärte Lady Bag war nicht immer eine Baglady. Als eine ganz normale Frau geriet sie in die älteste Falle der Welt und wurde ruiniert. Jetzt will sie nichts mehr, nur die Gesellschaft ihrer Hündin und ihren gewohnten Rotweinpegel. Bis eines Tages ihr persönlicher Dämon ihren Weg kreuzt – mit finsteren Absichten, wie sie aus Erfahrung weiß. Statt sich zu verstecken, beschließt sie ihn zu beschatten: Sie möchte wissen, wo er wohnt. Eine Entscheidung, die schwerwiegende Folgen hat. Sie erwacht mit zertretenem Kopf in einem Krankenhausbett und wird mit einem fremden Namen angesprochen. Anscheinend hält man sie für eine gewisse Natalie Munrow, deren Handtasche sie bei sich hat. Bei erster Gelegenheit nimmt sie Reißaus und taucht ab. Was allerdings gar nicht so leicht ist, wenn man auf der Straße lebt und einem aus allen Zeitungen das eigene lädierte Gesicht entgegenblickt! Dann stellt sich heraus, dass die wahre Natalie Munrow ermordet wurde …",
+    "pageCount": "239",
+    "thumbnail": "https://books.google.com/books/content?id=7TGSBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755028991992,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Dämon und Fräulein Prym",
+    "subtitle": "",
+    "authors": [
+      "Coelho, Paulo"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2002",
+    "isbn": "9783257056020",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Ein geheimnisvoller Fremder stört eines Tages den Frieden von Bescos, einem gottverlassenen 281-Seelen-Dorf hoch oben in den Pyrenäen. Mit sich führt er elf Goldbarren und einen merkwürdigen Schatten, in dem die greise Berthe, die Tag für Tag vor ihrem Haus am Dorfeingang sitzt, sofort den lange angekündigten Dämon erkennt, der Bescos in den Untergang treiben wird.",
+    "pageCount": "222",
+    "thumbnail": "https://covers.openlibrary.org/b/id/998430-L.jpg",
+    "read": true,
+    "addedAt": 1755029206297,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Unterwegs / Der Wanderer",
+    "subtitle": "Gesammelte Geschichten",
+    "authors": [
+      "Coelho, Paulo"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-01-22",
+    "isbn": "9783257602647",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Weltberühmt wurde er mit seinem Roman ›Der Alchimist‹. Doch Paulo Coelho ist auch ein Meister der kleinen Form, wie seine gesammelten Sinngeschichten beweisen. Geschichten über die Kunst zu lieben und die noch größere Kunst, geliebt zu werden, vom Umgang mit Schwierigkeiten und mit der Einsamkeit, vom Risiko des eigenen Weges und vom munteren Drauflosleben.",
+    "pageCount": "113",
+    "thumbnail": "https://books.google.com/books/content?id=43FtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755029391242,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Einfach unvergesslich",
+    "subtitle": "",
+    "authors": [
+      "Coleman, Rowan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-01-05",
+    "isbn": "9783492308021",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Neuerdings weiß Claire nicht mehr, welcher Schuh zu welchem Fuß gehört. Oder wie das orangefarbene Gemüse im Kochtopf heißt. Doch das Leben ist zu kurz, um Trübsal zu blasen. Und so schreibt sie, noch bevor die letzte Erinnerung verblasst, all die Glücksmomente der vergangenen Jahre nieder. Wohl wissend, dass diese Gedanken bald das Einzige sein werden, was ihrer Familie von ihr bleibt. Dabei gibt es noch viel zu erledigen: Sie muss ihrem Mann zeigen, wie sie die Lieblingslasagne ihrer Kinder zubereitet. Sie muss ein letztes Mal leben, sich vielleicht auch neu verlieben. Denn wenn die Zeit davonrennt, ist jede Minute kostbar.",
+    "pageCount": "416",
+    "thumbnail": "https://books.google.com/books/content?id=Z8ZorgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755029553577,
+    "rating": 5,
+    "tags": [
+      "Alzheimer",
+      "Krankheit"
+    ]
+  },
+  {
+    "title": "Artemis Fowl",
+    "subtitle": "",
+    "authors": [
+      "Colfer, Eoin"
+    ],
+    "series": "Artemis Fowl",
+    "volume": "1",
+    "publishedDate": "2003",
+    "isbn": "9783548603209",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Der zwölfjährige Artemis Fowl ist der genialste kriminelle Mastermind der Geschichte. Mit zwei treuen Gehilfen im Schlepptau schmiedet er einen listigen Plan, um den Feen ihren Goldschatz zu rauben.",
+    "pageCount": "239",
+    "thumbnail": "https://books.google.com/books/content?id=CLg3swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755029938349,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Auf Erden sind wir kurz grandios",
+    "subtitle": "",
+    "authors": [
+      "Vuong, Ocean"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2019-07-22",
+    "isbn": "9783446264953",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "„Lass mich von vorn anfangen. Ma ...“ Der Brief eines Sohnes an die vietnamesische Mutter, die ihn nie lesen wird. Die Tochter eines amerikanischen Soldaten und eines vietnamesischen Bauernmädchens ist Analphabetin, kann kaum Englisch und arbeitet in einem Nagelstudio. Sie ist das Produkt eines vergessenen Krieges. Der Sohn, ein schmächtiger Außenseiter, erzählt – von der Schizophrenie der Großmutter, den geschundenen Händen der prügelnden Mutter und seiner tragischen ersten Liebe zu einem amerikanischen Jungen. Vuong schreibt mit alles durchdringender Klarheit von einem Leben, in dem Gewalt und Zartheit aufeinanderprallen.",
+    "pageCount": "297",
+    "thumbnail": "https://books.google.com/books/content?id=ce6UDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": false,
+    "addedAt": 1755641252032,
+    "rating": null,
+    "tags": [
+      "Vietnam"
+    ]
   }
 ]
