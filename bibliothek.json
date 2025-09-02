@@ -3058,8 +3058,8 @@
     "description": "Geht eine Hexe in Carolina um? Das zumindest glauben die Bewohner der kleinen Stadt Fount Royal. Ihr Name ist Rachel Howarth, eine Fremde - wunderschön und mutig. Kein Wunder, dass sie von manchen Einwohnern gehasst wird und den meisten zumindest suspekt vorkommt. Der fahrende Friedensrichter Isaac Woodward und sein scharfsinniger Gerichtsdiener Matthew Corbett sollen ihr den Hexenprozess machen. Die Beweise sind erdrückend: In ihrem Haus finden sich okkulte Hinweise, sie weigert sich, die Worte des Herrn zu sprechen, und Zeugen berichten von unaussprechlichen Dingen, die sie mit dem Leibhaftigen selbst begangen haben soll. Aber Matthew zweifelt an den Anschuldigungen. Gibt es so etwas wie Hexerei wirklich? Und wenn Rachel tatsächlich wie ein Dämon durch die Nacht fliegen kann, wieso hat sie sich dann nicht längst selbst aus dem Gefängnis befreit?",
     "pageCount": "591",
     "thumbnail": "https://books.google.com/books/content?id=M9d3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "read": false,
-    "rating": null,
+    "read": true,
+    "rating": 4,
     "subtitle": "I + II",
     "tags": []
   },
@@ -5630,8 +5630,8 @@
     "tags": []
   },
   {
-    "title": "Santler, Helmuth - Die Un-Heilige Schrift. Die Entstehung der Bibel",
-    "subtitle": "Ein PR-Coup für Jahrtausende",
+    "title": "Die Un-Heilige Schrift",
+    "subtitle": "Die Entstehung der Bibel",
     "authors": [
       "Santler, Helmuth"
     ],
@@ -5641,7 +5641,7 @@
     "isbn": "9783850030816",
     "category": "Sachbuch",
     "genre": "Religion",
-    "description": "\"Die Entstehung der Bibel - Ein PR-Coup für Jahrtausende\", so der Untertitel des Buchs, das in der Printausgabe sehr bieder als \"Geheime Schriften des Christentums\" betitelt worden war.\nIn einer amazon-Rezi heißt es dazu:\n\"Einmal der umgekehrte Fall: In diesem Buch steht um einiges mehr drin, als Titel, Aufmachung und Rückentext versprechen. Woher hat Dan Brown seine Ideen zu Maria Magdalena abgekupfert – und was ist jetzt wirklich dran an ihrem Verhältnis zu Jesus? Warum reden alle von den Funden von Qumran, obwohl jene von Nag Hammadi viel bedeutsamer für ein modernes (gnostisches) Verständnis von Christentum sind? Oder hätten Sie gewusst, dass der gesamte Marienkult überhaupt keine biblische Entsprechung hat?\nAngenehm zu lesender Überblick über das riesige Thema „christliche Schriften abseits der Bibel“, stellenweise regelrecht unterhaltsam. Spannend ist es allemal, die gesellschaftspolitischen Konsequenzen von Entscheidungen, die vor mehr als 1.500 Jahren gefällt wurden, vor Augen geführt zu bekommen.\"",
+    "description": "Einmal der umgekehrte Fall: In diesem Buch steht um einiges mehr drin, als Titel, Aufmachung und Rückentext versprechen. Woher hat Dan Brown seine Ideen zu Maria Magdalena abgekupfert – und was ist jetzt wirklich dran an ihrem Verhältnis zu Jesus? Warum reden alle von den Funden von Qumran, obwohl jene von Nag Hammadi viel bedeutsamer für ein modernes (gnostisches) Verständnis von Christentum sind? Oder hätten Sie gewusst, dass der gesamte Marienkult überhaupt keine biblische Entsprechung hat?",
     "pageCount": "316",
     "thumbnail": "https://m.media-amazon.com/images/I/819pgyUIX2L._SL1240_.jpg",
     "read": true,
@@ -9155,5 +9155,789 @@
     "tags": [
       "Vietnam"
     ]
+  },
+  {
+    "title": "Die Wurzeln des Lebens",
+    "subtitle": "",
+    "authors": [
+      "Powers, Richard"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2018-10-04",
+    "isbn": "9783104908052",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "»Die Wurzeln des Lebens« ist ein großer epischer Roman, der unseren Platz in der Welt neu vermisst - ausgezeichnet mit dem Pulitzer Preis 2019 für Literatur. In Richard Powers Erzählwelt ist alles miteinander verknüpft. Die Menschen sind miteinander verwurzelt wie ein Wald. Sie bilden eine Familie aus Freunden, die sich zum Schutz der Bäume zusammenfinden: der Sohn von Siedlern, die unter dem letzten der ausgestorbenen Kastanienbäume Amerikas lebten; eine junge Frau, deren Vater aus China eine Maulbeere mitbrachte; ein Soldat, der im freien Fall von einem Feigenbaum aufgefangen wurde; und die unvergessliche Patricia Westerfjord, die als Botanikerin die Kommunikation der Bäume entdeckte. Sie alle tun sich zusammen, um die ältesten Mammutbäume zu retten – und geraten in eine Spirale von Politik und Gewalt, die nicht nur ihr Leben, sondern auch unsere Welt bedroht.",
+    "pageCount": "935",
+    "thumbnail": "https://books.google.com/books/content?id=CsxWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": false,
+    "addedAt": 1755806401018,
+    "rating": null,
+    "tags": []
+  },
+  {
+    "title": "Schwarzes Echo",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "1",
+    "publishedDate": "1994",
+    "isbn": "9783550067136",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In einem alten Abwasserkanal stösst Harry Bosch, Polizeidetektiv in Los Angeles, auf die Leiche eines ehemaligen Kriegskameraden. Beide waren in Vietnam, doch nur Harry ist es gelungen, sich auf die Seite der Legalität zu retten.",
+    "pageCount": "495",
+    "thumbnail": "http://books.google.com/books/content?id=3PyYAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755936961027,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Schwarzes Eis",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "2",
+    "publishedDate": "2007",
+    "isbn": "9783800092741",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Alles beginnt in einem heruntergekommenen Motel in Hollywood. Im Badezimmer findet man die Leiche von Cal Moore vom Los Angeles Police Department. Augenscheinlich hat er sich selbst in den Kopf geschossen. Doch Detective Harry Bosch fallen Ungereimtheiten bei dem allzu offensichtlichen Selbstmord auf. Moore war nämlich auf einen Fall angesetzt, in dem es um die Modedroge \"Schwarzes Eis\" ging. Kam er der Wahrheit zu nahe?",
+    "pageCount": "598",
+    "thumbnail": "http://books.google.com/books/content?id=S_2YAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755937059342,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Frau im Beton",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "3",
+    "publishedDate": "2005",
+    "isbn": "9783453431829",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Harry Bosch steht vor Gericht. Vor vier Jahren hat er den berüchtigten \"Puppenmacher\" Norman Church erschossen, der seine Opfer - stets Frauen - brutal hinrichtete, um sie anschließend mit Make-up zu verschönern. Bosch ist überzeugt, dass er damals den Richtigen erwischt hat. Doch dann wird in einem abgebrannten Gebäude eine Frauenleiche gefunden. Und alles deutet darauf hin, dass auch dieser Mord die Tat des Puppenmachers war. Hat Bosch den Falschen erschossen? Oder handelt es sich um einen Nachahmungstäter? Für Bosch beginnt ein Wettlauf gegen die Zeit. Er beginnt, auf eigene Faust zu recherchieren, um zu beweisen, dass er keinen Fehler gemacht hat.",
+    "pageCount": "429",
+    "thumbnail": "https://books.google.com/books/content?id=ClczAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755937292109,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der letzte Coyote",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "4",
+    "publishedDate": "1998",
+    "isbn": "9783453130944",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Harry Bosch steckt in Schwierigkeiten. Er hat sich an seinem Vorgesetzten vergriffen und ist bis auf Weiteres vom Dienst suspendiert. Die ihm auferlegte Psychotherapie hält er für Schwachsinn und wehrt sich zunächst dagegen. Doch dann muss er sich eingestehen, dass ihn schon lange etwas quält: der dreißig Jahre zurückliegende Mord an der Prostituierten Marjorie Lowe - seiner Mutter. Es wird Zeit, dass Bosch sich mit dieser traumatischen Erfahrung auseinandersetzt, endlich den Mörder seiner Mutter findet und ihn seiner gerechten Strafe zuführt.",
+    "pageCount": "398",
+    "thumbnail": "https://covers.openlibrary.org/b/id/3202037-L.jpg",
+    "read": true,
+    "addedAt": 1755937440733,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Das Comeback",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "5",
+    "publishedDate": "1999-01",
+    "isbn": "9783453147379",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Nach längerer unfreiwilliger Dienstpause darf Harry Bosch endlich wieder ermitteln und bekommt prompt einen besonders heiklen Fall auf den Tisch: Ein Pornofilmproduzent wurde ermordet in Hollywood aufgefunden, im Kofferraum eines weißen Rolls-Royce, zwei Kugeln stecken in seinem Kopf. Handelt es sich um einen Auftragsmord? Schnell wird klar, dass eine ganze Menge Geld im Spiel gewesen sein muss. Bosch folgt der Spur des Geldes bis nach Las Vegas, wo er es nicht nur mit der Mafia zu tun bekommt, sondern auch von seiner eigenen Vergangenheit eingeholt wird, in Gestalt einer Frau, die er einmal sehr geliebt hat - und die womöglich auch in den Fall verwickelt ist.",
+    "pageCount": "427",
+    "thumbnail": "http://books.google.com/books/content?id=lf2YAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755937623542,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Schwarze Engel",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "6",
+    "publishedDate": "2000",
+    "isbn": "9783453178588",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Eine Stadt wird zum Pulverfass: Der gewaltsame Tod eines afroamerikanischen Anwalts droht Los Angeles ins Chaos zu stürzen. Der Anwalt hatte vor allem mit Prozessen gegen die örtliche Polizei Aufsehen erregt. Detective Harry Bosch weiß, dass er die Verdächtigen zuerst in den eigenen Reihen suchen muss.",
+    "pageCount": "415",
+    "thumbnail": "http://books.google.com/books/content?id=2o2TAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755938085603,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Dunkler als die Nacht",
+    "subtitle": "Terry McCaleb [2]",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "7",
+    "publishedDate": "2001",
+    "isbn": "9783453196117",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der bizarre Mord an einem Mann lässt dessen ehemalige Kollegin den Ex-FBI-Agenten Terry McCaleb anheuern, um ihr bei den Ermittlungen zu helfen. Immer mehr gerät Detective Harry Bosch in Verdacht.",
+    "pageCount": "463",
+    "thumbnail": "https://covers.openlibrary.org/b/id/2206083-L.jpg",
+    "read": true,
+    "addedAt": 1755938300136,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Kein Engel so rein",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "8",
+    "publishedDate": "2003",
+    "isbn": "9783453874176",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Am Neujahrstag erhält Bosch in seinem Dienstwagen die Nachricht, dass in den Bergen nahe Hollywoods ein Hund im Wald einen Knochen ausgegraben hat. Ein Arzt hat den Fund als Teil eines menschlichen Skeletts identifiziert. Bosch findet im Wald unter dem Laub verstreut ein paar weitere Knochen. In der Gerichtsmedizin stellt sich heraus, dass sie die Reste des Skeletts eines etwa zehnjährigen Jungen sind. Ganz offensichtlich wurde das Kind ermordet. Harry Bosch lässt der Fall nicht los, obwohl der Mord mehr als zwanzig Jahre zurückliegt. Das Schicksal dieses Jungen erinnert ihn zu sehr an seine eigene, elternlose Kindheit. Je tiefer er in die Vergangenheit des Jungen eintaucht, desto mehr erfährt er über sich selbst und den Grund, warum das Kind von zu Hause weggelaufen war.",
+    "pageCount": "415",
+    "thumbnail": "https://books.google.com/books/content?id=wzffAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755938574056,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Letzte Warnung",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "9",
+    "publishedDate": "2023",
+    "isbn": "9783311704492",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Desillusioniert von der Heuchelei beim LAPD, hat Harry Bosch seinen Dienst quittiert. Aber Bosch wäre nicht Bosch, wenn er sich davon abbringen ließe, für die Toten einzustehen: Er hat Akten ungelöster Fälle mitgehen lassen. Besonders der Fall Angella Benton, die vier Jahre zuvor während eines Filmdrehs in Hollywood erwürgt wurde, lässt ihn nicht los. Kurze Zeit nach dem Mord wurden zwei Millionen Dollar am Set geraubt, und die Polizei glaubte, dass mit der Beute ein Ausbildungslager der Al-Kaida finanziert werden sollte. Damals, in der aufgeheizten Atmosphäre nach 9/11, konnte ein solcher Verdacht einen einfachen Mord schon mal vergessen machen ... Bei seinen Nachforschungen gerät Bosch schnell in Konflikt mit seinen alten Kollegen und dem FBI - und selbst ins Fadenkreuz der Ermittler.",
+    "pageCount": "307",
+    "thumbnail": "http://books.google.com/books/content?id=Ao-TAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755938802830,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Rückkehr des Poeten",
+    "subtitle": "Terry McCaleb [3]",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "10",
+    "publishedDate": "2005",
+    "isbn": "9783453013117",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der tot geglaubte Mörder meldet sich zurück: Er schickt einer FBI-Agentin einen Hinweis, wo er neue Opfer vergraben hat. Auch Harry Bosch, inzwischen Privatermittler, wird in den Fall verwickelt.",
+    "pageCount": "Unbekannt",
+    "thumbnail": "https://books.google.com/books/content?id=1V810AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755939038845,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Vergessene Stimmen",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "11",
+    "publishedDate": "2006",
+    "isbn": "9783453014312",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Nach einer 3-jährigen Auszeit greift Detective Harry Bosch vom Los Angeles Police Department zusammen mit seinem Partner Kiz Rider erneut einen 20 Jahre zurückliegenden Mordfall an einer 16-Jährigen auf. Im Laufe seiner Ermittlungen offenbaren sich menschliche Abgründe.",
+    "pageCount": "478",
+    "thumbnail": "https://books.google.com/books/content?id=Cr3BAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755939213952,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Echo Park",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "12",
+    "publishedDate": "2006",
+    "isbn": "9783453265608",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Eine junge Frau verschwindet spurlos. Ihre Leiche wird nie gefunden. Dreizehn Jahre später gesteht ein Serienkiller, die Frau getötet zu haben. Detective Harry Bosch, schon damals mit den Ermittlungen betraut, wird erneut auf den Fall angesetzt. Er glaubt nicht an das Geständnis des Killers und stößt schon bald auf eine Spur, die mehr als nur einen Mordfall aufdecken wird.",
+    "pageCount": "464",
+    "thumbnail": "http://books.google.com/books/content?id=cUJyQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755939296588,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Kalter Tod",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "13",
+    "publishedDate": "2008",
+    "isbn": "9783453433427",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein Mann wird kaltblütig getötet und alles deutet darauf hin, dass der Sicherheitsbeauftragte mehrerer Krankenhäuser von Terroristen erpresst wurde, radioaktives Material zu entwenden. Doch Harry Bosch und seine Kollegen stossen auf immer mehr Ungereimtheiten.",
+    "pageCount": "319",
+    "thumbnail": "https://books.google.com/books/content?id=NoI6PAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755939540529,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "So wahr uns Gott helfe (Das Gesetz der Straße)",
+    "subtitle": "Mickey Haller [2]",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "14",
+    "publishedDate": "2010",
+    "isbn": "9783453266360",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Strafverteidiger Mickey Haller übernimmt nach 2-jähriger Pause die Aufgaben eines ermordeten Kollegen. Er stürzt sich voll in seine Aufgaben, hat auch einige Erfolge, doch der Fall des Film-Tycoons Elliot, der seine Frau und deren Liebhaber umgebracht haben soll, stellt ihn vor grösste Probleme.",
+    "pageCount": "511",
+    "thumbnail": "https://books.google.com/books/content?id=Bo6OQAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755939652262,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Neun Drachen",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "15",
+    "publishedDate": "2011-03-08",
+    "isbn": "9783426405765",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Im Moloch Los Angeles lässt der nächste Mord nicht lange auf sich warten: Mr. Li, der chinesische Besitzer eines Liquor Store, wird erschossen. Zunächst sieht alles nach einem gewöhnlichen Raubüberfall aus. Doch Detective Harry Bosch ist sich schnell sicher, dass es in Wirklichkeit um Schutzgelderpressung und die schmutzigen Geschäfte chinesischer Triaden geht. Sein Verdacht bestätigt sich auf grausame Weise: In Hongkong wird Harrys 15-jährige Tochter Madeline entführt, die dort seit der Scheidung mit ihrer Mutter lebt – und Harry muss mit allen Mitteln um ihr Leben kämpfen ...",
+    "pageCount": "342",
+    "thumbnail": "https://books.google.com/books/content?id=1_hqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755939797393,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Spur der toten Mädchen",
+    "subtitle": "Mickey Haller [3]",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Harry Bosch",
+    "volume": "16",
+    "publishedDate": "2011-11-02",
+    "isbn": "9783426411834",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Mickey Haller, von Haus aus eigentlich Strafverteidiger, bekommt die einmalige Chance, in einem aufsehenerregenden Prozess die Anklage zu vertreten. Vor 24 Jahren ist Jason Jessup für die Entführung und den Mord an einer Zwölfjährigen zu lebenslanger Haft verurteilt worden. Weil eine DNA-Analyse ihn jetzt entlastet, muss der Fall neu aufgerollt werden. Mickey hält Jason für schuldig – aber er muss Beweise liefern. Unterstützt von seinem Halbbruder, dem LAPD-Veteranen Harry Bosch, übernimmt Mickey den schwierigen Fall. Ohne es zu wollen, bringt er damit seine eigene und auch Harrys Tochter in tödliche Gefahr ...",
+    "pageCount": "357",
+    "thumbnail": "https://books.google.com/books/content?id=mb5uAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1755939925804,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Poet",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Jack McEvoy",
+    "volume": "1",
+    "publishedDate": "1998",
+    "isbn": "9783453138537",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Jack McEvoy ist Polizeireporter bei den Rocky Mountain News in Denver. Als er vom Tod seines Zwillingsbruders Sean, Detective bei der Mordkommission, erfährt, gerät sein Leben vollkommen aus dem Gleichgewicht. Die Polizei geht von Selbstmord aus: Jacks Bruder soll sich in seinem Auto erschossen haben. Einen Abschiedsbrief habe er auch hinterlassen, auf der Windschutzscheibe: Out of space. Out of time. Ein Zitat von Edgar Allan Poe. Jack glaubt nicht, dass sein Bruder sich selbst das Leben genommen hat und ermittelt auf eigene Faust. Dabei stößt er auf eine ganze Reihe ungelöster Todesfälle: Sean ist nicht der einzige Polizist, der unter ungeklärten Umständen umgekommen ist und Verse von Edgar Allan Poe hinterlassen haben soll. Jack sieht seine Zweifel an der Selbstmordthese bestätigt. Aber wer ist dieser \"Poet\", der es vor allem auf Polizisten abgesehen hat? Was ist sein Motiv? Und wer wird das nächste Opfer sein?",
+    "pageCount": "477",
+    "thumbnail": "http://books.google.com/books/content?id=rc1wPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755940089193,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Mandant (Der Lincoln Lawyer)",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Mickey Haller",
+    "volume": "1",
+    "publishedDate": "2007",
+    "isbn": "9783453014343",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der abgebrühte Strafverteidiger Mickey Haller nimmt den Auftrag an, einen Mann aus reichem Haus zu verteidigen, der der Vergewaltigung und Körperverletzung beschuldigt wird. Doch was anfänglich leicht aussieht, wird ein mörderisches Katz- und Maus-Spiel.",
+    "pageCount": "525",
+    "thumbnail": "https://books.google.com/books/content?id=LXboPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1755940307391,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Das zweite Herz",
+    "subtitle": "",
+    "authors": [
+      "Connelly, Michael"
+    ],
+    "series": "Terry McCaleb",
+    "volume": "1",
+    "publishedDate": "1999",
+    "isbn": "9783453159990",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ex-FBI-Agent Terry Mac Caleb bekommt nach seiner Herzoperation Besuch von einer Frau, die ihm eröffnet, dass das Spenderherz von ihrer ermordeten Schwester stammt. Allen Warnungen und Bedenken zum Trotz untersucht McCaleb den Fall.",
+    "pageCount": "446",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783453159990-us-300.jpg",
+    "read": false,
+    "addedAt": 1756031600658,
+    "rating": null,
+    "tags": []
+  },
+  {
+    "title": "Das schwarze Herz",
+    "subtitle": "",
+    "authors": [
+      "Connolly, John"
+    ],
+    "series": "Bird Parker",
+    "volume": "1",
+    "publishedDate": "2001",
+    "isbn": "9783548251509",
+    "category": "",
+    "genre": "",
+    "description": "Auf der Suche nach einem wahrhaft teuflischen Mörder, der ihm eines Nachts die Frau und die kleine Tochter entrissen hat, enthüllt sich dem New Yorker Ex-Cop Charles »Bird« Parker das vollendete Schlechte und Dunkle und er rührt für Momente am schwarzen Herz des Bösen.",
+    "pageCount": "524",
+    "thumbnail": "https://books.google.com/books/content?id=d9MtAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1756031844347,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das dunkle Vermächtnis",
+    "subtitle": "",
+    "authors": [
+      "Connolly, John"
+    ],
+    "series": "Bird Parker",
+    "volume": "2",
+    "publishedDate": "2003",
+    "isbn": "9783548255330",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Die Wunden von Excop Charlie Parker, ausgelöst durch den brutalen Mord an seiner Frau und seiner kleinen Tochter, sind noch nicht verheilt, als er sich entschließt, an den Ort seiner Kindheit ins winterliche Maine zurückzukehren. Dort möchte er zur Ruhe kommen und das Haus seines Großvaters wieder herrichten. Bis eine Freundin der Familie und ihr Sohn ermordet aufgefunden werden und Charlie Parker sich mit einem Schlag in die schlimmste Zeit seines Lebens zurückversetzt fühlt. Alpträume mischen sich mit unheimlichen Vorkommnissen, die sich nachts im Haus seines Großvaters abspielen. Die Lösung liegt in der Vergangenheit, in Verbrechen, die dreißig Jahre zurückliegen, und in den dunklen Wäldern von Maine ...",
+    "pageCount": "463",
+    "thumbnail": "https://books.google.com/books/content?id=EMzUAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1756031997045,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die weiße Straße",
+    "subtitle": "",
+    "authors": [
+      "Connolly, John"
+    ],
+    "series": "Bird Parker",
+    "volume": "4",
+    "publishedDate": "2008",
+    "isbn": "9783548267890",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein junger Schwarzer sitzt in der Todeszelle: Er soll die Tochter eines der reichsten Männer South Carolinas ermordet haben. Niemand möchte mit diesem Fall zu tun haben, der seine Wurzeln in altem Übel hat. Doch das ist die Spezialität von Privatdetektiv Charlie Parker. Er ahnt nicht, dass ihm ein Alptraum bevorsteht, in dem dunkle Mächte alles fordern, was ihm lieb ist.",
+    "pageCount": "479",
+    "thumbnail": "https://books.google.com/books/content?id=LObAJgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1756032122698,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Herz der Finsternis",
+    "subtitle": "",
+    "authors": [
+      "Conrad, Joseph"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-11-01",
+    "isbn": "9783423401586",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Ein Klassiker über Kolonialismus, Anmaßung und Unterdrückung von erschreckender Aktualität. In seinem berühmten Roman ›Herz der Finsternis‹ verarbeitet Joseph Conrad seine abenteuerliche letzte Reise nach Afrika, die er nur mit viel Glück überlebte und die ihm für den Rest seines Lebens eine zerrüttete Gesundheit und alptraumhafte Erinnerungen bescherte. Kapitän Marlow berichtet von seiner Fahrt ins Innere eines unbekannten Kontinents. Die Reise in den Dschungel öffnet ihm nicht nur die Augen über die dunklen Abwege europäischer Eroberungen; sie wird zur Entdeckungsreise: ins Ungewisse der eigenen Existenz, in die Untiefen des Halb- und Unterbewusstseins, ins finstere Labyrinth von Lüge und Schuld.",
+    "pageCount": "158",
+    "thumbnail": "https://books.google.com/books/content?id=4_H37tLOlugC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1756032329847,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der letzte Mohikaner",
+    "subtitle": "",
+    "authors": [
+      "Cooper, James Fenimore"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-11-29",
+    "isbn": "9783104012056",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Coopers packende Schilderung einer Odyssee durch den amerikanischen Urwald hat Generationen von Lesern begeistert und ist nicht zufällig immer wieder verfilmt worden.\nIm Sommer 1757 kämpfen Briten und Franzosen erbittert um die Vorherrschaft im Nordosten Amerikas – einer endlosen Wildnis aus Wald, in der stolze Indianer-Völker leben. Ein britischer Offizier versucht mit den ungleichen Schwestern Alice und Cora zu deren Vater an die Front vorzudringen. Sie geraten in eine Falle, aus der sie nur Lederstrumpf und die Mohikaner befreien können.",
+    "pageCount": "478",
+    "thumbnail": "https://books.google.com/books/content?id=5ctuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1756032594629,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Wildtöter",
+    "subtitle": "",
+    "authors": [
+      "Cooper, James Fenimore"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2022-06-01",
+    "isbn": "9783958706842",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "»Der Wildtöter« ist der chronologisch zuerst erschienene Band im fünfteiligen Lederstrumpf-Zyklus und erzählt von den beiden Waldläufern Natty Bumppo (von den Indianern Wildtöter genannt) und Henry March, der am Otsego-See den ehemaligen Seemann Tom Hutter besuchen will, der dort mit seinen Töchtern Judith und Hetty in einem befestigten Pfahlbau lebt. Wildtöter will sich mit seinem Freund, dem Indianerhäuptling Chingachgook, treffen. Dieser vermutet, dass seine Verlobte Wah-ta!-Wah von einem in der Nähe lagernden Mingo-Stamm entführt wurde ...",
+    "pageCount": "858",
+    "thumbnail": "https://books.google.com/books/content?id=yg12EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1756032782704,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der Winterkönig",
+    "subtitle": "",
+    "authors": [
+      "Cornwell, Bernard"
+    ],
+    "series": "Artus-Trilogie",
+    "volume": "1",
+    "publishedDate": "2001",
+    "isbn": "9783442451784",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Britannien im 5. Jahrhundert: Die Tage der großen Dunkelheit sind angebrochen. An die Römerherrschaft erinnert kaum noch etwas, und über das Meer dringen die Heere der Sachsen auf die Insel. Eine tödliche Bedrohung, denn die Bündnisse zwischen den keltischen Reichen sind zu zerbrechlich, um dem Ansturm auf Dauer standzuhalten. Als Großkönig Uther Pendragon stirbt und sein Nachfolger noch ein hilfloses Kind ist, gibt es nur einen Mann, der den Thron halten kann: Uthers Bastardsohn. Sein Name ist Arthur.",
+    "pageCount": "568",
+    "thumbnail": "https://covers.openlibrary.org/b/id/2204757-L.jpg",
+    "read": true,
+    "addedAt": 1756032894184,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Schattenfürst",
+    "subtitle": "",
+    "authors": [
+      "Cornwell, Bernard"
+    ],
+    "series": "Artus-Trilogie",
+    "volume": "2",
+    "publishedDate": "1997",
+    "isbn": "9783764500054",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Nach der großen, überaus blutigen Schlacht von Lugg Vale hat Arthur endlich die zerstrittenen Stämme Britanniens im Kampf gegen die germanischen Eindringlinge vom Festland geeint. Die Erfüllung seines großen Traums von Gerechtigkeit und Ordnung in Britannien scheint greifbar nahe. Aber etwas hat der Kriegsherr über seinen kühnen Visionen vergessen – die alten Götter. Nur einer entsinnt sich noch ihrer grausamen Herrschaft über das Menschengeschlecht: Merlin, der Druide, der Schattenfürst.",
+    "pageCount": "540",
+    "thumbnail": "https://covers.openlibrary.org/b/id/11449930-L.jpg",
+    "read": true,
+    "addedAt": 1756033070606,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Das letzte Königreich",
+    "subtitle": "",
+    "authors": [
+      "Cornwell, Bernard"
+    ],
+    "series": "Uhtred-Saga",
+    "volume": "1",
+    "publishedDate": "2007-01",
+    "isbn": "9783499242229",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Nordengland, im Jahre 866: Mit zehn Jahren erlebt der Fürstensohn Uhtred den Einfall der Wikinger. Sein ungestümer Mut in der Schlacht beeindruckt den Anführer der Dänen so sehr, dass er Uhtred verschont und als Ziehkind aufnimmt. Mit den Jahren wird der Junge fast einer von ihnen. Nach Raub- und Eroberungszügen voller Blut und Gewalt droht auch Wessex, das letzte der fünf angelsächsischen Königreiche, an die Eroberer zu fallen. Doch da wechselt Uhtred wieder die Seiten …",
+    "pageCount": "474",
+    "thumbnail": "https://books.google.com/books/content?id=6_PQGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1756033269303,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Closer",
+    "subtitle": "Er wird sie finden, er wird sie töten",
+    "authors": [
+      "Cortez, Donn"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008",
+    "isbn": "9783426637036",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Jack war ein aufstrebender Künstler – aber seit seine Familie einem brutalen Mord zum Opfer fiel, kennt er nur noch ein Ziel: Gerechtigkeit für alle, denen ein geliebter Mensch genommen wurde! Jack und seine Partnerin Nikki haben sich darauf spezialisiert, Killer aufzuspüren und sie zu einem Geständnis zu zwingen. Nikki übernimmt die Rolle des Lockvogels, Jack führt die Verhöre. Durch eins seiner Opfer erfährt er von einer geheimen Serienmörder-Community im Internet. Jack schleust sich dort ein, um ein Mitglied nach dem anderen auszuschalten. So stößt er auch auf einen Killer, der sich The Patron nennt – und kein anderer ist als der Mörder seiner Familie! Jack versucht, ruhig zu bleiben. Es geht ihm um Gerechtigkeit, nicht um Rache. Doch wer zu lange Bestien jagt, läuft Gefahr, selbst eine zu werden …\n   Ein Problem mit diesem Produkt melden",
+    "pageCount": "397",
+    "thumbnail": "https://books.google.com/books/content?id=JBy0JQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1756033482244,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Dr. Siri und seine Toten",
+    "subtitle": "",
+    "authors": [
+      "Cotterill, Colin"
+    ],
+    "series": "Dr. Siri",
+    "volume": "1",
+    "publishedDate": "2009-03-11",
+    "isbn": "9783641025045",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Dr. Siri Paiboun hatte bislang eigentlich nur mit lebenden Patienten zu tun. Doch nun wird er mit seinen 72 Jahren noch zum einzigen Leichenbeschauer von ganz Laos ernannt – als letzter verbliebener Genosse mit medizinischem Hintergrund. Es bleibt ihm keine Wahl, als sich ohne jedes Fachwissen, aber mit der Unterstützung zweier ebenso unqualifizierter Assistenten, an seinem ersten Fall zu versuchen: Frau Nitnoy, die Gemahlin eines Parteibonzen, ist bei einem Essen des Frauenverbands plötzlich verstorben, und Dr. Siri argwöhnt, dass es dabei nicht mit rechten Dingen zuging. Mit Hilfe eines alten französischen Lehrbuchs, vor allem aber mit viel Witz und Intuition macht er sich daran, die Sache unter die Lupe zu nehmen. Prompt gerät Dr. Siri selbst in Gefahr, doch zum Glück kann er auf zahlreiche Helfer zählen wie seinen alten Freund und Parteigenossen Civilai, die Chemielehrerin Oum und die Sandwichverkäuferin Tante Lah, die Dr. Siri jeden Mittag mit ihren Köstlichkeiten versorgt – und ein Auge auf ihn geworfen hat ...",
+    "pageCount": "233",
+    "thumbnail": "https://books.google.com/books/content?id=8yt34ro-fegC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1756033610333,
+    "rating": 4,
+    "tags": [
+      "Laos"
+    ]
+  },
+  {
+    "title": "Der Tote trägt Hut",
+    "subtitle": "",
+    "authors": [
+      "Cotterill, Colin"
+    ],
+    "series": "Jimm Juree",
+    "volume": "1",
+    "publishedDate": "2013-07-15",
+    "isbn": "9783641099718",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Was haben eine liebenswert-verrückte Sippe, ein Hut tragendes Skelett und ein ermordeter Mönch gemeinsam? Sie alle halten Kriminalreporterin Jimm Juree ordentlich auf Trab. Jimm Juree, Mitte dreißig und Kriminalreporterin bei einer thailändischen Zeitung, lebt mit ihrer gesamten exzentrischen Familie unter einem Dach. Als die schrullige Bagage in ein verschlafenes Provinznest übersiedelt, glaubt Jimm, ihr Leben, zumindest aber ihre Karriere sei zu Ende. Doch dann überschlagen sich die Ereignisse: Erst wird durch Zufall ein alter VW-Bus ausgegraben, in dem die Hut tragenden Skelette zweier Männer sitzen, dann wird der Abt des örtlichen Tempels brutal ermordet. Jimm wittert ihre Chance auf eine Exklusivreportage. Doch bei ihren Recherchen braucht sie nicht nur Geduld und Glück – sondern auch die Unterstützung ihrer kauzigen Sippe.",
+    "pageCount": "251",
+    "thumbnail": "https://books.google.com/books/content?id=xYYAAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1756033746217,
+    "rating": 5,
+    "tags": [
+      "Thailand"
+    ]
+  },
+  {
+    "title": "Gesetz des Todes",
+    "subtitle": "",
+    "authors": [
+      "Crais, Robert"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-07-14",
+    "isbn": "9783641137212",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein Gangster darf keine Familie haben außer seiner kriminellen Bruderschaft. Wer diese Regel bricht, wird mit dem Tod bestraft ... L. A., Gegenwart: Frank Meyer, ein Modeimporteur mit dunkler Vergangenheit, wird mitsamt seiner Familie regelrecht hingerichtet. Schnell tritt der Ermittler Joe Pike auf den Plan, denn Meyer war einst sein Freund. Die Spur führt zur serbischen Mafia und deren Hintermänner. Getarnt als Waffenhändler begibt Pike sich mithilfe seines Partners Elvis Cole in die Unterwelt von L. A.",
+    "pageCount": "276",
+    "thumbnail": "https://books.google.com/books/content?id=hIfQAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1756852047210,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Hostage - Entführt",
+    "subtitle": "",
+    "authors": [
+      "Crais, Robert"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-10-11",
+    "isbn": "9783641162924",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Jeff Talley war Verhandlungsführer bei der Sondereinheit SWAT in L.A. - bis eine der Geiselbefreiungen blutig endete. Seitdem hat er sich als Polizeichef in ein Provinznest zurückgezogen. Als ein Überfall dreier Jugendlicher schiefgeht, geraten Talleys Frau und seine Tochter in höchste Gefahr. Um seine Familie aus den Fängen der gnadenlosen Entführer zu retten, muss der Ermittler sich seiner Vergangenheit stellen. Und es bleiben ihm nur fünfzehn Stunden ...",
+    "pageCount": "379",
+    "thumbnail": "https://books.google.com/books/content?id=xI3qDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1756852162502,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Straße des Todes",
+    "subtitle": "",
+    "authors": [
+      "Crais, Robert"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-11-25",
+    "isbn": "9783641113025",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ihre Spur ist ausgelöscht Jack Berman macht mit seiner Freundin Krista einen Ausflug in die kalifornische Wüste. Plötzlich zerreißen Motoren die Stille, Scheinwerfer schneiden durch die Nacht. Die beiden beobachten, wie eine Gruppe Mexikaner von mehreren Männern brutal zusammengetrieben wird. Dann fallen Schüsse. Sechs Tage später wird der Ermittler Elvis Cole mit der Suche nach dem jungen Pärchen beauftragt. Für ihn und seinen Partner Joe Pike beginnt ein Albtraum ...",
+    "pageCount": "330",
+    "thumbnail": "https://books.google.com/books/content?id=bqcdAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1756852264434,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Congo",
+    "subtitle": "",
+    "authors": [
+      "Crichton, Michael"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1995",
+    "isbn": "9783426602904",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Die Suche nach Diamanten, ein entscheidender wissenschaftlicher Durchbruch und eine mythische Ruinenstadt sind der Ausgangspunkt für dieses Abenteuer im Herzen des kongolesischen Dschungels.\nDie amerikanische Expedition wird von Karen Ross angeführt, die verzweifelt versucht, ihren Ehemann zu finden und die Daten zu bergen, die er vor seinem Verschwinden entdeckt hatte. Aber es gibt noch andere Teams, die versuchen, zuerst dort anzukommen, und der Weg dorthin ist gespickt mit lebensbedrohlichen Gefahren – Flugzeugabstürzen, Bürgerkriegen und einem schlafenden Vulkan, der durch ruhende Sprengstoffe geweckt wurde.",
+    "pageCount": "351",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783426602904-us-300.jpg",
+    "read": true,
+    "addedAt": 1756852519045,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der große Eisenbahnraub",
+    "subtitle": "",
+    "authors": [
+      "Crichton, Michael"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1994",
+    "isbn": "9783426602911",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "England 1855: Königin Victoria regiert das britische Imperium mit eiserner Hand. Auf der Krim wütet ein mörderischer Krieg. Und in London wird das Verbrechen des Jahrhunderts geplant: Aus den beiden Safes im Packwagen des London-Paris-Express soll der Sold für die in Russland stehenden britischen Truppen, Goldbarren im Wert von 12000 Pfund, geraubt werden. - Am 22. Mai desselben Jahres ist es schließlich soweit: Als der Zug mit dem Sold in Folkestone am Ärmelkanal ankommt, findet man in den Safes Blei. Das Verbrechen, das als der große Eisenbahnraub in die Geschichte eingehen wird, erregt die Gemüter aller Engländer.",
+    "pageCount": "352",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12881391-L.jpg",
+    "read": true,
+    "addedAt": 1756852877984,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Enthüllung",
+    "subtitle": "",
+    "authors": [
+      "Crichton, Michael"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1995",
+    "isbn": "9783426603802",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "ENTHÜLLUNG – die Geschichte eines skrupellosen Machtpokers in einer Branche, in der nur mit harten Bandagen gekämpft wird; das Protokoll einer Verleumdungskampagne, die eine brillante Karriere jäh zu beenden droht: und die Story eines raffinierten Katz-und-Maus-Spiels, das den engen Zusammenhang zwischen Macht und Sexualität gerade dadurch entlarvt, dass es die althergebrachte Situation »Mann belästigt Frau« umkehrt.",
+    "pageCount": "527",
+    "thumbnail": "https://covers.openlibrary.org/b/id/9253428-L.jpg",
+    "read": true,
+    "addedAt": 1756853111173,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Timeline",
+    "subtitle": "Eine Reise in die Mitte der Zeit",
+    "authors": [
+      "Crichton, Michael"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2002",
+    "isbn": "9783442451227",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "In der Wüste von Arizona irrt ein Mann benommen umher und spricht Worte, die keinen Sinn ergeben. Innerhalb von vierundzwanzig Stunden ist er tot, sein Leichnam wird von seinen einzigen Bekannten schnell eingeäschert. Auf der anderen Seite der Welt machen Archäologen an einer mittelalterlichen Ausgrabungsstätte eine schockierende Entdeckung. Plötzlich werden sie zum Hauptsitz eines geheimnisvollen multinationalen Konzerns gebracht, der eine erstaunliche Technologie entwickelt hat. Nun hat diese Gruppe die Chance, die Vergangenheit nicht nur zu erforschen, sondern in sie einzutauchen. Und da die Geschichte für die Gegenwart geöffnet ist und die Toten zu den Lebenden erwacht sind, werden diese Männer und Frauen bald um ihr Überleben kämpfen müssen – vor sechshundert Jahren ...",
+    "pageCount": "Unbekannt",
+    "thumbnail": "https://books.google.com/books/content?id=N65zzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1756853327785,
+    "rating": 4,
+    "tags": []
   }
 ]
