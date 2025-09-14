@@ -9939,5 +9939,525 @@
     "addedAt": 1756853327785,
     "rating": 4,
     "tags": []
+  },
+  {
+    "title": "Tief",
+    "subtitle": "",
+    "authors": [
+      "Croft, Mike"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011",
+    "isbn": "9783832185626",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Zuerst ist es nur ein Pottwal, der an der englischen Küste strandet. Doch kurz darauf schwimmen Hunderte von aggressiven Walen auf die Badestrände zu und bringen auf hoher See Schiffe zum Kentern. Meeresbiologe Roddy Ormond glaubt, dass sie die Menschen warnen wollen. Aber wovor? Die Antwort liegt in der Tiefe des Ozeans begraben.",
+    "pageCount": "384",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md22895822602.jpg",
+    "read": true,
+    "addedAt": 1757869076794,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Übergang",
+    "subtitle": "",
+    "authors": [
+      "Cronin, Justin"
+    ],
+    "series": "Passage-Trilogie",
+    "volume": "1",
+    "publishedDate": "2010-09-16",
+    "isbn": "9783641050672",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Die Welt, wie Sie sie kennen, wird es nicht mehr geben! Bevor sie das Mädchen von Nirgendwo wurde – das Mädchen, das plötzlich auftauchte, die Erste und Letzte und Einzige, die tausend Jahre lebte – war sie nur ein kleines Mädchen aus Iowa und hieß Amy. Amy Harper Bellafonte. Das Mädchen Amy ist gerade einmal sechs Jahre alt, als es von zwei FBI-Agenten entführt und auf ein geheimes medizinisches Versuchsgelände verschleppt wird. Man hat lange nach Amy gesucht: der optimalen Versuchsperson für ein mysteriöses Experiment, das nichts Geringeres zum Ziel hat, als Menschen unsterblich zu machen. Doch dann geht irgendetwas schief – völlig schief. Von einem Tag auf den anderen rast die Welt dem Untergang entgegen. Und nur eine kann die Menschheit vielleicht noch retten: Amy Harper Bellafonte.",
+    "pageCount": "967",
+    "thumbnail": "https://books.google.com/books/content?id=DzS497Ghke0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757869404316,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Zwölf",
+    "subtitle": "",
+    "authors": [
+      "Cronin, Justin"
+    ],
+    "series": "Passage-Trilogie",
+    "volume": "2",
+    "publishedDate": "2013-01-14",
+    "isbn": "9783641092795",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Zu Anfang waren es zwölf Kriminelle, die auf die Todesstrafe warteten. Doch dann wurden sie auserwählt für ein geheimes Experiment. Es sollte den Fortschritt bringen, aus ihnen sollten mehr als nur Menschen werden. Doch es schlug fehl. Jetzt sind es diese Zwölf, die das Leben auf der Erde bedrohen und das Ende der Menschheit bedeuten könnten. Und die letzte Hoffnung ruht auf einem Mädchen. Amy ist die Einzige, die sich der Macht der Zwölf entgegenstellen kann. Aber der Gegner ist stark, und ihre Kraft scheint mehr und mehr zu schwinden ...",
+    "pageCount": "710",
+    "thumbnail": "https://books.google.com/books/content?id=GGOY-gunZ6AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757869562582,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Spiegelstadt",
+    "subtitle": "",
+    "authors": [
+      "Cronin, Justin"
+    ],
+    "series": "Passage-Trilogie",
+    "volume": "3",
+    "publishedDate": "2016-10-31",
+    "isbn": "9783641202569",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Die Zwölf – Wesen der Dunkelheit, Todfeinde der Menschen – sind vernichtet, ihre hundertjährige Schreckensherrschaft über die Welt ist vorüber. Nach und nach wagen sich die Überlebenden aus ihrer eng ummauerten Zuflucht, Hoffnung keimt auf. Auf den Ruinen der einstigen Zivilisation wollen sie eine neue, eine bessere Gesellschaft aufbauen: der älteste Traum der Menschheit. Doch in einer fernen, verlassenen Stadt lauert der Eine: Zero. Der Erste. Der Vater der Zwölf, der den Ursprung des Virus in sich trägt. Einst ein hochbegabter Wissenschaftler, der, seit er seine große Liebe verlor, nur noch von Rachedurst und Wut erfüllt ist. Sein Ziel ist es, die Menschheit endgültig auszulöschen. Seine Truppen sind bereit. Und der Zeitpunkt ist gekommen. Nur Amy vermag ihn jetzt noch aufzuhalten, das Mädchen aus dem Nirgendwo, die einzige Hoffnung der Menschheit. Und so treten sie und ihre Freunde an zum letzten großen Kampf zwischen Licht und Dunkelheit ...",
+    "pageCount": "935",
+    "thumbnail": "https://books.google.com/books/content?id=vsEeDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757869714801,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Psychose",
+    "subtitle": "",
+    "authors": [
+      "Unbekannter Autor"
+    ],
+    "series": "Wayward Pines",
+    "volume": "1",
+    "publishedDate": "2013",
+    "isbn": "9781477807316",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Wayward Pines, Idaho, eine idyllische Kleinstadt mitten im Nichts. Hier soll Secret-Service-Agent Ethan Burke zwei Vermisste aufspüren. Doch als er nach einem Verkehrsunfall im Krankenhaus des Ortes wieder zu sich kommt, ist seine eigentliche Mission sein geringstes Problem: All seine Sachen sind verschwunden, die Menschen um ihn herum verhalten sich äußerst merkwürdig, auf seine Fragen bekommt er nur ausweichende Antworten. Und als Ethan dann versucht, Wayward Pines zu verlassen, stößt er auf einen unüberwindbaren Zaun – und ein grauenvolles Geheimnis ...",
+    "pageCount": "320",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9781477807316-us-300.jpg",
+    "read": true,
+    "addedAt": 1757869932376,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Die goldene Meile",
+    "subtitle": "",
+    "authors": [
+      "Smith, Martin Cruz"
+    ],
+    "series": "Arkadi Renko",
+    "volume": "7",
+    "publishedDate": "2010",
+    "isbn": "9783570009208",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Als Maya im leeren Zug erwacht, stellt sie mit Schrecken fest, dass ihr Baby verschwunden ist. Die Polizei schenkt ihr keinen Glauben. Gemeinsam mit dem jungen Zenia macht sie sich auf die Suche ...",
+    "pageCount": "255",
+    "thumbnail": "https://books.google.com/books/content?id=w4-hQAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1757870040731,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Falsche Opfer",
+    "subtitle": "",
+    "authors": [
+      "Dahl, Arne"
+    ],
+    "series": "Paul Hjelm",
+    "volume": "3",
+    "publishedDate": "2004",
+    "isbn": "9783492270687",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Per Karlsson hat nichts gesehen. Nicht einmal den brutalen Mord an dem jungen Mann, der am Tisch neben ihm erschlagen wurde. Karlsson gibt vor, in Ovids »Metamorphosen« versunken gewesen zu sein. Kurz darauf ereignet sich auf einem Industriegelände unweit des Tatorts eine blutige Auseinandersetzung: Zwei verfeindete Banden wollen einen Aktenkoffer an sich bringen, der den Schlüssel zu einem Banksafe enthält. Als die Polizei eintrifft, fehlt von dem Koffer jedoch jede Spur. Die Stockholmer Sondereinheit um Paul Hjelm jagt zwei Verdächtige: Sonja, die Tochter eines der Bandenführer – und Per Karlsson …",
+    "pageCount": "387",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783492270687-us-300.jpg",
+    "read": true,
+    "addedAt": 1757870222042,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Sommernachtstod",
+    "subtitle": "",
+    "authors": [
+      "Dahl, Kjell Ola"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2007",
+    "isbn": "9783404267330",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Sonntagmorgen: Ins Gespräch vertieft mit Goldfisch Kalfatrus, wird Kriminalkomissar Gunnarstranda vom Klingeln des Telefons gestört. Das riecht nach Arbeit. \"Fassen Sie sich kurz\", meldet er sich, auch wenn er ahnt, dass sein Sonntag nicht mehr zu retten ist. In einem Straßengraben liegt die Leiche einer jungen Frau. Tod durch Erwürgen. Tatzeit: vermutlich in der vergangenen Nacht ...",
+    "pageCount": "475",
+    "thumbnail": "https://www.krimi-couch.de/fileadmin/_processed_/5/6/csm_3404151879_d1ca4e31e3.jpg",
+    "read": true,
+    "addedAt": 1757870569254,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Tödliche Investitionen",
+    "subtitle": "",
+    "authors": [
+      "Dahl, Kjell Ola"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006-08-15",
+    "isbn": "9783404155477",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Wie eine Spinne in ihrem Netz hockt der alte Lüstling Johansen Nacht für Nacht hinter seinem Fenster und verfolgt das Liebesleben der jungen und lebensfrohen Reidun Rosemdal. Bis das Objekt seiner Begierde eines Morgens brutal ermordet wird. Das Osloer Kriminalkommissariat schaltet sich ein. Auf der Suche nach dem Mörder begegnen den Kommissaren Frølich und Gunnarstranda Schmutz und Schund, und das nicht nur in der Wohnung des Alten. Auch hinter der luxuriösen und durchgestylten Fassade der Computerfirma, in der Reidun zuletzt arbeitete, verbirgt sich ein Sumpf von Korruption, Verrat und Eifersucht. - Zwei weitere Morde müssen geschehen, bevor in einem dramatischen Finale der Fall eine überraschende Lösung findet ... Gunnarstranda und Frølich ermitteln in ihrem ersten Fall.",
+    "pageCount": "320",
+    "thumbnail": "https://books.google.com/books/content?id=rWUsPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1757870693272,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Roald Dahl's Buch der Schauergeschichten",
+    "subtitle": "",
+    "authors": [
+      "Dahl, Roald"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1989",
+    "isbn": "9783499126291",
+    "category": "Belletristik",
+    "genre": "Mystery",
+    "description": "Die Zimmertemperatur sinkt? Nach Aussage des Experten Harry Price (\"Spukhäuser in England\") ist das ein sicheres Anzeichen dafür, dass ein Gespenst im Raum ist. Wer aber könnte ein besserer Führer durch die schaurige Welt der Geister sein, als Roald Dahl, dessen literarische \"Wechselbäder zwischen Gruseln und Schmunzeln\" bereits Millionen Leser wohlige Schauer über den Rücken laufen ließen? Besondere Umstände haben ihn zum wohl besten Kenner dieses Genres gemacht, und aus 749 Geschichten hat er die besten 14 ausgewählt.",
+    "pageCount": "253",
+    "thumbnail": "https://covers.openlibrary.org/b/id/3216358-L.jpg",
+    "read": true,
+    "addedAt": 1757871025148,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Ich sehe was, was du nicht siehst",
+    "subtitle": "Acht unglaubliche Geschichten",
+    "authors": [
+      "Dahl, Roald"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-08-01",
+    "isbn": "9783644040410",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Wodurch lassen wir uns lieber unterhalten als durch die unglaublichen Geschichten des unvergleichlichen Roald Dahl? Alle Leser von «Küsschen, Küsschen», «Kuschelmuschel» und «Danny oder Die Fasanenjagd» werden auch an diesen atemberaubenden Überraschungen wieder ihre helle Freude haben.",
+    "pageCount": "175",
+    "thumbnail": "https://books.google.com/books/content?id=gRjpAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757874281307,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Kuschelmuschel",
+    "subtitle": "Vier erotische Überraschungen",
+    "authors": [
+      "Dahl, Roald"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2002",
+    "isbn": "9783499232558",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Wenn Onkel Oswald Skorpione, Spazierstöcke und schöne Mädchen sammelt, ein Duftwasser mit betörender Wunderwirkung mischen lässt oder ein leidenschaftlicher Vorort-Casanova ein neuartiges System des Partnertausches ersinnt: \"Stets stellen sich beim Lesen die angenehmsten Schauder ein.\"",
+    "pageCount": "185",
+    "thumbnail": "https://books.google.com/books/content?id=_8jDPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1757874404733,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Küsschen, Küsschen!",
+    "subtitle": "Elf ungewöhnliche Geschichten",
+    "authors": [
+      "Dahl, Roald"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-07-20",
+    "isbn": "9783644467811",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Hier ist das Gruseln zu lernen – von einem Meister des makabren Humors. Die ungewöhnlichen, weltberühmt gewordenen Schockgeschichten garantieren die schärfsten Genüsse, die ein literarischer Cocktail mit Arsen und Spitzenhäubchen zu bieten vermag. 10 % der Autorentantieme aus dem Verkauf dieses Buches kommen dem Roald-Dahl-Wohltätigkeitsverein zugute. www.roalddahlfoundation.org www.roalddahlmuseum.org",
+    "pageCount": "213",
+    "thumbnail": "https://books.google.com/books/content?id=-UpuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757874592705,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Als der Blues begann",
+    "subtitle": "",
+    "authors": [
+      "Deaner, Janice"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1996",
+    "isbn": "9783499221064",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Die Lamars könnten so glücklich sein. Vater Leo bekommt den lang ersehnten Job, Mutter Lana ein Haus mit Garten, und die drei Kinder erobern sich nach dem Umzug aus Detroit das sommerlich romantische Dorf. Die perfekte Idylle.\nDoch eines Tages finden die Geschwister in einer Kiste auf dem Speicher Lanas alte Tagebücher ...",
+    "pageCount": "573",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md22733097988.jpg",
+    "read": true,
+    "addedAt": 1757874718689,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Der Knochenjäger",
+    "subtitle": "Ein Lincoln-Rhyme-Thriller",
+    "authors": [
+      "Deaver, Jeffery"
+    ],
+    "series": "Rhyme & Sachs",
+    "volume": "1",
+    "publishedDate": "2014-12-15",
+    "isbn": "9783641157180",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der 1. Fall für Lincoln Rhyme und Amelia Sachs! In dem packenden SPIEGEL-Bestseller treibt ein grausamer Serienmörder sein Unwesen. Ein Serienkiller versetzt New York in Angst und Schrecken: Scheinbar wahllos verschleppt und tötet er unschuldige Menschen und hinterlässt an jedem Tatort einen obskuren Hinweis auf den nächsten Mord. Die letzte Hoffnung der Polizei ist der geniale Forensiker Lincoln Rhyme, der seit einem Arbeitsunfall querschnittsgelähmt ist. Die brutalen Fälle wecken sein Interesse – und nach und nach kommt ihm der Verdacht, dass er den Mörder kennen muss ... Lesen Sie auch die anderen Romane mit Lincoln Rhyme und Amelia Sachs! Alle Bände sind unabhängig voneinander lesbar.",
+    "pageCount": "400",
+    "thumbnail": "https://books.google.com/books/content?id=BckUBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757874935092,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Letzter Tanz",
+    "subtitle": "Ein Lincoln-Rhyme-Thriller",
+    "authors": [
+      "Deaver, Jeffery"
+    ],
+    "series": "Rhyme & Sachs",
+    "volume": "2",
+    "publishedDate": "2018-03-19",
+    "isbn": "9783641214012",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein kaltblütiger Mörder hält Detective Lincoln Rhyme in Atem. Das einzige Erkennungsmerkmal des Killers ist seine Tätowierung – sie zeigt den Tod und ein Mädchen tanzend auf einem Sarg. Rhyme glaubt den Mörder zu kennen, und sollte sich sein Verdacht bestätigen, kennt er nur noch einen Gedanken: Rache – aus ganz persönlichen Gründen ...",
+    "pageCount": "380",
+    "thumbnail": "https://books.google.com/books/content?id=ZL5GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757875060378,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Insektensammler",
+    "subtitle": "",
+    "authors": [
+      "Deaver, Jeffery"
+    ],
+    "series": "Rhyme & Sachs",
+    "volume": "3",
+    "publishedDate": "2002-05-27",
+    "isbn": "9783894807139",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Amerikanische Ostküste, Bundesstaat North Carolina. Im ausgedehnten Sumpfgebiet am Paquenoke-Fluss wurde die junge Archäologin Mary Beth O’Connnell entführt. Dringend verdächtig ist der 16-jährige Darrett Hanlon, der schon einiges auf dem Kerbholz zu haben scheint und in der Gegend nur „Der Insektensammler“ genannt wird. Er ist ein sonderbarer Einzelgänger, der im Sumpf lebt und sich obsessiv mit „Ungeziefer“ beschäftigt. Selbst vor Hornissen hat er keine Angst, denn er setzt ihre Nester manchmal als Waffe ein.",
+    "pageCount": "564",
+    "thumbnail": "https://books.google.com/books/content?id=ubcXBOB7JtcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757875398859,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Das Gesicht des Drachen",
+    "subtitle": "",
+    "authors": [
+      "Deaver, Jeffery"
+    ],
+    "series": "Rhyme & Sachs",
+    "volume": "4",
+    "publishedDate": "2003-03-27",
+    "isbn": "9783894807863",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der 4. Fall für Lincoln Rhyme und Amelia Sachs. Ein skrupelloser chinesischer Menschenschmuggler, der nur unter dem Decknamen »der Geist« bekannt ist, versucht an Bord der Fuzhou Dragon in die USA zu gelangen. Das FBI plant, ihn gleich bei seiner Ankunft im New Yorker Hafen zu verhaften. Doch kurz vor der Küste zündet der Geist einen gewaltigen Sprengsatz und verschwindet, ohne eine Spur zu hinterlassen. Als das Schiff sinkt, reißt es beinahe die gesamte Besatzung mit sich in die Tiefe. Fieberhaft machen sich Lincoln Rhyme und Amelia Sachs daran, den eiskalten Killer aufzuspüren, bevor er auch noch die letzten Zeugen seines grausamen Verbrechens ausschalten kann ...",
+    "pageCount": "592",
+    "thumbnail": "https://books.google.com/books/content?id=6XmSSNz_DgsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757875503092,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der faule Henker",
+    "subtitle": "",
+    "authors": [
+      "Deaver, Jeffery"
+    ],
+    "series": "Rhyme & Sachs",
+    "volume": "5",
+    "publishedDate": "2004-12-22",
+    "isbn": "9783894808426",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der 5. Fall für Lincoln Rhyme und Amelia Sachs. Jeffery Deavers geniales Ermittlerpaar löst seinen mit Abstand spannendsten Fall: auf den Spuren eines Mörders, dessen Metier das Unmögliche ist ... Grausam gefesselt stirbt ein junges Mädchen in einer New Yorker Musikschule. Der Täter verbarrikadiert sich in einem fensterlosen Probenraum. Ein Schuss fällt. Gleich darauf bricht die Polizei die Türen auf – doch das Zimmer ist leer... Für Lincoln Rhyme, den genialen gelähmten Ermittler, und seine Partnerin Amelia Sachs ist sofort klar: Der Mörder wird wieder zuschlagen. Zu gewandt und lustvoll missbraucht er die Tricks von Houdini, Copperfield und Co., zu schlau sind seine Ablenkungsmanöver. Doch Rhyme und Sachs bleibt nur wenig Zeit, das mörderische Phantom zu enttarnen. Denn das furiose Finale steht unmittelbar bevor: der letzte grausige Racheakt eines psychopathischen Magiers ...",
+    "pageCount": "605",
+    "thumbnail": "http://books.google.com/books/content?id=rXtbEteIUwQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757875662029,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Die Saat des Bösen",
+    "subtitle": "",
+    "authors": [
+      "Deaver, Jeffery"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-08-15",
+    "isbn": "9783641186418",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Unvorhersehbar, rasant, verstörend Die siebzehnjährige Megan ist spurlos verschwunden. Ihr Vater Tate Collier, ein ehemaliger Staatsanwalt, hat den furchtbaren Verdacht, dass seine Tochter entführt wurde. In seinem Beruf macht man sich viele Feinde, und nicht immer verurteilt die Justiz den wahren Schuldigen. Da die Polizei nicht an ein Verbrechen glaubt, macht er sich auf eigene Faust auf die Suche und hat bald schon eine erste Spur. Doch Megans Entführer scheint ihm immer mehrere Schritte voraus zu sein ...",
+    "pageCount": "332",
+    "thumbnail": "https://books.google.com/books/content?id=7xcrCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757875788469,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Tränen des Teufels",
+    "subtitle": "",
+    "authors": [
+      "Deaver, Jeffery"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-02-20",
+    "isbn": "9783641196288",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Am Silvestermorgen feuert in Washington, D.C. ein Unbekannter in einer U-Bahn-Station wild in die Menge und tötet 23 Menschen. Kurz darauf fordert der Drahtzieher »Digger« in einem Erpresserbrief 20 Millionen Dollar, andernfalls findet bis Mitternacht alle vier Stunden ein weiteres Blutbad statt. Als der einzige Kontaktmann Diggers bei einem Verkehrsunfall stirbt, kann nur noch einer dem FBI helfen: Handschriftenexperte Kincaid Parker, der mithilfe des Erpresserbriefs Digger auf die Spur kommen soll. Parker wollte seinen Kindern zuliebe eigentlich Abstand von der Verbrecherjagd gewinnen, doch nun wird er bald selbst zur Zielscheibe eines skrupellosen Killers ...",
+    "pageCount": "309",
+    "thumbnail": "https://books.google.com/books/content?id=PQcKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757875903789,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Schule des Schweigens",
+    "subtitle": "",
+    "authors": [
+      "Deaver, Jeffery"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-10-19",
+    "isbn": "9783641176501",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In Kansas entführen drei entflohene Schwerverbrecher einen Schulbus mit zwei Lehrerinnen und acht taubstummen Mädchen. Sie flüchten mit ihnen in einen abgelegenen ehemaligen Schlachthof und stellen ein Ultimatum: Im Austausch gegen ihre Geiseln wollen sie einen Hubschrauber – sonst stirbt jede Stunde ein Mädchen. Arthur Potter, psychologisch geschulter FBI-Spezialist, ist fest entschlossen, die Täter zur Strecke zu bringen. Während die Geiseln im Schlachthof durch die Hölle gehen, nimmt ein nervenaufreibendes Feilschen um ihre Leben seinen Lauf.",
+    "pageCount": "393",
+    "thumbnail": "https://books.google.com/books/content?id=LipmCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757875980999,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Rätsel der dritten Meile",
+    "subtitle": "",
+    "authors": [
+      "Dexter, Colin"
+    ],
+    "series": "Inspector Morse",
+    "volume": "6",
+    "publishedDate": "2018-11-14",
+    "isbn": "9783293310292",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Dr. Browne-Smith, Mitglied der Prüfungskommission des Lonsdale Colleges, ist bei seinen Kollegen nicht unbedingt beliebt. So ist denn auch niemand allzu unglücklich, dass er das Feierabendbier wegen Kopfschmerzen ablehnt. Als er jedoch nicht mehr zur Arbeit erscheint und eine ominöse Abwesenheitsnotiz von ihm auftaucht, wird der Rektor misstrauisch. Sein alter Freund Inspector Morse verspricht, Augen und Ohren offenzuhalten. Kurz darauf hat dieser jedoch ganz andere Sorgen: Aus dem Oxford-Kanal wird eine Wasserleiche geborgen – und mit ihr die Überreste eines Briefs, die Morse scheinbar direkt ins Herz des elitären Lonsdale Colleges führen.",
+    "pageCount": "271",
+    "thumbnail": "https://books.google.com/books/content?id=fyY-EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757876134188,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Ubik",
+    "subtitle": "",
+    "authors": [
+      "Dick, Philip K."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-09-25",
+    "isbn": "9783104027272",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Vom Mond kehrte Glen Runciter nur als Toter zurück. Aber wer schreibt dann die Botschaften auf Streichholzbriefchen und aufgerissenen Zigarettenpackungen? Die Dinge haben sich selbständig gemacht, sie reisen in ihre eigene Zeit zurück – das Auto ist ein Modell aus den Dreißigern, der Fahrstuhl aus den Zwanzigern. Und was soll Ubik sein – Biermarke, Pfandhaus oder Raumspray? Oder ist Ubik die Rettung gegen den Zerfall der Realität? Mit unseren simulierten Wirklichkeiten und virtuellen Wahrnehmungen waren wir ›Ubik‹ (1969) nie näher als heute. Dick lässt Raum- wie Zeitblasen platzen und stellt so die Existenz einer durchgängigen Realität in Frage.",
+    "pageCount": "234",
+    "thumbnail": "https://books.google.com/books/content?id=eMUtAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757876346117,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "David Copperfield",
+    "subtitle": "",
+    "authors": [
+      "Dickens, Charles"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-11-01",
+    "isbn": "9783423401692",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "David Copperfield wird nach dem Tod beider Elternteile von seinem Stiefvater auf die Schule des brutalen Mr. Creakle geschickt. Dort verlebt er eine bedrückende Zeit und wird bereits als Zehnjähriger zur Fabrikarbeit gezwungen. Elend und Ausbeutung stehen im Zeitalter der blühenden Industrialisierung auf der Tagesordnung, und David kann sich den unerträglichen Bedingungen nur durch die Flucht zu seiner Tante Betsey entziehen. Obwohl diese ihn kaum kennt, nimmt sie ihn herzlich auf. Nach entbehrungsreicher Zeit scheint sich das Blatt zu wenden und der Junge kann eine gute Schule besuchen.",
+    "pageCount": "1351",
+    "thumbnail": "https://books.google.com/books/content?id=64hbfALvqSwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757876542340,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Oliver Twist",
+    "subtitle": "",
+    "authors": [
+      "Dickens, Charles"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-11-16",
+    "isbn": "9783458761303",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Oliver Twist lebt als Waisenkind im Armenhaus. In der Hoffnung auf eine bessere Zukunft flieht er ohne einen Penny in den Taschen nach London. Doch statt des erhofften neuen Lebens, beginnt eine Zeit voller Gefahren und Betrügereien. Er gerät mitten hinein in die Welt des Verbrechens und ist dem skrupellosen Hehler Fagin ausgeliefert, für den er Taschendiebstähle begehen muß. Oliver muß nun alle Kraft aufbringen und auf Glück im Unglück hoffen, um sich aus den Fängen des Bösen befreien zu können ...",
+    "pageCount": "387",
+    "thumbnail": "https://books.google.com/books/content?id=iZ9ECgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1757876625274,
+    "rating": 5,
+    "tags": []
   }
 ]
