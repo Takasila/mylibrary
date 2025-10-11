@@ -3155,9 +3155,10 @@
     "description": "Richard Dawkins beweist mit dem Buch «Der entzauberte Regenbogen», dass Wissenschaft alles andere als kalt, trocken und langweilig ist. Er macht deutlich, wie wunderbar die Dinge sind, gerade wenn wir um sie wissen. Das Gefühl des Staunens über die Natur verliert sich keineswegs, wenn man versucht, den Erscheinungen auf den Grund zu gehen, und das Wunderbare wird nicht weniger wunderbar, wenn wir es erklären können. Ohne die Entzauberung des Regenbogens wüssten wir heute sehr viel weniger über den Kosmos. Gleichzeitig tritt einer der besten Sachbuchautoren unserer Zeit an, Aberglauben und mystischen Kult als falschverstandene Romantik und bewusste Irreführung zu entlarven, und geht hart mit denen ins Gericht, die den Trend zum Mystischen ausnutzen, um damit Geschäfte zu machen.",
     "pageCount": "361",
     "thumbnail": "https://books.google.com/books/content?id=OxFsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "read": false,
-    "rating": null,
-    "tags": []
+    "read": true,
+    "rating": 4,
+    "tags": [],
+    "subtitle": ""
   },
   {
     "title": "Dunkelsommer",
@@ -4424,7 +4425,7 @@
     "title": "Der Untergang",
     "subtitle": "Hitler und das Ende des Dritten Reiches",
     "authors": [
-      "Fest, Joachim C."
+      "Fest, Joachim"
     ],
     "isbn": "9783828601727",
     "series": "",
@@ -4445,7 +4446,7 @@
     "title": "Des Gesicht des Dritten Reiches",
     "subtitle": "Profile einer totalitäteren Herrschaft",
     "authors": [
-      "Fest, Joachim C."
+      "Fest, Joachim"
     ],
     "isbn": "3492011993",
     "series": "",
@@ -10521,26 +10522,6 @@
     "tags": []
   },
   {
-    "title": "Wüstenblume",
-    "subtitle": "",
-    "authors": [
-      "Dirie, Waris"
-    ],
-    "series": "",
-    "volume": "",
-    "publishedDate": "2012-10-01",
-    "isbn": "9783426418963",
-    "category": "Sachbuch",
-    "genre": "Biografien & Erinnerungen",
-    "description": "Vom Nomadenleben in der somalischen Wüste auf die teuersten Designer-Laufstege der Welt – ein Traum. Und ein Alptraum, denn Waris Dirie wurde im Alter von fünf Jahren Opfer eines grausamen Rituals: Sie wurde beschnitten. In »Wüstenblume« bricht sie ihr jahrelanges Schweigen und erzählt ihre Geschichte. Ihr Schicksal bewegte die Leser weltweit und wurde ein internationaler Bestseller – die Kino-Verfilmung begeisterte ein Millionenpublikum. Heute kämpft Waris Dirie als UNO-Sonderbotschafterin gegen die Genitalverstümmelung, die täglich 6000 Mädchen weltweit erleiden müssen. »Ich weiß, dass ›Wüstenblume‹ eine wichtige Botschaft hat, die von allen Menschen geteilt wird: die Achtung vor der menschlichen Würde.« Waris Dirie",
-    "pageCount": "394",
-    "thumbnail": "https://books.google.com/books/content?id=2ZxsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "read": true,
-    "addedAt": 1758061458945,
-    "rating": 5,
-    "tags": []
-  },
-  {
     "title": "Gier",
     "subtitle": "",
     "authors": [
@@ -10939,6 +10920,588 @@
     "read": true,
     "addedAt": 1758145737407,
     "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Geschichten vom Ursprung des Lebens",
+    "subtitle": "Eine Zeitreise auf Darwins Spuren",
+    "authors": [
+      "Dawkins, Richard"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008",
+    "isbn": "9783550087486",
+    "category": "Sachbuch",
+    "genre": "Naturwissenschaft",
+    "description": "Geschichten vom Ursprung des Lebens ist eine erzählte Reise durch vier Milliarden Jahre Evolution: vom Homo sapiens bis zum geheimnisvollen Beginn des Lebens. Anhand des erlebten Schicksals vieler Arten entfaltet sich das gesamte Wunder der Entstehung unserer Welt.",
+    "pageCount": "928",
+    "thumbnail": "https://books.google.com/books/content?id=XS9FOAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759252125952,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Märtyrer!",
+    "subtitle": "",
+    "authors": [
+      "Akbar, Kaveh"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2025-03-11",
+    "isbn": "9783644018785",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Kaveh Akbars faszinierender, von Presse und prominenten Leserinnen und Lesern gefeierter Debütroman führt vom Iran der 1980er-Jahre bis in die heutigen USA und ist eine Hymne auf all das, was uns bei der Suche nach Sinn und Bedeutung im Leben helfen kann: auf die Kunst, den Glauben an uns selbst, auf Liebe, Freundschaft und Mitmenschlichkeit.\n<br>Cyrus Shams, 29, ist kein Meister des täglichen Lebens. Er schreibt umwerfend gute Gedichte und nimmt zu viele Drogen. Seit er denken kann, ringt er mit den großen Sinnfragen, mit seiner sexuellen Identität und seiner Vergangenheit. Er war noch ein Baby, als das Flugzeug abgeschossen wurde, mit dem seine Mutter auf dem Weg aus Teheran in die Freiheit war. Ein tragischer Irrtum, ein sinnloser Tod, der ihn bis heute verfolgt. Cyrus sucht nach dem Sinn seiner Existenz und ist fasziniert von Märtyrern. Wie wäre es, sich einer Sache so zu verschreiben wie Jeanne d'Arc oder Bobby Sands? Und wer war seine Mutter eigentlich, wohin sollte ihre Reise führen? Cyrus, ausnahmsweise nüchtern und eventuell verliebt, begibt sich auf eine Reise in die Vergangenheit, die ihn zu den Fragen der Zukunft führt.",
+    "pageCount": "421",
+    "thumbnail": "https://books.google.com/books/content?id=Qz0qEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": false,
+    "addedAt": 1759264035378,
+    "rating": null,
+    "tags": [
+      "Iran"
+    ]
+  },
+  {
+    "title": "Das Foucaultsche Pendel",
+    "subtitle": "",
+    "authors": [
+      "Eco, Umberto"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1996",
+    "isbn": "9783423122443",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Drei Mailänder Verlagslektoren geraten zufällig an eine Geheimbotschaft des legendenumwitterten Templerordens. Sie machen sich an die Entzifferung, bauen aus zahllosen Elementen ein gigantisches Puzzle, erfinden selbst einen Plan, der zu nichts Geringerem führen soll als zur Beherrschung der Welt. Nicht nur die Templer - so scheint es - haben sich mit dem Plan beschäftigt, sondern sämtliche Geheimgesellschaften der Welt, von den Rosenkreuzern bis hin zu den Freimaurern. Die Weltgeschichte wird von den drei Zauberlehrlingen umgeschrieben. Doch dann wird aus dem intellektuellen Spiel blutiger Ernst: Menschen, die mit dem Plan zu tun haben, verschwinden oder werden ermordet, der Plan verselbständigt sich, wird unheimliche Realität ...",
+    "pageCount": "841",
+    "thumbnail": "https://www.histo-couch.de/fileadmin/_processed_/4/2/csm_3423115815_814c6a83e6.jpg",
+    "read": true,
+    "addedAt": 1759265331293,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Name der Rose",
+    "subtitle": "",
+    "authors": [
+      "Eco, Umberto"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012",
+    "isbn": "9783446239067",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Dass er in den Mauern der prächtigen Benediktinerabtei an den Hängen des Apennin das Echo eines verschollenen Lachens hören würde, das hell und klassisch herüberklingt aus der Antike, damit hat der englische Franziskanermönch William von Baskerville nicht gerechnet. Zusammen mit Adson von Melk, seinem etwas tumben, jugendlichen Adlatus, ist er in einer höchst delikaten politischen Mission unterwegs. Doch in den sieben Tagen ihres Aufenthalts werden die beiden mit kriminellen Ereignissen und drastischen Versuchungen konfrontiert: Ein Mönch ist im Schweineblutbottich ertrunken, ein anderer aus dem Fenster gesprungen, ein dritter wird tot im Badehaus gefunden. Aber nicht umsonst stand William lange Jahre im Dienste der heiligen Inquisition. Das Untersuchungsfieber packt ihn. Er sammelt Indizien, entziffert magische Zeichen, entschlüsselt Manuskripte und dringt immer tiefer in ein geheimnisvolles Labyrinth vor, über das der blinde Seher Jorge von Burgos wacht ...",
+    "pageCount": "676",
+    "thumbnail": "http://books.google.com/books/content?id=M40IAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759265470815,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Schattenfrau",
+    "subtitle": "",
+    "authors": [
+      "Edwardson, Åke"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2000",
+    "isbn": "9783546002356",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Göteborg stöhnt unter einer spätsommerlichen Hitzeglocke. Eine junge Frau liegt erwürgt im Wald. Kommissar Erik Winter findet Hinweise auf einen Banküberfall vor 25 Jahren. Er hat aber auch Probleme mit seiner Freundin zu klären, die inzwischen mehr will als nur gelegentlichen Sex.",
+    "pageCount": "527",
+    "thumbnail": "https://books.google.com/books/content?id=vU00PQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759265817357,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Samuraisommer",
+    "subtitle": "",
+    "authors": [
+      "Edwardson, Åke"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006",
+    "isbn": "9783551554413",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Wie jedes Jahr fährt Tommy für 3 Monate ins Sommercamp. Statt echter Betreuung erwarten ihn jedoch harte Strafen für seinen Widerstand gegen die Willkür und die Strenge der Campleitung. Aber Tommy lässt sich nicht unterkriegen! Ab 11.",
+    "pageCount": "205",
+    "thumbnail": "https://books.google.com/books/content?id=yFf0NAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759265989409,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Aus dem Leben eines Taugenichts",
+    "subtitle": "Novelle",
+    "authors": [
+      "Eichendorff, Joseph von"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1978",
+    "isbn": "9783257205169",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Der Taugenichts ist Sohn eines Müllers und durch und durch Romantiker. Mit den elenden Philistern und der engen Welt, in der sie leben, will er um keinen Preis etwas zu tun haben. Als sein Vater ihn aus dem Haus wirft, damit er endlich lernt, für sich selbst zu sorgen, zieht er mit seiner Geige zu Fuß durchs Land bis nach Italien und lebt seine Freiheit. Auf einem Schloss hatte er sich in eine vornehme Dame verliebt, die er für unerreichbar hielt. Er sucht sie in Rom. Aber es zeigt sich, dass jemand ein Spiel mit ihm trieb. Er findet die Angebetete nördlich der Alpen und mit ihr sein Glück.",
+    "pageCount": "165",
+    "thumbnail": "https://books.google.com/books/content?id=iwntngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759266283443,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Tokio-Killer",
+    "subtitle": "Der erste Auftrag",
+    "authors": [
+      "Eisler, Barry"
+    ],
+    "series": "John Rain",
+    "volume": "1",
+    "publishedDate": "2003",
+    "isbn": "9783596177356",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "John Rain ist halb Amerikaner, halb Japaner. Sein wahres Ich jedoch fristet ein Schattendasein im Verborgenen: Als Auftragskiller im geheimen Dienst der japanischen Regierung ist er Samurai und Ronin zugleich. In ständigem Zwiespalt mit sich selbst gehorcht Rain nur seinen eigenen, strengen Regeln. Für seinen Auftraggeber begeht er den perfekten Mord: Er lässt sein Opfer in der Tokioter U-Bahn an einem Herzinfarkt sterben. Doch die Begleitumstände machen ihn stutzig. Wurde er beobachtet? War sein Auftrag eine Falle? Mit Hilfe der Tochter des Toten, der attraktiven Jazzpianistin Midori, erkennt er seine lebensgefährliche Rolle im intriganten Spiel um Geld und Macht. Und es ist nicht nur sein eigenes Leben, das bedroht wird ...",
+    "pageCount": "332",
+    "thumbnail": "https://books.google.com/books/content?id=hX-OPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759266609915,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Rache",
+    "subtitle": "",
+    "authors": [
+      "Eisler, Barry"
+    ],
+    "series": "John Rain",
+    "volume": "2",
+    "publishedDate": "2008",
+    "isbn": "9783596177363",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "John Rain will einfach nur aus dem Killergeschäft aussteigen. Doch mit seiner Diskretion, seiner Zuverlässigkeit und seinem einzigartigen Talent für „natürliche“ Tötungen lässt ihn niemand einfach in Rente gehen. Als ihm ein alter Erzfeind der japanischen Polizei einen neuen Auftrag anbietet – die Eliminierung von Murakami, einem Killer, der noch furchterregender ist als Rain selbst –, weiß Rain, dass er ihn nicht ablehnen kann. Unterstützt von einer begehrenswerten exotischen Tänzerin, halb Brasilianerin, halb Japanerin, der er nicht trauen sollte, verfolgt Rain seine Beute durch gnadenlose Untergrund-Fightclubs, Mafia-Bars und schließlich mitten in einen Schattenkrieg zwischen der CIA und der Yakuza. Es ist ein Krieg, den Rain nicht gewinnen kann, aber auch einer, den er nicht verlieren darf – ein Krieg, in dem die Unterscheidung zwischen Freund und Feind, Wahrheit und Betrug so trübe ist wie die regennassen Straßen Tokios.",
+    "pageCount": "362",
+    "thumbnail": "https://books.google.com/books/content?id=nA1_GQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759266891002,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "American War",
+    "subtitle": "",
+    "authors": [
+      "Akkad, Omar El"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-07-27",
+    "isbn": "9783104905174",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Was wird sein, wenn die erschütternde Realität der Gegenwart - Drohnenangriffe, Folter, Selbstmordattentate und die Folgen von Umweltkatastrophen - mit aller Gewalt in die USA zurückkehrt? Vor diesem Hintergrund entfaltet Omar El Akkad mit großer erzählerischer Kraft den dramatischen Kampf der jungen Sarat Chestnut, die beschließt, mit allen Mitteln für das Überleben zu kämpfen.",
+    "pageCount": "581",
+    "thumbnail": "https://books.google.com/books/content?id=yhiXDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1759267042195,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "American Psycho",
+    "subtitle": "",
+    "authors": [
+      "Ellis, Bret Easton"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1993",
+    "isbn": "9783462022612",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Patrick Bateman sieht gut aus, ist gut erzogen und intelligent. Tagsüber sitzt er in seinem Büro in der Wall Street und vergrößert seinen Reichtum. Seine Nächte hingegen verbringt er auf unfassbare Weise. Er ist ein Serienmörder und lebt seinen ganz eigenen amerikanischen Traum.",
+    "pageCount": "548",
+    "thumbnail": "https://books.google.com/books/content?id=IzsmcAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759267319182,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Tag der Sühne",
+    "subtitle": "",
+    "authors": [
+      "Ellory, Roger Jon"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011",
+    "isbn": "9783442472116",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Zwanzig Jahre nach einer brutalen Mordserie stürzt ein besessener Nachahmungstäter New York erneut in Panik.",
+    "pageCount": "567",
+    "thumbnail": "https://books.google.com/books/content?id=Hy0IfAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759267538316,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die schwarze Dahlie",
+    "subtitle": "",
+    "authors": [
+      "Ellroy, James"
+    ],
+    "series": "L.A. Quartet",
+    "volume": "1",
+    "publishedDate": "2015-02-27",
+    "isbn": "9783843710220",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Los Angeles 1947: Auf einem verlassenen Grundstück wird die Leiche einer jungen Frau entdeckt – nackt und bestialisch zugerichtet. Der Mord der Schwarzen Dahlie macht Schlagzeilen und löst die größte Verbrecherjagd in der Geschichte Kaliforniens aus. Für Bucky Bleichert und Lee Blanchard vom Los Angeles Police Department wird die Suche nach dem Mörder zur Obsession.",
+    "pageCount": "451",
+    "thumbnail": "https://books.google.com/books/content?id=WXnVBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1759267671373,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "L.A. Confidential",
+    "subtitle": "Stadt der Teufel",
+    "authors": [
+      "Ellroy, James"
+    ],
+    "series": "L.A. Quartet",
+    "volume": "3",
+    "publishedDate": "2006",
+    "isbn": "9783866152281",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Los Angeles 1951: Am Weihnachtsabend überfallen Unbekannte das Nachtcafé »The Nite Owl« und ermorden wie im Rausch die Gäste. Ed Exley, Jack Vincennes und Bud White vom LAPD sollen den Fall gemeinsam klären. Doch jeder von ihnen hat eine eigene Rechnung zu begleichen.",
+    "pageCount": "506",
+    "thumbnail": "https://books.google.com/books/content?id=9GuvtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759267878639,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Ein amerikanischer Thriller",
+    "subtitle": "",
+    "authors": [
+      "Ellroy, James"
+    ],
+    "series": "Underworld",
+    "volume": "1",
+    "publishedDate": "1996",
+    "isbn": "9783455017908",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Fünf Jahre amerikanische Geschichte: vom Aufstieg John F. Kennedys bis zu seiner Ermordung. Hinter dem Mythos jener Jahre, die als Zeiten der Unschuld galten, wird die Lüge sichtbar, hinter der Verklärung der tatsächliche Schrecken. James Ellroy erzählt die Geschichte eines vielfachen Verrats und einer Männerfreundschaft zwischen zwei ungleichen FBI-Agenten, deren erbittertster Widersacher im Dienst des Multimillionärs Howard Hughes steht.",
+    "pageCount": "637",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783455017908-us-300.jpg",
+    "read": true,
+    "addedAt": 1759268170431,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Ein amerikanischer Albtraum",
+    "subtitle": "",
+    "authors": [
+      "Ellroy, James"
+    ],
+    "series": "Underworld",
+    "volume": "2",
+    "publishedDate": "2015-02-27",
+    "isbn": "9783843710275",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "22. November 1963: Am Dealey Plaza fallen Schüsse. Die Hintergründe des Attentats auf John F. Kennedy werden vertuscht. Ein junger Polizist kommt mit einem Überstellungsmandat und 6000 Dollar in Dallas an – und gerät ins Epizentrum explodierender amerikanischer Träume. Eine atemlose Irrfahrt durch die wildesten Jahre der US-Geschichte beginnt.",
+    "pageCount": "569",
+    "thumbnail": "https://books.google.com/books/content?id=LsrYBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1759268301826,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Blackout",
+    "subtitle": "Morgen ist es zu spät",
+    "authors": [
+      "Elsberg, Marc"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-03-19",
+    "isbn": "9783641074319",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "An einem kalten Februartag brechen in Europa alle Stromnetze zusammen. Der totale Blackout. Der italienische Informatiker Piero Manzano vermutet einen Hackerangriff und versucht, die Behörden zu warnen – erfolglos. Als Europol-Kommissar Bollard ihm endlich zuhört, tauchen in Manzanos Computer dubiose Emails auf, die den Verdacht auf ihn selbst lenken. Er ist ins Visier eines Gegners geraten, der ebenso raffiniert wie gnadenlos ist. Unterdessen liegt ganz Europa im Dunkeln, und der Kampf ums Überleben beginnt ...",
+    "pageCount": "638",
+    "thumbnail": "https://books.google.com/books/content?id=jFY1f7_gnv0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1759702395144,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Ausgebrannt",
+    "subtitle": "",
+    "authors": [
+      "Eschbach, Andreas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-11-13",
+    "isbn": "9783838706030",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Die Menschheit vor ihrer größten Herausforderung: Das Ende des Erdölzeitalters steht bevor! Als in Saudi-Arabien das größte Ölfeld der Welt versiegt, kommt es weltweit zu Unruhen. Bahnt sich tatsächlich das Ende unserer Zivilisation an? Nur Markus Westermann glaubt an ein Wunder. Er glaubt eine Methode zu kennen, wie man noch Öl finden kann. Viel Öl. Doch der Schein trügt.",
+    "pageCount": "901",
+    "thumbnail": "https://books.google.com/books/content?id=DhXxOi7-LgsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1759702580803,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Jesus-Video",
+    "subtitle": "",
+    "authors": [
+      "Eschbach, Andreas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-07-18",
+    "isbn": "9783838757803",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Gibt es ein Video von Jesus Christus? Bei archäologischen Ausgrabungen in Israel findet der Student Stephen Foxx in einem 2000 Jahre alten Grab die Bedienungsanleitung einer Videokamera, die erst in einigen Jahren auf den Markt kommen soll. Es gibt nur eine Erklärung: Jemand muss versucht haben, Aufnahmen von Jesus Christus zu machen! Der Tote im Grab wäre demnach ein Mann aus der Zukunft, der in die Vergangenheit reiste - und irgendwo in Israel wartet das Jesus-Video darauf, gefunden zu werden. Oder ist alles nur ein großangelegter Schwindel? Eine atemberaubende Jagd zwischen Archäologen, Vatikan, den Medien und Geheimdiensten beginnt ...",
+    "pageCount": "695",
+    "thumbnail": "https://books.google.com/books/content?id=UIuJAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1759702737466,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Letzte seiner Art",
+    "subtitle": "",
+    "authors": [
+      "Eschbach, Andreas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-05-20",
+    "isbn": "9783838711447",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Eine Verbindung von Mensch und Maschine: ein perfekter Soldat? Oder ein schwacher Invalide? In einem kleinen irischen Fischerdorf lebt ein Mann, der ein Geheimnis hütet. Nein, mehr als das, er ist das Geheimnis ... Sie hatten ihm übermenschliche Kräfte versprochen. Stattdessen wurde er zum Invaliden. Er hatte gehofft, ein Held zu werden. Stattdessen muss er sich vor aller Welt verbergen. Denn Duane Fitzgerald ist das Ergebnis eines geheimen militärischen Experiments, eines Versuchs, der auf tragische Weise fehlgeschlagen ist. Für seinen Opfermut erhielt er die Freiheit, den Rest seines Lebens dort zu verbringen, wo er es sich wünschte. Im Gegenzug musste er sich verpflichten zu schweigen. Doch es gibt da jemanden, der sein Geheimnis kennt - und er ist ihm bereits auf der Spur.",
+    "pageCount": "360",
+    "thumbnail": "https://books.google.com/books/content?id=CYZHr-V2ZR0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1759702876005,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Haarteppichknüpfer",
+    "subtitle": "",
+    "authors": [
+      "Eschbach, Andreas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-10-12",
+    "isbn": "9783838719221",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "In einer fernen Zeit ... Schon seit je fertigen die Haarteppichknüpfer für den Kaiser Teppiche, die aus den Haaren ihrer Frauen bestehen. Von dem Erlös eines Teppichs kann eine ganze Generation der Knüpfer leben. Doch eines Tages landet ein Raumschiff auf der Welt, um dem Geheimnis der Haarteppiche auf den Grund zu gehen - einem Geheimnis, das alle Vorstellungskraft übersteigt.",
+    "pageCount": "317",
+    "thumbnail": "https://books.google.com/books/content?id=kxONhhADyQEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1759702983142,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Eine Billion Dollar",
+    "subtitle": "",
+    "authors": [
+      "Eschbach, Andreas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-03-17",
+    "isbn": "9783838700571",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Stell dir vor, du wirst über Nacht zum reichsten Menschen der Welt... John Salvatore Fontanelli ist ein armer Schlucker, bis er eine unglaubliche Erbschaft macht: ein Vermögen, das ein entfernter Vorfahr im 16. Jahrhundert hinterlassen hat und das durch Zins und Zinseszins in fast 500 Jahren auf über eine Billion Dollar angewachsen ist. Der Erbe dieses Vermögens, so heißt es im Testament, werde einst der Menschheit die verlorene Zukunft wiedergeben. John tritt das Erbe an. Er legt sich Leibwächter zu, verhandelt mit Ministern und Kardinälen. Die schönsten Frauen liegen ihm zu Füßen. Aber kann er noch jemandem trauen? Und dann erhält er einen Anruf von einem geheimnisvollen Fremden, der zu wissen behauptet, was es mit dem Erbe auf sich hat ...",
+    "pageCount": "963",
+    "thumbnail": "https://books.google.com/books/content?id=IDfNTHYwl4EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1759703092764,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Welt ist nicht immer Freitag",
+    "subtitle": "",
+    "authors": [
+      "Evers, Horst"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-03-31",
+    "isbn": "9783644402294",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Horst Evers' Erzähler ist der klassische Nichtsnutz, für den aller Ärger schon mit dem Aufstehen beginnt. Sein Universum ist ein Netz an Arbeitsvermeidungsstrategien, in das immer wieder unerwartet Meteoriten einbrechen. Das kann schon das Klingeln des Telefons sein, ein Baumarktangestellter, manchmal auch die Berliner Verkehrsbetriebe oder – im ungünstigsten Fall – eine Frau.",
+    "pageCount": "181",
+    "thumbnail": "https://books.google.com/books/content?id=dGWNDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1759703191237,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Schöne Leich' in Wien",
+    "subtitle": "Kriminalstorys",
+    "authors": [
+      "Eßer, Angela [Hrsg]"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008",
+    "isbn": "9783894253486",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Was kommt dabei heraus, wenn Österreicher und Deutsche aufeinandertreffen? – Mord … Nein, Mordgeschichten muss es natürlich heißen! Und die spielen nicht irgendwo, sondern im Prater, im Heurigenviertel, im Caféhaus, auf dem Zentralfriedhof, im Stephansdom, kurz in einer Stadt, der wahrlich mehr als ein Verbrechen zuzutrauen ist: in Wien.<br>\nJedem Bezirk seine Leiche, das ist das Motto der Sammlung von Kurzkrimis, die sich die durchweg hochkarätigen Autorinnen und Autoren haben einfallen lassen.",
+    "pageCount": "285",
+    "thumbnail": "https://images.lovelybooks.de/img/260x/lb-cover/schoene_leich__in_wien-9783894253486_xxl.jpg",
+    "read": true,
+    "addedAt": 1759703532357,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Das Totenhaus",
+    "subtitle": "",
+    "authors": [
+      "Fairstein, Linda"
+    ],
+    "series": "Alexandra Cooper",
+    "volume": "4",
+    "publishedDate": "2002",
+    "isbn": "9783442355914",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Leises Lachen, Geflüster – dann ein gellender Schrei: Im Keller ihres Wohnhauses findet man die Leiche von Lola Dakota, Professorin an einem der teuersten Elite-Colleges von New York. Erdrosselt und in den Fahrstuhlschacht geschleudert, umklammern die leblosen Finger ein paar fremde Haarsträhnen – und auf einem Zettel in ihrer Tasche ist ein einziges Wort zu entziffern: »Das Totenhaus«. Aber was hat eine so einflussreiche, in den besten Kreisen verkehrende Akademikerin mit dem alten, pittoresk verfallenen Totenhaus auf einer Insel im New Yorker East River zu tun? Zusammen mit ihren Kollegen Mike Chapman und Mercer Wallace macht die ermittelnde Staatsanwältin Alexandra Cooper die alarmierende Feststellung, dass Lolas Mann Ivan sich ihren Tod wünschte – doch er hat ein Alibi. Könnte er einen Killer angeheuert haben? Einige der College-Dozenten verwickeln sich in Widersprüche. Und wieso ist an der Pinnwand in Lolas Büro die Fotografie der vor acht Monaten verschwundenen, 20 Jahre alten Charlotte Voight befestigt? Haben sie und Lola etwas gemeinsam? Alle Indizien führen zu dem verwahrlosten Totenhaus – und in eine mörderische Vergangenheit, von der auch Alexandra bald eingeholt wird …",
+    "pageCount": "446",
+    "thumbnail": "https://books.google.com/books/content?id=66KaAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759703791448,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Stadt der Verlierer",
+    "subtitle": "",
+    "authors": [
+      "Faschinger, Lilian"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2007",
+    "isbn": "9783446208179",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Matthias hat viele Beziehungen. Und er hasst es, wenn Frauen ihm widersprechen. Als er eines Tages im Lainzer Tiergarten eine Frau, die sich umbringen wollte, rettet, beginnt eine weitere, geheimnisvolle Affäre. Zur gleichen Zeit bekommen Emma Novak und Mick Hammerl, Privatdetektive, einen ungewöhnlichen Auftrag: Sie sollen den Sohn von Greta Mautner finden, den diese einst nach der Geburt zur Adoption freigegeben hatte. Routine, denken sie, bis wieder eine Frau gefunden wird, jetzt aber wirklich tot ...",
+    "pageCount": "328",
+    "thumbnail": "https://books.google.com/books/content?id=Z3AhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759703929295,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Gnosis",
+    "subtitle": "",
+    "authors": [
+      "Fawer, Adam"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008",
+    "isbn": "9783499245671",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Gnosis, griechisch Erkenntnis: Menschen in ihrem Innersten zu erkennen ist Quell unvorstellbarer Macht. Laszlo Kuehl hat diese Macht. Er ist Empathiker und hat die Fähigkeit des emotionalen Einfühlens bis zur höchsten Stufe der 'mind control' perfektioniert. Als Lehrer an einer Schule für Hochbegabte entdeckt Laszlo in zweien seiner Schüler eine ähnliche Begabung – und bringt sie dadurch in höchste Gefahr. Denn ihre außerordentliche Gabe macht die Empathiker auch für Samantha Zister, Agentin einer geheimen Suborganisation des FBI, interessant: In einem geheimen Labor führt sie menschenverachtende Experimente durch – mit dem Ziel, Politik und Gesellschaft durch eine eigens herangezogene Führungselite zu unterwandern. Valentinus, selbst Empathiker und Anführer einer Sekte, die sich der Geheimlehre der Gnosis verschrieben hat, plant am Silvesterabend 2007 seine Vorstellung der Apokalypse grausame Wirklichkeit werden zu lassen. Eine Katastrophe, die nur ein Ebenbürtiger verhindern kann. Doch Laszlos Ausgangsposition für diesen Wettlauf gegen die Zeit ist denkbar schlecht …",
+    "pageCount": "715",
+    "thumbnail": "https://books.google.com/books/content?id=-ukWKAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759704082747,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Lauf, Jane, lauf!",
+    "subtitle": "",
+    "authors": [
+      "Fielding, Joy"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-11-12",
+    "isbn": "9783641054090",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der Albtraum einer Frau beginnt, als sie sich plötzlich blutbefleckt, die Taschen voller Geld und ohne Erinnerungsvermögen auf den Straßen Bostons wiederfindet. Wer ist der Mann, den man ihr als ihren Ehemann vorstellt? Was sind das für Medikamente, die ihr angeblich helfen sollen? Und warum fühlt sie sich als Gefangene im eigenen Haus? Verzweifelt kämpft Jane von nun an um ihr Gedächtnis – es wird ein Kampf auf Leben und Tod ...",
+    "pageCount": "412",
+    "thumbnail": "https://books.google.com/books/content?id=sezhq5ot5T8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1759704921347,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Senseless",
+    "subtitle": "",
+    "authors": [
+      "Fitch, Stona"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783882218435",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Der Amerikaner Eliott Gast sieht sich als einfachen Handelsberater und Mitläufer im globalen Wettrennen um Marktanteile. Von Brüssel aus versucht er einen Beitrag zur Senkung des chronischen Außenhandelsdefizits der USA zu leisten - notfalls mit Bestechungsgeldern. Eine Aufgabe, die ein angenehmes Leben mit sich bringt: Eliott Gast ist in den exquisiten Küchen und teuren Weinkellern dieser Welt zu Haus. Eines Tages jedoch findet er sich in einem anonymen weißen Apartment wieder, gefangen gehalten von extremistischen EU- und Globalisierungsgegnern. Bald wird aus dem, was Eliott Gast anfangs für eine Verwechslung halten wollte, ein schonungsloses Tribunal über sein Leben und seine Arbeit, bei dem die Terroristen als Staatsanwälte und Folterknechte fungieren, die Internetgemeinde als Richter. Denn der \"Prozess\" läuft online als Reality Show und die Internetnutzer sind es, die demokratisch über Freilassung und Lösegeldzahlungen abstimmen müssen. Was steht in der Anklageschrift? Die Entführer haben Eliott Gast zehn Jahre lang beobachtet ...",
+    "pageCount": "181",
+    "thumbnail": "https://books.google.com/books/content?id=8NA9PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1759705094000,
+    "rating": 2,
     "tags": []
   }
 ]
