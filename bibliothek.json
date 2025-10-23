@@ -4443,7 +4443,7 @@
     ]
   },
   {
-    "title": "Des Gesicht des Dritten Reiches",
+    "title": "Das Gesicht des Dritten Reiches",
     "subtitle": "Profile einer totalitäteren Herrschaft",
     "authors": [
       "Fest, Joachim"
@@ -4485,8 +4485,8 @@
     ]
   },
   {
-    "title": "Tagebuch",
-    "subtitle": "Die weltweit gültige und verbindliche Fassung des Tagebuchs der Anne Frank",
+    "title": "Das Tagebuch der Anne Frank",
+    "subtitle": "Die weltweit gültige und verbindliche Fassung",
     "authors": [
       "Frank, Anne"
     ],
@@ -4614,7 +4614,7 @@
     "isbn": "9783552052925",
     "category": "Sachbuch",
     "genre": "Biografien & Erinnerungen",
-    "description": "In der Slowakei gibt es etwa 300 Slums. Unter ihnen gilt Svinia als Vorhölle. Dort leben 700 Roma, die Ärmsten der Armen, ausgestoßen, vertrieben, von allen, sogar von anderen Roma verachtet, weil sie als »Hundeesser« gelten. Sie leben ohne jede Perspektive unter Umständen, die für Europäer gar nicht mehr vorstellbar sind. Karl-Markus Gauß, der Chronist des randständigen Europa, hat sie besucht. »Dort, wo das größte Elend herrscht«, stieß er immer wieder »auf eine rätselhafte Lebenskraft«.",
+    "description": "Svinia, ein Ort im Osten der Slowakei, in der Erweiterungszone der Europäischen Union; und ein Ort, wie aus der Zeit und der Welt gefallen. Dort leben die Ausgestoßenen unter den Ärmsten der Europäer, Roma, die so lange umgesiedelt, verfolgt, mißachtet wurden, bis sie ihre eigene Geschichte vergaßen. Unter den rund 300 Slums der Slowakei hat Svinia den Ruf, die Vorhölle auf Erden zu sein.",
     "pageCount": "128",
     "thumbnail": "https://books.google.com/books/content?id=oPxlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
@@ -4695,7 +4695,7 @@
     "genre": "Naturwissenschaft",
     "description": "Dieses Buch erzählt, wie geisterhafte Wesen Herrn Scrooge auf eine Reise durchs Universum führen und ihm Bilder zeigen, die die Theorien der Physik veranschaulichen. Die Botschaft der Geister ist nicht immer vollkommen schlüssig, denn sie beschreiben das Bild, das die Wissenschaft unsere Wissenschaft von der Welt entwirft. Die Wissenschaft verändert von Zeit zu Zeit leicht ihr Bild von der Welt. Die Aussagen früherer Besucher werden abgewandelt von denen, die nach ihnen kommen. Das liegt in der Natur der Wissenschaft. Ältere Theorien, auch gut fundierte, stellen sich unter bestimmten Bedingungen nur als Annäherungen an neuere (und in der Regel ungewöhnlichere) Weltbilder heraus. Am Ende dieser Folge von Besuchen liegt Ihnen vielleicht die Frage auf den Lippen: Was ist die endgültige Wahrheit? Das ist eine vernünftige Frage, aber wie kann ich die Antwort wissen?",
     "pageCount": "260",
-    "thumbnail": "https://covers.openlibrary.org/b/id/8540443-L.jpg",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783764353353-de.jpg",
     "read": true,
     "rating": 3,
     "tags": []
@@ -6725,7 +6725,7 @@
   },
   {
     "title": "Lügen in Zeiten des Krieges",
-    "subtitle": "Roman",
+    "subtitle": "",
     "authors": [
       "Begley, Louis"
     ],
@@ -7912,8 +7912,8 @@
     "tags": []
   },
   {
-    "title": "Die neununddreissig Stufen",
-    "subtitle": "Roman",
+    "title": "Die neununddreißig Stufen",
+    "subtitle": "",
     "authors": [
       "Buchan, John"
     ],
@@ -8213,7 +8213,7 @@
   },
   {
     "title": "Der Baron auf den Bäumen",
-    "subtitle": "Roman",
+    "subtitle": "",
     "authors": [
       "Calvino, Italo"
     ],
@@ -8793,8 +8793,8 @@
     "tags": []
   },
   {
-    "title": "Der Tausch – Zwei Frauen. Zwei Tickets. Und nur ein Ausweg.",
-    "subtitle": "",
+    "title": "Der Tausch",
+    "subtitle": "Zwei Frauen. Zwei Tickets. Und nur ein Ausweg",
     "authors": [
       "Clark, Julie"
     ],
@@ -10025,7 +10025,7 @@
     "title": "Psychose",
     "subtitle": "",
     "authors": [
-      "Unbekannter Autor"
+      "Crouch, Blake"
     ],
     "series": "Wayward Pines",
     "volume": "1",
@@ -11762,6 +11762,651 @@
     "read": true,
     "addedAt": 1761088648825,
     "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Lawinenexpress",
+    "subtitle": "",
+    "authors": [
+      "Forbes, Colin"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1979-01",
+    "isbn": "9783453010765",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Im »Lawinenexpress« von Moskau nach Basel soll der wichtigste östliche Überläufer mit äußerst brisanten Informationen sicher in eine Geheimdienstzentrale des Westens gebracht werden. Doch die Gegenspieler haben bereits ein teuflisches Lawinenunglück geplant.",
+    "pageCount": "335",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-453-01076-5&size=m",
+    "read": true,
+    "addedAt": 1761126542475,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "One Second After",
+    "subtitle": "Die Welt ohne Strom",
+    "authors": [
+      "Forstchen, William R."
+    ],
+    "series": "John Matherson",
+    "volume": "1",
+    "publishedDate": "2014-08-01",
+    "isbn": "9783940626172",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "John Matherson, Geschichtsprofessor und Ex-Colonel, lebt mit seiner Familie in einer friedlichen Kleinstadt in den Bergen North Carolinas. Doch die Idylle findet ein jähes Ende, als ein EMP die kompletten Vereinigten Staaten lahmlegt. Alle elektronischen Geräte – Autos, Computer, Radios, Flugzeuge – funktionieren von einer Sekunde auf die andere nicht mehr.Die Gesellschaft bricht erschreckend schnell zusammen, und John muss sich eine entscheidende Frage stellen: Wie weit würdest du gehen, um deine Familie und deine Heimat zu schützen?",
+    "pageCount": "512",
+    "thumbnail": "https://books.google.com/books/content?id=x3AAoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761126760794,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Die Maschine steht still",
+    "subtitle": "",
+    "authors": [
+      "Forster, E. M."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-10-14",
+    "isbn": "9783455814040",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "In E. M. Forsters Dystopie leben die Menschen in einer unterirdischen, abgekapselten Welt mit allem Komfort: Das ganze Leben ist durch die Dienstleistungen der »Maschine« perfekt geregelt. Die Menschen haben kein Bedürfnis mehr nach persönlichen Begegnungen, man kommuniziert nur über die Maschine, die über allem wacht. Ihr Handbuch ist zu einer Art Bibel geworden, die Menschen sind gefangen in ihrer absoluten Abhängigkeit von der Technik, die sie nicht mehr kontrollieren können. Doch nach und nach geht das Wissen, das hinter der Maschine steckt, verloren und das System wird anfällig für Pannen …",
+    "pageCount": "63",
+    "thumbnail": "https://books.google.com/books/content?id=QkMHCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761127181337,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Emma",
+    "subtitle": "",
+    "authors": [
+      "Austen, Jane"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-07-01",
+    "isbn": "9783423400022",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Die kluge Emma Woodhouse lebt für das Ehestiften und lenkt gerne die Geschicke anderer. Allerlei ungewollte Komplikationen und Missverständnisse zwingen sie jedoch zu Selbstkritik und -reflexion in dieser Komödie der Irrungen und Wirrungen.",
+    "pageCount": "618",
+    "thumbnail": "https://books.google.com/books/content?id=XeQjMjdADYMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761207857995,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Schwarze Sekunden",
+    "subtitle": "",
+    "authors": [
+      "Fossum, Karin"
+    ],
+    "series": "Konrad Sejer",
+    "volume": "6",
+    "publishedDate": "2003",
+    "isbn": "9783492045476",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Kommissar Sejer ermittelt im Mordfall an der jungen Ida Joner, deren mit Federn geschmückte Leiche nach ihrem spurlosen Verschwinden entdeckt wird. Als Täter kommt der Autist Emil Johansson in Betracht.",
+    "pageCount": "299",
+    "thumbnail": "https://books.google.com/books/content?id=460zPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761208126269,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die denkenden Wälder.",
+    "subtitle": "",
+    "authors": [
+      "Foster, Alan Dean"
+    ],
+    "series": "Homanx-Commonwealth",
+    "volume": "1",
+    "publishedDate": "1997-08",
+    "isbn": "9783453128156",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Dies ist die Geschichte des Planeten Midworld, der von einem geschlossenen Wald bedeckt ist, dessen Wipfel bis zu 700 Meter hoch aufragen. Als ein interstellarer Konzern das große Geld wittert und mit rücksichtslosem Abholzen beginnt, lehrt Midworld seinen Emissären das Fürchten.",
+    "pageCount": "265",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md31829750889.jpg",
+    "read": true,
+    "addedAt": 1761208537528,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Rat Race",
+    "subtitle": "",
+    "authors": [
+      "Francis, Dick"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1998",
+    "isbn": "9783257229899",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Charterpilot Matt Shore hat in seinem Leben schon größere Herausforderungen gemeistert, als betuchte Pferdebesitzer, Spitzenjockeys und -trainer von einem Rennplatz zum anderen zu befördern. Dachte er zumindest. Aber dann explodiert eine Bombe – zum Glück erst nach der Landung, die Betroffenen kommen mit dem Schrecken davon. Weitere Attentate folgen, und Matt Shore begreift: Da spekuliert jemand auf den Schrecken und schraubt die Spirale der Gefahr höher und höher.",
+    "pageCount": "316",
+    "thumbnail": "https://books.google.com/books/content?id=RZ5hPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761208758103,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Das Spionagespiel",
+    "subtitle": "",
+    "authors": [
+      "Frayn, Michael"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783446204553",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Mitten im Krieg spielen zwei Kinder Krieg: Im harmlosen Nachbarn erkennen Keith und Stephen einen Mörder, im Boden unter ihnen vermuten sie Geheimgänge, und ein leer stehendes Haus kommt ihnen höchst verdächtig vor. Doch auf einmal entwickelt ihr Spiel eine unheimliche Dimension: Keiths schöne, kultivierte Mutter hat nämlich tatsächlich etwas zu verbergen …",
+    "pageCount": "222",
+    "thumbnail": "https://books.google.com/books/content?id=eh9LHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761209048780,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Tod des Landeshauptmanns",
+    "subtitle": "",
+    "authors": [
+      "Freund, Eugen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-10-01",
+    "isbn": "9783218008938",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Mit 1,8 Promille im Blut kracht der Landeshauptmann mit seinem Auto in einen Gartenzaun. Er ist auf der Stelle tot. Was geschah wirklich in jener Nacht im Oktober 2008? Die Spurensuche beginnt in Kärnten. Ein Beamter des Heeresnachrichtenamtes ist spurlos verschwunden, seine Freundin, eine erfahrene Journalistin, erhält von ihm jedoch seitenlange Mails: Über einen FBI-Agenten mit österreichischen Wurzeln, der dem Landeshauptmann bei seinem Besuch in Washington zugeteilt wird. Über den Mossad, den israelischen Geheimdienst, der sich eine ausgeklügelte Autobombe für das Fahrzeug des Landeshauptmannes besorgt. Über zwei Ex-Balkansoldaten, die in Zagreb den Auftrag bekommen, den Kärntner Politiker wegen Schmiergeldzahlungen aus dem Weg zu räumen. Doch was ist wahr an diesen Geschichten? Nur der Verschwundene weiß es, doch die Suche nach ihm verläuft lange Zeit erfolglos …",
+    "pageCount": "164",
+    "thumbnail": "https://books.google.com/books/content?id=2rB3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761209222093,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Homo faber",
+    "subtitle": "Ein Bericht",
+    "authors": [
+      "Frisch, Max"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-05-22",
+    "isbn": "9783518735107",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Max Frischs Homo faber ist eines der wichtigsten und meistgelesenen Bücher des 20. Jahrhunderts: Der Ingenieur Walter Faber glaubt an sein rationales Weltbild, das aber durch eine ›Liebesgeschichte‹ nachhaltig zerbricht.",
+    "pageCount": "192",
+    "thumbnail": "https://books.google.com/books/content?id=ksU7CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761209328474,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Sieben",
+    "subtitle": "",
+    "authors": [
+      "Frost, Mark"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783453878785",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "London 1884. Der Schriftsteller Doyle nimmt an einer spiritistischen Sitzung teil dem Auftakt eines unentrinnbaren Albtraums. Von teuflischen Verschwörern und lebenden Mumien gejagt, gerät er immer tiefer in ein Labyrinth des Grauens, in dem der Satan selbst die Krieger der Finsternis zu befehligen scheint.",
+    "pageCount": "510",
+    "thumbnail": "https://books.google.com/books/content?id=omFpAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761211813404,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Der Junge, der Träume schenkte",
+    "subtitle": "",
+    "authors": [
+      "Fulvio, Luca Di"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-12-22",
+    "isbn": "9783838717593",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "New York, 1909. Aus einem transatlantischen Frachter steigt eine junge Frau mit ihrem Sohn Natale. Sie kommen aus dem tiefsten Süden Italiens - mit dem Traum von einem besseren Leben in Amerika. Doch in der von Armut, Elend und Kriminalität gezeichneten Lower East Side gelten die gnadenlosen Gesetze der Gangs. Nur wer über ausreichend Robustheit und Durchsetzungskraft verfügt, kann sich hier behaupten. So wie der junge Natale, dem überdies ein besonderes Charisma zu eigen ist, mit dem er die Menschen zu verzaubern vermag ...",
+    "pageCount": "900",
+    "thumbnail": "https://books.google.com/books/content?id=MWX5IplJb_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761212134057,
+    "rating": 4,
+    "tags": [
+      "Historisch"
+    ]
+  },
+  {
+    "title": "Hinter verzauberten Fenstern",
+    "subtitle": "Eine geheimnisvolle Adventsgeschichte",
+    "authors": [
+      "Funke, Cornelia"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-09-24",
+    "isbn": "9783596812783",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Warum hat Olli den Schokoladenadventskalender bekommen und ich nur diesen doofen Papieradventskalender, ärgert sich Julia. Doch das auf ihrem Kalender abgebildete Haus glitzert so silbrig und geheimnisvoll, dass sie der Versuchung nicht widerstehen kann und das erste Fenster ihres Kalenderhauses öffnet. Da bemerkt Julia, dass das Haus bewohnt ist und dass sie die Menschen, die darin leben, besuchen kann. Damit beginnt ein ganz ungewöhnliches Abenteuer …",
+    "pageCount": "192",
+    "thumbnail": "https://books.google.com/books/content?id=3EuFrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761212481390,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Bibbi Bokkens magische Bibliothek",
+    "subtitle": "",
+    "authors": [
+      "Gaarder, Jostein",
+      "Hagerup, Klaus"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2001",
+    "isbn": "9783446200395",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Ein Brief mit einer mysteriösen Nachricht, eine unheimliche Frau, die plötzlich überall auftaucht, und ein rätselhaftes Buch ohne Autor sorgen bei Nils und seiner Cousine Berit für Verwirrung. Die beiden gehen der Sache nach, notieren ihre Beobachtungen und tauschen sich per Tagebuch aus: Die Frau heißt Bibbi Bokken, sie bekommt unzählige Bücher per Post, die scheinbar spurlos verschwinden, und sie verfügt über eine »magische Bibliothek«, in der Bücher stehen, die erst noch geschrieben werden müssen. Immer neue Rätsel tauchen auf, und die Kinder gewinnen mehr und mehr das Gefühl, Figuren in einem undurchschaubaren Spiel zu sein.",
+    "pageCount": "197",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-446-20039-5&size=m",
+    "read": true,
+    "addedAt": 1761212751457,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Durch einen Spiegel, in einem dunklen Wort",
+    "subtitle": "",
+    "authors": [
+      "Gaarder, Jostein"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1996",
+    "isbn": "9783446180710",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Die todkranke Cecilie erhält unerwartet Besuch: Ariel, ihr Schutzengel (Engel sind seit einiger Zeit in Mode!), macht sich bemerkbar und verwickelt sie in Gespräche über Gott und die Welt, über die menschliche Existenz, deren Begrenzung und Aufgehobensein in einem unendlichen Kosmos. Der Engel, ein Geistwesen, wünscht von ihr, dem Menschenkind, in die Geheimnisse des menschlichen Daseins eingeführt zu werden; zugleich ermöglicht er Cecilie im Rahmen ihrer Gespräche bruchstückhafte Einblicke in die Welt \"jenseits des Spiegels\". Dank seiner Hilfe gelingt es Cecilie, ein für ihr Alter erstaunliches Mass an Lebensweisheit zu erlangen. Und dass ihr Schutzengel Ariel auch auf ihrem letzten Gang im irdischen Dasein \"durch den Spiegel\" zum Reisebegleiter wird, versteht sich von selbst. - Gaarders stark von mythischen Bildern und philosophischem Denken geprägter Roman versteht sich als Denkanstoss im Hinblick auf eine Auseinandersetzung mit letzten Fragen. Die Figur der Cecilie, die als Vermittlerfigur zwischen jugendlichem Lesepublikum und religionsphilosophischem Gehalt des Romans eingesetzt ist, gerät teilweise nicht glaubwürdig: Argumentation und Reflexion bewegen sich auf einem dem Alter der Protagonistin nicht entsprechenden Niveau. Als Denkanstoss zu Diskussionen, die das Thema Tod in einen weiteren Rahmen stellen sollen, eignet sich Gaarders Roman aber trotzdem. (Quelle: R. Fassbind-Eigenheer, Und wenn sie nicht gestorben sind ..., Kommentierte Liste von Bilder-, Kinder- und Jugendbüchern sowie Fachliteratur für Lehrerinnen und Lehrer zum Thema \"Sterben und Tod\", Pestalozzianum Verl., Zürich, 1999).",
+    "pageCount": "152",
+    "thumbnail": "https://books.google.com/books/content?id=8zgZGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761212988925,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Sofies Welt",
+    "subtitle": "Roman über die Geschichte der Philosophie",
+    "authors": [
+      "Gaarder, Jostein"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-01-28",
+    "isbn": "9783446242418",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Ein Roman über zwei ungleiche Mädchen und einen geheimnisvollen Briefeschreiber, ein Kriminal- und Abenteuerroman des Denkens, ein geistreiches und witziges Buch, ein großes Lesevergnügen und zu allem eine Geschichte der Philosophie von den Anfängen bis zur Gegenwart.",
+    "pageCount": "603",
+    "thumbnail": "https://books.google.com/books/content?id=3CRQAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761213088265,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Das Lächeln der Fortuna",
+    "subtitle": "",
+    "authors": [
+      "Gablé, Rebecca"
+    ],
+    "series": "Waringham",
+    "volume": "1",
+    "publishedDate": "2011-07-05",
+    "isbn": "9783404139170",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "England 1360: Nach dem Tod seines Vaters, des wegen Hochverrats angeklagten Earl of Waringham, zählt der zwölfjährige Robin zu den Besitzlosen und ist der Willkür der Obrigkeit ausgesetzt. Besonders Mortimer, der Sohn des neuen Earls, schikaniert Robin, wo er kann. Zwischen den Jungen erwächst eine tödliche Feindschaft. Aber Robin geht seinen Weg, der ihn schließlich zurück in die Welt von Hof, Adel und Ritterschaft führt. An der Seite des charismatischen Duke of Lancaster erlebt er Feldzüge, Aufstände und politische Triumphe - und begegnet Frauen, die ebenso schön wie gefährlich sind. Doch das Rad der Fortuna dreht sich unaufhörlich, und während ein junger, unfähiger König England ins Verderben zu reißen droht, steht Robin plötzlich wieder seinem alten Todfeind gegenüber ...",
+    "pageCount": "1200",
+    "thumbnail": "https://books.google.com/books/content?id=OCjnHAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761213274161,
+    "rating": 1,
+    "tags": []
+  },
+  {
+    "title": "Erinnerung an meine traurigen Huren",
+    "subtitle": "",
+    "authors": [
+      "García Márquez, Gabriel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-06-18",
+    "isbn": "9783462308648",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Eine berührende Geschichte über die Liebe, das Alter und den Sinn des Lebens. In »Erinnerung an meine traurigen Huren« erzählt Nobelpreisträger Gabriel García Márquez die Geschichte eines 90-jährigen Mannes, der sein Leben lang nur käufliche Liebe gekannt hat. Zu seinem Geburtstag schenkt er sich eine Nacht mit einer Jungfrau in einem Bordell. In dieser Nacht, der noch viele folgen sollten, betrachtet er verzaubert die schlafende Schöne und empfindet zum ersten Mal in seinem Leben wahre Liebe. Frauen haben im Leben des alten Journalisten immer eine Rolle gespielt – seine schöne und gebildete Mutter, die ihm die klassische Musik und die Literatur nahe brachte; seine aufreizende Verlobte, die er sitzen ließ; die vielen Huren, die er mehr nach dem Preis als nach ihren Reizen wählte. Doch erst Delgadina, das von der Puffmutter Rosa Cabarcas in Tiefschlaf versetzte Mädchen, löst in dem einsamen Mann nie zuvor erfahrene Gefühle aus. Die Schlafende bringt ihn dazu, sich selbst besser zu verstehen; sie treibt den Liebenden in rasende Eifersucht und inspiriert den Journalisten zu hinreißenden Liebeserklärungen. Nach einem Jahr mit Delgadina ist er ein anderer Mensch geworden.",
+    "pageCount": "91",
+    "thumbnail": "https://books.google.com/books/content?id=LT-pAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761213444592,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Hundert Jahre Einsamkeit",
+    "subtitle": "",
+    "authors": [
+      "García Márquez, Gabriel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-06-08",
+    "isbn": "9783462317077",
+    "category": "",
+    "genre": "",
+    "description": "Die Familiensaga um das kolumbianische Dorf Macondo gehört inzwischen zu den modernen Klassikern der Weltliteratur. »Hundert Jahre Einsamkeit« erzählt die Geschichte vom Aufstieg und Niedergang der Familie Buendía und des von ihr gegründeten Dorfes Macondo, das zunächst wie das Paradies erscheint. Durch Sümpfe und Urwald, durch eine undurchdringliche Sierra von der Außenwelt abgeschnitten, ist Macondo der einzigartige Schauplatz einer Welt, in der sich geschichtliche Entwicklungen, alle Träume, Alpträume und Entdeckungen des Menschen noch einmal wiederholen.",
+    "pageCount": "429",
+    "thumbnail": "https://books.google.com/books/content?id=wTutDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761213547234,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der Alte König in seinem Exil",
+    "subtitle": "",
+    "authors": [
+      "Geiger, Arno"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-02-07",
+    "isbn": "9783446236905",
+    "category": "",
+    "genre": "",
+    "description": "Arno Geiger hat ein tief berührendes Buch über seinen Vater geschrieben, der trotz seiner Alzheimerkrankheit mit Vitalität, Witz und Klugheit beeindruckt. Die Krankheit löst langsam seine Erinnerung und seine Orientierung in der Gegenwart auf, lässt sein Leben abhandenkommen. Arno Geiger erzählt, wie er nochmals Freundschaft mit seinem Vater schließt und ihn viele Jahre begleitet. In nur scheinbar sinnlosen und oft so wunderbar poetischen Sätzen entdeckt er, dass es auch im Alter in der Person des Vaters noch alles gibt: Charme, Witz, Selbstbewusstsein und Würde. Arno Geigers Buch ist lebendig, oft komisch. In seiner tief berührenden Geschichte erzählt er von einem Leben, das es immer noch zutiefst wert ist, gelebt zu werden.",
+    "pageCount": "171",
+    "thumbnail": "https://books.google.com/books/content?id=Z45PAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761216961591,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Chirurgin",
+    "subtitle": "",
+    "authors": [
+      "Gerritsen, Tess"
+    ],
+    "series": "Jane Rizzoli & Maura Isles",
+    "volume": "1",
+    "publishedDate": "2003-03-27",
+    "isbn": "9783894807894",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In Boston dringt ein Unbekannter nachts in die Wohnungen von alleinstehenden Frauen ein, unterzieht sie einem gynäkologischen Eingriff und tötet sie. Die einzige Spur führt Detective Thomas Moore und Inspector Jane Rizzoli zu der jungen Chirurgin Catherine Cordell, die drei Jahre zuvor nach ähnlichem Muster überfallen wurde, den Täter aber in Notwehr erschoss. Und bald wird klar, dass Catherine erneut zur Zielscheibe eines psychopathischen Mörders geworden ist …",
+    "pageCount": "351",
+    "thumbnail": "https://books.google.com/books/content?id=OhBKI8W8gG4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761217616086,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der Meister",
+    "subtitle": "",
+    "authors": [
+      "Gerritsen, Tess"
+    ],
+    "series": "Jane Rizzoli & Maura Isles",
+    "volume": "2",
+    "publishedDate": "2003",
+    "isbn": "9783809024743",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Detective Jane Rizzoli wird zu einem Tatort in einem Villenviertel gerufen, wo sie die Leiche des Arztes Richard Yeager vorfindet. Wie die kriminaltechnische Untersuchung ergibt, wurde Yeagers Frau Gail vor den Augen ihres Mannes vergewaltigt, bevor ihm die Kehle durchschnitten wurde.<br>\nUnd Gail Yeager ist verschwunden. Das perverse Arrangement dieses Mordes ruft in Jane quälende Erinnerungen wach. Erst vor einem Jahr hat sie einen psychopathischen Serienkiller verhaftet – nachdem sie ihm beinahe selbst zum Opfer gefallen wäre.",
+    "pageCount": "412",
+    "thumbnail": "https://books.google.com/books/content?id=x-VutAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761222311926,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Wir sind doch Schwestern",
+    "subtitle": "",
+    "authors": [
+      "Gesthuysen, Anne"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-11-08",
+    "isbn": "9783462306118",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Drei Schwestern, drei Leben, drei Lieben – und das Porträt eines Jahrhunderts. Katty, Martha und Adele treffen sich zu Adeles 100. Geburtstag. Sie wollen ihre Zukunft planen, doch vorher gilt es, die Vergangenheit zu klären. Eindringlich verwebt Anne Gesthuysen Gegenwart und Vergangenheit und entfacht dabei ein Feuerwerk von Geschichten, die sich quer durch das 20. Jahrhundert ziehen. Sie erzählt von Katty, der charmanten Strippenzieherin, ihrer Verehrung für Adenauer und ihrer Liebe zu einem unerreichbaren Volksvertreter, von Adeles schicksalhafter Verlobung und dem Spion, den sie versteckte. Von Martha, die ihren Mann an Männer verlor und stets die Lebenslust bewahrte. Vom Tausch eines Huhns gegen ein Rembrandtgemälde, von einem Leumundsprozess, der den gesamten Niederrhein in Atem hielt, und von drei starken Frauen mit dem Mut zur Eigenständigkeit. Große Lebensgeschichten verbinden sich mit herrlichen Anekdoten, das Weltgeschehen mit dem Leben am Niederrhein.",
+    "pageCount": "448",
+    "thumbnail": "https://books.google.com/books/content?id=-ktmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761222410472,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Für jede Lösung ein Problem",
+    "subtitle": "",
+    "authors": [
+      "Gier, Kerstin"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-03-17",
+    "isbn": "9783838700694",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Gerri schreibt Abschiedsbriefe an alle, die sie kennt, und sie geht nicht gerade zimperlich mit der Wahrheit um. Nur dummerweise klappt es dann nicht mit den Schlaftabletten und dem Wodka und Gerris Leben wird von einem Tag auf den anderen so richtig spannend. Denn es ist nicht einfach, mit seinen Mitmenschen klarzukommen, wenn sie wissen, was man wirklich von ihnen hält …",
+    "pageCount": "345",
+    "thumbnail": "https://books.google.com/books/content?id=c4Qgzp87tWMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761222544586,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Assassini",
+    "subtitle": "Vatikan-Thriller",
+    "authors": [
+      "Gifford, Thomas"
+    ],
+    "series": "Ben Driskill",
+    "volume": "1",
+    "publishedDate": "2019-04-29",
+    "isbn": "9783732577248",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der Papst liegt im Sterben, und im Kampf um seine Nachfolge gehen machtgierige Kardinäle über Leichen. Doch Ben, ein Anwalt und früherer Jesuit, ist aus anderen Gründen in Rom: Ihm lässt der Tod seiner Schwester Valentine keine Ruhe. Die junge Nonne wurde beim Gebet ermordet. Bens Ermittlungen führen ihn in die Geheimarchive des Vatikans. Dort stößt er auf einen mörderischen Geheimbund aus der Zeit der Renaissance, der immer dann zum Einsatz kam, wenn alle anderen Mittel versagten. Sein Name: Assassini. Hat jemand diese dunkle Bruderschaft wieder zu blutigem Leben erweckt? Bens Nachforschungen bringen ihn selbst in tödliche Gefahr …",
+    "pageCount": "918",
+    "thumbnail": "https://books.google.com/books/content?id=kFmGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761222661901,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Krokodil: Lojacono ermittelt in Neapel",
+    "subtitle": "",
+    "authors": [
+      "Giovanni, Maurizio de"
+    ],
+    "series": "Inspektor Lojacono",
+    "volume": "1",
+    "publishedDate": "2014-03-07",
+    "isbn": "9783644312111",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In den dunklen Gassen Neapels treibt ein Mörder sein Unwesen, den die Presse nur \"das Krokodil\" nennt. Wie eine perfekte Tötungsmaschine erschießt er seine Opfer aus nächster Nähe, doch am Tatort hinterlässt er stets ein Taschentuch voller Tränen. Weint er etwa um die von ihm Getöteten? Inspektor Lojacono, von Sizilien strafversetzt, sitzt derweil in einem trostlosen Polizeibüro und langweilt sich - bis die attraktive Staatsanwältin Laura Piras sein Talent erkennt und ihn auf den rätselhaften Fall ansetzt. In einer Stadt voller Geheimnisse und Gefahren beginnt für Lojacono die Jagd nach dem \"Krokodil\". Ein packendes Katz-und-Maus-Spiel zwischen dem eigenwilligen Ermittler und einem Killer, der seine Menschlichkeit verloren zu haben scheint.",
+    "pageCount": "378",
+    "thumbnail": "https://books.google.com/books/content?id=MJtuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761223171364,
+    "rating": 5,
+    "tags": [
+      "Italien"
+    ]
+  },
+  {
+    "title": "Alle sieben Wellen",
+    "subtitle": "",
+    "authors": [
+      "Glattauer, Daniel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-02-04",
+    "isbn": "9783552061026",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Erstens: Sie kennen Emmi Rothner und Leo Leike? Dann haben Sie also \"Gut gegen Nordwind\" gelesen, jene ungewöhnliche Liebesgeschichte, in der sich zwei Menschen, die einander nie gesehen haben, per E-Mail rettungslos verlieben. Zweitens: Für Sie ist die Geschichte von Emmi und Leo und ihrer unerfüllten Liebe abgeschlossen. Mag sein. Aber nicht für Emmi und Leo! Drittens: Sie sind der Ansicht, dass die Liebenden zumindest eine einzige wirkliche Begegnung verdient hätten und der Roman eine zweite Chance auf ein anderes Ende? Bitte, hier haben Sie's! Viertens: Sie haben keine Ahnung, wovon hier die Rede ist? Kein Problem. In diesem Buch erfahren Sie alles: von Leos Rückkehr aus Boston, von Emmis Eheproblemen und von der siebenten Welle, die immer für Überraschungen gut ist.",
+    "pageCount": "276",
+    "thumbnail": "https://books.google.com/books/content?id=zslPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761223354696,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Geschenkt",
+    "subtitle": "",
+    "authors": [
+      "Glattauer, Daniel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-08-25",
+    "isbn": "9783552062719",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Gerold Plassek ist Journalist bei einer Gratiszeitung. Bei ihm im Büro sitzt der 14-jährige Manuel, dessen Mutter im Ausland arbeitet. Er beobachtet Gerold beim Nichtstun und ahnt nicht, dass dieser Versager sein Vater ist. Gerold fehlt jeder Antrieb, die Stammkneipe ist sein Wohnzimmer und der Alkohol sein verlässlichster Freund. Plötzlich kommt Bewegung in sein Leben: Nach dem Erscheinen seines Artikels über eine überfüllte Obdachlosenschlafstätte trifft dort eine anonyme Geldspende ein. Das ist der Beginn einer Serie von Wohltaten, durch die Gerold immer mehr in den Blickpunkt der Öffentlichkeit rückt. Und langsam beginnt auch Manuel, ihn zu mögen …",
+    "pageCount": "384",
+    "thumbnail": "https://books.google.com/books/content?id=eDPOAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761223411600,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Gut gegen Nordwind",
+    "subtitle": "",
+    "authors": [
+      "Glattauer, Daniel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006-07-31",
+    "isbn": "9783552061033",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Gibt es in einer vom Alltag besetzten Wirklichkeit einen besser geschützten Raum für gelebte Sehnsüchte als den virtuellen? Bei Leo Leike landen irrtümlich E-Mails einer ihm unbekannten Emmi Rothner. Aus Höflichkeit antwortet er ihr. Und weil sich Emmi von ihm angezogen fühlt, schreibt sie zurück. Bald scheint es nur noch eine Frage der Zeit zu sein, wann es zum ersten persönlichen Treffen kommt, aber diese Frage wühlt beide so sehr auf, dass sie die Antwort lieber noch eine Weile hinauszögern. Außerdem ist Emmi glücklich verheiratet. Und Leo verdaut gerade eine gescheiterte Beziehung. Und überhaupt: Werden die gesendeten, empfangenen und gespeicherten Liebesgefühle einer Begegnung standhalten? Und was, wenn ja?",
+    "pageCount": "280",
+    "thumbnail": "https://books.google.com/books/content?id=cc9PAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761223515946,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Schauma mal",
+    "subtitle": "Kolumnen aus dem Alltag",
+    "authors": [
+      "Glattauer, Daniel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009",
+    "isbn": "9783552060944",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Daniel Glattauer widmet sich in seinen Kolumnen den Absurditäten und Vergnüglichkeiten des Alltags. \"Die Macht ist an\" erzählt vom Kampf mit mangelhaft übersetzten Gebrauchsanweisungen, \"Richtig trennen\" vom möglichst nervenschonenden Rückgängigmachen übereilt eingegangener Partnerschaften, \"Maus will es wissen\" vom Zauber des unfreiwilligen Mithörens fremder Handytelefonate, \"Ehrlich lügen\" von einer über Jahrhunderte entwickelten speziellen Begabung des Homo austriacus, \"Lavendelpudding\" von Höhepunkten der Nouvelle Cuisine und \"Gescheiert\" vom Druckfehlerteufel. \"Schauma mal\" versammelt die beliebtesten Kurzprosatexte von Daniel Glattauer, für alle jene, die seine Kolumnen noch nicht kennen oder sich ein weiteres Mal an ihnen erfreuen möchten.",
+    "pageCount": "137",
+    "thumbnail": "https://books.google.com/books/content?id=jeVLPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761223628348,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Kameramörder",
+    "subtitle": "",
+    "authors": [
+      "Glavinic, Thomas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006",
+    "isbn": "9783423411073",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Mit seiner Lebensgefährtin besucht der Erzähler ein befreundetes Paar in der Steiermark. In den Medien wird über einen Doppelmord an zwei Kindern berichtet, den der Mörder mit einer Videokamera aufgenommen haben soll. Und während die vier Freunde zwischen Fernseher und Kartenspiel, Küche und Gesprächen hin und her pendeln, wird ganz in ihrer Nähe fieberhaft nach dem Mörder gesucht.",
+    "pageCount": "156",
+    "thumbnail": "https://books.google.com/books/content?id=wLxpPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761223842925,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Leiden des jungen Werthers",
+    "subtitle": "Briefe aus der Schweiz",
+    "authors": [
+      "Goethe, Johann Wolfgang von"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1997",
+    "isbn": "9783895086625",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Der Briefroman \"Die Leiden des jungen Werther\" erschien im Jahre 1774. Der empfindsame Werther begegnet der schönen Lotte auf einem Ball und verliebt sich sofort in sie, obwohl diese bereits verlobt ist. Beide empfinden eine innige, tiefe Seelenverwandtschaft, wenngleich Werther ahnt, dass seine Liebe ohne Hoffnung ist. Getrieben von seiner Liebe zu Lotte verfällt Werther in einen Wahn und sieht zuletzt nur noch einen Ausweg.",
+    "pageCount": "252",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783895086625-de.jpg",
+    "read": true,
+    "addedAt": 1761224426979,
+    "rating": 5,
     "tags": []
   }
 ]
