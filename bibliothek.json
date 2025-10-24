@@ -3008,7 +3008,9 @@
     "pageCount": "553",
     "thumbnail": "https://books.google.com/books/content?id=pLumDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": false,
-    "rating": null
+    "rating": null,
+    "subtitle": "Meine Geschichte",
+    "tags": []
   },
   {
     "title": "Nicht Wolf nicht Hund",
@@ -12406,6 +12408,446 @@
     "thumbnail": "https://pictures.abebooks.com/isbn/9783895086625-de.jpg",
     "read": true,
     "addedAt": 1761224426979,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Herr der Fliegen",
+    "subtitle": "",
+    "authors": [
+      "Golding, William"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2021-07-21",
+    "isbn": "9783104915715",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Ein Flugzeugabsturz über einer unbewohnten Insel im Pazifischen Ozean. Kein Erwachsener überlebt, eine Gruppe englischer Schüler bleibt sich selbst überlassen. Ralph, der zum Anführer gewählt wird, will das Zusammenleben organisieren, aber die Führungsrolle wird ihm von Jack streitig gemacht. Zunächst erscheint der Verlust der Zivilisation leicht zu bewältigen: Auf der Insel gibt es Wasser, Früchte, sogar wilde Schweine. Es werden Hütten gebaut, die Insel wird erforscht und ein Signalfeuer eingerichtet. Aber bald machen sich Terror und primitive Barbarei breit. Die Schweinejagd artet zu blutigem Schlachten aus, der Machtrausch gipfelt in der Bereitschaft zum Mord. Aggression, Gewalt, der Verlust aller Hemmungen machen aus dem Paradies bald ein mörderisches Inferno. Ein Kampf um Leben und Tod, geführt von ganz gewöhnlichen Jungen, die in der Wildnis zu menschlichen Bestien werden. Oder ist es das wahre Gesicht des Menschen, das hier zum Vorschein kommt?",
+    "pageCount": "311",
+    "thumbnail": "https://books.google.com/books/content?id=gdw6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761259703955,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Lichtschacht",
+    "subtitle": "",
+    "authors": [
+      "Goldmann, Anne"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014",
+    "isbn": "9783867549622",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Lena ist neu in der Stadt. Sie schlägt sich mit allerlei Jobs durch und genießt das Privileg, die schöne Dachgeschosswohnung einer weltreisenden Freundin für sich zu haben. Eines Abends gönnt sie sich nach getaner Arbeit ein, zwei Gläschen Wein und einen Joint. Entspannt sich. Beobachtet müßig drei Leute, die auf dem Dach eines nahen Hauses sitzen und offenbar etwas feiern. Plötzlich sind es nur noch zwei: ein Mann, eine Frau. Wo ist die Dritte hin? Hat Lena soeben ein Verbrechen beobachtet, oder geht ihre Phantasie jetzt mit ihr durch? Das Ereignis lässt sie nicht mehr los. Sie ist fast sicher, dass da vor ihren Augen etwas Schlimmes geschehen ist. Doch an die Polizei mag sie sich nicht wenden – zum einen hat sie keinerlei Beweis, zum anderen war sie selber in berauschtem Zustand. Freunde oder Vertraute hat sie hier noch nicht. Ihr bleibt nur, selbst ein paar Nachforschungen anzustellen, die jedoch nichts erbringen. Falscher Alarm also? Nach ein paar Tagen fällt ihr auf, dass über dem fraglichen Dach ständig Vögel kreisen …",
+    "pageCount": "384",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-86754-962-2&size=m",
+    "read": true,
+    "addedAt": 1761259820233,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Medicus",
+    "subtitle": "",
+    "authors": [
+      "Gordon, Noah"
+    ],
+    "series": "Medicus",
+    "volume": "1",
+    "publishedDate": "2013-04-30",
+    "isbn": "9783641119201",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Der Waisenjunge Rob findet bei einem Bader Schutz und wird sein gelehriger Schüler. Nach dem Tod seines Meisters bricht er nach Persien auf, denn dort, im fernen Isfahan, lehrt Avicenna, der berühmteste aller Ärzte. Rob trotzt mutig den Gefahren seiner weiten Reise, Hunger, Pest und den Überfällen religiöser Fanatiker. Unbeirrt folgt er seiner Berufung als Arzt und Heiler.",
+    "pageCount": "711",
+    "thumbnail": "https://books.google.com/books/content?id=Tv-lqQ-_lpcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761260121189,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der Rabbi",
+    "subtitle": "",
+    "authors": [
+      "Gordon, Noah"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-12-11",
+    "isbn": "9783641136284",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Michael, Sohn einer reichen jüdischen Familie im Amerika der zwanziger Jahre, ist dazu ausersehen, Karriere zu machen. Sein Leben erfährt eine entscheidende Wendung, als er einen Rabbi kennenlernt: Er beschließt, Prediger zu werden. Die Begegnung mit der Christin Leslie stellt sein Leben ein weiteres Mal auf den Kopf. Um ihrer wachsenden Liebe eine Chance zu geben, konvertiert Leslie zum Judentum. Die Liebenden nehmen den Kampf mit einer Gesellschaft auf, die sie ablehnt, denn nicht nur Leslies Eltern sind strikt gegen die Verbindung ihrer Tochter mit Michael.",
+    "pageCount": "432",
+    "thumbnail": "https://books.google.com/books/content?id=U7BIAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761260199399,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die schwarze Spinne",
+    "subtitle": "",
+    "authors": [
+      "Gotthelf, Jeremias"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-01-25",
+    "isbn": "9783104018607",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "In einer überaus kunstvollen Komposition führt Gotthelf eine idyllische Rahmenhandlung und schauerliche alte Sagen um Teufelspakt und göttliches Strafgericht zu einer gleichnishaften Erzählung über christlich-humanistische Vorstellungen von Gut und Böse zusammen. Seine präzise Darstellung von Schuldzuschreibung, kollektiver Verdrängung und dem Schicksal stigmatisierter Außenseiter ist nach wie vor hochaktuell.",
+    "pageCount": "107",
+    "thumbnail": "https://books.google.com/books/content?id=zVFtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761260345990,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Turmschatten",
+    "subtitle": "",
+    "authors": [
+      "Grandl, Peter"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2020",
+    "isbn": "9783360501646",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein spektakuläres Verbrechen hält eine Kleinstadt in Atem: Drei Neonazis werden in einem Turm gefangen gehalten. Ephraim Zamir, der Geiselnehmer, konfrontiert sie in einem Verhör mit ihren Gewalttaten und überträgt das Ganze live im Netz. Die Zuschauer sollen abstimmen: freilassen oder hinrichten? Es ist der Beginn eines weltweiten Medienspektakels. Für die Polizei ist es ein Wettlauf gegen die Zeit. Womit sie nicht rechnen: Sie haben es mit einem ehemaligen Mossad-Agenten zu tun, der nicht bereit ist zu verhandeln.",
+    "pageCount": "Unbekannt",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-360-50164-6&size=m",
+    "read": true,
+    "addedAt": 1761260461818,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die purpurnen Flüsse",
+    "subtitle": "",
+    "authors": [
+      "Grangé, Jean-Christophe"
+    ],
+    "series": "Pierre Niémans",
+    "volume": "1",
+    "publishedDate": "2015-01-25",
+    "isbn": "9783732508648",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In der kleinen Universitätsstadt Guernon nahe Grenoble wird die grausam zugerichtete Leiche des Bibliothekars Rémy Callois entdeckt. Der ermittelnde Kommissar glaubt zunächst an einen Ritualmord, bis ganz in der Nähe ein weiterer Toter gefunden wird: der Krankenpfleger Philippe Sertys. Gezielt gelegte Spuren haben die Polizei zu ihm geführt. Zur gleichen Zeit versucht ein Inspektor in einem französischen Provinznest, das rätselhafte Verschwinden eines zehnjährigen Schülers aufzuklären. Als sich herausstellt, dass beide Kriminalfälle in Zusammenhang stehen, beginnt eine fieberhafte Spurensuche. Bald ist klar, dass die zwei Toten keineswegs unschuldige Opfer waren, und die \"purpurnen Flüsse\" erweisen sich als Chiffre für ein furchtbares Verbrechen ...",
+    "pageCount": "473",
+    "thumbnail": "https://books.google.com/books/content?id=K53fBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761297643427,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Herz der Hölle",
+    "subtitle": "",
+    "authors": [
+      "Grangé, Jean-Christophe"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2023-01-31",
+    "isbn": "9783751737746",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Wären sie besser für immer tot geblieben ... Der Pariser Kripobeamte Mathieu Durey ist schockiert: Sein bester Freund und Kollege Luc liegt nach einem Suizidversuch im Koma. Mathieu möchte herausfinden, was seinen Freund in den Selbstmord getrieben hat. War es einer seiner letzten Fälle? Der Mord an einer Frau, die - zerfressen von Chemikalien und Insekten und mit einem Kruzifix geschändet - in einem Kloster gefunden wurde? Die Spur führt Mathieu zu einer ganzen Serie von satanischen Morden und einer absolut verstörenden Entdeckung: Alle mutmaßlichen Mörder waren Koma-Patienten, die wieder ins Leben zurückgekehrt sind ...",
+    "pageCount": "875",
+    "thumbnail": "https://books.google.com/books/content?id=xfypEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761297742432,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Imperium der Wölfe",
+    "subtitle": "",
+    "authors": [
+      "Grangé, Jean-Christophe"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2023-01-31",
+    "isbn": "9783751737722",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Das Pariser Türkenviertel, wo illegal eingeschmuggelte billige Arbeitskräfte unter unmenschlichen Bedingungen leben, wird von drei bestialischen Morden erschüttert. Die Opfer: rothaarige Frauen. Die Tat eines wahnsinnigen Serienmörders? Oder stehen die Morde in einem größeren Zusammenhang? Zur gleichen Zeit wird Anna Heymes, Gattin eines hochstehenden Pariser Polizeibeamten, im Krankenhaus neurologisch behandelt. Sie hat auf bislang unerklärliche Weise ihr Gedächtnis verloren. Gegen den Willen von Arzt und Ehemann will Anna herausfinden, wer sie wirklich ist. Doch dabei gerät sie nicht nur in Lebensgefahr - sondern gelangt auch zu einer furchtbaren Erkenntnis …",
+    "pageCount": "462",
+    "thumbnail": "https://books.google.com/books/content?id=Wf2pEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761297854678,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Katz und Maus",
+    "subtitle": "",
+    "authors": [
+      "Grass, Günter"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1974",
+    "isbn": "9783472611486",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Aus der Rückschau des Jahres 1959 erzählt Pilenz vom bewunderten und verachteten Klassenkameraden Mahlke im Danzig der Kriegszeit, den sein übergroßer Adamsapfel zum Außenseiter macht. Mahlke führt einen verzweifelten Kampf um seine Integration, um die Schließung des existentiellen Risses zwischen »Katz« und »Maus«, und wird doch im Sieg endgültig scheitern. Auch das Ritterkreuz, von dem er sich - Perversion der Zeit gemäß - Erlösung durch Bedeckung seiner Blöße erhofft, verhilft ihm nicht zum Frieden mit der Welt.",
+    "pageCount": "124",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783472611486-de.jpg",
+    "read": true,
+    "addedAt": 1761298427250,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Blinder Eifer",
+    "subtitle": "",
+    "authors": [
+      "Grimes, Martha"
+    ],
+    "series": "Inspektor Jury",
+    "volume": "13",
+    "publishedDate": "2000",
+    "isbn": "9783442448043",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der Tod kam plötzlich und unerwartet. Drei Frauen starben, die offizielle Diagnose lautet Herzversagen. Inspektor Jury von Scotland Yard will jedoch nicht an einen Zufall glauben, denn die Frauen haben ein merkwürdiges Detail gemeinsam: alle drei waren sie kurz vor ihrem Tod in Santa Fe. Jury wird den Verdacht nicht los, dass hinter den Verbrechen ein teuflischer Plan stecken könnte …",
+    "pageCount": "475",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-442-44804-3&size=m",
+    "read": true,
+    "addedAt": 1761298733906,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Mordserfolg",
+    "subtitle": "",
+    "authors": [
+      "Grimes, Martha"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006",
+    "isbn": "9783442462032",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Bestsellerautor Paul Giverney ist für Überraschungen bekannt. Doch nun versetzt er die New Yorker Verlagswelt in Aufruhr. Zum großen Staunen aller kündigt er eines Tages einen Verlagswechsel an. Dabei hat ihn sein bisheriger Verleger zu einem der erfolgreichsten Autoren Amerikas gemacht: Millionenfach haben sich seine Romane verkauft, stets hat er es an die Spitze der Bestsellerlisten geschafft. Aber Giverney geht es bei diesem Coup nicht um noch mehr Geld, er hat Perfideres im Sinn: Er will herausfinden, wie weit ein Verlag aus Profitgier gehen würde. Und so stellt er seinem zukünftigen Verleger Bobby Mackenzie eine teuflische Bedingung: Pauls größter Rivale, der preisgekrönte Schriftsteller Ned Isaly soll nicht länger bei Mackenzie erscheinen. Bobby ist um eine Lösung nicht verlegen – und erteilt zwei Killern den Auftrag, das Problem für ihn diskret aus dem Weg zu schaffen…",
+    "pageCount": "412",
+    "thumbnail": "https://books.google.com/books/content?id=2gg6AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761298982238,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das zweite Spiel",
+    "subtitle": "",
+    "authors": [
+      "Grimwood, Ken"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1994",
+    "isbn": "9783453075252",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Jeff Winston telephoniert in seinem Büro gerade mit seiner Frau, als er nach einem Herzanfall stirbt. Es ist der 18.Oktober 1988. Doch Jeff erwacht wieder zum Leben und befindet sich im Schlafsaal seines alten Colleges in Emory. Es ist der 6. Mai 1963. Langsam dringt die Erkenntnis in sein Bewußtsein, daß er sein Leben ein zweites Mal leben kann, und er die einmalige Chance hat, diesmal alles besser zu machen. Jeff könnte der reichste, der mächtigste Mann der Welt werden. Tatsächlich sind seine Erfolge in geschäftlicher Hinsicht phänomenal. Aber seine Versuche, das Schicksal in positiver Weise zu korrigieren, schlagen fehl. Er kann nicht einmal den Mord an Präsident Kennedy verhindern. Auch die Liebe zu der schönen Pamela, die am selben Tag starb wie er selbst, befreit ihn nicht aus dem Alptraum, aus dem es kein Entrinnen zu geben scheint. Denn das Sterben und Wiedererwachen nimmt für Jeff Winston kein Ende.",
+    "pageCount": "350",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783453075252-de.jpg",
+    "read": true,
+    "addedAt": 1761299108242,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Jury",
+    "subtitle": "",
+    "authors": [
+      "Grisham, John"
+    ],
+    "series": "Jake Brigance",
+    "volume": "1",
+    "publishedDate": "2013-03-18",
+    "isbn": "9783641110239",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Gerechtigkeit oder Rache? Ein zehnjähriges Mädchen wird brutal misshandelt und vergewaltigt. Ihr Vater, Carl Lee Hailey, übt Selbstjustiz und tötet die geständigen Täter, als sie nach einer ersten Anhörung den Gerichtssaal verlassen. Gerechtigkeit oder Rache? Das Verfahren gegen Hailey gerät zum Sensationsprozess. Staatsanwalt und Richter sind Weiße, Hailey ist ein Schwarzer.",
+    "pageCount": "587",
+    "thumbnail": "https://books.google.com/books/content?id=SdkQAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761299240086,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Das Urteil",
+    "subtitle": "",
+    "authors": [
+      "Grisham, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-03-18",
+    "isbn": "9783641110178",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In Biloxi, einer verschlafenen Kleinstadt an der Golfküste von Mississippi, findet ein Prozess satt, der weltweit Aufsehen erregt. Da die Geschworenen unter großem Druck stehen, sieht sich der Richter genötigt, die Jury von der Außenwelt abzuschotten: Er sperrt sie unter strikter Bewachung in ein Motel. Dennoch mehren sich die Anzeichen, dass die Jury von außen kontrolliert wird, denn im Hintergrund lauern handfeste Interessen: Für einen mächtigen Konzern geht es um Milliarden …",
+    "pageCount": "485",
+    "thumbnail": "https://books.google.com/books/content?id=0dMQAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761299344579,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Klient",
+    "subtitle": "",
+    "authors": [
+      "Grisham, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-03-18",
+    "isbn": "9783641110215",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Eigentlich wollte der elfjährige Mark auf der Waldlichtung nur eine verbotene Zigarette rauchen. Doch dann beobachtet er den Selbstmordversuch eines Unbekannten. Vergeblich versucht Mark dazwischenzugehen. Aber bevor der Mann, ein Mafia-Anwalt namens Jerome Clifford, stirbt, verrät er ihm ein gefährliches Geheimnis. Nun wird Mark von der Mafia ebenso wie vom FBI gejagt, da Cliffords Information für beide Organisationen außerordentlich bedeutsam ist. Mark verbündet sich mit der engagierten Anwältin Reggie Love, die ihre jungen Klienten verzweifelt aus der Schusslinie zwischen Mafia, Polizei, Justiz und Politik zu ziehen versucht. Reggie weiß genau: Sie haben nur eine einzige Chance …",
+    "pageCount": "499",
+    "thumbnail": "https://books.google.com/books/content?id=YdUQAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761299534483,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Partner",
+    "subtitle": "",
+    "authors": [
+      "Grisham, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-03-18",
+    "isbn": "9783641110345",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Bevor sie die Falle zuschnappen ließen, hatten sie Danilo Silva rund um die Uhr bewacht. Er führte ein ruhiges Leben in einem heruntergekommenen Viertel in einer kleinen Stadt in Brasilien. Nichts deutete darauf hin, dass er neunzig Millionen Dollar beiseite geschafft hatte …",
+    "pageCount": "381",
+    "thumbnail": "https://books.google.com/books/content?id=a714PJ8gbFoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761299630614,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Der Regenmacher",
+    "subtitle": "",
+    "authors": [
+      "Grisham, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-03-18",
+    "isbn": "9783641110208",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Rudy Baylor, ein Jurastudent im letzten Semester, gewinnt seine ersten \"Mandanten\", ein Ehepaar, dessen Sohn an Leukämie erkrankt ist. Die Krankenversicherung weigert sich, für die wahrscheinlich lebensrettende Therapie zu zahlen. Rudy erkennt bald, dass er es mit einem riesigen Versicherungsskandal zu tun hat. Er nimmt den Kampf gegen eines der mächtigsten, korruptesten und skrupellosesten Unternehmen Amerikas auf …",
+    "pageCount": "575",
+    "thumbnail": "https://books.google.com/books/content?id=PdsQAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761299711391,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Akte",
+    "subtitle": "",
+    "authors": [
+      "Grisham, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-03-18",
+    "isbn": "9783641110284",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In einer Oktobernacht werden zwei Richter des obersten Bundesgerichts der USA ermordet. Die Jurastudentin Darby Shaw legt eine Akte über den schlimmsten politischen Skandal seit Watergate an - ein tödliches Dokument für alle, die sie kennen. Eine erbarmungslose Jagd beginnt.",
+    "pageCount": "364",
+    "thumbnail": "https://books.google.com/books/content?id=F6iS6av4lTMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761299798129,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Bruderschaft",
+    "subtitle": "",
+    "authors": [
+      "Grisham, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-03-18",
+    "isbn": "9783641110321",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Drei verurteilte Richter brüten im Gefängnis über einem genialen Coup. Wenn alles klappt, haben sie für die Zeit nach dem Knast ausgesorgt. Sie sind gerissen und haben die richtigen Kontakte, aber ist ihre Strategie wirklich wasserdicht? Ein raffiniertes Szenario entlang der Säulen der Macht.",
+    "pageCount": "376",
+    "thumbnail": "https://books.google.com/books/content?id=w18SY_KL6SEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761299880804,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Firma",
+    "subtitle": "",
+    "authors": [
+      "Grisham, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-03-18",
+    "isbn": "9783641110246",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Etwas ist faul an der exklusiven Kanzlei, der Mitch McDeere sich verschrieben hat. Der hochbegabte junge Anwalt wird auf Schritt und Tritt beschattet, er ist umgeben von tödlichen Geheimnissen. Als er dann noch vom FBI unter Druck gesetzt wird, erweist sich der Traumjob endgültig als Albtraum.",
+    "pageCount": "516",
+    "thumbnail": "https://books.google.com/books/content?id=VdcQAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761299985267,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Kammer",
+    "subtitle": "",
+    "authors": [
+      "Grisham, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-03-18",
+    "isbn": "9783641110222",
+    "category": "",
+    "genre": "",
+    "description": "Adam Hall, ein junger aufstrebender Anwalt, übernimmt den Fall von Sam Cayhall. Dieser wurde wegen eines rassistisch motivierten Bombenanschlags auf eine jüdische Anwaltskanzlei, bei dem zwei Kinder ums Leben kamen und deren Vater schwer verletzt wurde, zum Tode verurteilt und wartet im Hochsicherheitstrakt des Staatsgefängnisses von Mississippi auf seine Hinrichtung in der Gaskammer. Adam Hall hat nur wenig Zeit, um den Mann zu retten, der für ihn viel mehr ist als ein Mandant, nämlich sein Großvater. Adam Hall ist kein Rassist und es fällt ihm schwer, irgendeinen Zugang zu seinem Großvater zu finden. Da der Antisemit Cayhall, ein Mitglied des Ku-Klux-Klan in vierter Generation, seinen Enkel verachtet und daher jegliche Hilfe verweigert, wird Hall die Verteidigung beinahe bis zur Unmöglichkeit erschwert. Cayhall war bei dem Anschlag nur Komplize und hatte nicht die Absicht, Menschen zu Schaden kommen zu lassen, weigert sich aber, seine Mittäter preiszugeben.",
+    "pageCount": "634",
+    "thumbnail": "https://books.google.com/books/content?id=8dYQAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761300055885,
     "rating": 5,
     "tags": []
   }
