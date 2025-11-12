@@ -2814,7 +2814,7 @@
     ]
   },
   {
-    "title": "Ich bin Zlatan",
+    "title": "Ich bin Zlatan Ibrahimović",
     "authors": [
       "Ibrahimović, Zlatan",
       "Lagercrantz, David"
@@ -2828,8 +2828,10 @@
     "description": "Seine Fans versetzt er regelmäßig in Ekstase. Seine Gegner lehrt er durch seine Unberechenbarkeit am Ball das Fürchten. Lästige Fragen nach seinem exzentrischen Auftreten beantwortet er gerne mit dem Satz: »Weil ich Zlatan bin.« Zlatan Ibrahimović ist einer der besten, bekanntesten Stürmer weltweit – und ganz bestimmt der schillerndste. Seine akrobatischen Einlagen am Ball werden auf YouTube millionenfach geklickt. Legendär sind die vier Tore im Spiel der schwedischen Nationalmannschaft gegen England, darunter der Fallrückzieher, der schon jetzt als »Tor des Jahrhunderts« (Focus) gilt. Doch kaum jemand weiß von dem wechselvollen Weg, auf dem er vom kickenden Fahraddieb zum bestbezahlten Fußballprofi der Welt wurde.",
     "thumbnail": "http://books.google.com/books/content?id=HSEVAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
-    "rating": "4",
-    "pageCount": "334"
+    "rating": 4,
+    "pageCount": "334",
+    "subtitle": "",
+    "tags": []
   },
   {
     "title": "@E.R.O.S.",
@@ -2842,11 +2844,13 @@
     "isbn": "9783838707990",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
-    "description": "Tagsüber verkauft Harper Cole von seiner abgelegenen Farm aus Waren via Internet. Nachts hingegen arbeitet er als System-Operator für den exklusiven E.R.O.S.-Online-Dienst, zu dessen Kunden sowohl Hollywood-Stars als auch New Yorker Intellektuelle zählen. Unter der Zusicherung absoluter Anonymität plaudern diese Online-Benutzer im Internet ihre geheimen Wünsche und Obsessionen aus. Als plötzlich sechs weibliche E.R.O.S.-Kunden jeden Kontakt abbrechen, ahnt Cole, dass irgendetwas nicht in Ordnung sein kann. Und als die sechs Frauen schließlich ermordet aufgefunden werden, steht Cole plötzlich ganz oben auf der Liste der Hauptverdächtigen ...",
+    "description": "Tagsüber verkauft Harper Cole von seiner abgelegenen Farm aus Waren via Internet. Nachts hingegen arbeitet er als System-Operator für den exklusiven E.R.O.S.-Online-Dienst, zu dessen Kunden sowohl Hollywood-Stars als auch New Yorker Intellektuelle zählen. Unter der Zusicherung absoluter Anonymität plaudern diese Online-Benutzer im Internet ihre geheimen Wünsche und Obsessionen aus. Als plötzlich sechs weibliche E.R.O.S.-Kunden jeden Kontakt abbrechen, ahnt Cole, dass irgendetwas nicht in Ordnung sein kann. Und als die sechs Frauen schließlich ermordet aufgefunden werden, steht Cole plötzlich ganz oben auf der Liste der Hauptverdächtigen …",
     "thumbnail": "http://books.google.com/books/content?id=3XtPIwQyJiwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
-    "rating": "3",
-    "pageCount": "692"
+    "rating": 3,
+    "pageCount": "692",
+    "subtitle": "",
+    "tags": []
   },
   {
     "title": "1913",
@@ -2859,7 +2863,7 @@
     "isbn": "9783104014203",
     "category": "Sachbuch",
     "genre": "Geschichte",
-    "description": "1913: Es ist das eine Jahr, in dem unsere Gegenwart begann. In Literatur, Kunst und Musik werden die Extreme ausgereizt, als gäbe es kein Morgen. Zwischen Paris und Moskau, zwischen London, Berlin und Venedig begegnen wir zahllosen Künstlern, deren Schaffen unsere Welt auf Dauer prägte. Man kokst, trinkt, ätzt, hasst, schreibt, malt, zieht sich gegenseitig an und stößt sich ab, liebt und verflucht sich. Es ist ein Jahr, in dem alles möglich scheint. Und doch wohnt dem gleißenden Anfang das Ahnen des Verfalles inne. Literatur, Kunst und Musik wussten schon 1913, dass die Menschheit ihre Unschuld verloren hatte.werden.",
+    "description": "1913: Es ist das eine Jahr, in dem unsere Gegenwart begann. In Literatur, Kunst und Musik werden die Extreme ausgereizt, als gäbe es kein Morgen. Zwischen Paris und Moskau, zwischen London, Berlin und Venedig begegnen wir zahllosen Künstlern, deren Schaffen unsere Welt auf Dauer prägte. Man kokst, trinkt, ätzt, hasst, schreibt, malt, zieht sich gegenseitig an und stößt sich ab, liebt und verflucht sich. Es ist ein Jahr, in dem alles möglich scheint. Und doch wohnt dem gleißenden Anfang das Ahnen des Verfalles inne. Literatur, Kunst und Musik wussten schon 1913, dass die Menschheit ihre Unschuld verloren hatte.",
     "thumbnail": "http://books.google.com/books/content?id=bB5vAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 4,
@@ -13431,5 +13435,1033 @@
     "addedAt": 1762905173077,
     "rating": 5,
     "tags": []
+  },
+  {
+    "title": "Roter Drache",
+    "subtitle": "",
+    "authors": [
+      "Harris, Thomas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-02-27",
+    "isbn": "9783641215743",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Hannibal Lecters erster Auftritt Ein Killer verbreitet Angst und Schrecken in Florida. Er hat schon zehn Menschen umgebracht, und die Mordserie reißt nicht ab. Wer wäre besser geeignet, ein Psychogramm des Gesuchten anzufertigen, als der Psychiater und Massenmörder, den das FBI drei Jahre zuvor fassen konnte: Dr. Hannibal Lecter.",
+    "pageCount": "339",
+    "thumbnail": "https://books.google.com/books/content?id=Bo3ZDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762938621199,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Schwarzer Sonntag",
+    "subtitle": "",
+    "authors": [
+      "Harris, Thomas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783453878730",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Von unerbittlichem Hass getrieben, plant eine arabische Terroristeneinheit ganz Amerika zu bestrafen: Während die Nation an den Fernsehern die Entscheidung im Super-Bowl verfolgt, soll eine Explosion ein schreckliches Blutbad unter den 80 000 Zuschauern anrichten. Die Palästinenserin Dahlia und der ihr sexuell verfallene Navy-Pilot Michael Lander haben den Anschlag bis ins kleinste Detail vorbereitet: In einem Luftangriff über dem Stadion sollen 600 kg Plastiksprengstoff gezündet werden. Mossad und FBI haben Hinweise über einen kurz bevorstehenden Anschlag, doch wann und wo soll dieser erfolgen? Ein Wettlauf mit der Zeit beginnt …",
+    "pageCount": "348",
+    "thumbnail": "https://books.google.com/books/content?id=XZ8UAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762938803702,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das letzte Kind",
+    "subtitle": "",
+    "authors": [
+      "Hart, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011",
+    "isbn": "9783442742325",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Er sucht verzweifelt seine Schwester. Er entdeckt die grausamen Verbrechen einer ganzen Stadt. Er ist völlig auf sich allein gestellt. ER IST ERST 13. Es ist ein Jahr vergangen, seit die 12-jährige Alyssa verschwunden ist. Ihr Zwillingsbruder Johnny hat sich nie einsamer gefühlt. Sein Vater hat die Familie kurz nach dem Verschwinden der Tochter im Stich gelassen, seine Mutter flüchtet sich in eine Beziehung zu einem Mann, den Johnny verachtet. Der zuständige Detective will den Fall nicht schliessen, obwohl seine eigene Familie an dieser Obsession zerbricht. Als ein zweites Mädchen verschwindet, weiss Johnny, dass er die beiden Mädchen finden muss.",
+    "pageCount": "446",
+    "thumbnail": "https://books.google.com/books/content?id=hDT8ewEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762938969591,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der dunkle Fluss",
+    "subtitle": "",
+    "authors": [
+      "Hart, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010",
+    "isbn": "9783442741847",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Es ist fünf Jahre her, dass Adam Chase in New York ein neues Leben anfing. Er hatte damals South Carolina verlassen, nachdem er von einer Mordanklage freigesprochen worden war. Nun bittet sein alter Freund Danny ihn um Hilfe, und Adam fährt zurück. Doch der Freund ist verschwunden und in der Heimatstadt schlagen ihm Argwohn und Hass entgegen. Als Danny tot aufgefunden wird, fällt der Verdacht gleich wieder auf Adam. Aber es ist nicht nur dieser neue Mord, der Adam aufwühlt. Er muss sich der Vergangenheit stellen und es gibt dunkle Familiengeheimnisse.",
+    "pageCount": "380",
+    "thumbnail": "https://books.google.com/books/content?id=PP8oSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762939039406,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Brook unter Räubern",
+    "subtitle": "",
+    "authors": [
+      "Hartz, Cornelius"
+    ],
+    "series": "Brook",
+    "volume": "2",
+    "publishedDate": "2014",
+    "isbn": "9783863585969",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der Chefarzt eines Hamburger Krankenhauses wird seit Tagen vermisst, als mysteriöse Päckchen mit schrecklichem Inhalt auftauchen: menschliche Organe. Sind es womöglich die des vermissten Professors? Kriminalhauptkommissar Brook und seine Kollegen vom Wandsbeker Polizeikommissariat stehen vor einem Rätsel, das immer größer wird, je tiefer sie in den Fall eindringen.",
+    "pageCount": "Unbekannt",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-86358-596-9&size=m",
+    "read": true,
+    "addedAt": 1762939252307,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Der Vogelmann",
+    "subtitle": "",
+    "authors": [
+      "Hayder, Mo"
+    ],
+    "series": "Jack Caffery",
+    "volume": "1",
+    "publishedDate": "2000-07-28",
+    "isbn": "9783894805814",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Als Detective Inspector Jack Caffery nach durchzechter Nacht seinen Rausch ausschlafen will, klingelt das Telefon: Auf einem Brachgelände in der Nähe der Themse wurden die Leichen von fünf Frauen gefunden. Die Obduktion ergibt, dass Caffery und seine Kollegen es mit einem Serienkiller zu tun haben, den sie den „Vogelmann“ nennen. Vier der fünf Opfer, so zeigen erste Ermittlungen, waren drogenabhängige Prostituierte, die niemand vermisste. Und ihr Mörder scheint schon bald gefasst: Für Cafferys Kollegen Diamond ist klar, dass ein schwarzer Drogendealer die Frauen auf dem Gewissen hat, Polizei und Bevölkerung können aufatmen. Doch Caffery verfolgt eine ganz andere Spur. Gegen den Widerstand seiner Vorgesetzten und obendrein im Kampf mit privaten Problemen ermittelt er weiter. Erinnerungen aus der Kindheit holen ihn ein, Erinnerungen an seinen Bruder, der eines Tages beim Spielen spurlos verschwand und möglicherweise ermordet wurde. Obwohl die beiden Fälle offenbar nichts miteinander zu tun haben, kann Caffery den Gedanken an die damaligen Ereignisse nicht mehr abschütteln. Seine Suche nach dem mysteriösen „Vogelmann“ führt ihn schließlich in das Dog and Bell, ein Pub, in dem die Opfer ihre Freier suchten. Hier lernt Caffery auch die Malerin Becky kennen, die Bilder von den Mädchen im Dog and Bell malt. Caffery ist schon bald von Becky fasziniert, und sie ist es auch, die ihn auf die Fährte des Mörders bringt. Doch dann fehlt von Becky plötzlich jede Spur...",
+    "pageCount": "574",
+    "thumbnail": "https://books.google.com/books/content?id=Otxbr1QQce8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762939576654,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Behandlung",
+    "subtitle": "",
+    "authors": [
+      "Hayder, Mo"
+    ],
+    "series": "Jack Caffery",
+    "volume": "2",
+    "publishedDate": "2002",
+    "isbn": "9783442308705",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein schockierendes Verbrechen stellt die Londoner Polizei vor ein Rätsel: Im Haus der Familie Peach muss sich Unaussprechliches zugetragen haben, bevor die Polizei die Wohnung stürmte, und bevor Rory, der kleine Sohn der Peaches, entführt wurde. Doch die Eltern können oder wollen keine Angaben zu den Geschehnissen machen. Schon bald macht in der Gegend das Wort von einem unheimlichen \"Troll\" die Runde, der kleine Kinder töten soll - und der vielleicht bereits sein nächstes Opfer ausgesucht hat …",
+    "pageCount": "497",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-89480-580-7&size=m",
+    "read": true,
+    "addedAt": 1762939850631,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Sekte",
+    "subtitle": "",
+    "authors": [
+      "Hayder, Mo"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-02-06",
+    "isbn": "9783641138349",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Hartnäckig hält sich das Gerücht, dass auf Cuagach Eilean, auch ‚Pig Island‘ genannt, der Teufel umgeht. Genaues weiß allerdings niemand, denn seit Jahren durfte kein Fremder die kleine Insel vor der schottischen Küste betreten. Bis der Journalist Joe Oakes die Einladung erhält, die dort lebenden Mitglieder einer geheimnisumwitterten Sekte zu besuchen. Oakes, dessen Spezialität die Entzauberung scheinbar paranormaler Phänomene ist, nimmt die Einladung gerne an. Er ahnt nicht, dass er damit einen Sturm aus Gewalt und Mord entfesselt, der sich jeglicher Kontrolle entzieht …",
+    "pageCount": "339",
+    "thumbnail": "https://books.google.com/books/content?id=udrGAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762940022674,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Blutinsel",
+    "subtitle": "",
+    "authors": [
+      "Hefner, Ulrich"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-11-02",
+    "isbn": "9783962150235",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Eine einsame Insel vor der Küste Maines, eine mysteriöse Mordserie und eine alte Legende … Detective Cathy Ronsted und ihr Kollege Brian Stockwell werden auf die einsame Insel Hell's Kitchen im Golf von Maine gerufen, um eine mysteriöse Mordserie aufzuklären. Doch die Inselbewohner, verstrickt in Aberglauben und eine schuldhafte Vergangenheit, begegnen ihnen abweisend, ja feindlich. Während die Ermittlungen ins Stocken geraten, fliehen auf dem amerikanischen Festland, 300 Meilen entfernt, vier Schwerverbrecher aus einem Gefängnis. Sie hinterlassen eine Spur aus Blut und Gewalt, die schließlich nach Hell's Kitchen führt …",
+    "pageCount": "502",
+    "thumbnail": "https://books.google.com/books/content?id=YSylEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762940159683,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Ruhe des Stärkeren",
+    "subtitle": "",
+    "authors": [
+      "Heinichen, Veit"
+    ],
+    "series": "Proteo Laurenti",
+    "volume": "6",
+    "publishedDate": "2009",
+    "isbn": "9783552054554",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Als Commissario Proteo Laurenti nachts von einer EU-Sicherheitskonferenz nach Triest zurückkehrt, wird im selben Zug der Tierpräparator Marzio Manfredi ermordet. Die Ermittlungen belasten Laurenti zusätzlich, denn die Zeremonie zur Erweiterung der Schengen-Zone erfordert seine ganze Konzentration. Eine vermutlich rechtsradikale Gruppe, die gegen Grundstücksspekulation im grossen Stil entlang der Adriaküste protestiert, hat gegen einen Teilnehmer des Festakts Morddrohungen ausgesprochen. Es handelt sich um den am internationalen Geldmarkt tätigen Spekulanten Goran Newman, dessen Sohn Sedem wiederum sich ausgerechnet in Laurentis Assistentin Pina Cardareto verliebt, die auf diese Weise ungeplant Einblick in ein Zentrum der modernen Wirtschaftskriminalität erhält.",
+    "pageCount": "316",
+    "thumbnail": "https://books.google.com/books/content?id=ciDVPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762940353083,
+    "rating": 2,
+    "tags": [
+      "Italien",
+      "Triest"
+    ]
+  },
+  {
+    "title": "Kommando Flächenbrand",
+    "subtitle": "Erzählungen",
+    "authors": [
+      "Heitz, Markus"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015",
+    "isbn": "9783960290025",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Was hält uns, wenn das eigene Leben in Gefahr ist? Nichts. Der internationale Bestsellerautor Markus Heitz nimmt sich in vier politischen Erzählungen gesellschaftlichen Themen sowie der aktuellen Flüchtlingsproblematik an und bringt den Leser in gewohnt unterhaltsamer, aber auch sozialkritischer Form zum Nachdenken. Als die ersten Geschichten entstanden, schrieb er noch von Fiktion - inzwischen hat ihn und unsere Gesellschaft die Realität eingeholt. Egal wie brutal und überspitzt Heitz erzählt, so ist das Leben und oft auch der Mitmensch neben uns im Handeln und Denken ungleich brutaler.",
+    "pageCount": "193",
+    "thumbnail": "https://books.google.at/books/publisher/content?id=5CujCgAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70xreOX_x0gcnkAV5eunUQc7-wZnZbucC-fMjPLO9XVSCkiMKjcUXREb4pHpeXNwc8mcrF02pRRdGV7JdzLu_MyRmZv_fnW9CLCW2ZgTL5CfRo6EJIUZ3Q0aEAEMxW0WNtIu_yp",
+    "read": true,
+    "rating": 1,
+    "tags": [],
+    "addedAt": 1762940719458
+  },
+  {
+    "title": "Ritus",
+    "subtitle": "",
+    "authors": [
+      "Heitz, Markus"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006",
+    "isbn": "9783426631300",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Frankreich im Jahre 1764. Die Menschen des Gévaudan leben in Angst, denn in den umliegenden Wäldern wütet ein Untier, dem Frauen, Kinder und selbst starke Männer zum Opfer fallen. Ist es ein besonders aggressiver Wolf, wie die Obrigkeit behauptet – oder das Werk des Teufels, der eins seiner Geschöpfe entsandt hat, Angst und Schrecken zu verbreiten? Unter den Männern, die sich auf die Jagd nach dem Untier begeben, ist auch der Wildhüter Jean Chastel. Er selbst birgt ein dunkles Geheimnis, das ihn untrennbar an die Bestie kettet – ebenso wie die Äbtissin Gregoria. Eine gefährliche Reise führt die beiden schließlich nach Rom, denn auch in der Ewigen Stadt beginnt ein Dämon zu wüten, dessen Hunger nicht zu stillen ist – und der auch zweihundert Jahre später noch Opfer fordern wird …",
+    "pageCount": "520",
+    "thumbnail": "https://books.google.com/books/content?id=lZrDzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762940822601,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Die Bagage",
+    "subtitle": "",
+    "authors": [
+      "Helfer, Monika"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2020-02-01",
+    "isbn": "9783446267329",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Josef und Maria Moosbrugger leben mit ihren Kindern am Rand eines Bergdorfes. Sie sind die Abseitigen, die Armen, die Bagage. Es ist die Zeit des ersten Weltkriegs und Josef wird zur Armee eingezogen. Die Zeit, in der Maria und die Kinder allein zurückbleiben und abhängig werden vom Schutz des Bürgermeisters. Die Zeit, in der Georg aus Hannover in die Gegend kommt, der nicht nur hochdeutsch spricht und wunderschön ist, sondern eines Tages auch an die Tür der Bagage klopft. Und es ist die Zeit, in der Maria schwanger wird mit Grete, dem Kind der Familie, mit dem Josef nie ein Wort sprechen wird: der Mutter der Autorin. Mit großer Wucht erzählt Monika Helfer die Geschichte ihrer eigenen Herkunft.",
+    "pageCount": "165",
+    "thumbnail": "https://books.google.com/books/content?id=rzy-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762941090064,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der IKS-Haken. Catch 22",
+    "subtitle": "",
+    "authors": [
+      "Heller, Joseph"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1976",
+    "isbn": "9783596125722",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Catch 22, also Falle 22 oder Trick 22- das ist die ebenso irrsinnige wie ausweglose Dienstanweisung für das amerikanische Bombengeschwader, der zufolge Bomberpilot Yossarian nur dann von weiteren Einsätzen verschont bleibt, wenn er als verrückt anerkannt wird. Verrückt aber kann niemand sein, der sich weigern will, immer weitere großenteils sinnlose Einsätze zu fliegen. Also muß Yossarian ebenso wie seine Kameraden weiterfliegen, obwohl er sich die größte Mühe gibt, als verrückt zu erscheinen. Durch scheinbar absurdes Verhalten der militärischen Maschinerie ihre eigene Absurdität zu demonstrieren. Aber die Kriegsmaschinerie, gespeist aus persönlichem Ehrgeiz, Dummheit, Brutalität und Duckmäuserei, erkennt ihren eigenen Irrsinn nicht in dem Spiegel, den Yossarian - im Grunde der einzig Normale unter lauter Verrückten - vorhält.",
+    "pageCount": "586",
+    "thumbnail": "https://books.google.com/books/content?id=6wouAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762956640535,
+    "rating": 3,
+    "tags": [
+      "Humor"
+    ]
+  },
+  {
+    "title": "Tschick",
+    "subtitle": "",
+    "authors": [
+      "Herrndorf, Wolfgang"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-02-01",
+    "isbn": "9783644107816",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Zwei Jungs. Ein geknackter Lada. Eine Reise voller Umwege durch ein unbekanntes Deutschland. Mutter in der Entzugsklinik, Vater mit Assistentin auf Geschäftsreise: Maik Klingenberg wird die großen Ferien allein am Pool der elterlichen Villa verbringen. Doch dann kreuzt Tschick auf. Tschick, eigentlich Andrej Tschichatschow, kommt aus einem der Asi-Hochhäuser in Hellersdorf, hat es von der Förderschule irgendwie bis aufs Gymnasium geschafft und wirkt doch nicht gerade wie das Musterbeispiel der Integration. Außerdem hat er einen geklauten Wagen zur Hand. Und damit beginnt eine unvergessliche Reise ohne Karte und Kompass durch die sommerglühende deutsche Provinz.",
+    "pageCount": "281",
+    "thumbnail": "https://books.google.com/books/content?id=BReZAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762956818552,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Casanovas Bekehrung",
+    "subtitle": "2 Erzählungen",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1985",
+    "isbn": "9783518376966",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Sowohl Hesses Casanova wie der lebenslustige Pater Matthias sind Suchende – wie die meisten seiner Protagonisten –, die nach abenteuerlichen und notwendigen Umwegen schließlich wieder zum Leben »bekehrt« werden.",
+    "pageCount": "118",
+    "thumbnail": "https://books.google.com/books/content?id=gYbfSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762956988679,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Demian",
+    "subtitle": "Die Geschichte von Emil Sinclairs Jugend",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-12-14",
+    "isbn": "9783518765807",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Wie alle Hauptwerke Hermann Hesses hat auch der Demian, den der damals 40jährige Autor mitten im Ersten Weltkrieg schrieb, eine ebenso ungewöhnliche wie spannende Entstehungs- und Wirkungsgeschichte. Dass dieses im Herbst 1917 vollendete Buch erst im Juni 1919, ein halbes Jahr nach Kriegsende, veröffentlicht wurde, lag an der Unbekanntheit des Verfassers. Denn Hesse hatte das Manuskript dem Verlag als das Erstlingswerk eines kranken jungen Dichters empfohlen, des zeitkritischen Poeten Emil Sinclair, der bisher nur in Zeitungen und Zeitschriften durch pazifistische Mahnrufe und Erzählungen aufgefallen war (die gleichfalls von Hesse stammten). Doch trotz des Inkognitos erlebte das Buch eine geradezu stürmische Aufnahme und wurde noch im Erscheinungsjahr mit dem Fontane-Preis für das beste Erstlingswerk eines Nachwuchsautors ausgezeichnet. Thomas Mann verglich die elektrisierende Wirkung des Buches mit der von Goethes Werther, da es »mit unheimlicher Genauigkeit den Nerv der Zeit traf und eine ganze Jugend, die wähnte aus ihrer Mitte sei ihr ein Künder ihres tiefsten Lebens entstanden, zu dankbarem Entzücken hinriss. Bis zur Entdeckung des Pseudonyms im Mai 1920 erschienen drei Auflagen, denen dann unter Hesses eigenem Namen zu seinen Lebzeiten noch 93 weitere folgten.",
+    "pageCount": "133",
+    "thumbnail": "https://books.google.com/books/content?id=VDg8CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762957155408,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Kunst des Müssiggangs",
+    "subtitle": "",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1973",
+    "isbn": "9783518366004",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Kurze Prosa aus dem Nachlass.",
+    "pageCount": "370",
+    "thumbnail": "https://books.google.com/books/content?id=yOFxswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762957412067,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Morgenlandfahrt",
+    "subtitle": "",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-02-18",
+    "isbn": "9783518739150",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Hermann Hesses Erzählung berichtet von dem Geheimbunde der Morgenlandfahrer, der die in allen Völkern und Zeiten zerstreute Gemeinschaft der Gläubigen, der Träumer, Dichter, Phantasten darstellen soll, symbolisch in ein gleichzeitiges Schicksal zusammenfaßt.",
+    "pageCount": "61",
+    "thumbnail": "https://books.google.com/books/content?id=9Nk7CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762957504165,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Nürnberger Reise",
+    "subtitle": "",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-12-09",
+    "isbn": "9783458735892",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Die berühmte »Nürnberger Reise« enthält Erinnerungen an eine Herbstreise Hermann Hesses im Jahr 1925 vom Tessin aus durch Schwaben und Franken. Diese Reise von Locarno über Zürich, Blaubeuren, Ulm, Augsburg und München nach Nürnberg erweckt in ihm »Klänge der Frühzeit«. Hesse erzählt von jenem Augenblick, der ihn zum Dichter werden ließ, er berichtet vom Beruf des Künstlers, vom Handwerk des Erzählens, von Vorbildern seiner Gestalten, vom Vorlesen und von seiner Hauptbeschäftigung in den Sommermonaten: der Malerei.",
+    "pageCount": "83",
+    "thumbnail": "https://books.google.com/books/content?id=jJ47CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762957574331,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Freunde",
+    "subtitle": "",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1986",
+    "isbn": "9783518377840",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Die Erzählung spielt im Tübinger Studentenmilieu der Jahrhundertwende und schildert den Individuationsprozess des jungen Hans Calwer, der nach anderthalb Semestern die fragwürdige Geborgenheit seiner Coleurstudenten-Verbindung verlässt, ohne dass sein Freund ihm dabei zu folgen vermag. Wie Hans Calwer kam auch Hesse damals durch die Lektüre Schopenhauers in erste Berührung mit der alternativen Lebenshaltung buddhistischen Denkens, dessen Verwirklichung er jedoch noch nicht gewachsen ist.",
+    "pageCount": "117",
+    "thumbnail": "https://books.google.com/books/content?id=1hZtPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762957672959,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Klingsors letzter Sommer",
+    "subtitle": "Erzählung",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-12-09",
+    "isbn": "9783518739051",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Geschildert werden die letzten Lebensmonate eines Malers, dessen Lebensgier und Schaffensrausch an die Intensität Vincent van Goghs erinnern, seinen Wettlauf mit dem Tod, den er mit immer neuen und waghalsigeren Bildern zu überrunden versucht.",
+    "pageCount": "54",
+    "thumbnail": "https://books.google.com/books/content?id=y9g7CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762957820420,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Knulp",
+    "subtitle": "Drei Geschichten aus dem Leben Knulps",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-09-06",
+    "isbn": "9783518743942",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Die drei Geschichten aus dem Leben des Landstreichers Knulp, einem Nachfahren von Eichendorffs »Taugenichts«, zählen zu den reizvollsten Stücken der frühen Prosa Hermann Hesses. In der Folge seiner Werke gehören sie zum großen Zyklus seiner »Gerbersau«-Erzählungen, der uns das Leben in einer schwäbischen Kleinstadt um die Jahrhundertwende am Beispiel zahlreicher charakteristischer und größtenteils authentischer Einzelschicksale überliefert.",
+    "pageCount": "97",
+    "thumbnail": "https://books.google.com/books/content?id=r4pqCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762957937141,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Lektüre für Minuten",
+    "subtitle": "",
+    "authors": [
+      "Hesse, Hermann",
+      "Michels, Volker"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1977",
+    "isbn": "9783518031940",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Gedanken aus seinen Büchern und Briefen",
+    "pageCount": "312",
+    "thumbnail": "https://books.google.com/books/content?id=xwwJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762958128854,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Roßhalde",
+    "subtitle": "",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-09-06",
+    "isbn": "9783518743935",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Was die Ehe des Malers Johann und seiner Frau, der Pianistin Adele Veraguth, noch zusammenhält, ist die Liebe zu ihrem jüngsten Sohn Pierre, sonst leben die beiden getrennt, innerlich wie räumlich, der Maler in seinem Atelier, Adele im Wohngebäude der Roßhalde. Ihre Gemeinsamkeiten sind erschöpft, und die Einsamkeit hat sie verhärtet und wortkarg gemacht. Der plötzlichen Erkrankung des geliebten Sohnes stehen die Eheleute fassungslos gegenüber.",
+    "pageCount": "153",
+    "thumbnail": "https://books.google.com/books/content?id=-YpqCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762958241001,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Schön ist die Jugend",
+    "subtitle": "Erzählung",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1988",
+    "isbn": "9783518378809",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Wenige Erzählungen Hesses sind so unverfremdet autobiographisch wie dieser 1907 entstandene Rückblick auf seine Calwer Sommerferien des Jahres 1899. Nach erfolgreich abgeschlossener Buchhändlerlehre sehen wir den für verloren aufgegebenen Sohn nach langer Abwesenheit als einen fast schon gemachten Mann in seine Heimat zurückkehren, die er zuvor \"als schüchternes Sorgenkind\" verlassen hatte.",
+    "pageCount": "78",
+    "thumbnail": "https://books.google.com/books/content?id=B1HGOwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762958307563,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Unterm Rad",
+    "subtitle": "",
+    "authors": [
+      "Hesse, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-12-12",
+    "isbn": "9783518736708",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Unterm Rad beschreibt das Schicksal eines begabten Kindes, dem der Ehrgeiz seines Vaters und der Lokalpatriotismus seiner Heimatstadt eine Rolle aufnötigen, die ihm nicht entspricht und es »unters Rad« drängt.",
+    "pageCount": "144",
+    "thumbnail": "https://books.google.com/books/content?id=tZY8CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762958697657,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der Reinfall",
+    "subtitle": "",
+    "authors": [
+      "Hiaasen, Carl"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006",
+    "isbn": "9783442546138",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Chaz wirft kurzerhand am zweiten Hochzeitstag seine Frau über Bord. Doch diese macht ihm einen Strich durch die Rechnung und rächt sich. Höchst vergnügliche Screwballkomödie.",
+    "pageCount": "474",
+    "thumbnail": "https://books.google.com/books/content?id=dj92OwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762958816225,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Verdächtige Geliebte",
+    "subtitle": "",
+    "authors": [
+      "Higashino, Keigo"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012",
+    "isbn": "9783608939668",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Nachdem die alleinerziehende Yasuko ihren Ex-Mann erdrosselt hat, hilft ihr Nachbar Ishigami, die Leiche zu beseitigen und findet seinen Gegenspieler in dem Physikprofessor Yukawa, der dem leitenden Kommissar bei seinen Ermittlungen hilft.",
+    "pageCount": "320",
+    "thumbnail": "https://books.google.com/books/content?id=xeRBLgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762958940688,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der talentierte Mr. Ripley",
+    "subtitle": "",
+    "authors": [
+      "Highsmith, Patricia"
+    ],
+    "series": "Mr. Ripley",
+    "volume": "1",
+    "publishedDate": "2024-08-21",
+    "isbn": "9783257600957",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Unbeschwerte Dolce Vita: Das ist das Leben, von dem Tom Ripley in seinem New Yorker Kellerloch träumt – und das sein Schulfreund Dickie Greenleaf führt. Dickies Vater, ein reicher Reeder, bittet Tom, nach Italien zu fahren und seinen ›verlorenen Sohn‹ nach Amerika zurückzuholen: ein Traumauftrag für einen armen Nobody wie Tom. Noch ahnt niemand, wie weit Ripley gehen wird, um für immer zu Dickies Welt zu gehören.",
+    "pageCount": "330",
+    "thumbnail": "https://books.google.com/books/content?id=M-BsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762982733610,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Ich habe einen Namen",
+    "subtitle": "",
+    "authors": [
+      "Hill, Lawrence"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-08-17",
+    "isbn": "9783832186555",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Westafrika, Mitte des 18. Jahrhunderts. Die kleine Aminata lebt mit ihren Eltern in einer friedlichen Dorfgemeinschaft. Doch der Sklavenhandel blüht, auf den Plantagen der neuen Kolonien braucht man Arbeitskräfte, und die britischen Machthaber sind skrupellos. Als Aminata elf Jahre alt ist, wird ihr Dorf überfallen und sie gefangengenommen. Auf einem Frachter bringt man sie mit vielen anderen Sklaven nach Amerika, wo sie an einen Großgrundbesitzer verkauft wird. Während der Wirren des Unabhängigkeitskriegs gelingt Aminata die Flucht. Sie folgt ihrem Herzen zurück nach Afrika und von dort nach London, um für die Befreiung der Schwarzen zu kämpfen. Ihre Geschichte ist das eindrückliche Porträt einer unglaublich starken Frau, die es geschafft hat, schwierigste Bedingungen zu überleben und dabei anderen zu helfen. Es ist eine Geschichte, die man nicht wieder vergisst, voller Hoffnung und Zuversicht.",
+    "pageCount": "481",
+    "thumbnail": "https://books.google.com/books/content?id=ktgmBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762982989300,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Ein nasses Grab",
+    "subtitle": "",
+    "authors": [
+      "Hill, Reginald"
+    ],
+    "series": "Dalziel & Pascoe",
+    "volume": "4",
+    "publishedDate": "2012-02-03",
+    "isbn": "9783426414781",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Nach einer Autopanne landet Superintendent Andy Dalziel in Lake House, einem etwas heruntergekommenen Herrensitz. Bonnie, die kürzlich verwitwete Hausherrin, hat es Dalziel sofort angetan. Aber zugleich fällt ihm auf, dass sie der tragische Tod ihres Ehemannes nicht allzu sehr zu betrüben scheint ...",
+    "pageCount": "352",
+    "thumbnail": "https://books.google.com/books/content?id=Iq9uAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762983160115,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Dorf der verschwundenen Kinder",
+    "subtitle": "",
+    "authors": [
+      "Hill, Reginald"
+    ],
+    "series": "Dalziel & Pascoe",
+    "volume": "18",
+    "publishedDate": "2012-02-03",
+    "isbn": "9783426414767",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Als in der Grafschaft Yorkshire ein siebenjähriges Mädchen entführt wird, reißt bei den Bewohnern des kleinen Ortes Danby eine tiefe Wunde wieder auf: Schon einmal, vor fünfzehn Jahren, verschwanden im Nachbarort Dendale drei kleine Mädchen spurlos. Aber auch der Hauptverdächtige, der damals 19jährige Benny Lightfoot, verschwand von einem Tag auf den anderen. Das war in dem Jahr, als die Bewohner ihre Häuser aufgaben, weil das Dorf einem Stausee weichen musste. Nun prangt ein Graffiti an einer Eisenbahnbrücke: Benny ist wieder da!",
+    "pageCount": "638",
+    "thumbnail": "https://books.google.com/books/content?id=Ur9uAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762983235094,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Rache verjährt nicht",
+    "subtitle": "",
+    "authors": [
+      "Hill, Reginald"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-11-12",
+    "isbn": "9783518792100",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Wolf Hadda hat alles verloren: seine Familie, seinen Reichtum, seinen guten Ruf. Obwohl er seine Unschuld beteuert, wird er zu einer langen Haftstrafe verurteilt. Seine Freunde haben sich von dem einst so erfolgreichen und beliebten Geschäftsmann abgewandt, seine Frau ist mit seinem Anwalt durchgebrannt. Er ahnt, wem er dies zu verdanken hat. Noch sitzt er im Gefängnis, doch bald wird er entlassen werden … Als Wolf nach sieben Jahren endlich aus dem Gefängnis freikommt, hat er nur eines im Sinn: Er will sich an denjenigen rächen, die sich gegen ihn verschworen haben. Er kehrt zurück in die abgelegenen Wälder von Cumbria in Nordengland, wo einst alles begann. Kurz darauf wird einer von Wolfs alten Feinden ermordet aufgefunden. Alva Ozigbo, Wolfs Gefängnispsychiaterin, ahnt, was er im Schilde führt und stellt eigene Nachforschungen an. Bald kommt sie den Intrigen, die Wolf zu Fall brachten, auf die Spur. Doch wird es ihr auch gelingen, seine Rachepläne zu vereiteln? Ein atemberaubendes Katz-und-Maus-Spiel beginnt …",
+    "pageCount": "557",
+    "thumbnail": "https://books.google.com/books/content?id=iz48CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762983345009,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Fenstersturz in Harlem",
+    "subtitle": "",
+    "authors": [
+      "Himes, Chester"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1975",
+    "isbn": "9783499423482",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Big Joe Pullen ist tot, und während der Trauerfeier stürzt ein Mann aus dem Fenster auf die Straße hinunter. Aber er bleibt unverletzt: Er ist in einen Korb mit frischem Brot gefallen … Zufälle gibt es auch anderswo; das ist noch nicht typisch für Harlem (wenn auch hier die glücklichen Zufälle ziemlich selten sind). Doch wenige Minuten später liegt ein anderer Mann in demselben Korb. Ein toter Mann. Ein Mann mit einem Messer in der Brust. Grave Digger und Coffin Ed gelingt, was andere nicht geschafft hätten. Sie klären ihren Fall - indem sie Dinge tun, auf die ein weißer Polizist nicht gekommmen wäre; indem sie Motive aufdecken, die außerhalb Harlems kaum denkbar sind.",
+    "pageCount": "140",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-293-20131-6&size=m",
+    "read": true,
+    "addedAt": 1762983466110,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Leber wächst mit ihren Aufgaben",
+    "subtitle": "Komisches aus der Medizin",
+    "authors": [
+      "Hirschhausen, Dr. med. Eckart von"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-12-24",
+    "isbn": "9783644401822",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Hilft Akupunktur beim Auto? Warum regt einen Glückstee so auf? Und wie findet man mit geschlossenen Augen seinen Traumpartner? Arzt, Kabarettist und Bestsellerautor Dr. Eckart von Hirschhausen kennt sich aus im Leben, ihm ist nichts Menschliches fremd, und niemand ist vor ihm sicher. Mit diagnostischem Blick entdeckt er das Komische in Medizin und Alltag und kommt zu erstaunlichen Ergebnissen: Kindern muss man Gemüse verbieten, die Bahn ist eine buddhistische Sekte, und die Löcher im Käse machen dick. Eckart von Hirschhausens Texte sind keine Placebos, sondern humorvolle Lebenshilfe in einer Welt, für die wir nie geschaffen wurden. Ansteckend lustig!",
+    "pageCount": "264",
+    "thumbnail": "https://books.google.com/books/content?id=ZfOWDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762983726405,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Glück kommt selten allein ...",
+    "subtitle": "",
+    "authors": [
+      "Hirschhausen, Dr. med. Eckart von"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-12-24",
+    "isbn": "9783644001077",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Glück geht vorbei – zum Glück! Ein Lesebuch der besonderen Art. Mit dem Glück ist es wie mit Diäten oder Erkältungskrankheiten: tausend Rezepte – aber keine überzeugenden Erfolge. Gar keine? Deutschlands lustigster Arzt findet die Trüffel der Glücksforschung, das Kuriose, Komische und Menschliche. Endlich spricht einer aus, was keiner wahrhaben will: Wir sind von Natur aus bestens geeignet, das Glück zu suchen, aber eklatant schlecht darin, zufrieden zu sein. Warum? Wer die evolutionären Webfehler in unseren Wünschen kennt, hat gut lachen. Ein erfrischend provokanter Perspektivenwechsel auf Finanzkrise, Partnerwahl und Erdbeermarmelade.",
+    "pageCount": "569",
+    "thumbnail": "https://books.google.com/books/content?id=QPOWDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762983860554,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Meine Freunde haben Adolf Hitler getötet und alles, was sie mir mitgebracht haben, ist dieses lausige T-Shirt",
+    "subtitle": "",
+    "authors": [
+      "Hirschl, Elias"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-07-19",
+    "isbn": "9783902950888",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Wen würden Sie besuchen, wenn Sie eine Zeitreise buchen: Jesus, Shakespeare oder Thomas Bernhard? In Elias Hirschls neuem Roman wird das Wunder wahr, und was passiert? Der neue Volkssport wird das Töten von Hitler. Und auch sonst passiert einiges in diesem Bravourstück an Fantasie, das Sie zigfach überraschen wird. Als in einem riesigen Red-Bull-Sport-Event die Weltformel errechnet wird, stürzt die Welt in totale Unlogik. Sämtliche Thesen des Philosophen Johannes Getting stellen sich als wahr heraus, die Terrorgruppe IRF (Ironisch Revolutionäre Fraktion) verwüstet auf möglichst kreative Weise die Wiener Innenstadt, Germanistik wird plötzlich zu einem prestigeträchtigem Studium und wildgewordene Zeitreisetouristen stürmen in Massen nach Braunau, um Adolf Hitler zu töten. Überhaupt werden Zeitreisen zum neuen Volkssport: Die einen wollen Jesus besuchen, die anderen Shakespeare (haben die beiden überhaupt gelebt? Elias Hirschl gibt darauf geniale Antworten). Und während die Welt schön langsam im Chaos versinkt, versucht Sandra Virtanen ruhig zu leiben und ihre Bachelorarbeit über Thomas Bernhard zu vollenden. Ebenfalls unter Zuhilfenahme von Zeitmaschinen – der österreichischen Methode der Geschichtsaufarbeitung.",
+    "pageCount": "181",
+    "thumbnail": "https://books.google.com/books/content?id=-ml4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762983925067,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Cupido",
+    "subtitle": "",
+    "authors": [
+      "Hoffman, Jilliane"
+    ],
+    "series": "C.J.",
+    "volume": "1",
+    "publishedDate": "2005",
+    "isbn": "9783499239663",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der Albtraum jeder Frau: Du kommst abends in dein Apartment in Miami. Du bist allein. Alles scheint wie immer, nur ein paar Kleinigkeiten lassen dich stutzen. Du kümmerst dich nicht darum. Du gehst schlafen. Und auf diesen Moment hat der Mann, der unter deinem Fenster lauert, nur gewartet …",
+    "pageCount": "476",
+    "thumbnail": "https://books.google.com/books/content?id=IdxHAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762984226920,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Morpheus",
+    "subtitle": "",
+    "authors": [
+      "Hoffman, Jilliane"
+    ],
+    "series": "C.J.",
+    "volume": "2",
+    "publishedDate": "2006",
+    "isbn": "9783499236914",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Drei Jahre sind vergangen, seit Staatsanwältin C. J. Townsend in einem der spektakulärsten Mordfälle Floridas eine Verurteilung erreicht hatte und eigentlich hatte sie gehofft, das Kapitel \"Cupido-Killer\" damit abgeschlossen zu haben. Doch obwohl William Bantling nun im Todestrakt auf seine Hinrichtung wartet und C. J. inzwischen mit ihrem Verlobten Dominic Falconetti ein weitestgehend unbeschwertes Leben führt, steht \"Cupido\" immer noch für ein dunkles Kapitel in ihrem Leben. Denn Bantling wurde zwar für die Mordserie verurteilt, allerdings lief der Prozess damals nicht sauber ab und basierte auf einer unrechtmäßigen Fahrzeugkontrolle, die C. J. unter den Tisch gekehrt hatte – im Wissen, dass Bantling zwar ein gemeingefährlicher Psychopath und Vergewaltiger ist, ihm die \"Cupido\"-Morde jedoch vom wahren Täter nur angehängt wurden. Als in Miami dann auch noch ein Polizist brutal getötet wird, der an der Vertuschung beteiligt war, wird C. J. schnell klar, dass offenbar noch jemand von ihrem dunklen Geheimnis weiß …",
+    "pageCount": "399",
+    "thumbnail": "https://books.google.com/books/content?id=dy47GgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762984429282,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Vater unser",
+    "subtitle": "",
+    "authors": [
+      "Hoffman, Jilliane"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008",
+    "isbn": "9783499244568",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "\"Mord in Miami. Der Täter: der angeschene Chirurg Dr. David Marquette. Die Opfer: seine Frau und seine drei kleinen Kinder. Ist der Familienvater psychisch krank -- oder hat er kaltblütig gemordet? Ist er womöglich ein lang gesuchter Serienkiller, wie Detective John Latarrino glaubt? Staatsanwältin Julia Valenciano will die Wahrheit herausfinden, gegen alle Widerstände. Die lauern auch in ihrer eigenen Vergangenheit, die sie seit fünfzehn Jahren erfolgreich verdrängt …",
+    "pageCount": "571",
+    "thumbnail": "https://books.google.com/books/content?id=iwTjNwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762984596607,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Elixiere des Teufels",
+    "subtitle": "",
+    "authors": [
+      "Hoffmann, E.T.A."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-03-15",
+    "isbn": "9783958705470",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Der Mönch Medardus, der mit nahezu allen handelnden Personen des Romans in irgendeiner Weise verwandt ist, weiß zunächst nichts von diesen Verbindungen und wird nach einer glücklichen Kindheit in ein paradiesisches Kloster aufgenommen. Er wächst hier heran und erhält zwei wichtige Rollen: Er beginnt zu predigen und verwaltet die Reliquienkammer, in der sich eines der Elixiere des Teufels befindet …",
+    "pageCount": "353",
+    "thumbnail": "https://books.google.com/books/content?id=NZK_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762984726138,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Wolfsherz",
+    "subtitle": "",
+    "authors": [
+      "Hohlbein, Wolfgang"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-10-20",
+    "isbn": "9783732517121",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Es gibt ein Tal namens Wolfsherz, das auf keiner Karte verzeichnet ist, in dem nachts Wölfe heulen und das kein Mensch je betritt. Dorthin verirren sich Stefan und Rebecca, zwei Journalisten, die nach einem brisanten Interview auf der Flucht sind. Doch in dem Tal finden sie noch etwas anderes als Wölfe: Ein kleines Mädchen taucht auf, inmitten eines wilden Wolfsrudels. Rebecca will das Kind retten und sie schaffen es gemeinsam zu entkommen. Doch bald stellt sich heraus, dass das Mädchen kein normales Kind ist. Es wirkt wie ein Relikt aus einer anderen Zeit und ist umgeben von einer geheimnisvollen, wilden Aura - einer Aura gesteigerter Sinneswahrnehmung, in der etwas abgrundtief Böses liegt: das Gefühl der Gefahr, die mythische Furcht der Menschen vor dem Wolf.",
+    "pageCount": "614",
+    "thumbnail": "https://books.google.com/books/content?id=OiSfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762984894453,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Wyrm",
+    "subtitle": "",
+    "authors": [
+      "Hohlbein, Wolfgang"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-10-01",
+    "isbn": "9783492964418",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Tief unter der Erde lauert eine Kreatur, die von der Welt verbannt wurde. Die Bedrohung, die sie für die Menschheit darstellt, überdauert Generationen. Und wenn sie das nächste Mal zur Oberfläche durchbricht, wird das Blut ihrer Opfer in Strömen fließen …",
+    "pageCount": "180",
+    "thumbnail": "https://books.google.com/books/content?id=tRYVAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762985003834,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Dreizehn",
+    "subtitle": "",
+    "authors": [
+      "Hohlbein, Wolfgang"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-01-31",
+    "isbn": "9783764191702",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Die Zahl 13 ist für die 12jährige Anne-Mary, von allen nur Thirteen genannt, immer schon schicksalhaft gewesen und scheint ihr ganzes Leben zu durchdringen. Als Vollwaise wird sie zu ihrem unbekannten Großvater nach Hamburg geschickt, und schon bald merkt sie, dass nicht nur das Verhalten des alten Mannes viele Rätsel aufwirft. Zusammen mit ihrem Freund Frank erkundet Thirteen schrittweise die düsteren Labyrinthe des Hauses, die ein grauenhaftes Geheimnis enthalten. Nun muss sie erkennen, dass es mehr als eine einzige Realität gibt …",
+    "pageCount": "487",
+    "thumbnail": "https://books.google.com/books/content?id=_mB4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762985436237,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Was niemals geschah",
+    "subtitle": "",
+    "authors": [
+      "Holt, Anne"
+    ],
+    "series": "Yngvar Stubø",
+    "volume": "2",
+    "publishedDate": "2005",
+    "isbn": "9783492047623",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Zuerst wird eine populäre Talkmeisterin ermordet aufgefunden, kurz darauf die Führerin einer rechtspopulistischen Partei. Beide Leichen wurden bestialisch zugerichtet. Bei seinen Ermittlungen kommt Kommissar Stubo bald der Verdacht, dass er es mit einem biblischen Rächer zu tun hat …",
+    "pageCount": "380",
+    "thumbnail": "https://books.google.com/books/content?id=jEV-wgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762985593754,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Drachenläufer",
+    "subtitle": "",
+    "authors": [
+      "Hosseini, Khaled"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-02-01",
+    "isbn": "9783827070234",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Drachenläufer erzählt vom Schicksal der beiden Jungen Amir und Hassan und ihrer ungücklichen Freundschaft. Eine dramatische Geschichte von Liebe und Verrat, Trennung und Wiedergutmachung vor dem Hintergrund der jüngsten Vergangenheit Afghanistans.",
+    "pageCount": "413",
+    "thumbnail": "https://books.google.com/books/content?id=O00UAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762986000976,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Tausend strahlende Sonnen",
+    "subtitle": "",
+    "authors": [
+      "Hosseini, Khaled"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010",
+    "isbn": "9783827070067",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Mariam ist fünfzehn, als sie aus der Provinz nach Kabul geschickt und mit dem dreißig Jahre älteren Schuhmacher Raschid verheiratet wird. Jahre später erlebt Laila, ein Mädchen aus der Nachbarschaft, ein ähnliches Schicksal. Als ihre Familie bei einem Bombenangriff ums Leben kommt, wird sie Raschids Zweitfrau. Nach anfänglichem Misstrauen werden Mariam und Laila zu engen Freundinnen. Gemeinsam wehren sie sich gegen Raschids Brutalität und planen die Flucht …",
+    "pageCount": "554",
+    "thumbnail": "http://books.google.com/books/content?id=IOKcAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762986072859,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Glöckner von Notre-Dame",
+    "subtitle": "",
+    "authors": [
+      "Hugo, Victor"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2024-12-12",
+    "isbn": "9783954181438",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Der Dichter Gringoire ist in unglücklicher Liebe zu der schönen Esmeralda verbunden. Doch auch der Domprobst Claude Frollo, der im zweifelhaften Ruf steht, ein Hexenmeister zu sein, stellt der Dame nach. Diesem wiederum ist Quasimodo ergeben, denn Frolo hat den äußerlich hässlichen Menschen als Findelkind aufgezogen. Als Frollo die unerwiderte Liebe Esmeraldas damit bestraft, diese als Hexe zu verunglimpfen und ihre Hinrichtung zu betreiben, wendet sich Quasimodo gegen seinen Herrn …",
+    "pageCount": "824",
+    "thumbnail": "https://books.google.com/books/content?id=zp6NCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762986374950,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Elenden / Les Misérables",
+    "subtitle": "",
+    "authors": [
+      "Hugo, Victor"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-12-06",
+    "isbn": "9783841205513",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Die dramatische Geschichte des einstigen Galeerensträflings Jean Valjean, der sich unter falschem Namen eine neue Identität aufbaut und zum Rächer der Armen wird, bis die Vergangenheit ihn eines Tages einholt – sie ist neben Dumas‘ „Graf von Monte Christo“ der wohl populärste Roman der französischen Literatur im 19. Jahrhundert.",
+    "pageCount": "548",
+    "thumbnail": "https://books.google.com/books/content?id=xPjXAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762986604275,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Nordermoor",
+    "subtitle": "",
+    "authors": [
+      "Indriðason, Arnaldur"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-07-22",
+    "isbn": "9783838712628",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Was zunächst aussieht wie ein typisch isländischer Mord - schäbig, sinnlos und schlampig ausgeführt -, erweist sich als überaus schwieriger Fall für Erlendur von der Kripo Reykjavik. Wer ist der tote alte Mann in der Souterrainwohnung in Nordermoor? Warum hinterlässt der Mörder eine Nachricht bei seinem Opfer, die niemand versteht? - Während schwere Islandtiefs sich über der Insel im Nordatlantik austoben, wird eine weitere Leiche gefunden …",
+    "pageCount": "306",
+    "thumbnail": "https://books.google.com/books/content?id=WXydFztBJ4QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762986951966,
+    "rating": 3,
+    "tags": [
+      "Island"
+    ]
   }
 ]
