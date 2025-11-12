@@ -1307,87 +1307,9 @@
     "pageCount": "618",
     "category": "Belletristik",
     "genre": "Science Fiction",
-    "rating": "5"
-  },
-  {
-    "title": "Auferstehung der Toten",
-    "authors": [
-      "Haas, Wolf"
-    ],
-    "series": "Simon Brenner",
-    "volume": "1",
-    "publishedDate": "1996",
-    "isbn": "3499432447",
-    "category": "Belletristik",
-    "genre": "Humor; Krimi & Thriller",
-    "description": "In Zell am See geht es etwas langsamer zu als im Rest der Welt. Hier wird man nicht erschossen., sondern tiefgefroren. So ist es einem steinreichen amerikanischen Ehepaar ergangen, das man an einem klirrend kalten Wintermorgen in einem Sessellift findet. Die Polizei beißt sich an der Sturheit der Zeller schnell die Zähne aus. Licht in diesen Fall kann nur ein Mann wie Privatdetektiv Brenner bringen, ein ehemaliger Polizist, der wegen seiner nervenzermürbenden Langsamkeit aus dem Job geekelt wurde. Brenner hat das Gespür für den Rhythmus der österreichischen Provinz.",
-    "thumbnail": "http://books.google.com/books/content?id=t4TeAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "read": true,
-    "rating": 5,
-    "pageCount": "164",
-    "tags": [
-      "Österreich"
-    ]
-  },
-  {
-    "title": "Der Knochenmann",
-    "authors": [
-      "Haas, Wolf"
-    ],
-    "series": "Simon Brenner",
-    "volume": "2",
-    "publishedDate": "1997",
-    "isbn": "3499432587",
-    "category": "Belletristik",
-    "genre": "Humor; Krimi & Thriller",
-    "description": "Der Löschenkohl, eine Grillstation mit dem Flair einer Möbelhalle, ist in der ganzen Steiermark berühmt für seine Massenausspeisungen. Die Gäste lassen sich ihren Heißhunger auf die gigantischen Hendlteile nicht einmal von den Menschengebeinen verderben, die man in den Abfallbergen aus Hühnerknochen entdeckt. Ein klarer Fall für \"Aktenzeichen XY\" und für den unnachahmlichen Privatdetektiv Brenner. Bevor der in Ruhe bei dem steirischen Hendl-König herumschnüffeln kann, fließt jedoch schon das Blut des nächsten Toten - bei den Knochentretern des FC Klöch.",
-    "thumbnail": "http://books.google.com/books/content?id=bIbeAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "read": true,
-    "rating": 5,
-    "pageCount": "164",
-    "tags": [
-      "Österreich"
-    ]
-  },
-  {
-    "title": "Komm, süßer Tod",
-    "authors": [
-      "Haas, Wolf"
-    ],
-    "series": "Simon Brenner",
-    "volume": "3",
-    "publishedDate": "2000",
-    "isbn": "9783499228148",
-    "category": "Belletristik",
-    "genre": "Humor; Krimi & Thriller",
-    "description": "Auf den Straßen von Wien bekämpfen sich die Rettungsdienste bis aufs Spenderblut. Nach dem Doppelmord an einem schmusenden Liebespaar tritt Ex-Polizist und Schnüffler Brenner auf den Plan.",
-    "thumbnail": "http://books.google.com/books/content?id=kYjeAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "read": true,
-    "rating": 5,
-    "pageCount": "228",
-    "tags": [
-      "Österreich"
-    ]
-  },
-  {
-    "title": "Silentium!",
-    "authors": [
-      "Haas, Wolf"
-    ],
-    "series": "Simon Brenner",
-    "volume": "4",
-    "publishedDate": "2000",
-    "isbn": "9783499228308",
-    "category": "Belletristik",
-    "genre": "Humor; Krimi & Thriller",
-    "description": "Wieder einmal ein Bischofskandidat, der aus dem ehrwürdigen Marianum hervorging - darauf ist man im Salzburger Knabeninternat besonders stolz. Wenn nur diese häßlichen Gerüchte nicht wären ... Hat sich der Monsignore beim Hygiene-Unterricht im Duschkeller einstmals an einem kleinen Zögling vergangen? Privatdetektiv Brenner soll das nun herausfinden ...",
-    "thumbnail": "http://books.google.com/books/content?id=NfZlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "read": true,
-    "rating": 5,
-    "pageCount": "232",
-    "tags": [
-      "Österreich"
-    ]
+    "rating": 4,
+    "subtitle": "",
+    "tags": []
   },
   {
     "title": "Wie die Tiere",
@@ -1813,8 +1735,10 @@
     "description": "Wie viele junge Menschen schwankte Jonathan Safran Foer lange zwischen Fleischgenuss und Vegetarismus hin und her. Als er Vater wurde und er und seine Frau überlegten, wie sie ihr Kind ernähren würden, bekamen seine Fragen eine neue Dringlichkeit: Warum essen wir Tiere? Würden wir sie auch essen, wenn wir wüssten, wo sie herkommen? Foer stürzt sich mit Leib und Seele in sein Thema. Er recherchiert auf eigene Faust, bricht nachts in Tierfarmen ein, konsultiert einschlägige Studien und spricht mit zahlreichen Akteuren und Experten. Vor allem aber geht er der Frage auf den Grund, was Essen für den Menschen bedeutet. Auch Foer kennt die trostspendende Kraft einer fleischhaltigen Lieblingsmahlzeit, die seit Generationen in einer Familie gekocht wird. In einer brillanten Synthese aus Philosophie, Literatur, Wissenschaft und eigenen Undercover-Reportagen bricht Foer in »Tiere essen« eine Lanze für eine bewusste Wahl. Er hinterfragt die Geschichten, die wir uns selbst erzählen, um unser Essverhalten zu rechtfertigen, und die dazu beitragen, dass wir der Wirklichkeit der Massentierhaltung und deren Konsequenzen nicht ins Auge sehen.",
     "thumbnail": "http://books.google.com/books/content?id=qNBmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
-    "rating": "5",
-    "pageCount": "290"
+    "rating": 4,
+    "pageCount": "290",
+    "subtitle": "",
+    "tags": []
   },
   {
     "title": "Der Schwarm",
@@ -2077,7 +2001,7 @@
     "description": "Der Frankfurter Privatdetektiv Kayankaya ist zurück: älter, entspannter, cooler – und sogar in festen Händen. Ein Mädchen verschwindet, und Kayankaya soll während der Frankfurter Buchmesse einen marokkanischen Schriftsteller beschützen. Zwei scheinbar einfache Fälle, doch zusammen führen sie zu Mord, Vergewaltigung, Entführung. Und Kayankaya kommt in den Verdacht, ein Auftragskiller zu sein.",
     "thumbnail": "http://books.google.com/books/content?id=Sd5tAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
-    "rating": 5,
+    "rating": 3,
     "pageCount": "175",
     "subtitle": "",
     "tags": [
@@ -2807,11 +2731,12 @@
     "description": "Um sie herum ist alles dunkel. Tilda hat keine Ahnung, wo sie sich befindet, neben ihr nur zwei Flaschen Saft und ein Handy, ihre einzige Verbindung zur Außenwelt. Ihre letzte Erinnerung: Ein Mann ist in ihre Wohnung eingedrungen, hat sie überwältigt, in eine Kiste gesteckt und irgendwo im Wald vergraben. Und sie erinnert sich auch, wer der Mann war: Leopold Wagner, der \"Kindermacher\", den sie vor achtzehn Jahren ins Gefängnis gebracht hat. Das Problem ist nur: Wagner kann es eigentlich nicht gewesen sein, denn er sitzt nach wie vor hinter Gittern.",
     "thumbnail": "http://books.google.com/books/content?id=d8J3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
-    "rating": 3,
+    "rating": 2,
     "pageCount": "145",
     "tags": [
       "Österreich"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Das Geständnis des Mönchs",
@@ -2846,8 +2771,10 @@
     "description": "Russland 1876: Erast Fandorin ist ein junger Mann von unwiderstehlichem Charme. Er bezaubert nicht nur die Moskauer und St. Petersburger Damenwelt, er überzeugt auch höchste russische Kreise von seinem Können – durch erstaunliche Kombinationsgabe und geschicktes Vorgehen gegen die internationale Verbrecherwelt. Kein Gauner ist ihm gewachsen – eine große Karriere ist ihm sicher ...",
     "thumbnail": "http://books.google.com/books/content?id=z0LfAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
-    "rating": "3",
-    "pageCount": "201"
+    "rating": 2,
+    "pageCount": "201",
+    "subtitle": "",
+    "tags": []
   },
   {
     "title": "Dienstags bei Morrie",
@@ -3007,8 +2934,8 @@
     "description": "Mit 29 Jahren schockiert Edward Snowden die Welt: Als Datenspezialist und Geheimnisträger für NSA und CIA deckt er auf, dass die US-Regierung heimlich das Ziel verfolgt, jeden Anruf, jede SMS und jede E-Mail zu überwachen. Das Ergebnis wäre ein nie dagewesenes System der Massenüberwachung, mit dem das Privatleben jeder einzelnen Person auf der Welt durchleuchtet werden kann. Edward Snowden trifft eine folgenschwere Entscheidung: Er macht die geheimen Pläne öffentlich.",
     "pageCount": "553",
     "thumbnail": "https://books.google.com/books/content?id=pLumDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "read": false,
-    "rating": null,
+    "read": true,
+    "rating": 5,
     "subtitle": "Meine Geschichte",
     "tags": []
   },
@@ -4225,7 +4152,7 @@
     "pageCount": "173",
     "thumbnail": "https://books.google.com/books/content?id=8yNuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
-    "rating": 5,
+    "rating": 4,
     "tags": []
   },
   {
@@ -4244,7 +4171,7 @@
     "pageCount": "198",
     "thumbnail": "https://books.google.com/books/content?id=yPXmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
-    "rating": 5,
+    "rating": 3,
     "tags": []
   },
   {
@@ -6054,7 +5981,7 @@
     "thumbnail": "https://books.google.com/books/content?id=F0XWuBqf7TUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1748125390435,
-    "rating": 3,
+    "rating": 2,
     "tags": [
       "Contemporary Fantasy"
     ]
@@ -6701,7 +6628,7 @@
     "thumbnail": "https://books.google.com/books/content?id=6aWxNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1752780550459,
-    "rating": 3,
+    "rating": 4,
     "tags": []
   },
   {
@@ -6742,7 +6669,7 @@
     "thumbnail": "https://books.google.com/books/content?id=-Z6DDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1752781085008,
-    "rating": 3,
+    "rating": 4,
     "tags": []
   },
   {
@@ -6823,7 +6750,7 @@
     "thumbnail": "http://books.google.com/books/content?id=kP2tPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1752781818763,
-    "rating": 3,
+    "rating": 4,
     "tags": []
   },
   {
@@ -6843,7 +6770,7 @@
     "thumbnail": "https://books.google.com/books/content?id=OM9e2gwFqQUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1752782140403,
-    "rating": 4,
+    "rating": 5,
     "tags": []
   },
   {
@@ -6863,7 +6790,7 @@
     "thumbnail": "https://books.google.com/books/content?id=IONrAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1752782268504,
-    "rating": 3,
+    "rating": 2,
     "tags": []
   },
   {
@@ -6943,7 +6870,7 @@
     "thumbnail": "https://books.google.com/books/content?id=1CbnnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1752792154274,
-    "rating": 4,
+    "rating": 3,
     "tags": []
   },
   {
@@ -7206,7 +7133,7 @@
     "thumbnail": "http://books.google.com/books/content?id=GwKgAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1752848208996,
-    "rating": 5,
+    "rating": 4,
     "tags": []
   },
   {
@@ -7266,7 +7193,7 @@
     "thumbnail": "https://books.google.com/books/content?id=jbU3qAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1752882371506,
-    "rating": 5,
+    "rating": 4,
     "tags": [
       "Russland"
     ]
@@ -7629,7 +7556,7 @@
     "thumbnail": "https://books.google.com/books/content?id=UsMj7K2IXN4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1752967559359,
-    "rating": 4,
+    "rating": 3,
     "tags": []
   },
   {
@@ -7769,7 +7696,7 @@
     "thumbnail": "https://books.google.com/books/content?id=ISB_mwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1753382004281,
-    "rating": 5,
+    "rating": 4,
     "tags": []
   },
   {
@@ -7789,7 +7716,7 @@
     "thumbnail": "https://books.google.com/books/content?id=XMb-ZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1753386740828,
-    "rating": 5,
+    "rating": 4,
     "tags": []
   },
   {
@@ -7809,7 +7736,7 @@
     "thumbnail": "https://books.google.com/books/content?id=w41MAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1753386853950,
-    "rating": 5,
+    "rating": 4,
     "tags": []
   },
   {
@@ -7930,7 +7857,7 @@
     "thumbnail": "https://books.google.com/books/content?id=0viFJwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1753391847563,
-    "rating": 3,
+    "rating": 2,
     "tags": []
   },
   {
@@ -7990,7 +7917,7 @@
     "thumbnail": "https://pictures.abebooks.com/isbn/9783462021851-us.jpg",
     "read": true,
     "addedAt": 1753392469056,
-    "rating": 4,
+    "rating": 3,
     "tags": []
   },
   {
@@ -8210,7 +8137,7 @@
     "thumbnail": "https://books.google.com/books/content?id=1xp4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1753455209497,
-    "rating": 3,
+    "rating": 2,
     "tags": []
   },
   {
@@ -8290,7 +8217,7 @@
     "thumbnail": "https://books.google.com/books/content?id=irWdLFHwi7EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1753455810069,
-    "rating": 3,
+    "rating": 4,
     "tags": []
   },
   {
@@ -8450,7 +8377,7 @@
     "thumbnail": "https://books.google.com/books/content?id=GRIoGQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1753886975003,
-    "rating": 3,
+    "rating": 4,
     "tags": []
   },
   {
@@ -9031,7 +8958,7 @@
     "thumbnail": "https://books.google.com/books/content?id=RoraSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1755028856080,
-    "rating": 3,
+    "rating": 4,
     "tags": []
   },
   {
@@ -9196,7 +9123,7 @@
     "thumbnail": "http://books.google.com/books/content?id=3PyYAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1755936961027,
-    "rating": 5,
+    "rating": 4,
     "tags": []
   },
   {
@@ -9216,7 +9143,7 @@
     "thumbnail": "http://books.google.com/books/content?id=S_2YAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1755937059342,
-    "rating": 5,
+    "rating": 4,
     "tags": []
   },
   {
@@ -9236,7 +9163,7 @@
     "thumbnail": "https://books.google.com/books/content?id=ClczAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1755937292109,
-    "rating": 5,
+    "rating": 4,
     "tags": []
   },
   {
@@ -9256,7 +9183,7 @@
     "thumbnail": "https://covers.openlibrary.org/b/id/3202037-L.jpg",
     "read": true,
     "addedAt": 1755937440733,
-    "rating": 5,
+    "rating": 3,
     "tags": []
   },
   {
@@ -9276,7 +9203,7 @@
     "thumbnail": "http://books.google.com/books/content?id=lf2YAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1755937623542,
-    "rating": 5,
+    "rating": 3,
     "tags": []
   },
   {
@@ -9296,7 +9223,7 @@
     "thumbnail": "http://books.google.com/books/content?id=2o2TAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1755938085603,
-    "rating": 5,
+    "rating": 3,
     "tags": []
   },
   {
@@ -9316,7 +9243,7 @@
     "thumbnail": "https://covers.openlibrary.org/b/id/2206083-L.jpg",
     "read": true,
     "addedAt": 1755938300136,
-    "rating": 5,
+    "rating": 4,
     "tags": []
   },
   {
@@ -9336,7 +9263,7 @@
     "thumbnail": "https://books.google.com/books/content?id=wzffAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1755938574056,
-    "rating": 5,
+    "rating": 4,
     "tags": []
   },
   {
@@ -9798,7 +9725,7 @@
     "thumbnail": "https://books.google.com/books/content?id=xYYAAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1756033746217,
-    "rating": 5,
+    "rating": 4,
     "tags": [
       "Thailand"
     ]
@@ -9860,7 +9787,7 @@
     "thumbnail": "https://books.google.com/books/content?id=bqcdAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1756852264434,
-    "rating": 3,
+    "rating": 4,
     "tags": []
   },
   {
@@ -9960,7 +9887,7 @@
     "thumbnail": "https://pictures.abebooks.com/inventory/md/md22895822602.jpg",
     "read": true,
     "addedAt": 1757869076794,
-    "rating": 3,
+    "rating": 4,
     "tags": []
   },
   {
@@ -9980,7 +9907,7 @@
     "thumbnail": "https://books.google.com/books/content?id=DzS497Ghke0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1757869404316,
-    "rating": 4,
+    "rating": 5,
     "tags": []
   },
   {
@@ -10047,7 +9974,7 @@
     "title": "Die goldene Meile",
     "subtitle": "",
     "authors": [
-      "Smith, Martin Cruz"
+      "Cruz Smith, Martin"
     ],
     "series": "Arkadi Renko",
     "volume": "7",
@@ -10520,7 +10447,7 @@
     "thumbnail": "https://books.google.com/books/content?id=ypqNrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1758061260092,
-    "rating": 3,
+    "rating": 4,
     "tags": []
   },
   {
@@ -11183,7 +11110,7 @@
     "thumbnail": "https://books.google.com/books/content?id=WXnVBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1759267671373,
-    "rating": 4,
+    "rating": 3,
     "tags": []
   },
   {
@@ -11243,7 +11170,7 @@
     "thumbnail": "https://books.google.com/books/content?id=LsrYBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1759268301826,
-    "rating": 4,
+    "rating": 3,
     "tags": []
   },
   {
@@ -11363,7 +11290,7 @@
     "thumbnail": "https://books.google.com/books/content?id=IDfNTHYwl4EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1759703092764,
-    "rating": 3,
+    "rating": 1,
     "tags": []
   },
   {
@@ -11503,7 +11430,7 @@
     "thumbnail": "https://books.google.com/books/content?id=8NA9PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1759705094000,
-    "rating": 2,
+    "rating": 1,
     "tags": []
   },
   {
@@ -11683,7 +11610,7 @@
     "thumbnail": "https://books.google.com/books/content?id=g6IsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1761087896886,
-    "rating": 3,
+    "rating": 2,
     "tags": []
   },
   {
@@ -11703,7 +11630,7 @@
     "thumbnail": "https://books.google.com/books/content?id=CkXMZzzL6U8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1761088035716,
-    "rating": 3,
+    "rating": 4,
     "tags": []
   },
   {
@@ -11803,7 +11730,7 @@
     "thumbnail": "https://books.google.com/books/content?id=x3AAoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1761126760794,
-    "rating": 2,
+    "rating": 1,
     "tags": []
   },
   {
@@ -11963,7 +11890,7 @@
     "thumbnail": "https://books.google.com/books/content?id=ksU7CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1761209328474,
-    "rating": 4,
+    "rating": 3,
     "tags": []
   },
   {
@@ -12106,7 +12033,7 @@
     "thumbnail": "https://books.google.com/books/content?id=OCjnHAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1761213274161,
-    "rating": 1,
+    "rating": 2,
     "tags": []
   },
   {
@@ -12328,7 +12255,7 @@
     "thumbnail": "https://books.google.com/books/content?id=eDPOAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1761223411600,
-    "rating": 3,
+    "rating": 4,
     "tags": []
   },
   {
@@ -12848,6 +12775,660 @@
     "thumbnail": "https://books.google.com/books/content?id=8dYQAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "addedAt": 1761300055885,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Kommt ein Pferd in die Bar",
+    "subtitle": "",
+    "authors": [
+      "Grossman, David"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-02-01",
+    "isbn": "9783446251892",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Für eine gute Pointe gab Dovele schon immer alles. Als Kind lief er oft auf den Händen. Er tat das, um seine Mutter zum Lachen zu bringen und damit ihm keiner ins Gesicht schlug. Heute steht er ein letztes Mal in einer Kleinstadt in Israel auf der Bühne. Er hat seinen Jugendfreund, einen pensionierten Richter, eingeladen. Im Laufe des Abends erzählt der Comedian zwischen vielen Witzen eine tragische Geschichte aus seiner Jugend. Es geht um Freundschaft und Familie, Liebe, Verrat und eine sehr persönliche Abrechnung auf dem Weg zu einer Beerdigung. Dem Kleinstadtpublikum ist das Lachen vergangen.",
+    "pageCount": "196",
+    "thumbnail": "https://books.google.com/books/content?id=a-YcCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761993107090,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Todesfrist",
+    "subtitle": "",
+    "authors": [
+      "Gruber, Andreas"
+    ],
+    "series": "Maarten S. Sneijder & Sabine Nemez",
+    "volume": "1",
+    "publishedDate": "2013-03-18",
+    "isbn": "9783641112097",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein Serienmörder treibt sein Unwesen – und ein altes Kinderbuch dient ihm als grausame Inspiration. »Wenn Sie innerhalb von 48 Stunden herausfinden, warum ich diese Frau entführt habe, bleibt sie am Leben. Falls nicht – stirbt sie.« Mit dieser Botschaft beginnt das perverse Spiel eines Serienmörders. Er lässt seine Opfer verhungern, ertränkt sie in Tinte oder umhüllt sie bei lebendigem Leib mit Beton. Verzweifelt sucht die Münchner Kommissarin Sabine Nemez nach einer Erklärung, einem Motiv. Erst als sie einen niederländischen Kollegen hinzuzieht, entdecken sie zumindest ein Muster: Ein altes Kinderbuch dient dem Täter als grausame Inspiration – und das birgt noch viele Ideen …",
+    "pageCount": "341",
+    "thumbnail": "https://books.google.com/books/content?id=YGgTNxMGGewC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761993267574,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Theorem des Papageis",
+    "subtitle": "",
+    "authors": [
+      "Guedj, Denis"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2001",
+    "isbn": "9783404145966",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Aufregung in der Rue Ravignan am Montmartre, in der Buchhandlung von Monsieur Ruche. Nicht nur, daß die eingeschworene Lebensgemeinschaft seiner Wenigkeit mit Perrette, dem kleinen Max und den Zwillingen Léa und Jonathan im ersten Stock durch einen höchst eigenwilligen und sprechenden Papageien, Nofutur, aufgemischt wird, nein, etwas Mysteriöses bahnt sich an: Elgar Grosrouvre, ein ehemaliger Studienfreund Ruches, expediert seine einzigartige mathematische Bibliothek von Brasilien nach Paris. Er deutet in einem Brief an, eines der größten Rätsel der Mathematik gelöst zu haben - und dieser Triumph scheint eine tödliche Bedrohung darzustellen, denn Grosrouvre weiß, daß er nicht mehr leben wird, wenn der Brief Paris erreicht …",
+    "pageCount": "744",
+    "thumbnail": "https://books.google.com/books/content?id=D1mePQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1761993405917,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Der Kentauer",
+    "subtitle": "",
+    "authors": [
+      "Guerin, Maurice de"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1835",
+    "isbn": "",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "\"Der Kentaur\" (Originaltitel: Le Centaure) ist ein berühmtes Prosagedicht des französischen romantischen Dichters Maurice de Guérin, das um 1835 geschrieben wurde und als eines der frühesten und bedeutendsten Beispiele für das Prosagedicht in der französischen Literatur gilt.",
+    "pageCount": "",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md32129797367.jpg",
+    "read": true,
+    "rating": 3,
+    "tags": [],
+    "addedAt": 1761993832243
+  },
+  {
+    "title": "Stadt der Steine",
+    "subtitle": "",
+    "authors": [
+      "Guo, Xiaolu"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2018-05-09",
+    "isbn": "9783641229092",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Als die junge Chinesin Coral eines Tages einen getrockneten Aal aus ihrem Heimatdorf zugeschickt bekommt, bricht die Vergangenheit mit Macht über sie herein. In ihrer winzigen Wohnung im lärmenden Beijing erscheint er ihr wie ein Bote aus einer längst vergessenen Welt: das ärmliche Fischerdorf an der ostchinesischen Küste, in dem sie aufwuchs, die gewaltigen Stürme, die wortkargen Menschen mit Herzen aus Stein, gefangen in ihren strengen Traditionen. Und Coral erinnerst sich an die tief in ihrem Inneren vergrabenen Erlebnisse, die damals in ihr nur einen einzigen Wunsch wachsen ließen – diesem Ort zu entkommen und sich weit fort in der pulsierenden Metropole ein neues Leben aufzubauen.",
+    "pageCount": "195",
+    "thumbnail": "https://books.google.com/books/content?id=8k5VDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1761993909793,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Auferstehung der Toten",
+    "subtitle": "",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "1",
+    "publishedDate": "1996",
+    "isbn": "9783499432446",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Von Amerika aus betrachtet, ist Zell ein winziger Punkt. Aber vom Pinzgau aus gesehen: vierzig Hotels, neun Schulen, dreißig Dreitausender, ein See, ein Detektiv. Der Detektiv gehört aber eigentlich nicht zu Zell. Der ist natürlich nur wegen der Liftgeschichte dagewesen. Die beiden Amerikaner sind Ende Dezember im Sessellift in Zell erfroren. Und Anfang September ist der Detektiv immer noch dagewesen. Jetzt hat der langsam das Gefühl bekommen, dass er hier nicht mehr wegkommt. Wie wenn man anwächst, so ein Gefühl. Oder wie wenn du heiratest und Kinder hast. Da ist der Detektiv, Brenner hat er geheißen, schon ein paarmal in der Nacht aus dem Schlaf aufgeschreckt. Weil er geträumt hat, dass er Zell so lange nicht mehr verlassen darf, bis er den aussichtslosen Fall der beiden Amerikaner gelöst hat.",
+    "pageCount": "170",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-499-43244-6&size=m",
+    "read": true,
+    "addedAt": 1761994063413,
+    "rating": 4,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Der Knochenmann",
+    "subtitle": "",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "2",
+    "publishedDate": "1997",
+    "isbn": "9783499432583",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Die Steiermark erfreut sich nicht nur wegen ihrer malerischen Weinhügel an der Grenze zu Slowenien großer Beliebtheit. Ein wahrer Magnet für die Ausflügler ist der Löschenkohl, eine Hendlstation im 1000-Seelen-Örtchen Klöch, deren einmaliges Preis-Leistungs-Verhältnis den Ruhm der landschaftlichen Schönheit fast noch übertrifft. Sogar die Wiener kommen am Wochenende herunter, wenn sie nicht mehr wissen, wie sie ihre hungrigen Kinder sonst satt kriegen sollen. Die Gäste sind so versessen auf die gigantischen Hendlteile, dass sie dem Löschenkohl gern den unappetitlichen Skandal aus dem letzten Jahr nachsehen. Bei einer Routineinspektion hatte die Lebensmittelpolizei in den Abfallbergen aus Geflügelgebeinen einige Menschenknochen entdeckt. Doch die Kripo ist nicht halb so fähig wie die Kollegen von der Lebensmittelkontrolle: Sie findet nicht einmal den nötigen Toten zu den Knochen.",
+    "pageCount": "172",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-499-43258-3&size=m",
+    "read": true,
+    "addedAt": 1762041598490,
+    "rating": 4,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Komm, süßer Tod",
+    "subtitle": "",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "3",
+    "publishedDate": "2000",
+    "isbn": "9783499228148",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Auf den Straßen von Wien bekämpfen sich die Rettungsdienste bis aufs Spenderblut. Nach dem Doppelmord an einem schmusenden Liebespaar tritt Ex-Polizist und Schnüffler Brenner auf den Plan.",
+    "pageCount": "228",
+    "thumbnail": "http://books.google.com/books/content?id=kYjeAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "Österreich"
+    ],
+    "addedAt": 1762042243736
+  },
+  {
+    "title": "Silentium!",
+    "subtitle": "",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "Simon Brenner",
+    "volume": "4",
+    "publishedDate": "1999",
+    "isbn": "9783499433467",
+    "category": "Belletristik",
+    "genre": "Humor; Krimi & Thriller",
+    "description": "Wieder einmal ein Bischofskandidat, der aus dem ehrwürdigen Marianum hervorging – darauf ist man im Salzburger Knabeninternat besonders stolz. Wenn nur diese hässlichen Gerüchte nicht wären … Hat sich der Monsignore beim Hygiene-Unterricht im Duschkeller einstmals an einem kleinen Zögling vergangen? Privatdetektiv Brenner soll ganz diskret herausfinden, ob sich der ehemalige Schüler auf der Psychiatercouch nur etwas zusammenphantasiert. Doch eine schreckliche Entdeckung beendet das allgemeine «Silentium!» bald: 23 Plastiktaschen könnten nicht nur einer Bischofskarriere, sondern auch den Salzburger Festspielen den Garaus machen …",
+    "pageCount": "222",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-499-43346-7&size=m",
+    "read": true,
+    "addedAt": 1762042431916,
+    "rating": 5,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Ausgebremst",
+    "subtitle": "Der Roman zur Formel 1",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2001",
+    "isbn": "9783499228681",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "«Es stört mich nicht, dass Michael Schumacher in Folge eines Verbrechens in die Formel 1 kam. Es stört mich nur, dass ich deshalb fünfzehn Jahre im Gefängnis sitzen soll.»<br>\nEin kleiner Händler für Formel-1-Fanartikel behauptet steif und fest, dass er zu Unrecht wegen Mordes verurteilt wurde. Er hat herausgefunden, warum ein halbes Dutzend Formel-1-Piloten bei Flugzeugabstürzen sterben mussten. Er kennt die wahre Identität von Niki Lauda. Und er hat ein Geheimnis über Michael Schumacher entdeckt, das niemand wahrhaben will. Da ist es in seinen Augen sonnenklar, dass er irgendwann unter die Räder der Formel-1-Mafia geriet …",
+    "pageCount": "180",
+    "thumbnail": "https://books.google.com/books/content?id=U4reAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762551964412,
+    "rating": 3,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Das Wetter vor 15 Jahren",
+    "subtitle": "",
+    "authors": [
+      "Haas, Wolf"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2020-10-07",
+    "isbn": "9783455009798",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Seit fünfzehn Jahren studiert Vittorio Kowalski wie besessen das Wetter in einem fernen Alpendorf. Er kennt die Hoch- und Tiefwetterlagen eines jeden Datums auswendig, ist mit den täglichen Luftdruckschwankungen, Niederschlagsmengen und Sonnenscheindauern per Du. Eines Tages wird er mit diesem verrückten Spezialwissen sogar Wettkönig bei Wetten, dass ..?. Niemand kann sich diese Leidenschaft erklären. Nur in dem achthundert Kilometer entfernten Urlaubsort seiner Kindheit sitzt eine junge Frau vor dem Fernseher, die den schüchternen Wettkandidaten nach fünfzehn Jahren wiedererkennt. Anni war die Tochter der Zimmervermieter, Vittorio der Sohn der deutschen Urlaubsgäste. Die beiden Kinder verbrachten jeden Sommer gemeinsam - bis sie in ein Jahrhundert-Unwetter gerieten, das sie für immer trennte.",
+    "pageCount": "195",
+    "thumbnail": "https://books.google.com/books/content?id=uk_gDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762552185513,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der kleine König Dezember",
+    "subtitle": "",
+    "authors": [
+      "Hacke, Axel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-11-15",
+    "isbn": "9783888976179",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Die Kindheit liegt am Ende des Lebens. Ob das gut ist? Das muss der kleine König Dezember selber sagen. Man kann ihn alles Mögliche fragen. Kann mit ihm auf dem Balkon liegen und die Sterne anschauen und über Unsterblichkeit reden. Kann die Schachteln anschauen, in denen er seine Träume aufbewahrt. Oder man geht mit ihm durch die Straßen und sieht, was man noch nie gesehen hat. Das ist sehr schön.",
+    "pageCount": "62",
+    "thumbnail": "https://books.google.com/books/content?id=9QZHBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762552323208,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der weisse Neger Wumbaba",
+    "subtitle": "Kleines Handbuch des Verhörens",
+    "authors": [
+      "Hacke, Axel",
+      "Sowa, Michael"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783888973673",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Wenn man etwas falsch versteht, zeitigt das sehr oft seltsame Blüten. In diesem äkleinen Handbuch des Verhörensä sind Highlights dieser oft lange im Gedächtnis haftenden Irrtümer versammelt.",
+    "pageCount": "72",
+    "thumbnail": "https://books.google.com/books/content?id=wvZlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762552368358,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Supergute Tage oder Die sonderbare Welt des Christopher Boone",
+    "subtitle": "",
+    "authors": [
+      "Haddon, Mark"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-04-15",
+    "isbn": "9783641063566",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Christopher Boone ist fünfzehn Jahre, drei Monate und zwei Tage alt. Er kennt alle Länder und deren Hauptstädte sowie sämtliche Primzahlen bis 7507. Er liebt die Farbe Rot, hasst hingegen Gelb und Braun. Unordnung, Überraschungen und fremde Menschen versetzen ihn in Panik, denn Christopher leidet an einer leichten Form von Autismus. Als aber der Pudel in Nachbars Garten mit einer Mistgabel umgebracht wird, beginnt Christopher, aus seiner fest gefügten, kleinen Welt auszubrechen: Mutig stellt er den schändlichen Verbrecher und erfährt außerdem, was es heißt, in der Welt der Erwachsenen zu leben …",
+    "pageCount": "266",
+    "thumbnail": "https://books.google.com/books/content?id=zdlvmivM1IoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762552475114,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Schäfers Qualen",
+    "subtitle": "",
+    "authors": [
+      "Haderer, Georg"
+    ],
+    "series": "Johannes Schäfer",
+    "volume": "1",
+    "publishedDate": "2012-08-31",
+    "isbn": "9783709974407",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Die Vergangenheit ist ein Hund und wenn sie zubeißt, lässt sie einen nicht mehr los. Diese schmerzhafte Erfahrung macht Johannes Schäfer von der Wiener Kriminalpolizei, als er in einem brutalen Mordfall in Kitzbühel ermittelt: Ein Unternehmer aus der Stadt wurde bewusstlos geschlagen und an ein Gipfelkreuz genagelt. Schäfer ist noch gar nicht richtig in seiner ungeliebten früheren Heimat angekommen, als schon wieder eine Leiche auftaucht: Der einheimische Baulöwe Krassnitzer wird ebenfalls tot aufgefunden, er wurde bei lebendigem Leibe einbetoniert. Dass die Fälle zusammenhängen, scheint auf der Hand zu liegen - aber plant der Täter noch weitere Morde? Und wie passt der ehemalige RAF-Terrorist ins Bild, auf den Schäfer bei seinen Nachforschungen stößt?",
+    "pageCount": "301",
+    "thumbnail": "https://books.google.com/books/content?id=0LN3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762552557338,
+    "rating": 3,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Der Geschmack von Apfelkernen",
+    "subtitle": "",
+    "authors": [
+      "Hagena, Katharina"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-09-14",
+    "isbn": "9783462302202",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Als Bertha stirbt, erbt Iris das Haus. Nach vielen Jahren steht Iris wieder im alten Haus der Großmutter, wo sie als Kind in den Sommerferien mit ihrer Kusine Verkleiden spielte. Sie streift durch die Zimmer und den Garten, eine aus der Zeit gefallene Welt, in der rote Johannisbeeren über Nacht weiß und als konservierte Tränen eingekocht werden, in der ein Baum gleich zweimal blüht, Dörfer verschwinden und Frauen aus ihren Fingern Funken schütteln. Doch der Garten ist inzwischen verwildert. Nachdem Bertha vom Apfelbaum gefallen war, wurde sie erst zerstreut, dann vergesslich, und schließlich erkannte sie nichts mehr wieder, nicht einmal ihre drei Töchter. Iris bleibt eine Woche allein im Haus. Sie weiß nicht, ob sie es überhaupt behalten will. Sie schwimmt in einem schwarzen See, bekommt Besuch, küsst den Bruder einer früheren Freundin und streicht eine Wand an. Während sie von Zimmer zu Zimmer läuft, tastet sie sich durch ihre eigenen Erinnerungen und ihr eigenes Vergessen: Was tat ihr Großvater wirklich, bevor er in den Krieg ging? Welche Männer liebten Berthas Töchter? Wer aß seinen Apfel mitsamt den Kernen? Schließlich gelangt Iris zu jener Nacht, in der ihre Kusine Rosmarie den Unfall hatte: Was machte Rosmarie auf dem Dach des Wintergartens? Und wollte sie Iris noch etwas sagen? Iris ahnt, dass es verschiedene Spielarten des Vergessens gibt. Und das Erinnern ist nur eine davon.",
+    "pageCount": "234",
+    "thumbnail": "https://books.google.com/books/content?id=ys9mAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762552805960,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Vom Ende einer Geschichte",
+    "subtitle": "",
+    "authors": [
+      "Barnes, Julian"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-12-01",
+    "isbn": "9783462305258",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Wie sicher ist Erinnerung, wie unveränderlich die eigene Vergangenheit? Tony Webster muss lernen, dass Geschehnisse, die lange zurückliegen und von denen er glaubte, sie nie mehr hinterfragen zu müssen, plötzlich in einem ganz neuen Licht erscheinen. Als Adrian Finn in die Klasse von Tony Webster kommt, schließen die beiden Jungen schnell Freundschaft. Sex und Bücher sind die Hauptthemen, mit denen sie sich befassen, und Tony hat das Gefühl, dass Adrian in allem etwas klüger ist als er. Auch später, nach der Schulzeit, bleiben die beiden in Kontakt. Bis die Freundschaft ein jähes Ende findet. Vierzig Jahre später, Tony hat eine Ehe, eine gütliche Trennung und eine Berufskarriere hinter sich, ist er mit sich im Reinen. Doch der Brief eines Anwalts, verbunden mit einer Erbschaft, erweckte plötzlich Zweifel an den vermeintlich sicheren Tatsachen der eigenen Biographie. Je mehr Tony erfährt, desto unsicherer scheint das Erlebte und desto unabsehbarer die Konsequenzen für seine Zukunft.",
+    "pageCount": "160",
+    "thumbnail": "https://books.google.com/books/content?id=sEtmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762682081230,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Engelmacher",
+    "subtitle": "",
+    "authors": [
+      "Brijs, Stefan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009",
+    "isbn": "9783442738519",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Wolfheim, in der Nähe von Aachen: Nach zwanzig Jahren Abwesenheit kehrt Dr. Victor Hoppe in seinen Geburtsort zurück. Die Dorfbewohner misstrauen ihm. Und sie wundern sich über die drei Babys, die er dabei hat: Drillinge, alle mit einer Hasenscharte gezeichnet. Doch als der Doktor einem Jungen aus dem Dorf das Leben rettet, fasst man Zutrauen zu ihm. Bis eines Tages die Kinderfrau der Drillinge eines plötzlichen Todes stirbt …",
+    "pageCount": "446",
+    "thumbnail": "https://books.google.com/books/content?id=288jNAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762691250306,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Auge des Raben",
+    "subtitle": "",
+    "authors": [
+      "Pattison, Eliot"
+    ],
+    "series": "Duncan",
+    "volume": "2",
+    "publishedDate": "2017-03-24",
+    "isbn": "9783841213600",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller; Historisch",
+    "description": "Der Schotte und der Schamane. Amerika im Jahr 1760. Franzosen kämpfen gegen Engländer, um die Vorherrschaft. Beide Seiten versuchen sich die Unterstützung der Indianer zu sichern. Mit Hilfe des Schamanen Conawago hat der Schotte Duncan McCallum das Massaker an seinem Clan überlebt, das von den Engländern verübt wurde. Nun ist er zusammen mit Conawago in den Wäldern unterwegs. Als sie einen sterbenden Offizier der Engländer finden, der an einen Baum genagelt worden ist, geraten sie wieder in Schwierigkeiten. Conawago wird verhaftet, weil man ihn für den Mörder hält. Um ihn zu retten, macht Duncan sich daran, die Wahrheit dieses Mordfalls herauszufinden. Bald erkennt er, dass es noch mehr Ritualmorde gegeben hat. Irgendjemand hat ein großes Interesse daran, Verhandlungen zwischen Indianern und Kolonisten zu stören ... „Der letzte Mohikaner trifft Braveheart – mit einem Schuss CSI.“ Entertainment Weekly.",
+    "pageCount": "319",
+    "thumbnail": "https://books.google.com/books/content?id=pHwUDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762692493638,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Wasser für die Elefanten",
+    "subtitle": "",
+    "authors": [
+      "Gruen, Sara"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-04-20",
+    "isbn": "9783832185657",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Amerika, 1931, die Wirtschaftskrise hat das Land fest im Griff. Der junge Tierarzt Jacob steht nach dem Unfalltod seiner Eltern vor dem Nichts. Verzweifelt springt er auf irgendeinen Zug auf – und landet bei Benzinis spektakulärster Show der Welt, einem drittklassigen Wanderzirkus. Unter Artisten, menschlichen Kuriositäten, den überall hinter den Kulissen schuftenden Arbeitern und den wunderbaren Tieren der Menagerie findet Jacob rasch Freunde. Und bald verliert er auch sein Herz: an die zauberhafte Dressurreiterin Marlena – und fast gleichermaßen an Rosie, eine reizende, verfressene Elefantendame, die hartnäckig jedes Kunststück verweigert. Leider ist Rosies Sturheit in den Hungerzeiten der Großen Depression ein echtes Problem – wenn auch kein so großes wie Marlenas gefährlich eifersüchtiger Ehemann.",
+    "pageCount": "351",
+    "thumbnail": "https://books.google.com/books/content?id=EGm1BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762693028641,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der ewige Krieg",
+    "subtitle": "",
+    "authors": [
+      "Haldeman, Joe"
+    ],
+    "series": "Der ewige Krieg",
+    "volume": "1",
+    "publishedDate": "2010-06-23",
+    "isbn": "9783641042899",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "In gigantischen Raumschiffen werden die Soldaten mit Lichtgeschwindigkeit von einem Gefecht zu anderen befördert. Doch während es für sie immer nur einige Monate dauert, vergehen auf der Erde Jahrhunderte.",
+    "pageCount": "275",
+    "thumbnail": "https://books.google.com/books/content?id=ru6IoSjIc1cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762693284071,
+    "rating": 1,
+    "tags": []
+  },
+  {
+    "title": "Der Puppengräber",
+    "subtitle": "",
+    "authors": [
+      "Hammesfahr, Petra"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-10-05",
+    "isbn": "9783644406315",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der geistig behinderte Ben wächst auf dem Land auf. Mit liebevoller Fürsorge bewahrt ihn seine Mutter vor Anfeindungen und lässt ihm die Freiheit, in den Feldern herumzustreunen. Doch der Zweiundzwanzigjährige mit dem Verstand eines Kleinkindes ist vielen ein Dorn im Auge. Als im Sommer mehrere junge Mädchen verschwinden, sucht das Dorf einen Schuldigen.",
+    "pageCount": "294",
+    "thumbnail": "https://books.google.com/books/content?id=tZNtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762693594444,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Das Geheimnis der Puppe",
+    "subtitle": "",
+    "authors": [
+      "Hammesfahr, Petra"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2000",
+    "isbn": "9783784427782",
+    "category": "Belletristik",
+    "genre": "Mystery",
+    "description": "Laura und Tom beschließen, aufs Land zu ziehen, als Laura ihr zweites Kind erwartet. Sie lieben ihr neues Zuhause, auch wenn der herrschaftliche Bau etwas düster wirkt. Doch die Idylle trügt. Immer wieder taucht im Haus eine mysteriöse Stoffpuppe auf und weckt Ängste bei Laura. Sie ahnt, dass dieses Haus ein Geheimnis birgt.",
+    "pageCount": "283",
+    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-7844-2778-2&size=m",
+    "read": true,
+    "addedAt": 1762693892188,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Segen der Erde",
+    "subtitle": "",
+    "authors": [
+      "Hamsun, Knut"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1989",
+    "isbn": "9783423110556",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Der wohl bekannteste Roman Knut Hamsuns erzählt die Geschichte von Isak, einem einfachen Bauern, der das karge norwegische Land urbar macht. Mit \"Segen der Erde\" hat Knut Hamsun einen Klassiker geschaffen, der mit einer schlichten Sprache von fast biblischer Kraft einen Blick in eine vergangene Welt eröffnet und bis heute Norwegens Autoren beeinflusst.",
+    "pageCount": "382",
+    "thumbnail": "https://books.google.com/books/content?id=I73ARwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1762694135185,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Ein Sturm zieht auf",
+    "subtitle": "",
+    "authors": [
+      "Hair, David"
+    ],
+    "series": "Die Brücke der Gezeiten",
+    "volume": "1",
+    "publishedDate": "2013-12-09",
+    "isbn": "9783641109776",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Die Mondflutbrücke liegt tief unter der Ozeanoberfläche. Aber alle zwölf Jahre erhebt sie sich aus den Fluten und verbindet die beiden Kontinente Yuros und Antiopia. Zweimal schon hat Yuros seine Armeen von Kriegern und Magiern über die Brücke geführt, um das Nachbarreich zu unterwerfen. Jetzt naht die dritte Mondflut, und der Westen rüstet sich zum finalen Schlag. Aber es sind drei unscheinbare Menschen – ein gescheiterter Magie-Schüler, eine Spionin und Mörderin, die ihr Gewissen entdeckt, und ein einfaches Marktmädchen –, die über das Schicksal der Welt entscheiden werden …",
+    "pageCount": "390",
+    "thumbnail": "https://books.google.com/books/content?id=0f8LAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762903021161,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Wurzeln",
+    "subtitle": "",
+    "authors": [
+      "Haley, Alex"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1987",
+    "isbn": "9783353001177",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Begonnen hatte alles mit den Geschichten, die Großmutter Cynthia dem kleinen Alex Haley in Henning, Tennessee, erzählte, von ihren Großeltern und deren Großeltern - und noch weiter zurück bis hin zu jenem Mann am Anfang der amerikanischen Überlieferung, den man in der Familie nur den \"Afrikaner\" nannte. Von jenseits des Ozeans stamme er her, aus einem afrikanischen Dorf unweit eines Flusses namens \"Kamby Bolongo\", und als er eines Tages auf der Suche gewesen sei nach einem geeigneten Stück Holz für seine Trommel, da hätten ihn vier Männer überfallen, in Ketten gelegt und auf ein für die amerikanischen Kolonien bestimmtes Sklavenschiff verschleppt. Diese Erzählungen haben Alex Haley nie losgelassen, und viele Jahre später, nun schon ein renommierter Schriftsteller, begann er, der Sache mit dem Urvater nachzugehen in einer mühsamen und zeitraubenden Suche nach Beweisen für die Erzählungen seiner Großmutter. Nach zwölf Jahren endlich und vielen Reisen in das Gebiet am Gambia-Fluß gelang es ihm, den \"Afrikaner\" - Kunta Kinte - zu identifizieren und den Ursprung seiner Familie zu finden.",
+    "pageCount": "700",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783353001177-de.jpg",
+    "read": true,
+    "addedAt": 1762903313005,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Angst des Tormanns beim Elfmeter",
+    "subtitle": "",
+    "authors": [
+      "Handke, Peter"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-11-12",
+    "isbn": "9783518799000",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "»Dem Monteur Josef Bloch, der früher ein bekannter Torwart gewesen war, wurde, als er sich am Vormittag zur Arbeit meldete, mitgeteilt, daß er entlassen sei. Jedenfalls legte Bloch die Tatsache, daß bei seinem Erscheinen in der Tür der Bauhütte, wo sich die Arbeiter gerade aufhielten, nur der Polier von der Jause aufschaute, als eine solche Mitteilung aus und verließ das Baugelände.« Im März 1970 erscheint die Erzählung »Die Angst des Tormanns beim Elfmeter« in der Startauflage von 25 000 Exemplaren, und ein halbes Jahr später hat sich die Auflage verdoppelt. Die Aufnahme fällt einhellig aus: »Diese Erzählung gehört zu dem Bestechendsten, was in den letzten zehn Jahren deutsch geschrieben worden ist.« (Karl Heinz Bohrer, »Frankfurter Allgemeine Zeitung«) »Um das vorweg zu sagen: ich halte >Die Angst des Tormanns beim Elfmeter ohne jede Einschränkung für das beste Buch, das in der deutschen Sprache nach Thomas Bernhards Verstörung und Ungenach",
+    "pageCount": "96",
+    "thumbnail": "https://books.google.com/books/content?id=8p48CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762903402516,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Dan Browns Sakrileg. Eine kritische Auseinandersetzung",
+    "subtitle": "Daten, Fakten und Hintergründe",
+    "authors": [
+      "Hanegraaff, Hank",
+      "Maier, Paul L."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006",
+    "isbn": "9783893975532",
+    "category": "Sachbuch",
+    "genre": "Religion",
+    "description": "Hank Hanegraaff ist ein Autor und Kritiker, der sich in seinen Werken mit religiösen Themen auseinandersetzt und Dan Browns Roman Sakrileg (Originaltitel: The Da Vinci Code) scharf kritisiert hat, insbesondere wegen der darin enthaltenen Verschwörungstheorien und alternativen Geschichtsdarstellungen. Hanegraaffs Kritik konzentriert sich auf die Fiktionen, die er als schädlich erachtet, und die vermischten Fiktionen und Fakten im Roman.",
+    "pageCount": "126",
+    "thumbnail": "https://clv.de/thumbnail/fb/8b/78/1591273406/CLV_dan-browns-sakrileg-the-da-vinci-code_hank-hanegraaff-paul-l-maier_255553_1_800x800.jpg?ts=1591273406",
+    "read": true,
+    "addedAt": 1762903739366,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "The Dry",
+    "subtitle": "Die Hitze",
+    "authors": [
+      "Harper, Jane"
+    ],
+    "series": "Aaron Falk",
+    "volume": "1",
+    "publishedDate": "2016-10-21",
+    "isbn": "9783644224117",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Die schlimmste Dürre seit Jahrzehnten lastet wie heißes Blei auf dem ländlichen Städtchen Kiewarra mitten im Nirgendwo. Das Vieh der Farmer stirbt, die Menschen fürchten um ihre Existenz. Als Luke Hadler, seine Frau und ihr Sohn Billy erschossen aufgefunden werden, glauben alle, dass der Farmer durchgedreht ist und erweiterten Suizid begangen hat. Aber Sergeant Raco hat seine Zweifel. Aaron Falk kehrt nach zwanzig Jahren zum ersten Mal nach Kiewarra zurück – zur Beerdigung seines Jugendfreundes Luke. Bald brechen alte Wunden wieder auf; das Misstrauen wirft seine langen Schatten auf die Kleinstadt. Und in der Hitze steigt der Druck immer mehr …",
+    "pageCount": "486",
+    "thumbnail": "https://books.google.com/books/content?id=iA0yDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762903970570,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der lange Winter am Ende der Welt",
+    "subtitle": "",
+    "authors": [
+      "Harris, Julie"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-01-12",
+    "isbn": "9783492983280",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Beim Versuch, im Jahr 1926 einen neuen Rekord im Alleinflug aufzustellen, schafft es John Robert Shaw bis Alaska. Doch dann gerät er in einen Sturm und gilt fortan als verschollen. Völlig unvermutet wird John 17 Jahre später gefunden – 17 Jahre, in denen er mit den Inuit gelebt hat, in einer Einöde aus ewigem Eis und Schnee. Nun sieht er sich gezwungen, zum zweiten Mal ein völlig neues Leben zu beginnen …",
+    "pageCount": "389",
+    "thumbnail": "https://books.google.com/books/content?id=MZTCDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762904170596,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Vaterland",
+    "subtitle": "",
+    "authors": [
+      "Harris, Robert"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-08-26",
+    "isbn": "9783641108342",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Hitler hat den Krieg gewonnen - Nazideutschland beherrscht ganz Europa. Das ist das Horrorszenario in Robert Harris' frivolem Politthriller.",
+    "pageCount": "346",
+    "thumbnail": "https://books.google.com/books/content?id=reptAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762904301095,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Das Schweigen der Lämmer",
+    "subtitle": "",
+    "authors": [
+      "Harris, Thomas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-10-31",
+    "isbn": "9783641096656",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Nur ein Mann kann dem FBI noch helfen, den geistesgestörten Frauenmörder „Buffalo Bill“ zu finden: Dr. Hannibal Lecter, der wegen einer Reihe von Verbrechen in der geschlossenen Abteilung einer psychiatrischen Klinik verwahrt wird. Die junge FBI-Agentin Clarice Starling soll ihn verhören, ohne zu wissen, auf welch teuflisches Spiel sie sich einlässt.",
+    "pageCount": "287",
+    "thumbnail": "https://books.google.com/books/content?id=-6vX2jShKykC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1762905173077,
     "rating": 5,
     "tags": []
   }
