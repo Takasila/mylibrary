@@ -3124,12 +3124,13 @@
     "isbn": "9783641053567",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
-    "description": "Es ist vier Uhr früh, als sich Katrina Marino auf den Heimweg macht. Die Straßen sind menschenleer, trotzdem hat Katrina das Gefühl, beobachtet zu werden. Als sie sich wenig später ihrer Haustür nähert, nimmt sie aus dem Augenwinkel eine Gestalt wahr. Noch bevor sie reagieren kann, ist der Angreifer über ihr und sticht mit einem Messer auf sie ein. Katrina fängt an zu schreien. Katrinas Nachbarn hören ihre Schreie. Alle schauen aus ihren Fenstern, doch wer unternimmt etwas? Auf dem Heimweg von der Arbeit wird Katrina Marino in den frühen Morgenstunden Opfer eines brutalen Überfalls. Der Angriff findet direkt vor ihrer Haustür statt – und unter den Augen ihrer Nachbarn, die fast ausnahmslos untätig bleiben. Jeder hat mit seinem eigenen kleinen Drama zu kämpfen. Der 19-jährige Patrick etwa, der zur Armee eingezogen werden soll, aber für seine kranke Mutter sorgen muss. Oder Diane, die sich mit ihrem Ehemann streitet, weil dieser sie betrügt. Sie hören Katrinas Schreie und sehen, dass vor ihrer Haustür etwas Schreckliches passiert. Katrina spürt die Betrachter und ihre Blicke und hofft auf Hilfe. Und sie kämpft gegen den Tod. „Ein Akt der Gewalt” basiert auf einer wahren Geschichte, dem Mord an Kitty Genovese, der 1964 weltweit für Schlagzeilen sorgte und dessen Umstände später unter dem Begriff Bystander-Effekt in die Kriminalgeschichte eingingen.",
+    "description": "Auf dem Heimweg von der Arbeit wird Katrina Marino in den frühen Morgenstunden Opfer eines brutalen Überfalls. Der Angriff findet direkt vor ihrer Haustür statt – und unter den Augen ihrer Nachbarn, die fast ausnahmslos untätig bleiben. Jeder hat mit seinem eigenen kleinen Drama zu kämpfen. Der 19-jährige Patrick etwa, der zur Armee eingezogen werden soll, aber für seine kranke Mutter sorgen muss. Oder Diane, die sich mit ihrem Ehemann streitet, weil dieser sie betrügt. Sie hören Katrinas Schreie und sehen, dass vor ihrer Haustür etwas Schreckliches passiert. Katrina spürt die Betrachter und ihre Blicke und hofft auf Hilfe. Und sie kämpft gegen den Tod. „Ein Akt der Gewalt” basiert auf einer wahren Geschichte, dem Mord an Kitty Genovese, der 1964 weltweit für Schlagzeilen sorgte und dessen Umstände später unter dem Begriff Bystander-Effekt in die Kriminalgeschichte eingingen.",
     "pageCount": "207",
     "thumbnail": "https://books.google.com/books/content?id=pw_2opAbK8UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 3,
-    "tags": []
+    "tags": [],
+    "subtitle": ""
   },
   {
     "title": "Das Sommerbuch",
@@ -14448,8 +14449,8 @@
     "authors": [
       "Indriðason, Arnaldur"
     ],
-    "series": "",
-    "volume": "",
+    "series": "Kommissar Erlendur",
+    "volume": "3",
     "publishedDate": "2011-07-22",
     "isbn": "9783838712628",
     "category": "Belletristik",
@@ -14462,6 +14463,194 @@
     "rating": 3,
     "tags": [
       "Island"
+    ]
+  },
+  {
+    "title": "Todeshauch",
+    "subtitle": "Island Krimi",
+    "authors": [
+      "Indriðason, Arnaldur"
+    ],
+    "series": "Kommissar Erlendur",
+    "volume": "4",
+    "publishedDate": "2011-07-22",
+    "isbn": "9783838712635",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In einer Baugrube am Stadtrand von Reykjavík werden menschliche Knochen gefunden. Wer ist der Tote, der hier verscharrt wurde? Wurde er lebendig begraben? Erlendur und seine Kollegen von der Kripo Reykjavík werden mit grausamen Details konfrontiert. Stück für Stück rollen sie Ereignisse aus der Vergangenheit auf und bringen Licht in eine menschliche Tragödie, die bis in die Gegenwart hineinreicht. Während Erlendur mit Schrecknissen früherer Zeiten beschäftigt ist, kämpft seine Tochter Eva Lind auf der Intensivstation um ihr Leben …",
+    "pageCount": "310",
+    "thumbnail": "https://books.google.com/books/content?id=r1sWK8rnMe0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1764635440067,
+    "rating": 3,
+    "tags": [
+      "Island"
+    ]
+  },
+  {
+    "title": "Das Hotel New Hampshire",
+    "subtitle": "",
+    "authors": [
+      "Irving, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-04-24",
+    "isbn": "9783257600216",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Eine gefühlvolle Familiengeschichte, in der motorradfahrende und feministische Bären, weiße Vergewaltiger und schwarze Rächer, ein Wiener Hotel voller Huren und Anarchisten, ein Familienhund mit Flatulenz im Endstadium, Arthur Schnitzler, Moby Dick, der große Gatsby, Gewichtheber, Geschwisterliebe und Freud vorkommen – nicht ›der‹ Freud, sondern Freud der Bärenführer.",
+    "pageCount": "540",
+    "thumbnail": "https://books.google.com/books/content?id=4WRtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1764635632850,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Gottes Werk und Teufels Beitrag",
+    "subtitle": "",
+    "authors": [
+      "Irving, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-03-27",
+    "isbn": "9783257600209",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Homer ist anders als die anderen Kinder im Saint-Cloud´s Waisenhaus: Er will nicht weg. Nach vier gescheiterten Adoptionsversuchen erlaubt Dr. Larch ihm daher, zu bleiben ­ unter der Bedingung, dass er im Waisenhaus mit angeschlossener Entbindungs- und Abtreibungsstation bei »Gottes Werk« ­ dem Entbinden ­ und bei »Teufels Beitrag« ­ dem Abtreiben ­ assistiert. Doch das ist nur der Beginn von Homers Odyssee.",
+    "pageCount": "747",
+    "thumbnail": "https://books.google.com/books/content?id=JWNtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1764635751973,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Das Glücksbüro",
+    "subtitle": "",
+    "authors": [
+      "Izquierdo, Andreas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-02-21",
+    "isbn": "9783832187125",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Albert Glück ist ein seltsamer Kauz. Er ist knapp über fünfzig, ein wenig trocken, penibel, und er arbeitet im Amt für Verwaltungsangelegenheiten. Formulare, Stempel, Dienstvorschriften sind seine Welt, in der er sich gut eingerichtet hat. Ganz wörtlich, denn Albert arbeitet nicht nur in dem Amt, er wohnt auch dort. Von allen unbemerkt hat er im Keller einen kleinen Raum bezogen und verbringt zufrieden seine Tage im immer gleichen Rhythmus. Doch eines Tages wird Alberts sorgsam eingehaltene Ordnung durcheinandergebracht. Auf seinem Schreibtisch landet ein Antrag, den es eigentlich gar nicht geben dürfte, denn er beantragt – nichts! Albert tut alles, um diesen unseligen Antrag loszuwerden, doch vergeblich: Immer wieder kehrt er auf seinen Schreibtisch zurück. Es bleibt ihm nichts anderes übrig, als sich auf den Weg zum Antragsteller zu machen. So trifft Albert auf Anna Sugus, eine ziemlich wilde Künstlerin, die Alberts Welt ganz schön auf den Kopf stellt …",
+    "pageCount": "323",
+    "thumbnail": "https://books.google.com/books/content?id=qpC1BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1764635871396,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Hummeldumm",
+    "subtitle": "",
+    "authors": [
+      "Jaud, Tommy"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010",
+    "isbn": "9783502110378",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Wer an allem schuld ist, ist für Matze sowieso klar: seine Freundin Sina. Während er in endlosen Verhandlungen die neue Eigentumswohnung klargemacht hat, sollte sie einfach nur »irgendwas« buchen. Hat sie auch. Doch musste dieses »irgendwas« ausgerechnet eine zweiwöchige Gruppenreise durch Namibia sein, ein Land, in dem jede hüftkranke Schildkröte schneller ist als das Internet? Was hat er denn verbrochen, dass man ihn nun täglich in einen Kleinbus voller Bekloppter sperrt, um ihn dann zu österreichischen Schlagern über afrikanische Schotterpisten zu rütteln? Und warum stolpert er bei minus zwei Grad in einem albernen Wanderhut über die Dünen der Kalahari, statt auf Mallorca ein Bierchen zu schlürfen? Als Matze dann noch daran erinnert wird, dass die sicher geglaubte Wohnung an andere Käufer geht, wenn er nicht sofort die fünftausend Euro Reservierungsgebühr überweist, hat er gleich noch drei neue Probleme: Das nächste Internetcafé ist fünfhundert Kilometer entfernt, der Handyakku plattgedaddelt und das einzige Ladegerät fest in österreichischer Hand.",
+    "pageCount": "303",
+    "thumbnail": "https://books.google.com/books/content?id=vbjjQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1764636305595,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Millionär",
+    "subtitle": "",
+    "authors": [
+      "Jaud, Tommy"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2007",
+    "isbn": "9783502110330",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Simon nörgelt, Simon nervt – aber Simon verbessert die Welt. Glaubt er. Außerdem braucht der inzwischen arbeitslose Vollidiot mal eben 1 Million Euro, um eine nervtötende Nachbarin loszuwerden. In seiner Not entwickelt Simon eine derart abgefahrene Geschäftsidee, dass die Chancen hierfür gar nicht so schlecht stehen …",
+    "pageCount": "332",
+    "thumbnail": "https://books.google.com/books/content?id=rX4hAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1764720141147,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Vollidiot",
+    "subtitle": "",
+    "authors": [
+      "Jaud, Tommy"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783870247515",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "»Ich will diese Frau! Also muss ich sie ansprechen. So einfach ist das. Ich beschließe, bis zehn zu zählen, um dann festen Schrittes und mit charismatischem Siegerlächeln den Laden zu betreten. Dann werde ich sie fragen, was sie nach Feierabend vorhat. So was machen täglich Tausende von Männern. Und nicht wenige von ihnen kommen Sekunden später mit ihrer zukünftigen Ehefrau aus Cafés, Supermärkten und Bowlingcentern. Gut, danach gibt es dann oft noch ein paar kleinere Probleme wie Untreue, Erpressung und Schießereien, aber am Ende ist immer alles gut.«",
+    "pageCount": "300",
+    "thumbnail": "https://books.google.com/books/content?id=U38hAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1764720338137,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Stunde des Schakals",
+    "subtitle": "",
+    "authors": [
+      "Jaumann, Bernhard"
+    ],
+    "series": "Clemencia Garises",
+    "volume": "1",
+    "publishedDate": "2010-03-31",
+    "isbn": "9783644303218",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Namibia im Januar: Die Regenzeit will nicht kommen, das Land ächzt unter Hitze und Dürre. Im Windhuker Nobelviertel Ludwigsdorf tollen die Kinder auch abends noch im Pool. Ein Mann, der seine Zitronenbäume wässert, wird über den Elektrozaun hinweg mit einer AK-47 erschossen. Neunzehn Jahre nach der Ermordung des SWAPO-Anwalts Anton Lubowski beginnt so eine Attentatsserie, der nach und nach die damaligen Täter vom südafrikanischen Geheimdienst zum Opfer fallen. Für die junge Windhuker Kriminalpolizistin Clemencia Garises werden die erbitterten Kämpfe aus der Endzeit der Apartheid lebendig, die sie bisher nur aus Erzählungen kannte. Ihr Job ist es, einen Mörder zu finden und die rassistischen Täter von damals zu schützen. Ihr Gegenspieler ist ein Killer, der so schnell verschwindet, wie er aufgetaucht ist. Er tötet in einem namibischen Villenviertel und findet Zugang zu einem südafrikanischen Gefängnis, er schmuggelt seine AK-47 über die Grenze, er wartet unter einem Kameldornbaum in der Kalahari-Wüste geduldig auf sein nächstes Opfer. Er ist todkrank, er ist allein, er mordet wieder. Clemencia ahnt schnell, dass ein selbsternannter Racheengel eine alte Schuld begleichen will. Doch wer ist der Täter? Und warum schlägt er erst nach fast zwei Jahrzehnten zu?",
+    "pageCount": "230",
+    "thumbnail": "https://books.google.com/books/content?id=nURuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1764720424805,
+    "rating": 3,
+    "tags": [
+      "Afrika",
+      "Namibia"
+    ]
+  },
+  {
+    "title": "Steinland",
+    "subtitle": "",
+    "authors": [
+      "Jaumann, Bernhard"
+    ],
+    "series": "Clemencia Garises",
+    "volume": "2",
+    "publishedDate": "2012-03-09",
+    "isbn": "9783644307513",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Es ist eine klare, kalte Winternacht in Namibia. Elsa Rodenstein, das Gewehr quer vor der Brust, bewacht in stummer Verzweiflung den Leichnam ihres Mannes. Am nächsten Morgen nimmt Kriminalinspektorin Clemencia Garises die Aussage der Witwe und der deutschstämmigen Nachbarfarmer auf. Alles deutet auf einen Raubüberfall hin. Auch von dem Sohn fehlt jede Spur. Ist er das Opfer einer Entführung geworden? Nach einer wilden Verfolgungsjagd durch das Windhoeker Township Katutura gelingt es Clemencia zwar, einen Verdächtigen festzunehmen, dieser erzählt jedoch eine völlig andere Version der Ereignisse jener Nacht. Schon bald ist klar, dass es hier um viel mehr geht. Die von der Enteignung bedrohte Farm Steinland spielt offenbar eine Schlüsselrolle in den undurchsichtigen politischen Auseinandersetzungen um die Landreform in Namibia. Doch was die junge Kriminalinspektorin mindestens genauso umtreibt wie die politische Brisanz ihres neuesten Falls ist die Tatsache, dass ihr Bruder Melvin an dem Verbrechen beteiligt gewesen sein soll. Sie befürchtet Schlimmes, zumal Melvin verschwunden ist.",
+    "pageCount": "373",
+    "thumbnail": "https://books.google.com/books/content?id=T5luAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1764720630171,
+    "rating": 3,
+    "tags": [
+      "Afrika",
+      "Namibia"
     ]
   }
 ]
