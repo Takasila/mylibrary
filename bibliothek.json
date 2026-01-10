@@ -3047,12 +3047,13 @@
     "description": "Mit den fiktiven Lebenserinnerungen des SS-Obersturmführers Maximilian Aue, Jahrgang 1913, Sohn eines deutschen Vaters und einer französischen Mutter, zeichnet Jonathan Littell ein erschreckend detailgenaues Bild des Zweiten Weltkriegs und der Verfolgung und Vernichtung der Juden durch die Nationalsozialisten aus Sicht eines Täters.",
     "pageCount": "1363",
     "thumbnail": "https://books.google.com/books/content?id=Y04UAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "read": false,
-    "rating": null,
+    "read": true,
+    "rating": 5,
     "tags": [
       "Holocaust",
       "2. Weltkrieg"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Schlaf der Vernunft",
@@ -15116,6 +15117,528 @@
     "thumbnail": "https://pictures.abebooks.com/inventory/md/md32320605481.jpg",
     "read": true,
     "addedAt": 1766354482003,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Schindlers Liste",
+    "subtitle": "",
+    "authors": [
+      "Keneally, Thomas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1994",
+    "isbn": "9783442425297",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Oskar Schindler, Bonvivant, Spekulant und Charmeur, ein Industriellensohn aus Mähren, Liebhaber schöner Frauen, brillanter Geschäftsmann, gutaussehender blonder Deutscher - dieser Mann übernimmt 1939 in Krakau eine \"arisierte\" Emailfabrik. Seine Arbeiter sind Juden, sie haben es gut bei ihm. Binnen kurzem ist Schindler mit jedem wichtigen Nazi in Krakau \"befreundet\", er macht grosszügige Geschenke, arrangiert ausschweifende Feste, besticht, wo es sich lohnt. 1942, bei der Auflösung des Krakauer Ghettos, sieht er mit an, wie Juden zusammengetrieben und auf der Strasse erschossen werden. Er sagt später dazu: \"Seit damals musste jedem denkenden Menschen klar sein, was geschehen würde. Und ich nahm mir fest vor, das zu verhindern.\" Schindler verhindert es in den nächsten Jahren mit allen Mitteln. Er wird zur Hoffnung vieler, die vor allem unter der unglaublichen Willkür des KZ- Kommandanten Göth leiden. Und wenn er auch gegen den organisierten Massenmord nichts tun kann, so schafft er es doch, Personen, die er irgendwie für seinen Betrieb reklamieren kann, noch aus den Transportzügen und den Todeszellen der KZs herauszuholen. Ende 1944 scheint dies alles zusammenzubrechen. Sämtliche Lager um Krakau sollen aufgelöst, ihre Insassen nach Auschwitz gebracht werden. Und noch einmal hat Schindler Erfolg. Er bekommt die Genehmigung, seine Fabrik und seine Arbeiter nach Brünnlitz in Mähren überzusiedeln. Über tausend Juden stehen auf der Liste, sie entgehen dem sicheren Tod. Die Geretteten schmieden ihm aus eigenem Zahngold einen Ring, in den sie den Talmud-Spruch eingravieren: \"Wer ein einziges Leben rettet, der rettet die ganze Welt.\"",
+    "pageCount": "344",
+    "thumbnail": "https://books.google.com/books/content?id=5RgwQAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1767308729378,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Als Hitler das rosa Kaninchen stahl",
+    "subtitle": "",
+    "authors": [
+      "Kerr, Judith"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-04-01",
+    "isbn": "9783473544417",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Berlin, 1933: Die Nazis stehen kurz vor ihrem entscheidenden Wahlsieg. In letzter Minute reist die neunjährige Jüdin Anna mit ihrer Familie in die Schweiz. Doch vieles von dem, was zu ihrem Alltag gehörte, muss in Berlin bleiben – auch Annas rosa Stoffkaninchen. Und so beginnt für die Familie ein Leben auf der Flucht …",
+    "pageCount": "239",
+    "thumbnail": "https://books.google.com/books/content?id=KiWwoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1767308885436,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Feuer in Berlin",
+    "subtitle": "",
+    "authors": [
+      "Kerr, Philip"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-12-02",
+    "isbn": "9783644476219",
+    "category": "Belletristik",
+    "genre": "Historisch; Krimi & Thriller",
+    "description": "In seiner Berlin-Trilogie um den Privatdetektiv Bernhard Gunther schafft es Philip Kerr, in der Form des spannenden Kriminalromans die schmutzig-düstere Atmosphäre der Nazi- und Post-Nazi-Zeit in Berlin zu beschwören. Geschickt verwebt er die historischen Ereignisse und ihre Protagonisten mit seinen Kriminalgeschichten – eine atemberaubende Mischung.",
+    "pageCount": "442",
+    "thumbnail": "https://books.google.com/books/content?id=_yFsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1767309130446,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Roman eines Schicksallosen",
+    "subtitle": "",
+    "authors": [
+      "Kertész, Imre"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-09-01",
+    "isbn": "9783644106215",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Imre Kertész ist etwas Skandalöses gelungen: die Entmystifizierung von Auschwitz. Es gibt kein literarisches Werk, das in dieser Konsequenz, ohne zu deuten, ohne zu werten, der Perspektive eines staunenden Kindes treu geblieben ist. Wohl nie zuvor hat ein Autor seine Figur Schritt für Schritt bis an jene Grenze hinab begleitet, wo das nackte Leben zur hemmungslosen, glücksüchtigen, obszönen Angelegenheit wird.",
+    "pageCount": "173",
+    "thumbnail": "https://books.google.com/books/content?id=8yZvAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1767309462577,
+    "rating": 5,
+    "tags": [
+      "Holocaust"
+    ]
+  },
+  {
+    "title": "Beutezeit",
+    "subtitle": "",
+    "authors": [
+      "Ketchum, Jack"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-03-31",
+    "isbn": "9783641141356",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Drei junge Paare wollen eine Urlaubswoche in einem abgelegenen Ferienhaus an der amerikanischen Ostküste verbringen. Was sie nicht wissen: Die Gegend wird von einer Gruppe Verwahrloster heimgesucht, die unter primitivsten Bedingungen leben und Urlauber nur als Beute betrachten. Die Jagd beginnt …",
+    "pageCount": "224",
+    "thumbnail": "https://books.google.com/books/content?id=Gg40AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1767309660303,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "EVIL",
+    "subtitle": "",
+    "authors": [
+      "Ketchum, Jack"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-03-31",
+    "isbn": "9783641141363",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Jack Ketchums beunruhigender, grenzüberschreitender Horrorthriller gilt unter Experten als eines der großen Meisterwerke des Genres. Die Geschichte eines Jungen, der inmitten einer amerikanischen Vorstadtidylle mit unvorstellbaren Grausamkeiten konfrontiert wird, steigt tief hinab in die Abgründe der menschlichen Psyche. Nachdem der brillant geschriebene Roman viele Jahre unter der Hand als geheimer Klassiker die Runde gemacht hatte, erhält er jetzt nicht zuletzt dank Stephen King, der zu diesem Werk auch eine ausführliche Einleitung verfasst hat, die verdiente Aufmerksamkeit und erscheint nun endlich auch als deutsche Erstausgabe.",
+    "pageCount": "269",
+    "thumbnail": "https://books.google.com/books/content?id=ZA40AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1767309843616,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Charly (Blumen für Algernon)",
+    "subtitle": "Roman",
+    "authors": [
+      "Keyes, Daniel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-10-15",
+    "isbn": "9783608100778",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Die spannende und erschütternde Geschichte des geistig zurückgebliebenen Charlie Gordon, der durch eine Operation eine überragende Intelligenz erlangt, gehört zu den erfolgreichsten Klassikern der Science-Fiction. Der mehrfach preisgekrönte Roman ist in 27 Sprachen übersetzt, millionenfach verkauft und gelesen und unter dem Titel »Charly« verfilmt. Charlie Gordon, ursprünglich kaum des Lesens mächtig, ist zu Forschungszwecken operiert worden und entwickelt eine überragende Intelligenz; schließlich überflügelt er intellektuell und fachlich sogar die Professoren, die das Experiment leiten. Zu seinen Freunden zählt die Maus Algernon - das erste Lebewesen, das mit derselben Methode erfolgreich behandelt wurde. Mit den überwältigenden Fähigkeiten stellen sich für das Genie Charlie jedoch auch die ersten Probleme ein - in der Bäckerei, in der er früher arbeitete, mit seiner Familie, von der er jetzt entdeckt, dass sie ihn nie akzeptiert hat, und im Umgang mit dem weiblichen Geschlecht, vor dem er unerklärliche Angst hat. Als Charlie auf einem Fachkongress als Attraktion vorgeführt werden soll, flieht er zusammen mit Algernon. Kurze Zeit später zeigen sich im Verhalten der Maus erste Verfallserscheinungen … Charlies Aufzeichnungen für das Forscherteam geben dem Leser einen atemberaubenden Einblick in seine geistige Entwicklung und das Drama seiner Existenz. Die seit vielen Jahren nicht mehr lieferbaren früheren deutschsprachigen Ausgaben erschienen unter dem Titel »Charly«.",
+    "pageCount": "192",
+    "thumbnail": "https://books.google.com/books/content?id=ZnM-DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1767310065820,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Amok",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1988",
+    "isbn": "9783453025547",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Eine High School in Maine: Nach einem Gespräch mit dem Rektor erschießt der Schüler Charles Decker seine Lehrerin und nimmt seine Mitschüler als Geiseln. Sein Amoklauf löst in der Klasse ein unheimliches Psychospiel aus, das unbewusste Konflikte und Traumata mobilisiert. Die Schüler steigern sich in eine unkontrollierte Wut …",
+    "pageCount": "220",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8565783-L.jpg",
+    "read": true,
+    "addedAt": 1767310159306,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Brennen muss Salem!",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1992",
+    "isbn": "9783453020535",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Ben Mears kehrt nach Salems Lot zurück und interessiert sich dort für das Marsten-Haus. Von diesem Haus geht eine unheimliche Kraft aus, und bald zeigt sich, wer in Salems Lot sein Unwesen treibt: ein Vampir. Ben wagt es mit einigen Helfern – darunter ein alter Mann, eine junge Frau und ein Kind –, den Kampf gegen die Macht des Bösen aufzunehmen. Doch dieses Wagnis kostet furchtbare Opfer.",
+    "pageCount": "374",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14656110-L.jpg",
+    "read": true,
+    "addedAt": 1767310369851,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Carrie",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-10-25",
+    "isbn": "9783838752020",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Als 3-jährige lässt sie einen Steinregen auf ihr Elternhaus niederregnen, weil ihre Mutter ihr in einem Anfall religiösem Wahns nach dem Leben trachtet. Als 16-jährige erlebt sie einen Augenblick tiefster Demütigung. Dann, auf dem Abschlussball der Schule, wird sie das Opfer eines bösen Streichs. Schmerz, Enttäuschung, Wut treiben sie zum Äußersten: Mit der schieren Kraft ihres Willens entfesselt sie ein Inferno, gegen das die Hölle der Garten Eden ist. Das ist Carrie - beseelt, besessen von einer unheimlichen Gabe mit ungeheurer Tragweite und furchtbaren Folgen …",
+    "pageCount": "301",
+    "thumbnail": "https://books.google.com/books/content?id=vRVfAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1767310640489,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Cujo",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1986",
+    "isbn": "9783404130351",
+    "category": "",
+    "genre": "",
+    "description": "Der Bernhardiner Cujo ist der Liebling von ganz Castle Rock. Eines Tages wird er von einer Fledermaus mit einem teuflischen Virus infiziert. Die Kleinstadtidylle verwandelt sich fortan in eine Hölle, die von einem mordgierigen Monster beherrscht wird …",
+    "pageCount": "351",
+    "thumbnail": "https://covers.openlibrary.org/b/id/9255954-L.jpg",
+    "read": true,
+    "addedAt": 1767310708615,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Das Monstrum",
+    "subtitle": "Tommyknockers",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-03-04",
+    "isbn": "9783641053543",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Wo die bösen Träume lauern … Haven ist eine verschlafene Kleinstadt. Eines Tages entdeckt Bobbi Anderson im Wald ein seltsames Ding, das die Bürger auf unheimliche Art verwandelt. Und plötzlich hält das Grauen Einzug in Haven …",
+    "pageCount": "684",
+    "thumbnail": "https://books.google.com/books/content?id=lszJxnUryKIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1767310950930,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Dead Zone",
+    "subtitle": "Das Attentat",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-08-31",
+    "isbn": "9783641206130",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Johnny erwacht nach fünf Jahren aus dem Koma und besitzt auf einmal hellseherische Fähigkeiten. Als er einem Politiker die Hand schüttelt, hat er die Vision, dass dieser als zukünftiger US-Präsident den Dritten Weltkrieg auslösen wird. Johnny ringt mit seinem Gewissen und beschließt ein Attentat …",
+    "pageCount": "449",
+    "thumbnail": "https://books.google.com/books/content?id=eJWnDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1767311046258,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Anschlag",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-01-23",
+    "isbn": "9783641064402",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Am 22. November 1963 fielen in Dallas, Texas, drei Schüsse. John F. Kennedy starb, und die Welt veränderte sich für immer. Wenn man das Geschehene ungeschehen machen könnte – wären die Folgen es wert? Jake Epping kann in die Vergangenheit zurückkehren und will den Anschlag verhindern. Aber je näher er seinem Ziel kommt, umso vehementer wehrt sich die Vergangenheit gegen jede Änderung.",
+    "pageCount": "1068",
+    "thumbnail": "https://books.google.com/books/content?id=1yMI-OCmnT8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1767311211667,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Gesang der Toten",
+    "subtitle": "Unheimliche Geschichten",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1995",
+    "isbn": "9783453084100",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Stephen Kings unheimliche Erzählungen beginnen meist als Idyllen, die jäh in beklemmende Visionen umschlagen. Fast unmerklich entwickeln sich aus alltäglichen Situationen Angst und Schrecken, die Macht des Übernatürlichen wächst ins Ungeheuerliche, der Wahnsinn zieht immer weitere Kreise. In diesem Band erscheinen neun seiner besten Horrorgeschichten.",
+    "pageCount": "282",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783548263298-us.jpg",
+    "read": true,
+    "addedAt": 1767311319393,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Es",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-02-18",
+    "isbn": "9783641053574",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Das Böse in Gestalt eines namenlosen Grauens In Derry, Maine, schlummert das Böse in der Kanalisation: Alle 28 Jahre wacht es auf und muss fressen. Jetzt taucht »Es« wieder empor. Sieben Freunde entschließen sich, dem Grauen entgegenzutreten und ein Ende zu setzen.",
+    "pageCount": "1095",
+    "thumbnail": "https://books.google.com/books/content?id=V3YBOs81auwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1767311500502,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Feuerkind",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-08-31",
+    "isbn": "9783641206147",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Das Mädchen Charlie kann allein mit Gedanken Feuersbrünste entfachen. Ihre Eltern verlangen, dass sie diese Macht niemals einsetzt. Aber gilt das auch, wenn das eigene Leben, das Leben der Familie bedroht wird?",
+    "pageCount": "480",
+    "thumbnail": "https://books.google.com/books/content?id=55WnDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1767311618994,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "In einer kleinen Stadt (Needful Things)",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-07-05",
+    "isbn": "9783641035693",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Eine Kleinstadt gerät außer Kontrolle Der Zugereiste Leland Gaunt eröffnet den Laden „Needful Things“. Die Kunden finden dort Raritäten, mit denen sie ihre geheimen Sehnsüchte und Wünsche erfüllen. Aber alles hat seinen Preis: Neben einer symbolischen Bezahlung verlangt Leland von ihnen, anderen Einwohnern harmlose Streiche zu spielen. Bald schon eskaliert der Spaß, und in Castle Rock herrscht das blanke Chaos ... • Vierter Roman des „Castle-Rock“-Zyklus • Verfilmt mit Max von Sydow und Ed Harris",
+    "pageCount": "755",
+    "thumbnail": "https://books.google.com/books/content?id=KDHgLLDP0oMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768040114288,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Joyland",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-04-15",
+    "isbn": "9783641147075",
+    "category": "Belletristik",
+    "genre": "Mystery",
+    "description": "Irgendwann ist es mit der Unschuld vorbei. Irgendwann hört jeder Spaß auf. Auf verhängnisvolle Weise kreuzen sich in einem kleinen Vergnügungspark die Wege eines untergetauchten Mörders und eines Kindes. Und mitten im sich überschlagenden Geschehen steht ein junger, unschuldiger Student, der alles zu verlieren droht und doch so viel gewinnt.",
+    "pageCount": "369",
+    "thumbnail": "https://books.google.com/books/content?id=DuocAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768040213828,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Shining",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-10-25",
+    "isbn": "9783838752037",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Ein Hotel in den Bergen von Colorado. Jack Torrance, ein verkrachter Intellektueller mit Psycho-Problemen, bekommt den Job als Hausmeister, um den er sich beworben hat. Zusammen mit seiner Frau Wendy und seinem Sohn Danny reist er in den letzten Tagen des Herbstes an. Das Hotel \"Overlook\" ist ein verrufener Ort. Wer sich ihm ausliefert, verfällt ihm, wird zum ausführenden Organ aller bösen Träume und Wünsche, die sich in ihm manifestieren.",
+    "pageCount": "650",
+    "thumbnail": "https://books.google.com/books/content?id=WRVfAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768040418814,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Stark (Dark Half)",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-07-27",
+    "isbn": "9783641035716",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Seit Jahren hat Thad Beaumont unter dem Pseudonym George Stark erfolgreich blutrünstige Thriller veröffentlicht. Als das Pseudonym aufgedeckt wird, beschließt er, sein Alter Ego »umzubringen«. Kurz darauf kommt es zu einer Mordserie in der Kleinstadt, unter den Opfern sind jene, die sich an dem symbolischen Begräbnis beteiligt haben. Ist George Stark wieder zum Leben erwacht?",
+    "pageCount": "525",
+    "thumbnail": "https://books.google.com/books/content?id=4fkrHUSI-x0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768040508254,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "The Stand. Das letzte Gefecht",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-03-08",
+    "isbn": "9783641153434",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Über 1.500 Seiten Stephen King pur! In einem entvölkerten Amerika versucht eine Handvoll Überlebende die Zivilisation zu retten. Ihr Gegenspieler ist eine mythische Gestalt, die man den Dunklen Mann nennt, eine Verkörperung des absolut Bösen. In der Wüste Nevada kommt es zum Entscheidungskampf um das Schicksal der Menschheit.",
+    "pageCount": "1098",
+    "thumbnail": "https://books.google.com/books/content?id=M0DgBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768040610794,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Zwischen Nacht und Dunkel",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-11-30",
+    "isbn": "9783641052164",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ob als Täter oder Opfer, unschuldig oder schuldig, durch Schicksal oder Absicht – wir kommen in Situationen, die uns eine Entscheidung abverlangen: Wie weit muss ich gehen, bis mir Gerechtigkeit widerfährt? Manchmal muss man sehr weit gehen … „1922”: Ein Vater überredet seinen Sohn auf perfide Weise, gemeinsam mit ihm die Ehefrau/Mutter umzubringen – und der Horror für den Rest des Lebens der beiden nimmt seinen Anfang. „Big Driver”: Die Schriftstellerin Tess wird nach einer Lesung brutal vergewaltigt. Sie will auf eigene Faust Vergeltung üben … „Faire Verlängerung”: Der schwer krebskranke Streeter geht einen teuflischen Pakt ein. Seine Genesung und sein Glück scheinen fortan Unglück und Untergang für andere zu sein. Kann er dem Einhalt gebieten? Will er das überhaupt? „Eine gute Ehe”: Zufällig entdeckt Darcy, dass der Mann, mit dem sie 27 Jahre lang glücklich verheiratet ist, ein Doppelleben als wahres Ungeheuer führt. Bis dass der Tod euch scheidet … ist das der einzige Ausweg? Vier grandiose, bislang unveröffentlichte Novellen.",
+    "pageCount": "393",
+    "thumbnail": "https://books.google.com/books/content?id=hu9Z6JeKyE4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768040747153,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Menschenjagd. The Running Man",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-02-18",
+    "isbn": "9783641055073",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Die ultimative Gameshow: Wer verliert, ist tot Reality-TV im Jahr 2025: In der Gameshow Menschenjagd werden die Kandidaten zu Freiwild – gejagt von einem Killerkommando und der ganzen Nation. Wer überlebt, gewinnt eine Milliarde Dollar – und wird er dabei selbst zum Mörder, gibt es einen Bonus obendrauf. Benjamin braucht das Geld, um seine todkranke Tochter zu retten. ER weiß, dass es noch nie einen Überlebenden gab …",
+    "pageCount": "306",
+    "thumbnail": "https://books.google.com/books/content?id=UT8BQzhA9ssC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768040879858,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Todesmarsch",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-01-29",
+    "isbn": "9783641162221",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Ray Garraty ist einer von 100 Teilnehmern des Todesmarschs – ein jährlicher Wettbewerb um den ultimativen Preis in einer düsteren Zukunftsvision der USA. Der Marsch nach Süden beginnt an der kanadischen Grenze und ist mit dem Tod des vorletzten Gegners zu Ende. Der Sieger erhält bis an sein Lebensende alles, was er sich wünscht. Die Regeln sind einfach: Man darf nicht anhalten und eine bestimmte Mindestgeschwindigkeit nicht unterschreiten. Ansonsten wird man verwarnt und statt der vierten Verwarnung gibt es die rote Karte – in Form einer tödlichen Kugel …",
+    "pageCount": "277",
+    "thumbnail": "https://books.google.com/books/content?id=4KEzBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768041045866,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Puppenspieler",
+    "subtitle": "",
+    "authors": [
+      "Kinkel, Tanja"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1995",
+    "isbn": "9783442429554",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Breit angelegter, spannender Roman aus der Zeit der Fugger, die mit der Macht ihres Geldes die Fürsten Europas beherrschten.",
+    "pageCount": "667",
+    "thumbnail": "https://books.google.com/books/content?id=qIdpAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1768041167353,
     "rating": 3,
     "tags": []
   }
