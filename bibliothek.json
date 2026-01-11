@@ -3416,14 +3416,15 @@
     "isbn": "9783641203351",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
-    "description": "Die Millennium-Trilogie in moderner Neuausstattung Der Journalist Mikael Blomkvist recherchiert in einem besonders brisanten Fall von Mädchenhandel. Junge russische Frauen werden gewaltsam zur Prostitution gezwungen. Die Hintermänner bekleiden hohe Regierungsämter. Als Blomkvists Informant tot aufgefunden wird, fällt der Verdacht auf die Ermittlerin Lisbeth Salander. Nur Blomkvist glaubt an ihre Unschuld. Eine mörderische Hetzjagd beginnt.",
+    "description": "Der Journalist Mikael Blomkvist recherchiert in einem besonders brisanten Fall von Mädchenhandel. Junge russische Frauen werden gewaltsam zur Prostitution gezwungen. Die Hintermänner bekleiden hohe Regierungsämter. Als Blomkvists Informant tot aufgefunden wird, fällt der Verdacht auf die Ermittlerin Lisbeth Salander. Nur Blomkvist glaubt an ihre Unschuld. Eine mörderische Hetzjagd beginnt.",
     "pageCount": "501",
     "thumbnail": "https://books.google.com/books/content?id=L8vhw_62tqwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 5,
     "tags": [
       "Schweden"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Vergebung",
@@ -3436,14 +3437,15 @@
     "isbn": "9783641203368",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
-    "description": "Die Millennium-Trilogie in moderner Neuausstattung Die Ermittlerin Lisbeth Salander steht unter Mordverdacht. Ihr Partner, der Journalist Mikael Blomkvist, schwört, ihre Unschuld zu beweisen. Um jeden Preis. Blomkvist weiß, dass es diesmal um Salanders Leben geht. Gegen alle Widerstände bringt er die Wahrheit ans Licht. Als seine Ermittlungen die schwedische Regierung in ihren Grundfesten zu erschüttern drohen, setzt er alles auf eine Karte.",
+    "description": "Die Ermittlerin Lisbeth Salander steht unter Mordverdacht. Ihr Partner, der Journalist Mikael Blomkvist, schwört, ihre Unschuld zu beweisen. Um jeden Preis. Blomkvist weiß, dass es diesmal um Salanders Leben geht. Gegen alle Widerstände bringt er die Wahrheit ans Licht. Als seine Ermittlungen die schwedische Regierung in ihren Grundfesten zu erschüttern drohen, setzt er alles auf eine Karte.",
     "pageCount": "559",
     "thumbnail": "https://books.google.com/books/content?id=Gi_L423XJP8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 5,
     "tags": [
       "Schweden"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Parasitus Rex",
@@ -5048,8 +5050,8 @@
     "volume": "",
     "publishedDate": "2017-02-27",
     "isbn": "9783800079568",
-    "category": "",
-    "genre": "",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
     "description": "In diesem Buch versammeln die renommierten und bekannten Historiker Georg Kugler und Herwig Wolfram die wichtigsten und spannendsten 99 Fragen zur österreichischen Geschichte. \"Woher kommt der Titel Erzherzog in Österreich?\", \"Wie kam Österreich zu seinem Namen, was bedeutet er und wo ist er entstanden?\" sind nur zwei der Fragen, die die Autoren beantworten und damit einen Bogen vom Beginn Österreichs bis heute spannen. Sachkundig und kompakt!",
     "pageCount": "165",
     "thumbnail": "https://books.google.com/books/content?id=CGN4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -15639,6 +15641,759 @@
     "thumbnail": "https://books.google.com/books/content?id=qIdpAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "addedAt": 1768041167353,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "In der Kaserne",
+    "subtitle": "",
+    "authors": [
+      "Kirst, Hans Hellmut"
+    ],
+    "series": "08/15",
+    "volume": "1",
+    "publishedDate": "1955",
+    "isbn": "",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Null-acht-fünfzehn war ein Universalwort des deutschen Soldaten über ständig wiederkehrende Typen, Dinge und Geschehnisse seines Alltags, Routinehandlungen, die ihren Sinn längst verloren hatten, über Schikanen und Qualen, die man hinnahm, ohne nach dem „Warum“ zu fragen.\nHass und Eulenspiegelei, Tragik und ein grimmiger Humor, Anklage und ein unerschütterlicher Glaube an die Würde des Menschen und den Sieg des gesunden Menschenverstandes geben diesem einmaligen Buch vom deutschen Soldaten das Gepräge. Anscheinend aber bleibt die bedingungslose Absage des Autors an den Krieg, an die Unmenschlichkeit und an die Mächte des Chaos.",
+    "pageCount": "",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md32042993306.jpg",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ],
+    "addedAt": 1768086911743
+  },
+  {
+    "title": "Im Krieg",
+    "subtitle": "Kirst, Hans Hellmut",
+    "authors": [
+      "Kirst, Hans Hellmut"
+    ],
+    "series": "08/15",
+    "volume": "2",
+    "publishedDate": "1956",
+    "isbn": "",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "",
+    "pageCount": "",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md31238671130.jpg",
+    "read": true,
+    "rating": 5,
+    "tags": [
+      "2. Weltkrieg"
+    ],
+    "addedAt": 1768087032874
+  },
+  {
+    "title": "Abraham kann nichts dafür",
+    "subtitle": "66 neue Satiren",
+    "authors": [
+      "Kishon, Ephraim",
+      "Bronner, Gerhard"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1984-01",
+    "isbn": "9783784418506",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Wissen Sie, wie man Feiertage überlebt, wie man Sozialpolitik macht, und warum eine Tomate zum Scheidungsgrund werden kann? 66 berückend komische Satiren über Zeiterscheinungen und Menschen von heute und morgen. Kishon beweist mit seinem Humor wieder einmal, dass die Welt gar nicht so trostlos ist, wie sie auf den ersten Blick aussieht.",
+    "pageCount": "251",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md31779369271.jpg",
+    "read": true,
+    "addedAt": 1768087386983,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Den Sturm ernten",
+    "subtitle": "",
+    "authors": [
+      "Klay, Phil"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2021-09-12",
+    "isbn": "9783518769485",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Phil Klay verwandelt seine Erfahrungen als US-Marine in eine weltumspannende Geschichte des Krieges. Er legt ein brillantes erzählerisches Zeugnis ab von den Verheerungskräften der Zivilisation, von Liebe und Hass, Schuld und Stolz in einer globalisierten Welt. Am Ende zählt nur eins: auf der richtigen Seite stehen. Doch für die vier Menschen in dieser Geschichte, alle aus Idealismus an einen Ort der Gewalt im kolumbianischen Dschungel gekommen, ist die Grenze zwischen Gut und Böse längst verronnen. Sie setzen ihr Leben ein – als Mitglied der US-Special-Forces, als Journalistin, Patriot, Paramilitär –, sie kämpfen um das Schicksal eines Landes, dessen Fundamente abgetragen wurden, von falschen Freunden in Washington, den Drogen, jahrzehntelangen Heilsversprechen. Und sie suchen mit aller Kraft Antworten auf eine Frage: Was heilt die Wunden der Geschichte, was lässt den Schmerz vergessen und an das Gute glauben?",
+    "pageCount": "395",
+    "thumbnail": "https://books.google.com/books/content?id=JNknEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768087594536,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Jenseits von Gut und Böse",
+    "subtitle": "",
+    "authors": [
+      "Klein, Zachary"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2000",
+    "isbn": "9783548247908",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Völlig durchgeknallt ist, wie wir seit dem ersten Buch wissen, der begeisterte Drogen-User Matt Jacob, den sein Erfinder Zachary Klein in den cleanen 90ern auf die Straßen von Boston jagte. Hier, bei seinem zweiten Auftritt, Jenseits von Gut und Böse, gerät er zwischen die Fronten von jüdischen Militanten und weißen Ariern.",
+    "pageCount": "422",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783548247908-us.jpg",
+    "read": true,
+    "addedAt": 1768087886174,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Immerstill",
+    "subtitle": "",
+    "authors": [
+      "Klementovic, Roman"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-02-03",
+    "isbn": "9783839250303",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In einer eisigen Winternacht verschwinden zwei Jugendliche spurlos. Die örtliche Polizei tappt im Dunkeln, findet keinerlei Anhaltspunkte und mit der Zeit gerät der Fall in Vergessenheit. Doch dann, auf den Tag genau drei Jahre später, werden wieder zwei junge Menschen vermisst. Die Medien wittern eine Tragödie und in dem kleinen Dorf wächst die Nervosität. Als eine misshandelte Leiche gefunden wird, bricht Panik aus.",
+    "pageCount": "275",
+    "thumbnail": "https://books.google.com/books/content?id=Ftc1CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768088141456,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Känguru-Chroniken",
+    "subtitle": "Ansichten eines vorlauten Beuteltiers",
+    "authors": [
+      "Kling, Marc-Uwe"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-09-08",
+    "isbn": "9783548920771",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "»Ich bin ein Känguru - und Marc-Uwe ist mein Mitbewohner und Chronist. Nur manches, was er über mich erzählt, stimmt. Zum Beispiel, dass ich mal beim Vietcong war. Das Allermeiste jedoch ist übertrieben, verdreht oder gelogen! Aber ich darf nicht meckern. Wir gehen zusammen essen und ins Kino, und ich muss nix bezahlen.«",
+    "pageCount": "190",
+    "thumbnail": "https://books.google.com/books/content?id=L-8aAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768088209700,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Meistens alles sehr schnell",
+    "subtitle": "",
+    "authors": [
+      "Kloeble, Christopher"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-03-01",
+    "isbn": "9783423409506",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Albert ist neunzehn, wuchs im Heim auf und kennt seine Mutter nicht. Sein Leben lang musste Albert ein Vater für seinen Vater Fred sein: Fred ist ein Kind im Rentenalter, ein schlaksiger Zweimeterriese, der nichts als Lexika liest, grüne Autos zählt und im Dorf als Held eines dramatischen Busunglücks gilt. Als sich herausstellt, dass Fred nur noch fünf Monate zu leben hat, machen sie sich auf die Suche nach Alberts Mutter. Ihre Reise wird zu einer Odyssee, die immer tiefer in die Vergangenheit führt. Albert muss herausfinden, dass die Menschen, die ihm am nächsten stehen, am meisten zu verbergen haben, und dass die Vergangenheit in der Erinnerung immer wahr ist. Es entspinnt sich eine Lebens- und Liebesgeschichte, die in einer Augustnacht 1912 im oberbayerischen Segendorf beginnt und sich durch ein ganzes Jahrhundert zieht.",
+    "pageCount": "361",
+    "thumbnail": "https://books.google.com/books/content?id=ihEHKcPPP2oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768088356213,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Ramses-Code",
+    "subtitle": "",
+    "authors": [
+      "Klonovsky, Michael"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-08-19",
+    "isbn": "9783841207265",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "\"Ich werde diese Zeichen lesen!\" ruft das elfjährige Wunderkind Jean-François Champollion, als er zum ersten Mal Hieroglyphen sieht. Fortan ist er besessen von dieser Idee. Der Stein von Rosette, eine Platte mit drei Inschriften in griechischer und demotischer Schrift sowie den rätselhaften Hieroglyphen, die 1799 während des Ägypten-Feldzuges Napoleons gefunden wurde, scheint den Schlüssel für eine Entzifferung zu bieten. Diese Idee verfolgen allerdings auch andere; allein in Paris behaupten Dutzende Gelehrte, dem Geheimnis auf der Spur zu sein. Besonders beharrlich arbeitet Thomas Young an dem Problem, ein Londoner Universalgelehrter und unkonventioneller Denker. Zwischen dem exzentrischen Engländer und dem Sprachgenie Champollion, der mit 18 Jahren bereits Professor wird, entbrennt der eigentliche Wettstreit. Im Hintergrund zieht ein seltsamer ägyptophiler Baron die Fäden. Nachdem Young seine Lesart publiziert hat, gilt Champollion als der \"Verrückte aus Grenoble\", weil er die Entzifferung nicht akzeptiert. Zu allem Übel mischt er sich in die politischen Händel seiner Zeit, wird als Hochverräter verurteilt und muss in die Verbannung …",
+    "pageCount": "402",
+    "thumbnail": "https://books.google.com/books/content?id=nRDYAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768088479444,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Milchgeld",
+    "subtitle": "",
+    "authors": [
+      "Klüpfel, Volker",
+      "Kobr, Michael"
+    ],
+    "series": "Kluftinger",
+    "volume": "1",
+    "publishedDate": "2003",
+    "isbn": "9783871641374",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Machen Sie sich darauf gefasst, den grantigen Kommissar  sofort in Ihr Herz zu schließen, selbst wenn Sie es gar nicht wollen. Denn der Protagonist der erfolgreichen Regionalkrimireihe aus dem idyllischen Allgäu ist ewig schlecht gelaunt, unfreiwillig komisch und ein verdammt guter Polizist. Das kann er in seinem ersten Fall »Milchgeld« sofort mit aller Macht unter Beweis stellen. Als ein Lebensmittelchemiker des örtlichen Milchwerks ermordet aufgefunden wird, vergeht Klufti erst der Appetit und dann die Geduld. Denn bei seinen Ermittlungen deckt er einen ungeheuerlichen Skandal auf.",
+    "pageCount": "311",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783492303002-us-300.jpg",
+    "read": true,
+    "addedAt": 1768088624096,
+    "rating": 4,
+    "tags": [
+      "Deutschland",
+      "Allgäu"
+    ]
+  },
+  {
+    "title": "Du hast mich auf dem Balkon vergessen",
+    "subtitle": "Das Beste aus SMSvonGesternNacht.de",
+    "authors": [
+      "Koch, Anna",
+      "Lilienblum, Axel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-01-02",
+    "isbn": "9783644455214",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Die SMS der letzten Nacht ist nicht wie jede andere Kurznachricht. Sie erreicht einen aus dem Club, vom Klo einer fremden Wohnung oder vom steinigen Weg nach Hause. Sie ist unverblümt, bizarr, oft frivol, voller Emotionen und häufig an den Falschen adressiert. Unter dem Motto: «Welche SMS hättest du gestern Nacht besser nicht verschickt?» nimmt sich die Website www.chatvongesternnacht.de dieser kleinen Textkunstwerke des Alltags an. Das vorliegende Buch versammelt aus Zehntausenden anonymer Einsendungen die besten, lustigsten und merkwürdigsten Handybotschaften.",
+    "pageCount": "155",
+    "thumbnail": "https://books.google.com/books/content?id=t-FqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768130436796,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Ist meine Hose noch bei euch?",
+    "subtitle": "Neues aus SMSvonGesternNacht.de",
+    "authors": [
+      "Koch, Anna",
+      "Lilienblum, Axel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011",
+    "isbn": "9783499628092",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Im Zwielicht der Nacht wird schon mal aus Versehen Schluss gemacht und nach dem Aufwachen erschrocken gerätselt, ob (und wenn ja, mit wem?!) man vielleicht Sex gehabt hat. Unter dem Motto «Welche SMS hättest du gestern Nacht besser nicht verschickt» stellen Anna Koch und Axel Lilienblum besonders lustige, schräge, peinliche und kryptische SMS zusammen. Ob alkoholgeschwängerte Liebesbekundungen, eindeutig zweideutige Nachrichten oder philosophische Exkurse in 160 Zeichen – Unterhaltung ist garantiert.",
+    "pageCount": "286",
+    "thumbnail": "https://books.google.com/books/content?id=U7eXpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1768130676394,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Kolbe",
+    "subtitle": "",
+    "authors": [
+      "Kollender, Andreas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-07-13",
+    "isbn": "9783865325013",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Sommer 1943: Hitler muss weg! Das steht für Fritz Kolbe fest. Als Mitarbeiter des Auswärtigen Amtes hat er Zugang zu streng geheimen Dokumenten, die er aus der Behörde schmuggelt. Eine Kurierfahrt in die Schweiz ermöglicht ihm die Kontaktaufnahme zu den Amerikanern. Kolbe beginnt ein lebensgefährliches Doppelleben. Er übergibt den Amerikanern hochbrisantes Material, darunter der genaue Lageplan der Wolfsschanze, Hitlers Hauptquartier, sowie wichtige Hinweise auf Spione und einen deutschen Geheimsender in Irland. Die Alliierten nutzen seine Informationen, aber Hitler bleibt an der Macht und der sinnlose Krieg geht weiter. Kolbe zweifelt mehr und mehr an seiner Mission, will aufgeben, doch Marlene, die Frau, die ihm alles bedeutet, ermutigt ihn zum Weitermachen. Bis es zu einem folgenschweren Unfall kommt …",
+    "pageCount": "365",
+    "thumbnail": "https://books.google.com/books/content?id=kHt9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768130752474,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Anbetung",
+    "subtitle": "",
+    "authors": [
+      "Koontz, Dean R."
+    ],
+    "series": "Odd Thomas",
+    "volume": "1",
+    "publishedDate": "2007",
+    "isbn": "9783453432444",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Odd Thomas lebt bescheiden und zufrieden als Koch in einem kleinen amerikanischen Provinznest. Hochgeistiges ist ihm fremd, doch er hat eine besondere Gabe: Er sieht die Toten und kann mit ihnen kommunizieren. Und er sieht Bodachs, lebende Schatten, die sich von Leid und Verderben nähren. Als ein merkwürdiger Fremder, umflirrt von diesen Schatten, das Restaurant betritt, in dem Odd arbeitet, weiß er, dass Fürchterliches droht. Trotz der Warnungen seiner impulsiven Freundin Stormy wagt er es, dem Mann nachzuspüren und in sein Haus einzudringen. Was er in einem Geheimzimmer findet, lässt ihm das Blut in den Adern gefrieren: einen Schrein, der all den Massenmördern dieser Welt gewidmet ist …",
+    "pageCount": "478",
+    "thumbnail": "https://books.google.com/books/content?id=RBCePQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1768130900973,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Brandzeichen",
+    "subtitle": "",
+    "authors": [
+      "Koontz, Dean R."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1990",
+    "isbn": "9783453041868",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Aus einem Labor für Gentechnologie entläuft ein Hund. Der Eigenbrötler Travis Cornell nimmt den streunenden Golden Retriever bei sich auf. Aber schon bald müssen die beiden feststellen, dass sich nicht nur rivalisierende Geheimdienste, sondern auch ein mysteriöses Wesen an ihre Fersen geheftet haben. Endlich wird klar, dass es sich bei dem Verfolger um ein gentechnisch perfektioniertes Mordtier handelt, das dem Laboratorium gleichfalls entwichen ist und auf die Vernichtung des Hunds programmiert zu sein scheint.",
+    "pageCount": "483",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md30597261192.jpg",
+    "read": true,
+    "addedAt": 1768131030809,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Ein Freund fürs Sterben (Nachtstimmen)",
+    "subtitle": "",
+    "authors": [
+      "Koontz, Dean R."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1990",
+    "isbn": "9783426017845",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Der vierzehnjährige schmächtige Colin hat noch keine neuen Freunde gefunden, seitdem er mit seiner frisch geschiedenen Mutter an einen Küstenort der USA gezogen ist. Seine Mutter hat wenig Zeit für ihn, denn sie hat sich gerade selbstständig gemacht und muss noch lange nach Feierabend Geschäftsbeziehungen pflegen. Sein Vater, der ihn ab und zu abholt, will ihn nur abhärten, um einen \"richtigen Mann\" aus ihm zu machen. Daher kommt es Colin wie gerufen, dass der coole Roy sich ausgerechnet mit ihm anfreunden will. Roy ist selbstsicher, sportlich und allseits beliebt - zumindest scheint dies so. Roy schlägt Colin sogar als Mannschaftswart für das Footballteam vor! Daher sieht Colin über Roys morbide Erzählungen und absurden Gewaltfantasien hinweg - er ist schließlich selbst Horrorfilm-Fan. Als Colin feststellen muss, dass Roy tatsächlich ein Psychopath ist, steckt er schon knietief im Schlamassel und muss um sein Leben fürchten …",
+    "pageCount": "220",
+    "thumbnail": "https://pictures.abebooks.com/inventory/32252136506.jpg",
+    "read": true,
+    "addedAt": 1768158758099,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Intensity",
+    "subtitle": "",
+    "authors": [
+      "Koontz, Dean R."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1999",
+    "isbn": "9783404141845",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Die 26jährige Chyna Shepard ist mit Müh und Not einer alptraumhaften Kindheit und Jugend bei ihrer psychopathischen, alkoholabhängigen Mutter und deren wechselnden, gewalttätigen Freunden entkommen und hat den Sprung in ein zwar ziemliche einsames, aber stabiles Erwachsenenleben mit Studium und Jobben geschafft. Als ihre einzige Freundin Laura Templeton sie zu einem Besuch bei ihrer Familie auf deren ländlichem Anwesen in Napa Valley einlädt, bedeutet das für sie den ersten Urlaub in zehn Jahren. Aber trotz des freundlichen Empfangs bei der Familie kann Chyna schon in ihrer ersten Nacht bei den Templetons nicht zur Ruhe kommen. Ihre über Jahre geschulten Instinkte halten sie wach – zu Recht. Denn der psychopathische Killer Vess, dessen einziges Ziel im Leben es ist, jegliches Extrem auszukosten, hat sich Zugang zur Villa verschafft und Lauras Eltern sowie den Bruder und dessen Frau ermordet. Verzweifelt und in panischer Angst macht sich Chyna auf die Suche nach Laura, aber auch die liegt bereits im Sterben. Chynas einziger Impuls ist es zu fliehen. Doch dann erfährt sie, dass Vess seit einem Jahr die 16jährige Arielle in seinem Keller gefangen hält. Und wider alle Vernunft, wider besseres Wissen, getrieben von den Dämonen ihrer Kindheit, nimmt sie den Kampf auf gegen einen Killer, der ohne jeden Skrupel und aus reinem Lustgewinn quält, foltert und tötet.",
+    "pageCount": "478",
+    "thumbnail": "https://books.google.com/books/content?id=BfD7OwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1768159008404,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Das goldene Ei",
+    "subtitle": "",
+    "authors": [
+      "Krabbé, Tim"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783379008143",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Eine junge Frau verschwindet spurlos an einer Autobahnraststätte. Eine grossflächige Suchaktion der Polizei bleibt erfolglos. Ist sie einem Verbrechen zum Opfer gefallen?",
+    "pageCount": "141",
+    "thumbnail": "https://books.google.com/books/content?id=y_bBAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1768159155739,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die sieben Tode des Max Leif",
+    "subtitle": "Ein Hypochonder-Roman",
+    "authors": [
+      "Käppler, Juliane"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-01-08",
+    "isbn": "9783426429662",
+    "category": "Belletristik",
+    "genre": "",
+    "description": "Witzig, wehleidig, wunderbar! Max Leif ist ein Überflieger, immer auf der Überholspur, immer ganz vorn. Doch jetzt wird er ausgebremst, vom Tod höchstpersönlich. Der holt sich seinen besten Freund, und Max weiß einfach: Er ist der Nächste. Das plötzliche Fieber kann nur eine HIV-Infektion sein, der schmerzende Magen eine exotische Seuche und der Husten erst … Die Beteuerungen der Ärzte, die Beruhigungsversuche seiner Freunde, ja selbst die energischen Kommandos seiner russischen Putzfrau Jekaterina helfen nicht gegen die Macht von Max' Einbildung. In Erwartung seines baldigen Ablebens verkauft er sein Unternehmen und trifft hektisch weitere Vorkehrungen. Denn einfach so sterben ist nicht drin! Zuerst muss er einen Weg finden, die eine Sache zu regeln, die in keinem Testament erscheinen darf …",
+    "pageCount": "397",
+    "thumbnail": "https://books.google.com/books/content?id=VRPzCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768159352630,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das fliegende Klassenzimmer",
+    "subtitle": "",
+    "authors": [
+      "Kästner, Erich"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2018-10-01",
+    "isbn": "9783037921173",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Seit Jahren sind die Schüler aus dem Internat Kirchberg und von der benachbarten Realschule verfeindet. Beide Gruppen denken sich die verrücktesten Streiche aus, um die anderen zu ärgern. Als die Realschüler die Diktathefte der Gymnasiasten klauen und dabei auch noch einen Schüler gefangen nehmen, hört der Spaß allerdings auf: Uli, Matthias und ihre Freunde fordern die Realschüler zum alles entscheidenden Kampf auf.",
+    "pageCount": "153",
+    "thumbnail": "https://books.google.com/books/content?id=9-mkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768159720860,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Shakespeare erzählt",
+    "subtitle": "",
+    "authors": [
+      "Köhlmeier, Michael"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783492241915",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Elf Dramen von William Shakespeare mitreißend lebendig neu erzählt.",
+    "pageCount": "292",
+    "thumbnail": "https://books.google.com/books/content?id=PfllAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1768159947537,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Verschwörung",
+    "subtitle": "",
+    "authors": [
+      "Lagercrantz, David"
+    ],
+    "series": "Millennium",
+    "volume": "4",
+    "publishedDate": "2015-08-27",
+    "isbn": "9783641153564",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Mikael Blomkvist steht vor einer Entscheidung. Böse Zungen behaupten, er sei nicht länger der Journalist, der er einst war. Lisbeth Salander hingegen ist aktiv wie eh und je. Die Wege kreuzen sich, als Frans Balder, einer der weltweit führenden Experten für künstliche Intelligenz, ermordet wird. Kurz vor seinem Tod hatte er Mikael Blomkvist brisante Informationen versprochen. Als Blomkvist erfährt, dass Balder auch in Kontakt zu Lisbeth Salander stand, nimmt er die Recherche auf. Die Spur führt zu einem amerikanischen Softwarekonzern, der mit der NSA verknüpft ist. Mikael Blomkvist wittert seine Chance, die Enthüllungsstory zu schreiben, die er so dringend braucht. Doch wie immer verfolgt Lisbeth Salander ihre ganz eigene Agenda.",
+    "pageCount": "444",
+    "thumbnail": "https://books.google.com/books/content?id=qbp7BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768160093203,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Musik der Wale",
+    "subtitle": "",
+    "authors": [
+      "Lamb, Wally"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2005",
+    "isbn": "9783548605944",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Dolores Price ist erst zwölf, als ihr Leben allmählich aus den Fugen gerät. Ihr Vater verlässt seine Familie wegen einer Geliebten. Dolores' Mutter, eine wankelmütige Romantikerin, kennt nur ein Ziel: Dolores soll es einmal weiterbringen als sie, die Gescheiterte. Dann geschieht eine Tragödie, aus der Dolores sich nicht mehr allein befreien zu können scheint.",
+    "pageCount": "571",
+    "thumbnail": "https://books.google.com/books/content?id=JF16AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1768160237583,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Gott der Klinge",
+    "subtitle": "",
+    "authors": [
+      "Lansdale, Joe R."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008",
+    "isbn": "9783453675575",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Ein schwarzer Chevy rollt durch die Nacht und hinterlässt eine Spur des Grauens. Die Nightrunners sind unterwegs, und wer immer das Unglück hat, ihnen zu begegnen, muss mit dem Schlimmsten rechnen. Doch die nächtliche Fahrt hat ein Ziel: ein einsames Ferienhaus, in dem die Lehrerin Becky und ihr Mann Montgomery über ein tragisches Ereignis hinwegkommen wollen. Montgomery hält sich selbst für einen ausgemachten Feigling und Versager, doch er ist die einzige Hoffnung, die Becky bleibt.",
+    "pageCount": "399",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783453675575-us.jpg",
+    "read": true,
+    "addedAt": 1768160589976,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Teufelskeiler",
+    "subtitle": "",
+    "authors": [
+      "Lansdale, Joe R."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008",
+    "isbn": "9783926126849",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Während der Großen Depression in Osttexas sieht sich der junge Richard Dale gezwungen, einen wilden Eber zur Strecke zu bringen. \"Old Satan\", wie die Bestie vom Volksmund genannt wird, verwüstet Felder und bedroht Menschen gleich welcher Hautfarbe. Aber wie soll einem 15jährigen gelingen, was nicht einmal sein Vater schafft, der immerhin ein berühmt-berüchtigter Boxer ist?",
+    "pageCount": "141",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md32335919406.jpg",
+    "read": true,
+    "addedAt": 1768160824952,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Sonnensturm",
+    "subtitle": "",
+    "authors": [
+      "Larsson, Åsa"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-07-31",
+    "isbn": "9783641126476",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Winter in Nordschweden: Zwischen Schnee und Eis und ewiger Nacht geschieht ein schreckliches Verbrechen: Viktor Stråndgard liegt tot in der Kirche vor dem Altar, brutal ermordet. Die hochschwangere Kriminalinspektorin Anna-Maria Mella nimmt die Ermittlungen auf. Und auch die Anwältin Rebecka Martinsson, eine alte Freundin des Toten, kehrt kurz entschlossen in ihre ehemalige Heimat zurück, um Viktors Schwester beizustehen. Sie ahnt nicht, dass auch ihr die Vergangenheit gefährlich werden kann …",
+    "pageCount": "326",
+    "thumbnail": "https://books.google.com/books/content?id=ofooAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768161100780,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Im Schatten der goldenen Moschee",
+    "subtitle": "Ein Europäerin zwischen zwei Kulturen",
+    "authors": [
+      "Laufenberg, Maria"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1997",
+    "isbn": "9783485007641",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Eine seit 20 Jahren mit einem Iraker verheiratete Deutsche erzählt von ihren Erfahrungen im Irak, ihrer Ehe und Familie, ihren Anpassungsschwierigkeiten wie auch von den glücklichen Momenten und beschreibt eindrucksvoll das Leben der Zivilbevölkerung während der beiden Kriege in der Golfregion.",
+    "pageCount": "351",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783404614288-us.jpg",
+    "read": true,
+    "addedAt": 1768161237406,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Loch",
+    "subtitle": "",
+    "authors": [
+      "Laymon, Richard"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-09-10",
+    "isbn": "9783641076191",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Nach einer höllischen Begegnung mit einem ehemaligen Mitschüler irrt die junge Pamela durch die kalifornische Wüste, bis sie von einem höchst seltsamen Busfahrer aufgelesen wird. Gleichzeitig nimmt der harmlose Student Norman zwei Anhalter mit, die sich schnell als eiskalte Psychopathen entpuppen. Alle treffen sich in einem winzigen Kaff in der Einöde, dessen Bewohner auf den ersten Blick ganz nett zu sein scheinen – aber manche Gäste auf der Durchreise wahrhaftig zum Fressen gern haben.",
+    "pageCount": "366",
+    "thumbnail": "https://books.google.com/books/content?id=-f2mgE4UYRwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768161477719,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Regen",
+    "subtitle": "",
+    "authors": [
+      "Laymon, Richard"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-12-22",
+    "isbn": "9783641078614",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Ein seltsamer, schwarzer Regen fällt auf die Kleinstadt Bixby. Er kommt in Schauern und ist warm und irgendwie unnatürlich und er verändert die Stadt. Die Bewohner werden erfüllt von Hass und Wut – und dem Wunsch zu töten. Und als der Regen weiter fällt, mischt sich das Wasser mit dem Blut der Opfer.",
+    "pageCount": "348",
+    "thumbnail": "https://books.google.com/books/content?id=7qZ9g9_HN4sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768161571483,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Insel",
+    "subtitle": "",
+    "authors": [
+      "Laymon, Richard"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006",
+    "isbn": "9783453675117",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Nach der Explosion ihrer Jacht finden sich acht junge Urlauber auf einer einsamen Südseeinsel wieder, weitab von jeder Zivilisation. Was als Abenteuer beginnt – früher oder später wird sie ja bestimmt jemand retten, denken sie –, entwickelt sich jedoch zu einem Albtraum, aus dem es kein Entrinnen zu geben scheint: als nämlich einer von ihnen auf bestialische Art und Weise ermordet wird und sich herausstellt, dass die Explosion der Jacht kein Unfall war …",
+    "pageCount": "559",
+    "thumbnail": "https://books.google.com/books/content?id=EzvmGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1768161772101,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Jagd",
+    "subtitle": "",
+    "authors": [
+      "Laymon, Richard"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-12-22",
+    "isbn": "9783641078621",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Jody ist ziemlich clever für eine Sechzehnjährige. Nur deshalb ist sie noch am Leben – bis jetzt. Sie war zu Besuch im Haus ihrer Freundin Evelyn, als eine Bande junger Killer sie überfiel. Sie sah ihre Freundin aufgespießt auf einem Speer, aber es gelang ihr zu fliehen, zusammen mit Evelyns jüngerem Bruder Andy. Doch einer der Mörder hat sie gesehen und ist jetzt auf der Jagd nach ihr.",
+    "pageCount": "423",
+    "thumbnail": "https://books.google.com/books/content?id=77cY5PUl_6oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768161948409,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Rache",
+    "subtitle": "",
+    "authors": [
+      "Laymon, Richard"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-10-02",
+    "isbn": "9783641029111",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Ein junges Paar in einer heißen Sommernacht. Alles wäre perfekt, wenn da nur nicht dieser mysteriöse Mann wäre, der die beiden schon seit geraumer Zeit beobachtet, der alles über sie weiß – und der beabsichtigt, auf fürchterliche Weise Rache zu üben …",
+    "pageCount": "477",
+    "thumbnail": "https://books.google.com/books/content?id=yUZbBe5LudAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768162032794,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Stalinorgel",
+    "subtitle": "",
+    "authors": [
+      "Ledig, Gert"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-11-23",
+    "isbn": "9781519045089",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Gert Ledig war während des 2. Weltkrieges Zeitzeuge der Kämpfe in Russland. Der Autor meldete sich mit 18 Jahren freiwillig, wurde mehrfach schwer verletzt und kam mit seinen Vorgesetzten in Streit wegen unsinniger grausamer Befehle. Das Buch \"Die Stalinorgel\" verzichtet auf Namen, allein der Dienstgrad personifiziert die Menschen in einem grausamen Krieg, an dessen Ende der Tod steht. Der Roman erschien 1955",
+    "pageCount": "124",
+    "thumbnail": "http://books.google.com/books/content?id=Xr-zAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1768162198214,
+    "rating": 4,
+    "tags": [
+      "2. Weltkrieg"
+    ]
+  },
+  {
+    "title": "In der Nacht",
+    "subtitle": "",
+    "authors": [
+      "Lehane, Dennis"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-11-27",
+    "isbn": "9783257604139",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Joe Coughlin, ein kleiner Handlanger des Syndikats in Boston, steigt in Florida zum mächtigsten Rumschmuggler seiner Zeit auf. Doch was ihn umtreibt, ist nicht nur die zweifelhafte Berühmtheit eines Gesetzlosen, das schnelle Geld und das Leben in der Nacht. Er setzt alles aufs Spiel – aus Liebe zu einer Frau. Aus der Unterwelt von Boston, aus einem Wirbel von Liebe und Gewalt, Hass und Rache führt Joes Weg in den Süden Amerikas und bis nach Kuba.",
+    "pageCount": "454",
+    "thumbnail": "https://books.google.com/books/content?id=j3ptAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768162513054,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Mystic River",
+    "subtitle": "",
+    "authors": [
+      "Lehane, Dennis"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-10-29",
+    "isbn": "9783257604375",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Dave, Jimmy und Sean kannten sich schon als Kinder. Nun, 25 Jahre später, kreuzen sich die Wege der drei grundverschiedenen Männer erneut unter tragischen Umständen, als Jimmys Tochter Katie ermordet aufgefunden wird. Sean, inzwischen Polizist, leitet die Ermittlungen, und schon bald steht sein alter Freund Dave unter Verdacht.",
+    "pageCount": "480",
+    "thumbnail": "https://books.google.com/books/content?id=hN-8AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768162620751,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Was man von hier aus sehen kann",
+    "subtitle": "",
+    "authors": [
+      "Leky, Mariana"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-07-18",
+    "isbn": "9783832189624",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Selma, eine alte Westerwälderin, kann den Tod voraussehen. Immer, wenn ihr im Traum ein Okapi erscheint, stirbt am nächsten Tag jemand im Dorf. Unklar ist allerdings, wen es treffen wird. Davon, was die Bewohner in den folgenden Stunden fürchten, was sie blindlings wagen, gestehen oder verschwinden lassen, erzählt Mariana Leky in ihrem Roman.",
+    "pageCount": "262",
+    "thumbnail": "https://books.google.com/books/content?id=wP7IDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768162796931,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Hectors Reise",
+    "subtitle": "oder die Suche nach dem Glück",
+    "authors": [
+      "Lelord, François"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-03-23",
+    "isbn": "9783492950596",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Es war einmal ein ziemlich guter Psychiater, sein Name war Hector, und er verstand es, den Menschen nachdenklich und mit echtem Interesse zuzuhören. Trotzdem war er mit sich nicht zufrieden, weil es ihm nicht gelang, die Leute glücklich zu machen. Also begibt sich Hector auf eine Reise durch die Welt, um dem Geheimnis des Glückes auf die Spur zu kommen.",
+    "pageCount": "152",
+    "thumbnail": "https://books.google.com/books/content?id=cJMVAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1768162900037,
     "rating": 3,
     "tags": []
   }
