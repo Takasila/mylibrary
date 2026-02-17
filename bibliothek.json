@@ -2259,14 +2259,15 @@
     "isbn": "9783552057630",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
-    "description": "Ein Kalb wird bei lebendigem Leib verbrannt, und sechs brennende Schwäne fliegen über den Marebo-See. Frauen verschwinden, eine Amerikanerin wird in der Kirche erdrosselt, und ein Lastwagen voller Dynamit lässt den Dom von Lund in Flammen aufgehen.",
+    "description": "Ein Kalb wird bei lebendigem Leib verbrannt, und sechs brennende Schwäne fliegen über den Marebo-See. Frauen verschwinden, eine Amerikanerin wird in der Kirche erdrosselt, und ein Lastwagen voller Dynamit lässt den Dom von Lund in Flammen aufgehen. In seinem neuen Kriminalroman spannt Henning Mankell den Bogen von dem furchtbaren Massaker in Jonestown, Guyana 1978, wo ein religiöser Fanatiker seinen Anhängern befahl, Selbstmord zu begehen, bis zum 11. September 2001. Mankell ist ein atemberaubender Roman gelungen: diesmal mit Linda Wallander in der Hauptrolle.",
     "thumbnail": "http://books.google.com/books/content?id=8mOwCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 4,
     "pageCount": "468",
     "tags": [
       "Schweden"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Die Rückkehr des Tanzlehrers",
@@ -16915,6 +16916,570 @@
     "thumbnail": "https://pictures.abebooks.com/isbn/9783453041790-us-300.jpg",
     "read": true,
     "addedAt": 1769558383474,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Hard Rain",
+    "subtitle": "",
+    "authors": [
+      "Abrahams, Peter"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1991",
+    "isbn": "9783404116775",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Jessie Shapiro restauriert Gemälde, um ihren Lebensunterhalt zu verdienen, aber seit ihrer Scheidung vom untreuen Musiker Pat kommt sie kaum noch über die Runden. An einem Wochenende bringt Pat ihre zehnjährige Tochter Kate nicht nach Hause. Als Jessie zu seinem Haus in Venice Beach fährt, hört sie eine beunruhigende, abgebrochene Nachricht auf seinem Anrufbeantworter und entdeckt seltsame fremde Wörter, die in großen Blockbuchstaben auf seiner Küchentafel geschrieben stehen. Dann wird ihr Leben bedroht. Da die Polizei nur zögerlich ermittelt, macht sich Jessie selbst auf die Suche nach Kate. Ihre Suche führt sie quer durch das Land und Jahrzehnte zurück, vom Drogenrausch von Woodstock über die tödlichen Dschungel Vietnams bis hin zu den höchsten Kreisen des russischen und amerikanischen Geheimdienstes. Die Wahrheit – schockierender, als sie es sich jemals vorgestellt hat – wird sie vielleicht nicht befreien. Aber sie könnte sie alles kosten.",
+    "pageCount": "460",
+    "thumbnail": "https://up.picr.de/50583656pr.jpg",
+    "read": true,
+    "addedAt": 1771154440382,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Mountain Home",
+    "subtitle": "Wie ein blutiger Tanz der Rache",
+    "authors": [
+      "MacLeod, Bracken"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014",
+    "isbn": "9783865523464",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Lyn arbeitet in den Bergen als Kellnerin in einem kleinen Restaurant. Ihr Leben langweilt sie, doch sie sieht keine Möglichkeit, das zu ändern. Bis zu dem Tag, als eine ausgebildete Scharfschützin das Feuer auf den Laden und seine Gäste eröffnet. Erbarmungslos belagert sie das Gebäude - und Lyn muss sich entscheiden: Wird sie sich dem Tod ergeben oder nimmt sie den Kampf gegen ihn auf?",
+    "pageCount": "225",
+    "thumbnail": "https://books.google.com/books/content?id=TWouBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771155487496,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Nackten und die Toten",
+    "subtitle": "",
+    "authors": [
+      "Mailer, Norman"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "",
+    "isbn": "",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Mit derselben aufrüttelnden Realistik wie Erich Maria Remarque schrieb Norman Mailer diesen Roman über den Krieg gegen die Japaner auf den pazifischen Inseln, den er selbst mitgemacht hatte. Was man bei der Truppe redete und tat, hat er einfach niedergeschrieben, und so wurde das Buch, das zu den größten Kriegsromanen unseres Jahrhunderts zählt, hart und grell und nicht selten peinlich und grausam, und es wird niemanden geben, den es nicht erschüttert und überwältigt.",
+    "pageCount": "",
+    "thumbnail": "https://up.picr.de/50583796ay.jpg",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "2. Weltkrieg"
+    ],
+    "addedAt": 1771155934268
+  },
+  {
+    "title": "Das Geheimnis des Feuers",
+    "subtitle": "",
+    "authors": [
+      "Mankell, Henning"
+    ],
+    "series": "Feuer-Trilogie",
+    "volume": "1",
+    "publishedDate": "2016-10-14",
+    "isbn": "9783423717083",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Sofia ist eins der unzähligen Kinder, die Opfer des fast zwanzig Jahre währenden Bürgerkrieges in Mosambik wurden. Es ist eins der am stärksten verminten Länder der Erde. Sofia, damals zehn Jahre alt, ist auf eine Mine getreten. Sie verlor dabei beide Beine, ihre Schwester das Leben. Es dauerte lange, bis Sofia lernte, auf künstlichen Beinen zu gehen. Es muss auf der Krankenhaustreppe gewesen sein, wo sich Sofia und Henning Mankell zum ersten Mal begegnet sind. Er hat ihre Geschichte aufgeschrieben, die inzwischen auch verfilmt wurde.",
+    "pageCount": "240",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783423717083-us-300.jpg",
+    "read": true,
+    "addedAt": 1771156192511,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Daisy Sisters",
+    "subtitle": "",
+    "authors": [
+      "Mankell, Henning"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-07-27",
+    "isbn": "9783552054851",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Im Kriegssommer 1941 macht Elna aus Sandviken mit ihrer südschwedischen Brieffreundin eine Radtour zur norwegischen Grenze. Die Daisy Sisters, wie die Mädchen sich nach amerikanischem Vorbild nennen, lernen zwei schwedische Soldaten kennen, und die naive Elna, die keinen Alkohol verträgt, wird ungewollt schwanger. Den Vater des Kindes wird sie nie wiedersehen, ihre Tochter Eivor zieht sie nur widerwillig auf. Eivor ihrerseits versucht schon als Halbwüchsige mit einem jungen Kriminellen durchzubrennen, aber das Abenteuer geht auf tragische Weise schief. Fern von Mutter und Stiefvater will sie sich nun eine eigene Existenz als Schneiderin aufbauen. Doch es kommt anders als geplant …",
+    "pageCount": "506",
+    "thumbnail": "https://books.google.com/books/content?id=Qb9PAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771158851972,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Das Auge des Leoparden",
+    "subtitle": "",
+    "authors": [
+      "Mankell, Henning"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-08-26",
+    "isbn": "9783552056817",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Eigentlich hatte der junge Mann nur eine kurze Reise nach Afrika machen wollen, aber dann war er neunzehn Jahre geblieben. Statt in Uppsala sein Jurastudium zu beenden, verfolgt er in Lusaka ehrgeizige Reformpläne. Doch schließlich rät ihm der Mann, den er für seinen einzigen schwarzen Freund hält, für immer fortzugehen.",
+    "pageCount": "297",
+    "thumbnail": "https://books.google.com/books/content?id=3sJPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771158925713,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Chinese",
+    "subtitle": "",
+    "authors": [
+      "Mankell, Henning"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008-05-16",
+    "isbn": "9783552054684",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "An einem frostigen Januartag 2006 macht die Polizei von Hudiksvall eine grausige Entdeckung. In einem kleinen Dorf ist ein Massaker begangen worden, achtzehn Menschen wurden auf bestialische Weise getötet. Die Polizei vermutet die Tat eines Wahnsinnigen. Als Richterin Birgitta Roslin von der Tat liest, wird ihr sofort klar, dass die Pflegeeltern ihrer Mutter, August und Britta Andrén, unter den Mordopfern sind. Und mehr noch: So gut wie alle Ermordeten haben etwas mit ihr zu tun. Sie erkennt, dass die Polizei eine falsche Spur verfolgt, und beginnt zu recherchieren. Ihre Suche führt sie nach China, wo sie auf die grausamen Machenschaften der politischen Führungselite stößt.",
+    "pageCount": "555",
+    "thumbnail": "https://books.google.com/books/content?id=azxQAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771159012517,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Chronist der Winde",
+    "subtitle": "",
+    "authors": [
+      "Mankell, Henning"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-07-05",
+    "isbn": "9783552056800",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Nelio, ein zehnjähriges Straßenkind, erzählt um sein Leben. Er liegt mit einer Schusswunde auf dem Dach eines afrikanischen Hauses und weiß, dass er sterben wird, sobald seine Geschichte zu Ende ist. Er erzählt, wie die Banditen sein Dorf überfielen, seine Schwester massakrierten und ihn zwingen wollten, seine Verwandten zu töten. Wie er floh, den Weg in die große Stadt fand und Anführer einer Bande von Straßenkindern wurde. Vor allem aber erzählt er vom Leben dieser schwarzen Kinder.",
+    "pageCount": "321",
+    "thumbnail": "https://books.google.com/books/content?id=b8JPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771159085970,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Wallanders erster Fall",
+    "subtitle": "",
+    "authors": [
+      "Mankell, Henning"
+    ],
+    "series": "Kurt Wallander",
+    "volume": "",
+    "publishedDate": "2006",
+    "isbn": "9783423252546",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Simon Lamberg, allseits geachteter Fotograf in Ystadt, wird erschlagen in seinem Atelier aufgefunden. Kommissar Wallander muss seine persönlichen Schwierigkeiten hintenansetzen, um den Fall zu lösen.",
+    "pageCount": "140",
+    "thumbnail": "https://books.google.com/books/content?id=cw2SOwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771159341061,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Professor Unrat oder Das Ende eines Tyrannen",
+    "subtitle": "",
+    "authors": [
+      "Mann, Heinrich"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-11-17",
+    "isbn": "9783104002958",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Mit der Geschichte vom Ende des tyrannischen Gymnasialprofessors Raat, deren Verfilmung mit Emil Jannings und Marlene Dietrich unter dem Titel ›Der blaue Engel‹ zu einem der großen Welterfolge des deutschen Kinos wurde, gelang Heinrich Mann bereits im Jahr 1905 eine meisterhafte Karikatur der Wilhelminischen Zeit. Ähnlich wie sein Roman ›Der Untertan‹ gilt auch diese frühe Spießer-Satire als hellsichtige Vorwegnahme deutscher Tyrannei nach 1933. Darüber hinaus aber ist ›Professor Unrat‹ auch einer der ersten Lehrer- und Campusromane und weist auf Meisterwerke wie Nabokovs ›Lolita‹ oder Philip Roths ›Der menschliche Makel‹ voraus.",
+    "pageCount": "329",
+    "thumbnail": "https://books.google.com/books/content?id=crRvAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771350231387,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Fangschuss",
+    "subtitle": "",
+    "authors": [
+      "Mann, Sunil"
+    ],
+    "series": "Vijay Kumar",
+    "volume": "1",
+    "publishedDate": "2011-09-26",
+    "isbn": "9783894258047",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Vijay Kumar ist dreißig Jahre alt, indischer Abstammung, frischgebackener Privatdetektiv - und schon desillusioniert: Seine erste Auftraggeberin ist eine anstrengende Frau, die ihre Katze vermisst. Indischer Whisky und eine gehörige Portion Selbstironie helfen ihm, aufkommende Zweifel an seiner Berufswahl zu verdrängen. Doch auch sein zweiter Auftrag ist weder lukrativ noch Glanz und Ruhm versprechend: Die junge Ness macht sich Sorgen um ihren Freund, den Drogendealer Philipp. Lustlos hört sich Vijay in der Szene um und merkt erst, als er über eine Leiche stolpert, dass er längst selbst in Gefahr schwebt. Eine Jagd beginnt durch das noble Zürcher Bankenviertel bis in die Einsamkeit einer Berghütte.",
+    "pageCount": "220",
+    "thumbnail": "https://books.google.com/books/content?id=CRt4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771350375409,
+    "rating": 3,
+    "tags": [
+      "Schweiz"
+    ]
+  },
+  {
+    "title": "Buddenbrooks",
+    "subtitle": "Verfall einer Familie",
+    "authors": [
+      "Mann, Thomas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2025-03-26",
+    "isbn": "9783104922874",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "»Ich glaubte … ich glaubte … es käme nichts mehr...« Was Hanno Buddenbrook da so legendär stammelt, passiert wirklich: Mit dem Jüngsten endet der Stammbaum der Lübecker Kaufmannsfamilie. Und mit ihm geht eine ganze Epoche unter. Der wunderbare Witz an diesem Untergang ist aber, dass genau damit die Weltkarriere des jungen Thomas Mann beginnt und er ausgerechnet für die »Buddenbrooks« den Nobelpreis für Literatur verliehen bekommt. Seit seinem ersten Erscheinen hat Thomas Manns Meisterwerk voller Weisheit und Humor nichts an Charme und Aktualität eingebüßt.",
+    "pageCount": "1171",
+    "thumbnail": "https://books.google.com/books/content?id=XR5XEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771350507008,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der Tod in Venedig",
+    "subtitle": "",
+    "authors": [
+      "Mann, Thomas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-03-23",
+    "isbn": "9783104903781",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Thomas Mann selbst bezeichnete den ›Tod in Venedig‹ als eine »Novelle gewagten, wenn nicht unmöglichen Gegenstandes« und bezieht sich dabei auf den plötzlichen »Einbruch der Leidenschaft« in das Leben eines homoerotisch veranlagten Menschen. Der nicht mehr junge Schriftsteller Gustav Aschenbach – mit den Gesichtszügen Gustav Mahlers – entdeckt für sich am Lido des schwülwarmen Venedig die Gestalt des schönen Knaben Tadzio, strebt in seinen Gedanken zu ihm und steigert sich in eine unerfüllbare Liebe, deren Opfer er schließlich wird.",
+    "pageCount": "164",
+    "thumbnail": "https://books.google.com/books/content?id=vtFkDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771350687877,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Zauberberg",
+    "subtitle": "",
+    "authors": [
+      "Mann, Thomas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2025-03-26",
+    "isbn": "9783104922898",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Ein kurzer Besuch in einem Davoser Sanatorium wird für den Protagonisten Hans Castorp zu einem siebenjährigen Aufenthalt, der Kurort wird zur Bühne für die europäische Befindlichkeit vor dem Ersten Weltkrieg. Im Juli 1913 begonnen, während des Krieges durch essayistische Arbeiten, vor allem durch die Betrachtungen eines Unpolitischen, unterbrochen, konnte der Roman 1924 abgeschlossen und veröffentlicht werden.",
+    "pageCount": "1497",
+    "thumbnail": "https://books.google.com/books/content?id=Yx5XEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771350729521,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Hartes Pflaster",
+    "subtitle": "",
+    "authors": [
+      "Manotti, Dominique"
+    ],
+    "series": "Commissaire Daquin",
+    "volume": "1",
+    "publishedDate": "2012-02",
+    "isbn": "9783862414116",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Paris im Frühjahr 1980. Tausende von türkischen Einwanderern beginnen einen Streik und kämpfen für ihre Legalisierung. Als Sans-Papiers arbeiten sie in den Hinterhöfen der Stadt in zahlreichen Schneiderwerkstätten unter erbärmlichen Bedingungen für den Glanz der Modebranche. In einem Atelier wird die Leiche einer jungen thailändischen Prostituierten entdeckt. Kommissar Daquin nimmt die Ermittlungen auf. Die Spur führt ins Milieu der türkischen Drogenmafia und ins Herz der Pariser High Society.",
+    "pageCount": "312",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md32209525795.jpg",
+    "read": true,
+    "addedAt": 1771350818917,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Ausbruch",
+    "subtitle": "",
+    "authors": [
+      "Manotti, Dominique"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014",
+    "isbn": "9783867549646",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Filippo Zuliani ist noch jung, aber kein unbeschriebenes Blatt. In Rom hat er zu einer Gang gehört, nun sitzt er im Knast. Politik bedeutet ihm nichts. Den alten Widerstandskämpfer Carlo jedoch bewundert er zutiefst. Und als Carlo einen Ausbruchsversuch macht, sieht Filippo seine Chance und ergreift sie. Ohne zu ahnen, dass ihn dieser Weg ins französische Exil führen wird - und auf gefährliches Terrain.",
+    "pageCount": "165",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783867542180-us-300.jpg",
+    "read": true,
+    "addedAt": 1771351078836,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der erste Tag vom Rest meines Lebens",
+    "subtitle": "",
+    "authors": [
+      "Marone, Lorenzo"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-10-04",
+    "isbn": "9783492310192",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Cesare ist 77 und zieht Bilanz. Von seinen einst hochfliegenden Träumen ist wenig aufgegangen. Seine Methode, mit den Enttäuschungen des Lebens umzugehen: Ironie und Sarkasmus. Das kommt bei seinen Mitmenschen nicht immer gut an. Bis Emma in die Nachbarwohnung zieht. Irgendetwas stimmt nicht mit ihr und ihrem Mann. Das sieht Cesare an Emmas traurigen Augen. Und plötzlich mischt sich Cesare ein. Er hat wieder Mut zu kämpfen. Für seine junge Nachbarin. Für die Liebe. Für das Glück, am Leben zu sein …",
+    "pageCount": "288",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783492310192-us-300.jpg",
+    "read": true,
+    "addedAt": 1771351343003,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Schiffbruch mit Tiger",
+    "subtitle": "Life of Pi",
+    "authors": [
+      "Martel, Yann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-12-03",
+    "isbn": "9783104027548",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "\"Schiffbruch mit Tiger\", das Buch, das alle Herzen im Sturm eroberte, der Weltbestseller - im Dezember 2012 im Kino! Yann Martels Roman, der 2002 mit dem Booker Prize ausgezeichnet wurde, erzählt eine unerhört weise und komische Geschichte, die Millionen Leser auf der ganzen Welt fand: Pi Patel, der Sohn eines indischen Zoobesitzers und praktizierender Hinduist, Christ und Muslim erleidet mit einer Hyäne, einem Orang-Utan, einem verletzten Zebra und einem 450 Pfund schweren bengalischen Tiger namens Richard Parker Schiffbruch. Bald hat der Tiger alle erledigt - alle, außer Pi. Allein treiben sie auf einem Rettungsboot auf dem Ozean. Eine wundersame, abenteuerliche Odyssee beginnt. Von Oscar-Preisträger Ang Lee in 3D verfilmt.",
+    "pageCount": "401",
+    "thumbnail": "https://books.google.com/books/content?id=QNhsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771351498995,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Herren von Winterfell",
+    "subtitle": "",
+    "authors": [
+      "Martin, George R. R."
+    ],
+    "series": "Das Lied von Eis & Feuer",
+    "volume": "1",
+    "publishedDate": "2010-08-20",
+    "isbn": "9783641035860",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Eddard Stark, der Herr von Winterfell, wird an den Hof seines Königs gerufen, um diesem als Berater und Vertrauter zur Seite zu stehen. Doch Intriganten, Meuchler und skrupellose Adlige scharen sich um den Thron, deren Einflüsterungen der schwache König nichts entgegenzusetzen hat. Während Eddard sich von mächtigen Feinden umringt sieht, steht sein Sohn, der zukünftige Herrscher des Nordens, einer uralten finsteren Macht gegenüber. Die Zukunft des Reiches hängt von den Herren von Winterfell ab.",
+    "pageCount": "481",
+    "thumbnail": "https://books.google.com/books/content?id=KCrIj93UN48C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771351591052,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Das Erbe von Winterfell",
+    "subtitle": "",
+    "authors": [
+      "Martin, George R. R."
+    ],
+    "series": "Das Lied von Eis & Feuer",
+    "volume": "2",
+    "publishedDate": "2010-09-07",
+    "isbn": "9783641047153",
+    "category": "",
+    "genre": "",
+    "description": "Eddard Stark, der Lord von Winterfell, ist dem Ruf seines Königs und alten Freundes Robert Baratheon gefolgt und hat seine kalte Heimat im hohen Norden verlassen, um als Hand – als Roberts Berater und Stellvertreter – zu dienen. Eddard ist ein geradliniger, tapferer und aufrechter Mann, der sich jeder Gefahr mit dem Schwert entgegenstellen würde – doch die Ränke der Mächtigen bei Hof sind nichts, was man mit einem Schwert bekämpfen kann. Auch dann nicht, wenn man die Hand des Königs ist …",
+    "pageCount": "437",
+    "thumbnail": "https://books.google.com/books/content?id=ddAnF3LGmn0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771351720869,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Thron der Sieben Königreiche",
+    "subtitle": "",
+    "authors": [
+      "Martin, George R. R."
+    ],
+    "series": "Das Lied von Eis & Feuer",
+    "volume": "3",
+    "publishedDate": "2010-07-28",
+    "isbn": "9783641047160",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Nach dem Tod seines Vaters ist es an dem erst fünfzehnjährigen Robb Stark, die Herrschaft über Winterfell und damit über den ganzen Norden von Westeros anzutreten. Robb kämpft noch um die Anerkennung und den Respekt seiner Untertanen, da bricht im Reich ein Bürgerkrieg aus. Für Robb stellt sich allerdings kaum die Frage, auf welcher Seite er kämpfen wird, denn der junge König Joffrey Baratheon hält seine Schwestern als Geisel. Und während das Reich zerbricht, wächst im eisigen Norden eine viel größere Gefahr heran …",
+    "pageCount": "282",
+    "thumbnail": "https://books.google.com/books/content?id=JjK_fvHigcMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771351848634,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Saat des goldenen Löwen",
+    "subtitle": "",
+    "authors": [
+      "Martin, George R. R."
+    ],
+    "series": "Das Lied von Eis & Feuer",
+    "volume": "4",
+    "publishedDate": "2010-07-28",
+    "isbn": "9783641047177",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Bürgerkrieg zerreißt das Reich Westeros, und der junge grausame König Joffrey Baratheon hält die Schwestern Sansa und Arya Stark als Geiseln, um ihren Bruder zur Treue zu zwingen. Während die ältere Sansa versuchen will, das beste aus der Situation zu machen, entscheidet sich Arya zur Flucht. Doch der Weg zu ihrer sicheren Heimat in Winterfell ist lang, und die verschiedenen Parteien, die im Bürgerkrieg aufeinanderprallen, sind nicht die einzige Gefahr für das junge Mädchen …",
+    "pageCount": "493",
+    "thumbnail": "https://books.google.com/books/content?id=-WTkff-ImVQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771351984168,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Sturm der Schwerter",
+    "subtitle": "",
+    "authors": [
+      "Martin, George R.R."
+    ],
+    "series": "Das Lied von Eis & Feuer",
+    "volume": "5",
+    "publishedDate": "2010-07-28",
+    "isbn": "9783641047184",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Ein blutiger Bürgerkrieg tobt in den Sieben Königreichen. Robb Stark, der Herr von Winterfell, leistet dem tyrannischen Kind-König Joffrey Lennister hartnäckig Widerstand und lässt sich auch nicht dadurch in die Knie zwingen, dass seine Schwester vom König als Geisel gehalten wird.",
+    "pageCount": "383",
+    "thumbnail": "https://books.google.com/books/content?id=AE_Jl6RT1dcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771352117933,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die Königin der Drachen",
+    "subtitle": "",
+    "authors": [
+      "Martin, George R. R."
+    ],
+    "series": "Das Lied von Eis & Feuer",
+    "volume": "6",
+    "publishedDate": "2010-07-28",
+    "isbn": "9783641047191",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Die Streiter von Winterfell sehen sich plötzlich einer ganz neuen Gefahr gegenüber. Eine Barbarenhorde dringt aus dem Norden in die Sieben Königreiche ein – und ihre Vorhut besteht aus beinahe unbezwingbaren übernatürlichen Kreaturen!",
+    "pageCount": "621",
+    "thumbnail": "https://books.google.com/books/content?id=FvR_N779-JAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771352200973,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Zeit der Krähen",
+    "subtitle": "",
+    "authors": [
+      "Martin, George R. R."
+    ],
+    "series": "Das Lied von Eis & Feuer",
+    "volume": "7",
+    "publishedDate": "2012-02-29",
+    "isbn": "9783641083755",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Daenerys Targaryen, die Letzte aus dem Geschlecht der Drachenkönige, bereitet jenseits des Meeres ihre Rückkehr in die Sieben Königreiche vor. An der Spitze einer riesigen Streitmacht und unterstützt von drei Drachen will sie die Krone zurückfordern.",
+    "pageCount": "414",
+    "thumbnail": "https://books.google.com/books/content?id=VrkM4xnKI2QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771352311589,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die dunkle Königin",
+    "subtitle": "",
+    "authors": [
+      "Martin, George R. R."
+    ],
+    "series": "Das Lied von Eis & Feuer",
+    "volume": "8",
+    "publishedDate": "2012-03-26",
+    "isbn": "9783641088118",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Auch wenn Daenerys Targaryen als Eroberin ins vom Bürgerkrieg geschwächte Westeros kommt, so könnte sie doch die Rettung bringen. Denn die schrecklichen Anderen haben die uralte Schutzmauer im Norden überwunden …",
+    "pageCount": "503",
+    "thumbnail": "https://books.google.com/books/content?id=Q-NslYvYoGYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771352401555,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Sohn des Greifen",
+    "subtitle": "",
+    "authors": [
+      "Martin, George R. R."
+    ],
+    "series": "Das Lied von Eis & Feuer",
+    "volume": "9",
+    "publishedDate": "2012-05-21",
+    "isbn": "9783641088637",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Die Sieben Königreiche zerfallen weiter im Machtkampf der großen Adelshäuser, die einander eifersüchtig belauern in ihrer Gier nach dem Eisernen Thron. Einigkeit finden sie nur in ihrem Misstrauen gegen Daenerys Targaryen, der rechtmäßigen Erbin der Krone. Gemeinsam mit ihren drei Drachen und einer stetig wachsenden Armee greift sie vom Osten aus nach der Herrschaft über Westeros. Die größte Gefahr droht derweil jedoch aus dem Norden, wo schreckliche Geschöpfe sich erheben, um die Menschen des Südens zu überrennen. Allein Kommandant Jon Schnee und seine wenigen tapferen Männer von der Nachtwache stemmen sich verzweifelt gegen diese finstere Übermacht …",
+    "pageCount": "452",
+    "thumbnail": "https://books.google.com/books/content?id=dCbTOLpSmGwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771352497617,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Ein Tanz mit Drachen",
+    "subtitle": "",
+    "authors": [
+      "Martin, George R. R."
+    ],
+    "series": "Das Lied von Eis & Feuer",
+    "volume": "10",
+    "publishedDate": "2012-07-19",
+    "isbn": "9783641085186",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Daenerys Targaryen, die Königin der Drachen, muss sich entscheiden, welchen ihrer adligen Freier sie heiraten wird. Wer wird der mächtigste Verbündete für die Eroberung von Westeros sein? Es ist eine rein politische Entscheidung, denn Daenerys' wahre Liebe gilt einem einfachen, aber machtlosen Söldner. Leider haben in diesem Fall die Wünsche einer Königin keine Bedeutung. Über das Schicksal von Westeros entscheiden jedoch nicht die Intrigen der Adligen. Denn die Anderen jenseits der Mauer bereiten den entscheidenden Schlag vor. Jon Schnee und die Nachtwache könnten sie aufhalten. Aber kann der junge Kommandant noch auf die Loyalität seiner Männer vertrauen?",
+    "pageCount": "475",
+    "thumbnail": "https://books.google.com/books/content?id=3r_PgcYX7jYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771352614130,
     "rating": 2,
     "tags": []
   }
