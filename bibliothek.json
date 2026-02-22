@@ -1412,26 +1412,6 @@
     ]
   },
   {
-    "title": "Der Metzger muss nachsitzen",
-    "authors": [
-      "Raab, Thomas"
-    ],
-    "series": "Metzger",
-    "volume": "1",
-    "publishedDate": "2008",
-    "isbn": "9783499247736",
-    "category": "Belletristik",
-    "genre": "Krimi & Thriller",
-    "description": "25 Jahre lang hat der Restaurator Willibald Adrian Metzger nichts von seinen Schulfreunden gehört. Dann stolpert er eines Tages im Park über die Leiche eines ehemaligen Kameraden. Doch als er mit der Polizei am Fundort eintrifft, ist nichts mehr von einer Leiche zu sehen. War es also Einbildung, wie die Polizei glaubt, oder zieht da jemand die Fäden im Hintergrund? Als der Metzger schließlich noch entdeckt, dass jemand in seine Werkstatt eingedrungen ist und den Zeigestab seines ehemaligen Klassenvorstandes deponiert hat, beginnt er wohl oder übel, allerdings höchst unfreiwillig, nachzuforschen.",
-    "thumbnail": "http://books.google.com/books/content?id=D5XBPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "read": true,
-    "rating": 5,
-    "pageCount": "286",
-    "tags": [
-      "Österreich"
-    ]
-  },
-  {
     "title": "Der Metzger sieht rot",
     "authors": [
       "Raab, Thomas"
@@ -2019,14 +1999,15 @@
     "isbn": "9783492053082",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
-    "description": "Das Kurbad: ein Ort, an dem man sich so richtig treiben lassen kann. So auch der Plan von Danjela Djurkovic, die sich bei gutem Essen, Physiotherapie und Massagen von einer Verletzung erholt. Richtig treiben lässt sich allerdings ein Toter, der am Grund eines Beckens umherdümpelt. Nackt! Sofort ruft sie ihren Willibald Adrian Metzger zu Hilfe. Der entfernt sich zwar ungern von seiner Werkstatt und noch unwilliger von der Stadt, seiner Danjela aber kann er nichts abschlagen.\nDer Metzger hat es eigentlich schon geahnt: Die Familien hier am Land verstecken Leichen nicht nur im Keller. Und auch nicht immer im Ganzen. Als ein Ring samt Finger auftaucht, ist endgültig klar: Hier geht etwas nicht mit rechten Dingen zu. Und dann gibt es da auch noch ein Haifischbecken …",
+    "description": "Das Kurbad: ein Ort, an dem man sich so richtig treiben lassen kann. So auch der Plan von Danjela Djurkovic, die sich bei gutem Essen, Physiotherapie und Massagen von einer Verletzung erholt. Richtig treiben lässt sich allerdings ein Toter, der am Grund eines Beckens umherdümpelt. Nackt! Sofort ruft sie ihren Willibald Adrian Metzger zu Hilfe. Der entfernt sich zwar ungern von seiner Werkstatt und noch unwilliger von der Stadt, seiner Danjela aber kann er nichts abschlagen.<br>\nDer Metzger hat es eigentlich schon geahnt: Die Familien hier am Land verstecken Leichen nicht nur im Keller. Und auch nicht immer im Ganzen. Als ein Ring samt Finger auftaucht, ist endgültig klar: Hier geht etwas nicht mit rechten Dingen zu. Und dann gibt es da auch noch ein Haifischbecken …",
     "thumbnail": "http://books.google.com/books/content?id=p3mxPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "rating": 4,
     "pageCount": "359",
     "tags": [
       "Österreich"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Der Metzger holt den Teufel",
@@ -5490,7 +5471,7 @@
   },
   {
     "title": "Ich bin der letzte Jude",
-    "subtitle": "",
+    "subtitle": "Treblinka 1942–43",
     "authors": [
       "Rajchman, Chil"
     ],
@@ -19316,5 +19297,313 @@
     "rating": 2,
     "tags": [],
     "addedAt": 1771712346007
+  },
+  {
+    "title": "Der Metzger muss nachsitzen",
+    "subtitle": "",
+    "authors": [
+      "Raab, Thomas"
+    ],
+    "series": "Metzger",
+    "volume": "1",
+    "publishedDate": "2009-10-05",
+    "isbn": "9783644412316",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Fünfundzwanzig Jahre lang hat er nichts von seinen Schulfreunden gehört. Dann stolpert der Restaurator Willibald Adrian Metzger über einen Toten. Einen ehemaligen und höchst unbeliebten Klassenkameraden. Als die Polizei am Fundort eintrifft, ist die Leiche allerdings verschwunden. Einbildung des rotweinumnebelten Restaurators oder perfide Inszenierung? Am darauffolgenden Tag erhält der Metzger die Gewissheit, dass auch er selbst in den Fall verwickelt ist: Der Schuh des Opfers wird ihm zugespielt. Notgedrungen beginnt er mit den Nachforschungen. Doch die Odyssee in die Vergangenheit fördert noch mehr Leichen zutage …",
+    "pageCount": "213",
+    "thumbnail": "https://books.google.com/books/content?id=i4JsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771789565775,
+    "rating": 5,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Andernorts",
+    "subtitle": "",
+    "authors": [
+      "Rabinovici, Doron"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010",
+    "isbn": "9783518743713",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Weshalb polemisiert der israelische Kulturwissenschaftler Ethan Rosen gegen einen Artikel, den er selbst verfaßt hat? Erkennt er seinen eigenen Text nicht wieder? Oder ist er seinem Kollegen Klausinger in die Falle gegangen, mit dem er um eine Professur an der Wiener Universität konkurriert? Ethan Rosen und Rudi Klausinger: Beide sind sie Koryphäen auf demselben Forschungsgebiet, und doch könnten sie unterschiedlicher nicht sein: Rosen ist überall zu Hause und nirgends daheim. Selbst der Frau, die er liebt, stellt er sich unter falschem Namen vor. Klausinger wiederum ist Liebkind und Bastard zugleich. Er weiß sich jedem Ort anzupassen und ist trotzdem ruhelos: Was ihn treibt, ist die Suche nach seinem leiblichen Vater; sie führt ihn schließlich nach Israel und zu Ethan Rosen. Dessen Vater, ein alter Wiener Jude, der Auschwitz überlebte, braucht dringend eine neue Niere. Bald wird die Suche nach einem geeigneten Spenderorgan für die Angehörigen zur Obsession. Und selbst der obskure Rabbiner Berkowitsch hat plötzliches Interesse an den Rosens.",
+    "pageCount": "287",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783518463109-us-300.jpg",
+    "read": false,
+    "addedAt": 1771790015824,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Menschenteufel",
+    "subtitle": "",
+    "authors": [
+      "Raffelsberger, Marcus"
+    ],
+    "series": "Laurenz Freund",
+    "volume": "1",
+    "publishedDate": "2012",
+    "isbn": "9783863581848",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In einer der schönsten Städte der Welt geschieht ein grässliches Verbrechen: Das Opfer, halb Mensch, halb Tier, wird mitten im Wiener Prater gefunden. Die Ermittlungen führen Oberinspektor Laurenz Freund und sein Team tief in die Geschichte der Stadt - und damit direkt in die Hölle …",
+    "pageCount": "440",
+    "thumbnail": "https://books.google.com/books/content?id=8uhWzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771790120149,
+    "rating": 3,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Wiener Alltagspoeten",
+    "subtitle": "",
+    "authors": [
+      "Rainer, Andreas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2021-05-11",
+    "isbn": "9783903184800",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "In Wien liegt die Poesie auf der Straße. Wer durch die Stadt spaziert, im Kaffeehaus sitzt oder mit der Straßenbahn fährt, taucht durch unzählige Gesprächsfetzen und Alltagssituationen hindurch. \"Das sollte man doch mal aufschreiben\", dachte sich Andreas Rainer vor über drei Jahren, und startete die Plattform Wiener Alltagspoeten. Was als kurzes Experiment angelegt war, ist heute eine Instagram-Seite mit über 100.000 Followern. Nun erscheint eine Auswahl der denkwürdigsten Alltagspoeten-Momente in Buchform – inklusive bisher unveröffentlichter Gustostückerl.",
+    "pageCount": "90",
+    "thumbnail": "https://books.google.com/books/content?id=CBUxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771790226666,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Verborgene Muster",
+    "subtitle": "",
+    "authors": [
+      "Rankin, Ian"
+    ],
+    "series": "John Rebus",
+    "volume": "1",
+    "publishedDate": "2000",
+    "isbn": "9783641113964",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Eine Mordserie versetzt das eigentlich idyllische Edinburgh in Angst und Schrecken: Zwei Mädchen wurden bereits getötet, und ein drittes ist verschwunden. Detective Seargent John Rebus tappt im Dunkeln. Bis er begreift, dass die seltsamen anonymen Briefe, die er erhält und denen kleine, zusammengeknotete Stricke und aus Streichhölzern gebastelte Kreuze beigelegt sind, ihm den Weg zum Mörder weisen könnten. Doch als er ahnt, was genau sie bedeuten, ist es fast zu spät. Denn plötzlich ist seine eigene Tochter spurlos verschwunden …",
+    "pageCount": "289",
+    "thumbnail": "https://books.google.com/books/content?id=UPqPBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771791151207,
+    "rating": 4,
+    "tags": [
+      "Schottland"
+    ]
+  },
+  {
+    "title": "Februarschatten",
+    "subtitle": "",
+    "authors": [
+      "Reichart, Elisabeth"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-12-10",
+    "isbn": "9783701358991",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Die sogenannte \"Mühlviertler Hasenjagd\" ist der historische Hintergrund zu dieser Erzählung. Im Februar 1945 wagten etwa 500 Häftlinge den Ausbruch aus dem KZ Mauthausen und wurden nicht nur von der SS, sondern auch von der Mühlviertler Bevölkerung gejagt und ermordet. Eine Mutter, die als Kind das Geschehen miterlebt, aber zu schweigen gelernt hat, lässt sich, von der Tochter über die Ereignisse befragt, zögerlich auf die Erinnerungen ein.",
+    "pageCount": "109",
+    "thumbnail": "https://books.google.com/books/content?id=hb3IEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771791380148,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Operation Elite",
+    "subtitle": "",
+    "authors": [
+      "Reilly, Matthew"
+    ],
+    "series": "Shane Schofield",
+    "volume": "3",
+    "publishedDate": "2015-02-06",
+    "isbn": "9783548286891",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Fünfzehn Ziele – die besten Kämpfer dieser Welt: Kommandeure militärischer Eliteeinheiten, Geheimdienstler sowie Top-Terroristen. Das Kopfgeld für jeden einzelnen beträgt 20 Millionen Dollar. Eine der Zielpersonen: Captain Shane Schofield, Deckname »Scarecrow«. Plötzlich sieht sich der Marine einer gnadenlosen Jagd ausgesetzt. Und entdeckt nicht nur eine weltumspannende Verschwörung – sondern auch den Grund, warum er nicht mit dem Leben davonkommen darf …",
+    "pageCount": "517",
+    "thumbnail": "https://books.google.com/books/content?id=Y5eXoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771791956329,
+    "rating": 1,
+    "tags": []
+  },
+  {
+    "title": "Das Erbe des Bösen",
+    "subtitle": "",
+    "authors": [
+      "Remes, Ilkka"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-11-01",
+    "isbn": "9783423411134",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Als der finnische Physiker Rolf Narva in hohem Alter überraschend eine Reise nach Berlin antritt und spurlos verschwindet, beginnt für seinen Sohn Erik und dessen Frau Katja ein Albtraum. Vieles deutet darauf hin, dass ein dunkles Geheimnis die Vergangenheit des Vaters umgibt. Was führt den alten Mann jetzt nach Berlin? Und was hat das Deutschland der Nazi- Zeit mit Rolfs Verschwinden zu tun? Erik – selbst Wissenschaftler – hat eine erfolgreiche Gentechnik- Firma in London gegründet. Doch plötzlich erhält das Thema Genetik für ihn eine ganz neue Dimension. Während Erik und Katja einem entsetzlichen Familiengeheimnis auf die Spur kommen, ahnen sie nichts von der Gefahr, die sie selbst und das Leben ihrer Kinder bedroht …",
+    "pageCount": "539",
+    "thumbnail": "https://books.google.com/books/content?id=CmavwAi7hQEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771792250706,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Grausamkeit der Raben",
+    "subtitle": "",
+    "authors": [
+      "Rendell, Ruth"
+    ],
+    "series": "Inspector Wexford",
+    "volume": "14",
+    "publishedDate": "1996",
+    "isbn": "9783644527911",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Als sie das Opfer des Überfalls fanden, lag es halb auf dem öffentlichen Fußweg und blutete aus einer Wunde an der Schulter. Noch während sie sich über den Mann beugten, tauchte unter den Bäumen des Wäldchens auf der Nordseite des Wegs ein junges Mädchen auf. Sie erklärte, sie heiße Edwina Klein, und reichte den Polizisten ein Federmesser, von dem sie das meiste Blut abgewischt hatte.",
+    "pageCount": "",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md31996245507.jpg",
+    "read": true,
+    "rating": 2,
+    "tags": [],
+    "addedAt": 1771792704150
+  },
+  {
+    "title": "Die Brautjungfer",
+    "subtitle": "",
+    "authors": [
+      "Rendell, Ruth"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-03-31",
+    "isbn": "9783641151324",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Philip Wardmann hasst nichts so sehr wie Gewalt. Nach dem Tod seines Vaters, eines besessenen Spielers und Wettsüchtigen, ist Philip zum Familienoberhaupt geworden. Er arbeitet in einer kleinen Firma und wohnt zusammen mit seinen beiden Schwestern Fee und Cheryl noch immer zu Hause bei seiner Mutter Christine. Doch dann lernt Philip bei Fees Hochzeit Senta Pelham, eine der fünf Brautjungfern, kennen: eine schlanke, bleiche Kindfrau mit fast farblosen Augen. Von Senta geht eine schwer fassbare Faszination aus, und Philip kann es anfangs kaum glauben, dass sie sich ihrerseits zu ihm hingezogen fühlt. Immer tiefer gerät Philip in den Bann seiner neuen Geliebten, doch was als Liebe auf den ersten Blick begann, steigert sich mit jeder Begegnung zu einer fatalen Gratwanderung. Denn Senta, von Philip heiß begehrt, verlangt von diesem einen ganz besonderen Beweis seiner Liebe …",
+    "pageCount": "350",
+    "thumbnail": "https://books.google.com/books/content?id=dJOgBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771792753180,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Wölfchen",
+    "subtitle": "Stories",
+    "authors": [
+      "Rendell, Ruth"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1996",
+    "isbn": "9783499220869",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Die Erzählungen der vorliegenden Ausgabe wurden dem Band «Die neue Freundin» entnommen.",
+    "pageCount": "122",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783499220869-us.jpg",
+    "read": true,
+    "addedAt": 1771792891091,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Friede ihren Seelen",
+    "subtitle": "",
+    "authors": [
+      "Richter, Andreas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783426622216",
+    "category": "Belletristik",
+    "genre": "Mystery",
+    "description": "Zusammen mit seiner Frau Mirja, verwirklicht Stefan Timmer seinen Traum von einem eigenen Restaurant. Ein hübsches altes Haus im Hamburger Stadtteil Duvenstedt hat es den beiden angetan und mit der finanziellen Unterstützung von Mirjas Vater, steht Stefan schon recht bald in der Küche seines neuen Restaurants. Doch als sich in diesem Haus innerhalb kürzester Zeit mehrere Todesfälle ereignen, bleiben die Gäste aus. Als Stefan und Mirja auch noch regelmäßig unerwünschten Besuch von einem kleinen Mädchen in einem weißen Nachthemd bekommen, vermuten sie, dass die Todesfälle sich nicht zufällig ereigneten.",
+    "pageCount": "312",
+    "thumbnail": "https://books.google.com/books/content?id=sHw1AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771793254986,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Auge des Mondes",
+    "subtitle": "",
+    "authors": [
+      "Riebe, Brigitte"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-01-26",
+    "isbn": "9783641015541",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Per-Bastet, im 6. Jhd. vor Christus: Seit dem Tod ihres Mannes fühlt sich die Geschichtenerzählerin Mina einsam. Bis eines Nachts eine kleine Katze sie vor dem giftigen Biss einer Speikobra rettet. Bastet, wie Mina ihre samtpfotige Freundin in Anlehnung an die mächtige Katzengöttin der Fruchtbarkeit und Liebe nennt, besucht sie von nun an regelmäßig. Sie gibt Mina neuen Lebensmut und sie scheint ihr auch Glück zu bringen. Der persische Händler Numi, einst erbitterter Feind der Familie, wird zu ihrem Freund und Vertrauten und bald auch ihr Geliebter. Doch dann verschwindet Bastet, und mit ihr alle Katzen der Stadt. Mina will nicht glauben, was die Menschen sich erzählen: dass die Göttin Bastet nach einer grausamen Opfergabe verlangt. Entschlossen geht sie den ungeheuerlichen nächtlichen Vorgängen nach und entdeckt eine Intrige, die Schreckliches zum Ziel hat. Ihre Widersacher machen auch vor Mord nicht halt, doch Mina sucht mutig weiter nach der Wahrheit.",
+    "pageCount": "258",
+    "thumbnail": "https://books.google.com/books/content?id=SV_sVuLlvE4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771793438581,
+    "rating": 2,
+    "tags": [
+      "Ägypten"
+    ]
+  },
+  {
+    "title": "Geschichten vom lieben Gott",
+    "subtitle": "",
+    "authors": [
+      "Rilke, Rainer Maria"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2025-05-27",
+    "isbn": "9783965429826",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "In den \"Geschichten vom lieben Gott\" erzählt Rainer Maria Rilke kleine, nachdenkliche Episoden über den Glauben, über das Leben – und über Gott. Entstanden Ende des 19. Jahrhunderts, sind sie von Rilkes Reisen nach Russland und Italien ebenso inspiriert wie von biblischen Geschichten. Der \"liebe Gott\" ist hier kein strenger Richter, sondern eine liebevolle, fast kindliche Figur, die den Menschen nahe ist. Die Erzählungen richten sich an Kinder ebenso wie an Erwachsene, die sich ihre kindliche Offenheit bewahrt haben. Mit einem feinen Gespür für das Wunderbare im Alltäglichen schafft Rilke ein Gegenbild zur dogmatischen Religion - poetisch, warmherzig, humorvoll und von zeitloser Schönheit. Geschrieben 1899, erstmals erschienen 1900.",
+    "pageCount": "74",
+    "thumbnail": "https://books.google.com/books/content?id=W2ZgEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771793553159,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "PanAroma",
+    "subtitle": "Jitterbug Perfume",
+    "authors": [
+      "Robbins, Tom"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1985",
+    "isbn": "9783499156717",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "«Ein altes ukrainisches Sprichwort warnt: Eine Geschichte, die mit einer Roten Bete anfängt, endet mit dem Teufel.»<br>\nIn Pan Aroma lauern noch ganz andere Gefahren auf den Leser: Wohlgerüche schlagen um in infernalischen Gestank, Dematerialisation birgt das Risiko einer Reise ohne Wiederkehr, und die Flüchtigkeit des Parfüms als Quelle ewigen Lebens wird zum Ausgangspunkt einer abenteuerlichen Jagd nach einem göttlichen Parfümfläschchen.",
+    "pageCount": "443",
+    "thumbnail": "https://books.google.com/books/content?id=F2P2QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771793717604,
+    "rating": 3,
+    "tags": []
   }
 ]
