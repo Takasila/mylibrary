@@ -990,7 +990,7 @@
     "series": "Javier Falcón Quartett",
     "volume": "1",
     "publishedDate": "2004",
-    "description": "Während man in Sevilla die Semana Santa feiert, ist Inspektor Javier Falcón mit einem äußerst grausamen Mordfall beschäftigt. Ein Restaurantbesitzer wird tot aufgefunden - an einen Stuhl gefesselt und gestorben an den Verletzungen, die er sich zufügte, als sein Mörder ihn zwang, ein Video anzuschauen. Was so unvorstellbar Schreckliches hat das Opfer gesehen? Bei den Nachforschungen entdeckt Falcón nicht nur, dass sein verstorbener Vater in den Fall verwickelt ist, sondern dass er selbst bald das nächste Mordopfer werden könnte. Kann ihm da noch der Blinde helfen, der ihm mit angeblich prophetischer Gabe zur Seite steht ...?",
+    "description": "Während man in Sevilla die Semana Santa feiert, ist Inspektor Javier Falcón mit einem äußerst grausamen Mordfall beschäftigt. Ein Restaurantbesitzer wird tot aufgefunden - an einen Stuhl gefesselt und gestorben an den Verletzungen, die er sich zufügte, als sein Mörder ihn zwang, ein Video anzuschauen. Was so unvorstellbar Schreckliches hat das Opfer gesehen? Bei den Nachforschungen entdeckt Falcón nicht nur, dass sein verstorbener Vater in den Fall verwickelt ist, sondern dass er selbst bald das nächste Mordopfer werden könnte. Kann ihm da noch der Blinde helfen, der ihm mit angeblich prophetischer Gabe zur Seite steht …?",
     "thumbnail": "https://books.google.com/books/content?id=Ce-yAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "category": "Belletristik",
@@ -999,7 +999,8 @@
     "pageCount": "407",
     "tags": [
       "Portugal"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Die Toten von Santa Clara",
@@ -1010,7 +1011,7 @@
     "series": "Javier Falcón Quartett",
     "volume": "2",
     "publishedDate": "2005",
-    "description": "Während ganz Sevilla unter der drückenden Hitze des Sommers leidet, wird Chefinspektor Javier Falcón in eine der kühl-klimatisierten Villen des Vorortes Santa Clara gerufen. Dort scheint ein einflussreicher Bauunternehmer Selbstmord begangen zu haben. Doch etwas an dem Tatort weckt Falcóns Misstrauen, und gegen den Willen der Staatsanwaltschaft nimmt er die Ermittlungen auf. Bald ist er einem infamen Komplott auf der Spur, das noch mehr als ein Opfer zu fordern droht ...",
+    "description": "Während ganz Sevilla unter der drückenden Hitze des Sommers leidet, wird Chefinspektor Javier Falcón in eine der kühl-klimatisierten Villen des Vorortes Santa Clara gerufen. Dort scheint ein einflussreicher Bauunternehmer Selbstmord begangen zu haben. Doch etwas an dem Tatort weckt Falcóns Misstrauen, und gegen den Willen der Staatsanwaltschaft nimmt er die Ermittlungen auf. Bald ist er einem infamen Komplott auf der Spur, das noch mehr als ein Opfer zu fordern droht …",
     "thumbnail": "https://books.google.com/books/content?id=wRQ0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "category": "Belletristik",
@@ -1019,7 +1020,8 @@
     "pageCount": "380",
     "tags": [
       "Portugal"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Tod in Lissabon",
@@ -1704,7 +1706,7 @@
   {
     "title": "Tiere essen",
     "authors": [
-      "Foer, Jonathan Safran"
+      "Safran Foer, Jonathan"
     ],
     "series": "",
     "volume": "",
@@ -1745,14 +1747,16 @@
     "series": "",
     "volume": "",
     "publishedDate": "1997",
-    "isbn": "3 257 22953 4",
+    "isbn": "3257229534",
     "category": "Belletristik",
     "genre": "Romane & Erzählungen",
     "description": "Sie ist reizbar, rätselhaft und viel älter als er ... und sie wird seine erste Leidenschaft. Sie hütet verzweifelt ein Geheimnis. Eines Tages ist sie spurlos verschwunden. Erst Jahre später sieht er sie wieder. Die fast kriminalistische Erforschung einer sonderbaren Liebe und bedrängenden Vergangenheit.",
     "thumbnail": "http://books.google.com/books/content?id=iWgqYQ3zIlcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
-    "rating": "5",
-    "pageCount": "216"
+    "rating": 5,
+    "pageCount": "216",
+    "subtitle": "",
+    "tags": []
   },
   {
     "title": "Oskar und die Dame in Rosa",
@@ -1790,23 +1794,6 @@
     "tags": [
       "Österreich"
     ]
-  },
-  {
-    "title": "Bildung",
-    "authors": [
-      "Schwanitz, Dietrich"
-    ],
-    "series": "",
-    "volume": "",
-    "publishedDate": "1999",
-    "isbn": "3821808187",
-    "category": "Sachbuch",
-    "genre": "Geschichte",
-    "description": "Ein Bildungskanon, ein Buch, das sagt, was wesentlich ist und was nicht. Schwanitz hat unser Allgemeinwissen gesichtet und unser kulturelles Gedächtnis neu justiert. Er beseitigt die Hindernisse, die vielen Menschen den Zugang zu unserer Kultur versperren und erstickt jeden Bildungsdünkel im Keim. Unser Wissen ist im Umbruch, unser Bildungssystem ist in der Krise, der Ruf nach einem Kanon wird immer lauter. Dieses Handbuch bietet nun die erste Neuorientierung hinsichtlich der Kernbestände unserer Kultur.",
-    "thumbnail": "http://books.google.com/books/content?id=gs4YAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "read": true,
-    "rating": "5",
-    "pageCount": "552"
   },
   {
     "title": "Fermats letzter Satz",
@@ -2474,11 +2461,13 @@
     "isbn": "9783453156395",
     "category": "Belletristik",
     "genre": "Science Fiction",
-    "description": "Meina Gladstone, die Präsidentin der Hegemonie, spielt ein gefährliches Spiel. Hyperion mit seiner gottgleichen Tötungsmaschine Shrike ist zur Protektoratswelt erklärt worden – eine Situation, die ihre Ratgeber vom TechnoCore seit langem fürchten. Der Core der KIs, der die Zukunft für Jahrhunderte vorausgeplant hat – ausgenommen die .Variable. Hyperion –, verfolgt eigene Ziele – die Schaffung ihrer Höchsten Intelligenz, des Maschinengottes. Aus einer möglichen Zukunft hat diese HI das Shrike als ultimatives Instrument zur Erzeugung von Schmerz und Qual durch die Zeit zurückgeschickt.\nGladstone weiß, dass Elemente des Core einen sinistren Plan zur Ausrottung der Menschheit verfolgen, und dass das Schicksal von Milliarden von ihren Entscheidungen abhängt. Eine unklare Rolle spielen die .Ousters. halbmenschliche Wesen und generationenlang Feinde der Hegemonie. Es gibt nur zwei Alternativen – Krieg und absolutes Chaos, oder die sichere Vernichtung.\nDie Schlacht um Hyperion tobt – da droht plötzlich eine Invasion des gesamten Weltennetzes!",
+    "description": "Meina Gladstone, die Präsidentin der Hegemonie, spielt ein gefährliches Spiel. Hyperion mit seiner gottgleichen Tötungsmaschine Shrike ist zur Protektoratswelt erklärt worden – eine Situation, die ihre Ratgeber vom TechnoCore seit langem fürchten. Der Core der KIs, der die Zukunft für Jahrhunderte vorausgeplant hat – ausgenommen die Variable Hyperion –, verfolgt eigene Ziele – die Schaffung ihrer Höchsten Intelligenz, des Maschinengottes. Aus einer möglichen Zukunft hat diese HI das Shrike als ultimatives Instrument zur Erzeugung von Schmerz und Qual durch die Zeit zurückgeschickt. Gladstone weiß, dass Elemente des Core einen sinistren Plan zur Ausrottung der Menschheit verfolgen, und dass das Schicksal von Milliarden von ihren Entscheidungen abhängt. Eine unklare Rolle spielen die Ousters halbmenschliche Wesen und generationenlang Feinde der Hegemonie. Es gibt nur zwei Alternativen – Krieg und absolutes Chaos, oder die sichere Vernichtung. Die Schlacht um Hyperion tobt – da droht plötzlich eine Invasion des gesamten Weltennetzes!Gladstone weiß, dass Elemente des Core einen sinistren Plan zur Ausrottung der Menschheit verfolgen, und dass das Schicksal von Milliarden von ihren Entscheidungen abhängt. Eine unklare Rolle spielen die .Ousters. halbmenschliche Wesen und generationenlang Feinde der Hegemonie. Es gibt nur zwei Alternativen – Krieg und absolutes Chaos, oder die sichere Vernichtung.\nDie Schlacht um Hyperion tobt – da droht plötzlich eine Invasion des gesamten Weltennetzes!",
     "thumbnail": "https://pictures.abebooks.com/isbn/9783453156395-de.jpg",
     "read": true,
-    "rating": "4",
-    "pageCount": "778"
+    "rating": 4,
+    "pageCount": "778",
+    "subtitle": "",
+    "tags": []
   },
   {
     "title": "Der Fall des Lemming",
@@ -2491,14 +2480,15 @@
     "isbn": "9783644405615",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
-    "description": "Leopold Wallisch, Spitzname «Lemming» ist auf Betreiben seines bösartigen Kollegen Krotznig aus der Mordkommission entlassen worden. Jetzt arbeitet er für eine kleine Wiener Privatdetektei und spioniert potentiellen Ehebrechern hinterher. Als einer der von ihm Überwachten, der pensionierte Lateinlehrer Grinzinger, ermordet wird, will er den Fall selber aufklären. Immer tiefer gerät er in ein komplexes Geflecht aus Macht und Verrat, Sadismus und Demütigung, dessen Wurzeln zwanzig Jahre zurückreichen. Die Suche nach dem Mörder gerät zum Wettlauf mit dem brutalen Krotznig, der die Ermittlungen seines ehemaligen Partners mit allen Mitteln zu stoppen versucht. Doch der Lemming hat noch einen Trumpf in der Hand: die ominöse Nickelbrille, die Grinziger kurz vor seinem Tod im Wald vergraben hat...",
+    "description": "Leopold Wallisch, Spitzname «Lemming» ist auf Betreiben seines bösartigen Kollegen Krotznig aus der Mordkommission entlassen worden. Jetzt arbeitet er für eine kleine Wiener Privatdetektei und spioniert potentiellen Ehebrechern hinterher. Als einer der von ihm Überwachten, der pensionierte Lateinlehrer Grinzinger, ermordet wird, will er den Fall selber aufklären. Immer tiefer gerät er in ein komplexes Geflecht aus Macht und Verrat, Sadismus und Demütigung, dessen Wurzeln zwanzig Jahre zurückreichen. Die Suche nach dem Mörder gerät zum Wettlauf mit dem brutalen Krotznig, der die Ermittlungen seines ehemaligen Partners mit allen Mitteln zu stoppen versucht. Doch der Lemming hat noch einen Trumpf in der Hand: die ominöse Nickelbrille, die Grinziger kurz vor seinem Tod im Wald vergraben hat …",
     "thumbnail": "http://books.google.com/books/content?id=eXZqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 5,
     "pageCount": "186",
     "tags": [
       "Österreich"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Lemmings Himmelfahrt",
@@ -2511,14 +2501,15 @@
     "isbn": "9783644405516",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
-    "description": "Der Lemming ist wieder in Schwierigkeiten. Gerade hat ihn seine Freundin hinausgeworfen, und kurz danach schießt ein Verrückter auf ihn. Zum Glück trifft es zwar einen anderen, der tot zusammenbricht, doch jetzt sucht die Polizei den Lemming als Mörder. Da hilft es nur, den wirklichen Täter zu finden - und der Lemming ist mal wieder in einen Fall verwickelt, der ihn völlig überfordert ....",
+    "description": "Der Lemming ist wieder in Schwierigkeiten. Gerade hat ihn seine Freundin hinausgeworfen, und kurz danach schießt ein Verrückter auf ihn. Zum Glück trifft es zwar einen anderen, der tot zusammenbricht, doch jetzt sucht die Polizei den Lemming als Mörder. Da hilft es nur, den wirklichen Täter zu finden - und der Lemming ist mal wieder in einen Fall verwickelt, der ihn völlig überfordert …",
     "thumbnail": "http://books.google.com/books/content?id=joNsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 4,
     "pageCount": "219",
     "tags": [
       "Österreich"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Das Schweigen des Lemming",
@@ -2551,14 +2542,15 @@
     "isbn": "9783644403512",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
-    "description": "Ein Engel wird zum Todesboten. An einem Maitag spaziert der Lemming mit seiner hochschwangeren Klara durch die Straßen Wiens. Plötzlich setzen die Wehen ein, viel zu rasch, um noch das Krankenhaus zu erreichen. Da taucht wie vom Himmel gesandt eine fremde Frau auf und hilft bei der Geburt. Nach diesem Erlebnis wird Angela zur besten Freundin der Familie. Bis zum Weihnachtsabend, an dem der Lemming ihr kurzzeitig seinen Sohn anvertraut und daraufhin eine grausame Entdeckung macht ...",
+    "description": "Ein Engel wird zum Todesboten. An einem Maitag spaziert der Lemming mit seiner hochschwangeren Klara durch die Straßen Wiens. Plötzlich setzen die Wehen ein, viel zu rasch, um noch das Krankenhaus zu erreichen. Da taucht wie vom Himmel gesandt eine fremde Frau auf und hilft bei der Geburt. Nach diesem Erlebnis wird Angela zur besten Freundin der Familie. Bis zum Weihnachtsabend, an dem der Lemming ihr kurzzeitig seinen Sohn anvertraut und daraufhin eine grausame Entdeckung macht …",
     "thumbnail": "http://books.google.com/books/content?id=RZlrAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 5,
     "pageCount": "296",
     "tags": [
       "Österreich"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Anna Karenina",
@@ -3477,14 +3469,15 @@
     "series": "Art Keller",
     "volume": "1",
     "publishedDate": "2010",
-    "description": "Mit grossem Tatendrang hat sich der US-Drogenfahnder Art Keller daran gemacht, in die Strukturen der mexikanischen Drogenmafia einzudringen - mit Erfolg. So viel Erfolg, dass die Drogendepots reihenweise auffliegen und die Narcotraficantes die Jagd auf ihn eröffnen. Nachdem sein Mitarbeiter von den Gangstern zu Tode gefoltert wurde, schwört Art Keller Rache und startet einen gnadenlosen, blutigen Feldzug gegen die Drogenbarone. Zu spät bemerkt er, dass er sich damit neue Feinde macht, und die sitzen in Washington. Was als Iran-Contra-Affäre in die Geschichte einging, erlebt Keller als gigantisches Drogen-, Geldwäsche- und Waffengeschäft. Vor die Wahl gestellt, seiner Regierung zu dienen oder seinem Gewissen zu folgen, trifft er eine einsame Entscheidung und stösst dabei auf unverhoffte Verbündete.",
+    "description": "Mit großem Tatendrang hat sich der US-Drogenfahnder Art Keller daran gemacht, in die Strukturen der mexikanischen Drogenmafia einzudringen - mit Erfolg. So viel Erfolg, dass die Drogendepots reihenweise auffliegen und die Narcotraficantes die Jagd auf ihn eröffnen. Nachdem sein Mitarbeiter von den Gangstern zu Tode gefoltert wurde, schwört Art Keller Rache und startet einen gnadenlosen, blutigen Feldzug gegen die Drogenbarone. Zu spät bemerkt er, dass er sich damit neue Feinde macht, und die sitzen in Washington. Was als Iran-Contra-Affäre in die Geschichte einging, erlebt Keller als gigantisches Drogen-, Geldwäsche- und Waffengeschäft. Vor die Wahl gestellt, seiner Regierung zu dienen oder seinem Gewissen zu folgen, trifft er eine einsame Entscheidung und stößt dabei auf unverhoffte Verbündete.",
     "thumbnail": "https://books.google.com/books/content?id=wPjjSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "pageCount": "689",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
     "rating": 5,
-    "tags": []
+    "tags": [],
+    "subtitle": ""
   },
   {
     "title": "Der Marsianer",
@@ -3497,12 +3490,13 @@
     "isbn": "9783641144005",
     "category": "Belletristik",
     "genre": "Science Fiction",
-    "description": "Gestrandet auf dem Mars Der Astronaut Mark Watney war auf dem besten Weg, eine lebende Legende zu werden, schließlich war er der erste Mensch in der Geschichte der Raumfahrt, der je den Mars betreten hat. Nun, sechs Tage später, ist Mark auf dem besten Weg, der erste Mensch zu werden, der auf dem Mars sterben wird: Bei einer Expedition auf dem Roten Planeten gerät er in einen Sandsturm, und als er aus seiner Bewusstlosigkeit erwacht, ist er allein. Auf dem Mars. Ohne Ausrüstung. Ohne Nahrung. Und ohne Crew, denn die ist bereits auf dem Weg zurück zur Erde. Es ist der Beginn eines spektakulären Überlebenskampfes ...",
+    "description": "Gestrandet auf dem Mars Der Astronaut Mark Watney war auf dem besten Weg, eine lebende Legende zu werden, schließlich war er der erste Mensch in der Geschichte der Raumfahrt, der je den Mars betreten hat. Nun, sechs Tage später, ist Mark auf dem besten Weg, der erste Mensch zu werden, der auf dem Mars sterben wird: Bei einer Expedition auf dem Roten Planeten gerät er in einen Sandsturm, und als er aus seiner Bewusstlosigkeit erwacht, ist er allein. Auf dem Mars. Ohne Ausrüstung. Ohne Nahrung. Und ohne Crew, denn die ist bereits auf dem Weg zurück zur Erde. Es ist der Beginn eines spektakulären Überlebenskampfes …",
     "pageCount": "382",
     "thumbnail": "https://books.google.com/books/content?id=rhubAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 5,
-    "tags": []
+    "tags": [],
+    "subtitle": ""
   },
   {
     "title": "Der Fall Demjanjuk",
@@ -5554,26 +5548,6 @@
     "tags": []
   },
   {
-    "title": "Die Un-Heilige Schrift",
-    "subtitle": "Die Entstehung der Bibel",
-    "authors": [
-      "Santler, Helmuth"
-    ],
-    "series": "",
-    "volume": "",
-    "publishedDate": "2007",
-    "isbn": "9783850030816",
-    "category": "Sachbuch",
-    "genre": "Religion",
-    "description": "Einmal der umgekehrte Fall: In diesem Buch steht um einiges mehr drin, als Titel, Aufmachung und Rückentext versprechen. Woher hat Dan Brown seine Ideen zu Maria Magdalena abgekupfert – und was ist jetzt wirklich dran an ihrem Verhältnis zu Jesus? Warum reden alle von den Funden von Qumran, obwohl jene von Nag Hammadi viel bedeutsamer für ein modernes (gnostisches) Verständnis von Christentum sind? Oder hätten Sie gewusst, dass der gesamte Marienkult überhaupt keine biblische Entsprechung hat?",
-    "pageCount": "316",
-    "thumbnail": "https://m.media-amazon.com/images/I/819pgyUIX2L._SL1240_.jpg",
-    "read": true,
-    "addedAt": 1747865823286,
-    "rating": 3,
-    "tags": []
-  },
-  {
     "title": "Ich, Gina Wild",
     "subtitle": "Enthüllung",
     "authors": [
@@ -5605,7 +5579,7 @@
     "isbn": "9783492992107",
     "category": "Sachbuch",
     "genre": "Naturwissenschaft",
-    "description": "Was passiert, wenn wir sterben? Sterben, Tod und Trauer sind unumgänglich, für jeden von uns. Und doch wissen wir wenig darüber. Roland Schulz findet Worte für das Unbeschreibliche und gibt Antworten auf die tiefsten Fragen des Lebens.. Was passiert mit deinem Körper, wenn du stirbst? Was fühlst du – Trauer, Schmerz? Und dann, wenn dein Herzschlag verstummt ist? Was geschieht mit deinem Leichnam, bis du bestattet wirst? Wie wird man um dich trauern? Zwischen Schockeffekt und Samthandschuhen bleiben Ratgeber zur Sterbe- und Trauerbegleitung häufig vollkommen abstrakt. Roland Schulz hat das Tabu des Todes gebrochen und mit »So sterben wir: Unser Ende und was wir darüber wissen sollten« einen eindringliches, aufwendig recherchiertes und schonungslos ehrliches Sachbuch verfasst. Schon mit seiner direkten Leseransprache lässt er keinen Zweifel daran, dass sich unser Denken über Verlust, Tod und Trauer ändern muss.",
+    "description": "Was passiert, wenn wir sterben? Sterben, Tod und Trauer sind unumgänglich, für jeden von uns. Und doch wissen wir wenig darüber. Roland Schulz findet Worte für das Unbeschreibliche und gibt Antworten auf die tiefsten Fragen des Lebens. Was passiert mit deinem Körper, wenn du stirbst? Was fühlst du – Trauer, Schmerz? Und dann, wenn dein Herzschlag verstummt ist? Was geschieht mit deinem Leichnam, bis du bestattet wirst? Wie wird man um dich trauern? Zwischen Schockeffekt und Samthandschuhen bleiben Ratgeber zur Sterbe- und Trauerbegleitung häufig vollkommen abstrakt.",
     "pageCount": "239",
     "thumbnail": "https://books.google.com/books/content?id=-VxxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
@@ -5627,7 +5601,7 @@
     "genre": "Biografien & Erinnerungen",
     "description": "Die große Reise ist eine fünftägige Fahrt in einem Eisenbahnwaggon: 119 Häftlinge werden aus Frankreich in das Konzentrationslager Buchenwald transportiert. Jorge Semprun schildert seine persönlichen Erlebnisse aus dem Jahr 1944. niedergeschrieben 16 Jahre danach.",
     "pageCount": "238",
-    "thumbnail": "https://m.media-amazon.com/images/I/71KnRchtvEL._SL1500_.jpg",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783518372449-us-300.jpg",
     "read": true,
     "rating": 4,
     "tags": [
@@ -5687,7 +5661,7 @@
     "isbn": "9783407742025",
     "category": "Sachbuch",
     "genre": "Biografien & Erinnerungen",
-    "description": "Die Autorin, 1930 geboren, wird 1943 zusammen mit ihrer Familie in das KZ Bergen-Belsen deportiert, wo sie und ihre Brüder von den Eltern getrennt werden. Zusammen mit ungefähr 40 anderen Kindern überlebte sie im äKinderhausä.",
+    "description": "Die Autorin, 1930 geboren, wird 1943 zusammen mit ihrer Familie in das KZ Bergen-Belsen deportiert, wo sie und ihre Brüder von den Eltern getrennt werden. Zusammen mit ungefähr 40 anderen Kindern überlebte sie im ›Kinderhaus‹.",
     "pageCount": "352",
     "thumbnail": "https://books.google.com/books/content?id=q0YcQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
@@ -5738,11 +5712,11 @@
     "tags": []
   },
   {
-    "title": "1.000 Euro für jeden",
+    "title": "1000 Euro für jeden",
     "subtitle": "Freiheit. Gleichheit. Grundeinkommen",
     "authors": [
-      "Werner, Götz W.",
-      "Goehler, Adrienne"
+      "Goehler, Adrienne",
+      "Werner, Götz"
     ],
     "series": "",
     "volume": "",
@@ -19605,5 +19579,1783 @@
     "addedAt": 1771793717604,
     "rating": 3,
     "tags": []
+  },
+  {
+    "title": "Rubinrotes Herz, eisblaue See",
+    "subtitle": "",
+    "authors": [
+      "Rogers, Morgan Callan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011",
+    "isbn": "9783426509562",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Ein Fischerdorf in Maine in den sechziger Jahren. Hier lebt die junge Florine geborgen bei ihren Eltern und Großeltern – bis ihre geliebte Mutter Carlie von einem Tag auf den anderen verschwindet. Auf einmal ist für Florine nichts mehr wie vorher, alle Nachforschungen führen ins Nichts, und die Frage, ob Carlie tot ist oder freiwillig ihr Zuhause verließ, wird Florine in den nächsten Jahren nicht mehr loslassen. Dass das Leben um sie herum weitergeht, empfindet sie als Zumutung: Ihr Vater nähert sich seiner Jugendliebe wieder an, ihre Großmutter altert zusehends, und ihr bester Freund interessiert sich nur noch für seine neue Freundin. Anrührend und schlagfertig erzählt Florine vom Erwachsenwerden und davon, was es heißt, sich selbst treu zu bleiben.",
+    "pageCount": "427",
+    "thumbnail": "https://books.google.com/books/content?id=iJOQSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771955750294,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Todesschrei",
+    "subtitle": "",
+    "authors": [
+      "Rose, Karen"
+    ],
+    "series": "Vartanian",
+    "volume": "1",
+    "publishedDate": "2011-07-26",
+    "isbn": "9783426413678",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein grausamer Serienkiller versetzt die Stadt in Angst und Schrecken. Der Killer hat eine morbide Vorliebe für mittelalterliche Folterinstrumente und überschreitet für seine makabren Werke jede menschliche Grenze. Die Schreie seiner Opfer verhallen ungehört, während er seine blutige Kunst perfektioniert. Als Detective Vito Ciccotelli und die brillante Archäologin Sophie Johannsen die Ermittlungen aufnehmen, entbrennt eine gnadenlose Jagd auf Leben und Tod.",
+    "pageCount": "801",
+    "thumbnail": "https://books.google.com/books/content?id=S1FrAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771955882494,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Radetzkymarsch",
+    "subtitle": "",
+    "authors": [
+      "Roth, Joseph"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1932",
+    "isbn": "9783866474734",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Ein gütiger Patriarch wacht in weisem Ratschluss über seine Untertanen, die Weltordnung der Habsburger scheint unvergänglich. Doch hinter kaiserlichem Glanz und Gloria mehren sich die Anzeichen des Verfalls. In Marsch- und Walzerklänge mischen sich Trommelwirbel und schrille nationalistische Töne. Franz von Trotta, Spross einer vom Kaiser protegierten Familie, wird gewahr, dass die Welt, die er als k.u.k.-Beamter in der böhmischen Provinz bis in die letzte Faser seines Wesens repräsentiert, längst dem Untergang geweiht ist. Bald wird nichts mehr sein, wie es einmal war.",
+    "pageCount": "414",
+    "thumbnail": "http://books.google.com/books/content?id=WD1BSwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771956177692,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der längste Tag",
+    "subtitle": "Normandie 6. Juni 1944",
+    "authors": [
+      "Ryan, Cornelius"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1959",
+    "isbn": "",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "Was passierte an jenem längsten Tag des Zweiten Weltkrieges, dem 6. Juni 1944, als die alliierten Truppen an der Küste der Normandie landeten und die Invasion Europas begann? Cornelius Ryan (1920 bis 1974), der als Kriegsreporter an der Invasion teilnahm, legte mit diesem Buch eine authentische Rekonstruktion des »Tages X« vor.",
+    "pageCount": "",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md22760288352.jpg",
+    "read": true,
+    "rating": 4,
+    "tags": [
+      "2. Weltkrieg"
+    ],
+    "addedAt": 1771957128669
+  },
+  {
+    "title": "Die Gesichter der Wahrheit",
+    "subtitle": "",
+    "authors": [
+      "Ryan, Donal"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-09-28",
+    "isbn": "9783257607185",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Es begann mit Wohlstand und satter Zufriedenheit und endet mit Entführung und Mord. Was dazwischen liegt, sind einundzwanzig Leben, einundzwanzigmal Hoffen und Träumen, Lieben und Leiden – einundzwanzig Menschen, die im Strudel der irischen Finanzkrise ihre Wahrheit erzählen – und das Geschick eines ganzen Landes.",
+    "pageCount": "157",
+    "thumbnail": "https://books.google.com/books/content?id=Uy87DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771957171465,
+    "rating": 3,
+    "tags": [
+      "Irland"
+    ]
+  },
+  {
+    "title": "Saturday Night Biber",
+    "subtitle": "",
+    "authors": [
+      "Rützel, Anja"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-05-24",
+    "isbn": "9783104901411",
+    "category": "Sachbuch",
+    "genre": "Tiere",
+    "description": "Haben Sie schon mal daran gedacht, sich zur Biberberaterin ausbilden zu lassen? An einem Kaninhop-Turnier teilgenommen? Einen Mäusepräparierkurs gemacht? Sich einen Tag am Halfter herumführen lassen, um sich besser in die Psyche eines Alpakas einzufühlen? Mit einer Kuh gekuschelt? Anja Rützel, renommierte Journalistin (u.a. SPON, SZ-Magazin, SPEX) und bekennende Tierliebhaberin hat es getan. Mit unbändiger Expeditionslust und ihrem einzigartigen Blick fürs Skurrile unternimmt sie eine Reise in uns bisher unbekannte Welten.",
+    "pageCount": "247",
+    "thumbnail": "https://books.google.com/books/content?id=N8lkDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771957296673,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Jesus liebt mich",
+    "subtitle": "",
+    "authors": [
+      "Safier, David"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-07-16",
+    "isbn": "9783644303713",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Marie hat das beeindruckende Talent, sich ständig in die falschen Männer zu verlieben. Kurz nachdem ihre Hochzeit geplatzt ist, lernt sie einen Zimmermann kennen. Und der ist so ganz anders als alle Männer zuvor: einfühlsam, selbstlos, aufmerksam. Dummerweise erklärt er beim ersten Rendezvous, er sei Jesus persönlich. Zunächst denkt Marie, dieser Zimmermann habe nicht alle Zähne an der Laubsäge. Doch bald dämmert ihr: Joshua ist wirklich der Messias. Und Marie fragt sich, ob sie sich diesmal nicht in den falschesten aller Männer verliebt hat.",
+    "pageCount": "358",
+    "thumbnail": "https://books.google.com/books/content?id=UIptAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771957711500,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Mieses Karma",
+    "subtitle": "",
+    "authors": [
+      "Safier, David"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-12-21",
+    "isbn": "9783644302617",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Moderatorin Kim Lange hält endlich den heißersehnten Fernsehpreis in den Händen. Schade, dass sie noch am selben Abend von den Trümmern einer Raumstation erschlagen wird. Im Jenseits erfährt Kim, dass sie in ihrem Leben sehr viel mieses Karma gesammelt hat. Zur Strafe findet sie sich mit sechs Beinen und Fühlern in einem Erdloch wieder: Sie ist eine Ameise! Da hilft nur eins: Gutes Karma muss her!",
+    "pageCount": "345",
+    "thumbnail": "https://books.google.com/books/content?id=gAZtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771957807362,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Plötzlich Shakespeare",
+    "subtitle": "",
+    "authors": [
+      "Safier, David"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010",
+    "isbn": "9783463405537",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Wenn Mann und Frau sich das Leben teilen, ist das ja schon schwierig. Aber wenn Mann und Frau isch auch noch ein und denselben Körper teilen müssen, dann ist das Chaos perfekt! (Quelle: Buchdeckel verso).",
+    "pageCount": "314",
+    "thumbnail": "https://books.google.com/books/content?id=HIySQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771957897600,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Fänger im Roggen",
+    "subtitle": "",
+    "authors": [
+      "Salinger, J. D."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004-01",
+    "isbn": "9783499235399",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Der sechzehnjährige Holden Caulfield läuft tief in seine Gedanken versunken durch das verschneite New York: Gerade ist er das dritte Mal von der Schule geflogen, seinen wohlhabenden Eltern kann und möchte er das eigentlich nicht schon wieder erklären. Um den unvermeidlichen Streit noch etwas hinauszuzögern, mietet er sich kurzerhand in einem zwielichtigen Hotel ein. In den folgenden Tagen trifft ihn die volle Wucht der Großstadt und die Härte des Erwachsenwerdens.",
+    "pageCount": "269",
+    "thumbnail": "https://books.google.com/books/content?id=EVcQSwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771958108721,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Driver",
+    "subtitle": "",
+    "authors": [
+      "Sallis, James"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2007",
+    "isbn": "9783935890465",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Driver möchte nur eins: fahren - ob als Stuntman oder Fluchthelfer. Doch dann wird er bei einem Überfall gelinkt. Das nimmt er übel.",
+    "pageCount": "158",
+    "thumbnail": "https://books.google.com/books/content?id=TfzBtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771958596589,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der indianische Schatten",
+    "subtitle": "",
+    "authors": [
+      "Sandford, John"
+    ],
+    "series": "Lucas Davenport",
+    "volume": "2",
+    "publishedDate": "1991",
+    "isbn": "9783442415045",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein Miethai in Minneapolis, ein Politiker in New York, ein Richter in Oklahoma - alle werden auf die gleiche bizarre Weise getötet: Mit einem kunstvollen Opfermesser wird ihnen die Kehle durchgeschnitten. Für Lieutenant Lucas Davernport scheint es nur einen Tatmotiv zu geben: Rache an den Feinden des indianischen Volkes. Aber er hat viele Verdächtige. Und die Killermaschine mordet weiter, ohne Erbarmen …",
+    "pageCount": "349",
+    "thumbnail": "https://images.lovelybooks.de/img/260x/lb-cover/Der-indianische-Schatten-9783442415045_xxl.jpg",
+    "read": true,
+    "addedAt": 1771958735975,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Un-Heilige Schrift",
+    "subtitle": "Die Entstehung der Bibel. Ein PR-Coup für Jahrtausende",
+    "authors": [
+      "Santler, Helmuth"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014",
+    "isbn": "9781495483905",
+    "category": "Sachbuch",
+    "genre": "Religion",
+    "description": "Wie entstand die Bibel? Wer ist für den Inhalt verantwortlich? Entscheidungen, die vor mehr als 1.500 Jahren gefällt wurden, haben enorme gesellschaftliche Konsequenzen – bis zum heutigen Tag. Was immer Jesus, historisch gesehen, auch gemacht haben mag – das Bild von ihm, das Neue Testament, ist das Resultat einer sorgfältigst über Jahrhunderte kompilierten Schriftensammlung mit einigen klar definierten, strategischen Zielen: eine Kirchenorganisation zu schaffen, die Frauen zu verdrängen, das Monopol über die Erkenntnis an sich zu reißen. Anhand der wichtigsten apokryphen (nicht bibeltauglichen) religiösen Schriften und den Gründen für deren Ausschluss aus dem Bibelkanon wird die Entwicklung des Christentums nachgezeichnet: von einer verfolgten jüdischen Sekte zur mächtigsten Kirche der Welt. Eine wahrhaft spannende Lektüre für Gläubige und Ungläubige.",
+    "pageCount": "312",
+    "thumbnail": "https://books.google.com/books/content?id=isSZoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771959078504,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Statusmeldungen",
+    "subtitle": "",
+    "authors": [
+      "Sargnagel, Stefanie"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-07-21",
+    "isbn": "9783644000278",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "6. 8. 2015 Ich glaub nicht, dass es Zufall is, dass so viele Afrikaner nach Österreich kommen und plötzlich hamma 40 Grad! 30.10.2015 Mein Traumjob als Kind war eigentlich immer Märtyrerin. 3.10.2016 «Christine Nöstlinger wächst in Hernals in einfachen Verhältnissen in einer Zimmer-Küche-Kabinettwohnung auf. Im Gymnasium ist sie fast das einzige Arbeiterkind. Sie schämt sich für die Wohnverhältnisse zu Hause.» Wie ich!",
+    "pageCount": "334",
+    "thumbnail": "https://books.google.com/books/content?id=IGq6DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771959345527,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Glockenschlag",
+    "subtitle": "",
+    "authors": [
+      "Sayers, Dorothy L."
+    ],
+    "series": "Lord Peter Wimsey",
+    "volume": "11",
+    "publishedDate": "1934",
+    "isbn": "9783644221819",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein Winterabend an der Küste Ost-Englands. Auf schneeverwehten Straßen gerät Lord Peter vom Wege ab, in dem gastfreundlichen Pfarrhaus findet er ein Obdach - und eine Aufgabe. Das ruhmreiche Wechselläuten, gemäß alt-englischem Brauch für diese Silvesternacht geplant, droht zu scheitern. Acht Glocken brauchen acht Männer, doch einer ist plötzlich erkrankt. Lord Peter springt ein. Wenig später herrscht im Dorf plötzlich helle Aufregung: Auf dem Friedhof wurde die Leiche eines Unbekannten gefunden – eine Leiche, die dort nicht hingehört! Wer kennt den Toten? Wer hat ihn so zugerichtet? Amateurdetektiv Lord Peter Wimsey wird vom liebenswerten Ortspfarrer um Hilfe bei der Aufklärung des seltsamen Falles gebeten. Tatsächlich benehmen sich einige Dorfbewohner auffallend merkwürdig. Als Wimsey die Zusammenhänge endlich erkennt, verdankt er die Lösung des Falles nicht zuletzt dem großartigen Glockenschlag der kleinen Pfarrkirche.",
+    "pageCount": "478",
+    "thumbnail": "https://books.google.com/books/content?id=kSfzCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771959475276,
+    "rating": 4,
+    "tags": [
+      "Klassiker"
+    ]
+  },
+  {
+    "title": "Eine Hand voller Sterne",
+    "subtitle": "",
+    "authors": [
+      "Schami, Rafik"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016",
+    "isbn": "9783407747860",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Über mehrere Jahre führt ein Bäckerjunge in Damaskus ein Tagebuch. Es gibt viel Schönes, Poetisches und Lustiges zu berichten aus der Stadt, in der Menschen so vieler Nationalitäten miteinander leben: Vom alten Kutscher und Geschichtenerzähler Salim, von seiner Liebe zu Nadja und vom Basar, auf dem die Mutter Meisterin im Handeln ist. Aber es gibt auch Armut, Ungerechtigkeit und politische Verfolgung in der Stadt. Der Bäckerjunge wird zum Journalisten - im Untergrund …",
+    "pageCount": "Unbekannt",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783407787019-us-300.jpg",
+    "read": true,
+    "addedAt": 1771959705444,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Spines",
+    "subtitle": "Das ausradierte Ich",
+    "authors": [
+      "Scherm, Hermann"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-03-31",
+    "isbn": "9783847643760",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Von 1953 bis in die 1970er Jahre verfolgte die Central Intelligence Agency im Rahmen des Programms Mkultra dieses Ziel weiter. Welche Erfolge dabei erzielt wurden, wissen wir nicht. Und heute? Im 21. Jahrhundert sind die wissenschaftlichen und technischen Möglichkeiten beträchtlich gewachsen. Die Erfolgsaussichten für Experimente auf dem Gebiet der Bewusstseinskontrolle sind so gut wie nie zuvor. Ist unser Ich noch gefeit vor dem Zugriff fremder Mächte? Können wir noch sicher sein, dass wir uns die richtige Antwort geben, wenn wir uns fragen: \"Wer bin ich?\" Oder könnte es sein, dass das, was wir als unser Selbst wahrnehmen, nicht mehr wirklich und uneingeschränkt unser eigenes Selbst ist? Dass unsere Erinnerungen und Erfahrungen von anderen gesteuert werden?",
+    "pageCount": "399",
+    "thumbnail": "https://books.google.com/books/content?id=nU1qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771959893430,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Ewig",
+    "subtitle": "",
+    "authors": [
+      "Schilddorfer, Gerd",
+      "Weiss, David G.L."
+    ],
+    "series": "Georg Sina & Paul Wagner",
+    "volume": "1",
+    "publishedDate": "2011-11-02",
+    "isbn": "9783784480015",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In der ältesten Kirche Wiens ereignet sich ein mysteriöser Mord. Unter der Empore mit den fünf geheimnisvollen Buchstaben A.E.I.O.U. und der Jahreszahl 1439 findet der Pfarrer einen Toten, der mit einem Kopfschuss hingerichtet wurde. Das Besondere: Die noch brennenden Kerzen wurden in Form von zwei Buchstaben - L und I - arrangiert. Das Verbrechen ruft nicht nur die Polizei, sondern auch den Reporter Paul Wagner auf den Plan. An ihm wird es liegen, den seit Jahren in freiwilliger Isolation lebenden Mittelalter-Forscher Georg Sina zu überzeugen, in die Welt zurückzukehren, um gemeinsam mit ihm die Jagd nach dem größten Geheimnis der Menschheit zu beginnen. Die beiden müssen erkennen, dass die Hinrichtung nur der Auftakt für eine mysteriöse Mordserie war, die immer weitere Kreise zieht. Die Suche nach der Lösung führt zu einem alten Geheimcode Kaiser Friedrichs III. und dessen Faszination für schier unlösbare Rätsel. Ehe Sina und Wagner wissen, worum es wirklich geht, sind sie die meistgejagten Männer zwischen Lissabon und Beijing.",
+    "pageCount": "573",
+    "thumbnail": "https://books.google.com/books/content?id=dB4vBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771960199910,
+    "rating": 3,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Verbrechen",
+    "subtitle": "Stories",
+    "authors": [
+      "Schirach, Ferdinand von"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009",
+    "isbn": "9783492053624",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Ein angesehener, freundlicher Herr, Doktor der Medizin, erschlägt nach vierzig Ehejahren seine Frau mit einer Axt. Er zerlegt sie, bevor er schliesslich die Polizei informiert. Sein Geständnis ist so aussergewöhnlich wie seine Strafe. Ein Mann raubt eine Bank aus, und so unglaublich das klingt: er hat gute Gründe. Gegen jede Wahrscheinlichkeit wird er von der Justiz an Leib und Seele gerettet. Eine junge Frau tötet ihren Bruder. Aus Liebe. Lauter unglaubliche Geschichten, doch sie sind wahr.",
+    "pageCount": "216",
+    "thumbnail": "https://books.google.com/books/content?id=ccwzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771961047427,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Offenbarung",
+    "subtitle": "",
+    "authors": [
+      "Schneider, Robert"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2007",
+    "isbn": "9783351032128",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Heiligabend 1992: Der Bruder des Naumburger Organisten Jakob Kemper entdeckt im Gehäuse der Kirchenorgel ein unbekanntes Werk von Bach. Je mehr der Musikforscher das Stück analysiert desto Unerklärlicheres trägt sich zu. Bald ahnt er, dass die Partitur ein Geheimnis birgt.",
+    "pageCount": "302",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783746624815-us-300.jpg",
+    "read": true,
+    "addedAt": 1771961348072,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Traumnovelle",
+    "subtitle": "",
+    "authors": [
+      "Schnitzler, Arthur"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010",
+    "isbn": "9783840690822",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Albertine und Fridolin führen eine scheinbar glückliche und harmonische Ehe. In der \"Traumnovelle\" lässt Arthur Schnitzler erotische Fantasien mit dem bürgerlichen Anstand kollidieren, sehnsüchtige Träume mit der biederen Wirklichkeit. So muss das Ehepaar erfahren, wie gefährlich Ehrlichkeit sein kann und welche Abgründe in unserem Unbewussten lauern. Und ob eine Ehe das auszuhalten vermag. Schnitzlers Werk meistert den Spagat zwischen subtiler Erotik, dem ehelichen Alltag und Aspekten aus der Psychoanalyse.",
+    "pageCount": "Unbekannt",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783150098110-us-300.jpg",
+    "read": true,
+    "addedAt": 1771961586470,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die blaue Liste",
+    "subtitle": "",
+    "authors": [
+      "Schorlau, Wolfgang"
+    ],
+    "series": "Dengler",
+    "volume": "1",
+    "publishedDate": "2009-09-21",
+    "isbn": "9783462300161",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Privatdetektiv Georg Dengler, früher Zielfahnder beim BKA, nimmt einen scheinbar einfachen Fall an: Die Freundin eines Anrufers möchte wissen, warum ihr Vater vor zwölf Jahren bei einem Flugzeugabsturz ums Leben kam, obwohl er sie zuvor angerufen hatte und sagte, er habe die Maschine verpasst. Doch als Dengler beginnt nachzuforschen, stößt er auf Verbindungen zu brisanten Ereignissen der deutschen Wendezeit. Der Vermisste war Mitarbeiter der Treuhand und Verfasser der »Blauen Liste« – eines Dokuments, das der Deutschen Vereinigung einen völlig anderen Weg wies. Je tiefer Dengler gräbt, desto gefährlicher wird es für ihn. Denn der Fall führt zurück zum Attentat auf den Treuhand-Präsidenten Rohwedder, zur RAF und zum mysteriösen Tod von Wolfgang Grams. Kann Dengler die Wahrheit aufdecken, bevor es zu spät ist?",
+    "pageCount": "428",
+    "thumbnail": "https://books.google.com/books/content?id=TOxlAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771961811411,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Bildung",
+    "subtitle": "Alles, was man wissen muß",
+    "authors": [
+      "Schwanitz, Dietrich"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1999",
+    "isbn": "9783821808185",
+    "category": "Sachbuch",
+    "genre": "Schule",
+    "description": "Ein Bildungskanon, ein Buch, das sagt, was wesentlich ist und was nicht. Schwanitz hat unser Allgemeinwissen gesichtet und unser kulturelles Gedächtnis neu justiert. Er beseitigt die Hindernisse, die vielen Menschen den Zugang zu unserer Kultur versperren und erstickt jeden Bildungsdünkel im Keim. Unser Wissen ist im Umbruch, unser Bildungssystem ist in der Krise, der Ruf nach einem Kanon wird immer lauter. Dieses Handbuch bietet nun die erste Neuorientierung hinsichtlich der Kernbestände unserer Kultur.",
+    "pageCount": "552",
+    "thumbnail": "https://books.google.com/books/content?id=gs4YAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771962007837,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "In meinem Himmel",
+    "subtitle": "Roman",
+    "authors": [
+      "Sebold, Alice"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2003",
+    "isbn": "9783442545520",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Susie Salmon ist ein ganz normaler Teenager in einer amerikanischen Kleinstadt - bis zu jenem Tag, an dem sie von einem Nachbarn vergewaltigt und ermordet wird. Doch Susie existiert weiter. Von ›ihrem Himmel‹ aus beobachtet sie, wie ihre Freunde und ihre Familie diesen Verlust verarbeiten.",
+    "pageCount": "380",
+    "thumbnail": "https://books.google.com/books/content?id=2FMERAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771962184194,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Ein ganzes Leben",
+    "subtitle": "",
+    "authors": [
+      "Seethaler, Robert"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-07-28",
+    "isbn": "9783446246966",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Als Andreas Egger in das Tal kommt, in dem er sein Leben verbringen wird, ist er vier Jahre alt, ungefähr – so genau weiß das keiner. Er wächst zu einem gestandenen Hilfsknecht heran und schließt sich als junger Mann einem Arbeitstrupp an, der eine der ersten Bergbahnen baut und mit der Elektrizität auch das Licht und den Lärm in das Tal bringt. Dann kommt der Tag, an dem Egger zum ersten Mal vor Marie steht, der Liebe seines Lebens, die er jedoch wieder verlieren wird. Erst viele Jahre später, als Egger seinen letzten Weg antritt, ist sie noch einmal bei ihm. Und er, über den die Zeit längst hinweggegangen ist, blickt mit Staunen auf die Jahre, die hinter ihm liegen.",
+    "pageCount": "99",
+    "thumbnail": "https://books.google.com/books/content?id=uJ7WAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771962291404,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Love Story",
+    "subtitle": "",
+    "authors": [
+      "Segal, Erich"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1988",
+    "isbn": "9783453025240",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Während seines Jurastudiums verliebt sich Oliver in seine freche Kommilitonin Jenny. Er stammt aus reichem Elternhaus, sie ist die Tochter armer italienischer Einwanderer. Sein Vater ist strikt gegen die Verbindung, aber Oliver lässt sich lieber enterben, als auf seine Jenny zu verzichten. Nach der Hochzeit scheint das junge Glück perfekt. Doch da schlägt das Schicksal erbarmungslos zu …",
+    "pageCount": "154",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md30364571405.jpg",
+    "read": true,
+    "addedAt": 1771962620686,
+    "rating": 4,
+    "tags": [
+      "https://pictures.abebooks.com/inventory/md/md30364571405.jpg"
+    ]
+  },
+  {
+    "title": "Letzte Ausfahrt Brooklyn",
+    "subtitle": "",
+    "authors": [
+      "Selby, Hubert"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1972-01",
+    "isbn": "9783499114694",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Die 6 Stücke dieses Romans aus dem düsteren, inhumanen, brutalen Milieu der Unterwelt und der Slums von Brooklyn wirken in ihrer Authenzität beklemmend.",
+    "pageCount": "244",
+    "thumbnail": "https://books.google.com/books/content?id=K1YynwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1771962876773,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Und die Ratte lacht",
+    "subtitle": "",
+    "authors": [
+      "Semel, Nava"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-10-22",
+    "isbn": "9783924652678",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "1999 bemüht sich eine israelische Schülerin, Hausaufgaben zu machen. Sie soll ihre Großmutter über deren Kriegserlebnisse in Polen befragen und darüber einen Aufsatz schreiben. Die Großmutter nimmt Zuflucht zu einer Legende: Die Ratte wünschte sich vom Schöpfer die Gabe des Lachens. Er gab nach, unter einer Bedingung: Wenn die Ratte eines Tages unter der Erde ein anderes Wesen lachen hört, dann wird auch sie lachen können.",
+    "pageCount": "228",
+    "thumbnail": "https://books.google.com/books/content?id=1lh3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1771962966277,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die letzte Verschwörung",
+    "subtitle": "",
+    "authors": [
+      "Sheldon, Sidney"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2002",
+    "isbn": "9783442451968",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Einen mysteriösen Auftrag erhält der amerikanische Geheimagent Robert Bellamy: Er soll die zehn unbekannten Touristen ausfindig machen, die gesehen haben, wie in den Schweizer Bergen ein Wetterballon mit militärischem Geheimmaterial an Bord abgestürzt ist. Während der Suchaktion kommt Bellamy zu der schrecklichen Erkenntnis, dass das Leben dieser Augenzeugen und auch sein eigenes auf dem Spiel steht …",
+    "pageCount": "320",
+    "thumbnail": "https://books.google.com/books/content?id=oC3iOgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772013998183,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Quo vadis?",
+    "subtitle": "",
+    "authors": [
+      "Sienkiewicz, Henryk"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1895",
+    "isbn": "9783750256347",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Der römische Legionär Vinicius verliebt sich in die Christin Lygia. Es ist die Zeit des Kaisers Nero. Vinicius riskiert in dieser Zeit der Christenverfolgung sein Leben. Henryk Sienkiewicz zeichnet in \"Quo vadis?\" ein vielschichtiges Sittengemälde des antiken Roms. Der Leser taucht tief ein in das Leben am Hof des Kaisers Nero und das Alltagsleben in der römischen Hauptstadt.",
+    "pageCount": "367",
+    "thumbnail": "https://books.google.com/books/content?id=yfppEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772014439919,
+    "rating": 3,
+    "tags": [
+      "Historisch"
+    ]
+  },
+  {
+    "title": "Der Auftraggeber",
+    "subtitle": "",
+    "authors": [
+      "Silva, Daniel"
+    ],
+    "series": "Gabriel Allon",
+    "volume": "1",
+    "publishedDate": "2001",
+    "isbn": "9783492041836",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein ehemaliger Mossad-Agent wird überredet, einen palästinensischen Attentäter zu jagen, der offensichtlich einen Anschlag gegen den Friedensprozess im Nahen Osten plant.",
+    "pageCount": "478",
+    "thumbnail": "https://books.google.com/books/content?id=O1ckAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772014592526,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Maigret und die junge Tote",
+    "subtitle": "",
+    "authors": [
+      "Simenon, Georges"
+    ],
+    "series": "Maigret",
+    "volume": "45",
+    "publishedDate": "2018",
+    "isbn": "9783311700135",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Sie trägt ein verschlissenes Abendkleid, sie ist jung, hübsch - und tot. Auf einem Platz in Montmarte wird die Leiche einer Frau gefunden. Niemand scheint sie zu kennen oder zu vermissen. Der immerzu schlecht gelaunte Inspektor Lognon geht von einem klassischen Prostituiertenmord aus, während Maigret spürt, dass die Dinge ganz anders liegen. Voller Mitgefühl für ihr Schicksal, will er mehr über die Vergangenheit der jungen Frau erfahren, die in Paris ein neues Leben beginnen wollte. Maigret ist überzeugt, dass er so den Mörder finden wird.",
+    "pageCount": "210",
+    "thumbnail": "http://books.google.com/books/content?id=grWMAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772014702263,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Imam",
+    "subtitle": "",
+    "authors": [
+      "Singer, Randy"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-02-19",
+    "isbn": "9783775172073",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ehrenmorde erschüttern die Stadt Norfolk: Junge Muslime, die zum Christentum übergetreten sind, werden grausam umgebracht. Schnell gerät der Imam einer großen Moschee unter Verdacht. Er selbst beteuert seine Unschuld, und der junge Anwalt Alexander Madison tritt an, um ihn zu verteidigen. Die Indizien hingegen sind erdrückend. Madison und sein Team machen sich auf die Suche nach dem Mörder und decken dabei Unglaubliches auf.",
+    "pageCount": "433",
+    "thumbnail": "https://books.google.com/books/content?id=l753DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772015476807,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Belladonna",
+    "subtitle": "",
+    "authors": [
+      "Slaughter, Karin"
+    ],
+    "series": "Grant-County",
+    "volume": "1",
+    "publishedDate": "2020-02-18",
+    "isbn": "9783959679350",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Eine Collegeprofessorin wird aufgeschlitzt in einer Restauranttoilette gefunden. Für die junge Frau gibt es keine Rettung mehr, und die einst so friedliche Kleinstadt Heartsdale ist schwer erschüttert. Die Gerichtsmedizinerin Sara Linton findet heraus: Das wahre Grauen des Opfers begann schon lange vor seinem Tod. Nach und nach enthüllt sich ihr der morbide Plan eines sadistischen Psychopathen – und eine furchtbare Erkenntnis: Ein Geheimnis aus ihrer Vergangenheit könnte den Killer überführen … oder ihren eigenen Tod bedeuten.",
+    "pageCount": "392",
+    "thumbnail": "https://books.google.com/books/content?id=m-eyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772015635874,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die gute Tochter",
+    "subtitle": "",
+    "authors": [
+      "Slaughter, Karin"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-08-03",
+    "isbn": "9783959676700",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "\"Lauf!\", fleht ihre große Schwester Samantha. Mit vorgehaltener Waffe treiben zwei maskierte Männer Charlotte und sie an den Waldrand. \"Lauf weg!\" Und Charlie läuft. An diesem Tag. Und danach ihr ganzes Leben. Sie ist getrieben von den Erinnerungen an jene grauenvolle Attacke in ihrer Kindheit. Die blutigen Knochen ihrer erschossenen Mutter. Die Todesangst ihrer Schwester. Das Keuchen ihres Verfolgers. Als Töchter eines berüchtigten Anwalts waren sie stets die Verstoßenen, die Gehetzten. 28 Jahre später ist Charlie selbst erfolgreiche Anwältin. Als sie Zeugin einer weiteren brutalen Bluttat wird, holt ihre Geschichte sie ganz ungeahnt ein.",
+    "pageCount": "588",
+    "thumbnail": "https://books.google.com/books/content?id=zzNqDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772015694374,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Kap der Finsternis",
+    "subtitle": "",
+    "authors": [
+      "Smith, Roger"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009",
+    "isbn": "9783608502022",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein flüchtiger amerikanischer Bankräuber gerät im turbulenten Kapstadt an brutale Gangster und korrupte Polizisten, aber auch an clevere südafrikanische Ermittler.",
+    "pageCount": "376",
+    "thumbnail": "https://books.google.com/books/content?id=vQUXOFIXEU4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772015971072,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Die Wunschliste",
+    "subtitle": "",
+    "authors": [
+      "Smolinski, Jill"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2007",
+    "isbn": "9783426662700",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Als Marissa bei einem Autounfall ums Leben kommt, ist June, die Fahrerin des Wagens, voller Schuldgefühle. Erst als ihr Marissas Liste unerfüllter Herzenswünsche in die Hände fällt und sie diese zu ihren eigenen macht, sieht sie wieder Licht am Horizont. Ein fremder Mann zum Küssen ist auch schnell gefunden, und die Sonne geht schließlich jeden Tag auf – doch wie verändert man das Leben eines anderen? Während June noch grübelt und mit den ihr gestellten Aufgaben kämpft, verändert sich, zuerst kaum merklich, das ihre.",
+    "pageCount": "383",
+    "thumbnail": "https://books.google.com/books/content?id=W4SmOwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772016047494,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Ein Tag im Leben des Iwan Denissowitsch",
+    "subtitle": "",
+    "authors": [
+      "Solschenizyn, Alexander"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-09-24",
+    "isbn": "9783776682472",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Ein Tag aus dem Leben des Iwan Denissowitsch ist zweifellos das aufsehenerregendste Buch, das nach dem Krieg in der Sowjetunion veröffentlicht wurde. Heute ist dieses Buch aus den Buchhandlungen in der Sowjetunion wieder verschwunden, für das sich Chruschtschow auf dem 22. Parteitag mit den Worten einsetzte: \"Es ist unsere Pflicht, derartige Angelegenheiten, die mit dem Missbrauch der Macht zusammenhängen, sorgfältig und allseitig zu klären. Solange wir arbeiten. können, müssen wir vieles klarstellen und der Partei und dem Volk die Wahrheit sagen …\"",
+    "pageCount": "116",
+    "thumbnail": "https://books.google.com/books/content?id=b2o0CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772016233115,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "The Hunter",
+    "subtitle": "",
+    "authors": [
+      "Stark, Richard"
+    ],
+    "series": "Parker",
+    "volume": "1",
+    "publishedDate": "1962",
+    "isbn": "9783552057258",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Parker - ohne Vorname, ohne Biographie - ist ein Einzelgänger, professionell bis zur Perfektion - als Verbrecher. Doch vor zehn Monaten wurde er bei einem Waffendeal von seiner eigenen Frau verraten, die mit Mal Resnick, einem Großmaul aus dem Verbrechersyndikat, gemeinsame Sache machte. Jetzt ist Parker zurück in der Stadt, ein einsamer Jäger, der nach allen Regeln der Kunst Rache nimmt.",
+    "pageCount": "Unbekannt",
+    "thumbnail": "https://books.google.com/books/content?id=ziCrzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772016384089,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Fragen Sie den Papagei",
+    "subtitle": "",
+    "authors": [
+      "Stark, Richard"
+    ],
+    "series": "Parker",
+    "volume": "23",
+    "publishedDate": "2017-02-17",
+    "isbn": "9783552054677",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Parker ist nach einem Banküberfall auf der Flucht, verfolgt von einer Meute Polizisten mit Spürhunden. Reiner Zufall, dass er auf Tom Lindahl stößt, einen Außenseiter mit Papagei, der ihm eine Fluchtmöglichkeit und ein Dach über dem Kopf bietet. In dem tristen kleinen Ort in Massachusetts schmieden die beiden einen nicht ungefährlichen Plan, und jeder, der diesem in die Quere kommt, scheitert an Parkers Skrupellosigkeit.",
+    "pageCount": "265",
+    "thumbnail": "https://books.google.com/books/content?id=8gEgDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772016497436,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Top Job",
+    "subtitle": "",
+    "authors": [
+      "Starr, Jason"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1998-01-01",
+    "isbn": "9783257061871",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Bill Moss ist knapp über dreißig, hat Geschichte und Betriebswirtschaft studiert und war erfolgreich in einer Werbeagentur in Seattle. Nun ist er seit zwei Jahren arbeitslos in New York, bewirbt sich erfolglos bei allen möglichen Agenturen und verdient sein Geld als Telefonverkäufer in einer Firma, die ihre Teilzeitmitarbeiter brutal ausbeutet. Seine Freundin Julie sähe ihn gern auf einem lukrativeren Job, vor allem da sie heiraten und Kinder haben will. Die bereits fünf Jahre bestehende Beziehung der beiden kommt in die Krise, aber Julie hält tapfer zu Bill, sogar dann, als dieser sich mehrmals heftig daneben benimmt. Eines Tages werden in Bills Firma zwanzig Prozent der Teilzeitkräfte fristlos entlassen. Alle bangen um ihre Stelle. Auch Greg, ein guter Kumpel von Bill, wird entlassen. Als Bill ins Büro des Abteilungsleiters Ed gerufen wird, ist er sicher, dass auch er gleich auf der Straße stehen wird, denn er hatte am Vortag einen saftigen Streit mit Ed. Ed, ein mieser Rassist, redet von Greg nur als ›Nigger‹. Bill setzt gerade zu einer Verteidigung seines Freundes an, als ihm Ed jeglichen Wind aus den Segeln nimmt: Er bietet ihm eine gutbezahlte Vollzeitstelle im Management an, der lang ersehnte Top Job scheint in Sicht.",
+    "pageCount": "315",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783257061871-us-300.jpg",
+    "read": true,
+    "addedAt": 1772016679253,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Früchte des Zorns",
+    "subtitle": "Roman",
+    "authors": [
+      "Steinbeck, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1939",
+    "isbn": "9783423104746",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Verarmte Landarbeiter finden in Oklahoma kein Auskommen mehr. Da hören sie vom gelobten Land Kalifornien und machen sich durch Hitze und Staub auf den Weg. Doch auch hier erfahren sie die Macht und Unterdrückung durch die Großgrundbesitzer. John Steinbeck hat mit diesem Buch seinen literarischen Ruhm begründet. Das Echo in Amerika war bei der Veröffentlichung gewaltig - Gegenschriften wurden verfasst, Politiker und Erzbischöfe verdammten es, der Autor wurde als Volksverhetzer und Klassenkämpfer verurteilt - und als Stimme der Unterdrückten und Ausgebeuteten gefeiert.",
+    "pageCount": "530",
+    "thumbnail": "https://books.google.com/books/content?id=ui2uQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772016792577,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die feine Nase der Lilli Steinbeck",
+    "subtitle": "",
+    "authors": [
+      "Steinfest, Heinrich"
+    ],
+    "series": "Lilli Steinbeck",
+    "volume": "1",
+    "publishedDate": "2012-11-13",
+    "isbn": "9783492958042",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Das Auffälligste an der ausgesprochen schlanken und eleganten Lilli Steinbeck ist ihre Nase. Eine Klingonennase, die ihr eine Schar stark verunsicherter Bewunderer beschert. Als international anerkannte Spezialistin für Entführungsfragen wird sie von der Polizei in einen brisanten Fall eingeschaltet – in ein Spiel mit zehn lebenden Figuren, um die ein weltweit operierendes Verbrecherteam kämpft. Auf allerhöchstem Niveau und zum Zeitvertreib. Es gewinnt, wer alle zehn Spieler getötet hat …",
+    "pageCount": "351",
+    "thumbnail": "https://books.google.com/books/content?id=xt4UAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772016932844,
+    "rating": 4,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Cheng",
+    "subtitle": "",
+    "authors": [
+      "Steinfest, Heinrich"
+    ],
+    "series": "Markus Cheng",
+    "volume": "1",
+    "publishedDate": "2007",
+    "isbn": "9783492248747",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Markus Cheng ist Privatdetektiv in Wien. Seine Geschäfte gehen schlecht, und zudem wird auch noch sein letzter Klient mit einem Loch im Kopf aufgefunden. In diesem Loch steckt ein Zettel mit einer rätselhaften Botschaft: ›Forget St. Kilda‹.",
+    "pageCount": "263",
+    "thumbnail": "https://books.google.com/books/content?id=xnm6AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772017087101,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Ein sturer Hund",
+    "subtitle": "",
+    "authors": [
+      "Steinfest, Heinrich"
+    ],
+    "series": "Markus Cheng",
+    "volume": "2",
+    "publishedDate": "2003",
+    "isbn": "9783492238328",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Wer ist die Mörderin, die ihre Opfer porträtiert und anschließend mit ritueller Präzision köpft? Und was hat sie mit dem Wiener Privatdetektiv Cheng zu tun? Denn als er sich selbst porträtiert findet, startet sein Wettlauf gegen die Zeit, und er muss feststellen, dass nicht nur sein Mischlingsrüde Lauscher ein sturer Hund ist …",
+    "pageCount": "313",
+    "thumbnail": "https://books.google.com/books/content?id=xKN8AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772017151563,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Ein dickes Fell",
+    "subtitle": "",
+    "authors": [
+      "Steinfest, Heinrich"
+    ],
+    "series": "Markus Cheng",
+    "volume": "3",
+    "publishedDate": "2006",
+    "isbn": "9783492271172",
+    "category": "",
+    "genre": "",
+    "description": "Im Mittelpunkt des Romans steht ein original Fläschchen 4711, jenes berühmte Echt Kölnisch Wasser, das wahre Wunder bewirken soll. Es vergehen viele Seiten, bis Markus Cheng in die Handlung eintritt, aber die Vielfalt an interessanten Typen lässt einen das vorerst gar nicht merken. Denn Anna Gemini, die Killerin mit behindertem Sohn Carl und der kleine Gott Kurt Smolek, Beamter des Landes- und Stadtarchivs, sowie der norwegische Botschafter in Kopenhagen und seine wunderschöne Frau spielen allesamt wesentliche Rollen in diesem Kriminalroman.",
+    "pageCount": "620",
+    "thumbnail": "https://books.google.com/books/content?id=XtYhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772017245749,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Batmans Schönheit",
+    "subtitle": "",
+    "authors": [
+      "Steinfest, Heinrich"
+    ],
+    "series": "Markus Cheng",
+    "volume": "4",
+    "publishedDate": "2012-08-13",
+    "isbn": "9783492958073",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Markus Cheng hat sich in eine Privatidylle zurückgezogen und fühlt sich in keiner Weise davon berührt, als in Wien mehrere Schauspieler ermordet werden, die allesamt »frankiert« wurden: Eine norwegische Briefmarke klebt ihnen auf der Zunge. Cheng hingegen ergibt sich ganz der Aufzucht winzig kleiner Salzkrebse, von denen er einen Batman tauft. Aber wie man so sagt: Die Vergangenheit holt ihn ein und lässt ihn zwischen Madeira und Wien, zwischen Urzeit und Jetztzeit, zwischen Himmel und Hölle alsbald das Gefüge der Welt begreifen.",
+    "pageCount": "294",
+    "thumbnail": "https://books.google.com/books/content?id=WLAVAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772017379572,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Mariaschwarz",
+    "subtitle": "",
+    "authors": [
+      "Steinfest, Heinrich"
+    ],
+    "series": "Richard Lukastik",
+    "volume": "2",
+    "publishedDate": "2012-08-13",
+    "isbn": "9783492958004",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Am Anfang steht die perfekte Beziehung zwischen Vinzent Olander, dem Gast, und Job Grong, dem Wirt. Doch als Grong seinen Gast vor dem Ertrinken rettet, ist die Idylle dahin. Der See, um den sich nun alles dreht, trägt den Namen Mariaschwarz. Die Einheimischen im Ort meinen, in ihm würde sich nicht nur das Weltall spiegeln, sondern auch ein Ungeheuer beheimatet sein. Als man auch noch ein Skelett am Grund jenes See entdeckt, tritt der Wiener Kriminalinspektor Lukastik auf den Plan. Mit famoser Arroganz und gewohnt unkonventionellen Ermittlungsmethoden stellt er Mariaschwarz gewissermaßen auf den Kopf. Doch an manchen Beziehungen gibt es nichts zu rütteln.",
+    "pageCount": "309",
+    "thumbnail": "https://books.google.com/books/content?id=d64VAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772017482768,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das himmlische Kind",
+    "subtitle": "",
+    "authors": [
+      "Steinfest, Heinrich"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-10-01",
+    "isbn": "9783426416877",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Zwei kleine Halbwaisen, durchnässt und verfroren, auf der Suche nach Rettung: In einem abgeschiedenen, winterlichen Wald finden sie eine verlassene Hütte. Es mangelt an allem – kein Essen, kein Strom, keine Heizung, nur ein alter Ofen in der Ecke. Doch die 12-jährige Miriam weiß mit traumwandlerischer Sicherheit, was zu tun ist. Und als Elias krank wird, beginnt sie ihm eine ganz besondere Geschichte zu erzählen. Denn eines ist gewiss: Man kann nicht sterben, wenn man wissen möchte, wie es weitergeht …",
+    "pageCount": "198",
+    "thumbnail": "https://books.google.com/books/content?id=kuRrAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772017598898,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Mann, der den Flug der Kugel kreuzte",
+    "subtitle": "",
+    "authors": [
+      "Steinfest, Heinrich"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-08-13",
+    "isbn": "9783492958066",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Eigentlich wollte Szirba, ein Auslandswiener in Stuttgart, nur seiner unschuldigen Obsession nachgehen, doch er hat die Rechnung am falschen Ort gemacht. Denn Stuttgart ist weitaus gefährlicher als vermutet: Szirba wird angeschossen und als leicht verletzter Zeuge eines Verbrechens ins Spital eingeliefert. Und muss bald feststellen, dass man ihn lieber tot sehen möchte. Seine Flucht entwickelt sich zum tragisch-komischen Parforceritt durch eine unwirkliche Stadt. Der andere Mann heißt Jooß. Er ist der Killer …",
+    "pageCount": "232",
+    "thumbnail": "https://books.google.com/books/content?id=694UAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772017705735,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Tortengräber",
+    "subtitle": "",
+    "authors": [
+      "Steinfest, Heinrich"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-08-13",
+    "isbn": "9783492957984",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Klaus Vavras tägliche Freuden sind es, Croissants zu essen und Frauen am Telefon anzuschweigen. Seine beiden Gewohnheiten bringen ihn in ernste Gefahr: Vavra kann es nämlich nicht unterlassen, die auf einen Geldschein – den er natürlich beim Croissantkauf bekommen hat – gekritzelte Nummer zu wählen und wie gewohnt zu schweigen. Wenige Minuten später stürmt die Polizei seine Wohnung. Und damit beginnt eine ebenso mord- wie wendungsreiche und hoch komische Rallye quer durch Wien.",
+    "pageCount": "238",
+    "thumbnail": "https://books.google.com/books/content?id=ma0VAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772017801994,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Rico, Oskar und die Tieferschatten",
+    "subtitle": "",
+    "authors": [
+      "Steinhöfel, Andreas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008-02-22",
+    "isbn": "9783551555519",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Rico ist \"tiefbegabt\", das Denken dauert bei ihm etwas länger, er mag keine Zahlen und verirrt sich leicht. Da seine alleinerziehende Mutter viel arbeitet, erkundet er sein Berliner Mietshaus. Dass aus seinem Ferientagebuch jedoch ein Krimi und er ein Held wird, damit hätte niemand gerechnet.",
+    "pageCount": "232",
+    "thumbnail": "https://books.google.com/books/content?id=ql5GAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772124627483,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Kartause von Parma",
+    "subtitle": "",
+    "authors": [
+      "Stendhal"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1839",
+    "isbn": "9783538051904",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Der Roman beginnt im Mailand des Jahres 1796, nachdem Napoleon die Stadt während seines Italienfeldzugs erobert hat. Während der Marchese del Dongo und sein älterer Sohn Ascanio als Parteigänger der vertriebenen Habsburger und Reaktionäre die Revolutionstruppen verabscheuen und sich aufs Land zurückziehen, begrüßt der jüngere Sohn Fabrizio die französische Armee als Befreier der Italiener von politischer Rückständigkeit. Fabrizios Mutter, die Marchesa Del Dongo, und seine als ''wunderschön'' beschriebene Tante Contessa Gina Pietranera, die halb heimlich, halb sichtbar in ihn verliebt ist, sympathisieren mit ihm und seinen Ansichten, ohne sich aber offen gegen den Marchese zu stellen.",
+    "pageCount": "647",
+    "thumbnail": "https://books.google.com/books/content?id=3N5eSgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772124678152,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Rot und Schwarz",
+    "subtitle": "Chronik aus dem 19. Jahrhundert",
+    "authors": [
+      "Stendhal"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1830",
+    "isbn": "9783446204850",
+    "category": "",
+    "genre": "",
+    "description": "Julien Sorel ist ein napoleonischer Träumer in einer Welt, die nur noch leere Etikette kennt - ein Mann, der sich gegen seine Herkunft auflehnt und dabei an den unsichtbaren Grenzen einer Gesellschaft zerbricht, die Aufstieg duldet, aber nicht verzeiht. Stendhals Erzählkunst besticht durch messerscharfe Klarheit, psychologische Präzision und eine meisterhafte Ironie. Erstmals erschienen 1830.",
+    "pageCount": "872",
+    "thumbnail": "https://books.google.com/books/content?id=tS7DwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772124749034,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Sechs Österreicher unter den ersten fünf",
+    "subtitle": "Roman einer Entpiefkenisierung",
+    "authors": [
+      "Stermann, Dirk"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010",
+    "isbn": "9783550088353",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Ein einzigartiger Reigen an skurrilen Geschichten, wie sie nur in Österreich stattfinden und nur von einem Deutschen erlebt werden können. Der rheinische Wahl-Wiener Dirk Stermann liefert ein skurriles Panoptikum von Österreich und seiner Einwohner – fulminant wie eine Mozartoper.",
+    "pageCount": "265",
+    "thumbnail": "https://books.google.com/books/content?id=Si3USAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772124797210,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der seltsame Fall von Dr. Jekyll und Mr. Hyde",
+    "subtitle": "",
+    "authors": [
+      "Stevenson, Robert Louis"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1886",
+    "isbn": "9783458732259",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Dr. Jekyll, der seit seiner Jugend an einer Art Persönlichkeitsspaltung leidet und ein Doppelleben führt, ist es mit Hilfe von chemischen Experimenten gelungen, der bösen, triebhaften Seite seines Wesens eine eigene Gestalt zu geben. Unter dem Namen Mr. Hyde treibt dieser Doppelgänger im nebelverhangenen London sein Unwesen. Zu seinem Entsetzen bemerkt Jekyll bald, dass die Rückverwandlung von Hyde zu Jekyll immer schwieriger wird …",
+    "pageCount": "71",
+    "thumbnail": "https://books.google.com/books/content?id=V5tECgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772124852942,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Schatzinsel",
+    "subtitle": "",
+    "authors": [
+      "Stevenson, Robert Louis"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2018-01-02",
+    "isbn": "9783744822770",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Der siebzehnjährige Held des Romans Die Schatzinsel, Jim Hawkins, ist der Sohn eines Gastwirts in einer einsamen Gegend an der englischen Westküste. Zufällig gerät er in den Besitz einer Schatzkarte des berüchtigten Piratenkapitäns Flint. Der Gutsherr Trelawney und der Arzt Dr. Livesey sind Jims väterliche Freunde. Sie bieten sich an, die Expedition zur Hebung des Schatzes zu finanzieren. Im Hafen von Bristol wird das neu erworbene Schiff Hispaniola reisebereit für den Kurs auf Südamerika gemacht. Doch Trelawney hat zu viel geplaudert. Ehemalige Kumpane des Piratenkapitäns Flint bekommen Wind von der Reise und heuern unerkannt als Matrosen auf der Hispaniola an. Sie haben es ebenfalls auf den Schatz abgesehen. Schon auf der Fahrt zur Schatzinsel beginnen die Piraten zunächst diskret, dann immer direkter, sich im Wettlauf um den Schatz einen Vorteil zu verschaffen. Doch ist zu erwarten, dass den Piraten spätestens auf der Schatzinsel jedes Mittel recht sein wird, um die Oberhand zu gewinnen.",
+    "pageCount": "295",
+    "thumbnail": "https://books.google.com/books/content?id=U6QkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772124960679,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Mojsche und Rejsele",
+    "subtitle": "",
+    "authors": [
+      "Stoffels, Karlijn"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1998",
+    "isbn": "9783407797865",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Warschau 1939: In einem Waisenhaus für jüdische Kinder lernt Mojsche (13) das Mädchen Rejsele kennen. Ihre aufkeimende Freundschaft überdauert Nazi-Terror und die anschliessende Trennung. Erst Jahrzehnte später begegnen sie sich in Israel wieder.",
+    "pageCount": "198",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783407797865-us.jpg",
+    "read": true,
+    "addedAt": 1772125029802,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Dracula",
+    "subtitle": "",
+    "authors": [
+      "Stoker, Bram"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2026-02-19",
+    "isbn": "9783954180080",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Als Jonathan Harker als junger Anwalt nach Transsilvanien reist, ahnt er nicht, dass seine Mission, einen englischen Anwaltshandel für einen exzentrischen Grafen zu regeln, ihn in einen Strudel aus Furcht und Faszination reißen wird. Die Reise führt ihn in abgelegene Dörfer voller Aberglaube und warnender Einwohner, bis hin zu einem Schloss, dessen Bewohner bei Tageslicht nie in Erscheinung treten. Schritt für Schritt entzieht sich die Wirklichkeit seiner Gewissheiten, bis Harker die erschütternde Erkenntnis gewinnt, dass hier etwas Unmenschliches am Werk ist. Draculas Etwas von zeitloser Macht breitet sich nicht nur über die einsamen Berge Transsilvaniens aus, sondern richtet seinen Blick bald auf die Metropole London.",
+    "pageCount": "978",
+    "thumbnail": "https://books.google.com/books/content?id=ELHiCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772125095424,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der Schimmelreiter",
+    "subtitle": "",
+    "authors": [
+      "Storm, Theodor"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1888",
+    "isbn": "9783840644320",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "\"Der Schimmelreiter\", der 1888 erschien, ist Theodor Storms letzte und reifste Novelle. Sie erzählt vom Kampf und Aufstieg des Deichgrafen Hauke Haien. Der ehrgeizige und herrschsüchtige Deichgraf scheitert an der Bosheit und Beschränktheit seiner Umgebung ebenso wie an den Gewalten der Natur und letztlich an sich selbst. In diesem Kampf mit sich selbst, seinen Mitmenschen und der Umwelt ist ihm der eigene Untergang vorgezeichnet.",
+    "pageCount": "Unbekannt",
+    "thumbnail": "http://books.google.com/books/content?id=ZlJYEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772125202834,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Entfernung",
+    "subtitle": "31 Abschnitte",
+    "authors": [
+      "Streeruwitz, Marlene"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006",
+    "isbn": "9783100744326",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Selma (49) ist zu ihrem Vater zurückgezogen. Die Wohnung riecht wie in der Kindheit, von der Mutter sind aber nur noch die Blumen da. Aus dieser Welt von vorgestern bricht Selma auf, um es noch einmal zu versuchen. Jeder Schritt führt in immer neuere und stärkere Sinneseindrücke. In einer solchen Verlorenheit ist das Fremde erträglicher als das Bekannte. Marlene Streeruwitz hat eine heutige Odyssee geschrieben und ihr Projekt des Subjekts im Neoliberalen weitergedacht. In einem virtuos komponierten Kaleidoskop in 31 Abschnitten beleuchtet der Text jeden Augenblick des Abenteuers der Heldin. Die Sprache zeichnet die scharfen Umrisse der Suchenden gegen die Welt, die sie zu verschlingen droht.",
+    "pageCount": "488",
+    "thumbnail": "https://books.google.com/books/content?id=t_RlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772125420316,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Glashaus",
+    "subtitle": "",
+    "authors": [
+      "Stross, Charles"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008-09-30",
+    "isbn": "9783894804442",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Wir schreiben das 27. Jahrhundert: Der Veteran Robin unterzieht sich einem Eingriff in sein Langzeitgedächtnis, der mit einer Neudefinition seiner Persönlichkeit einhergeht. Dabei wird ihm während der ersten Orientierungsphase klar, dass jemand - oder etwas - versucht, ihn zu töten. Deswegen meldet er sich freiwillig für ein Experiment: Anhand historischer Quellen wurde ein virtueller Raum geschaffen, der der Welt des 21. Jahrhunderts nachempfunden ist. Robin flieht in die bedrückende Atmosphäre dieser Zeit - und muss schnell feststellen, dass er seinen Gegnern genau in die Arme läuft …",
+    "pageCount": "430",
+    "thumbnail": "https://books.google.com/books/content?id=6JnFViV1fKAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772125523541,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Vogelwelt von Auschwitz",
+    "subtitle": "",
+    "authors": [
+      "Surminski, Arno"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008",
+    "isbn": "9783784431260",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "In seiner Novelle schildert der Autor das Schicksal des Gefangenen Marek, der sich schon in Freiheit wähnt, als er zum Skizzenmaler für den KZ-Wachmann Hans Grote bestimmt wird, um mit ihm die Vogelwelt in der Umgebung von Auschwitz zu erkunden …",
+    "pageCount": "204",
+    "thumbnail": "https://books.google.com/books/content?id=190hAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772125626882,
+    "rating": 3,
+    "tags": [
+      "Holocaust"
+    ]
+  },
+  {
+    "title": "Das Bonus-Geheimnis",
+    "subtitle": "nd andere Geschichten aus der Business Class",
+    "authors": [
+      "Suter, Martin"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009",
+    "isbn": "9783257067125",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Neue Geschichten aus der Business Class, die ironisch mit dem Sein und Schein von Managern, ihren Gattinnen, Vorzimmerdamen und Geschäftspartnern ins Gericht gehen.",
+    "pageCount": "185",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783257067125-us-300.jpg",
+    "read": true,
+    "addedAt": 1772125771877,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Teufel von Mailand",
+    "subtitle": "",
+    "authors": [
+      "Suter, Martin"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2013-03-26",
+    "isbn": "9783257603347",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Sonias Sinne spielen verrückt: Sie sieht auf einmal Geräusche, schmeckt Formen oder fühlt Farben. Ein Aufenthalt in den Bergen soll ihr Gemüt beruhigen, doch das Gegenteil tritt ein: Im Spannungsfeld von archaischer Bergwelt und urbaner Wellness, bedrohlichem Jahrhundertregen und moderner Telekommunikation beginnt ihre überreizte Wahrnehmung erst recht zu blühen – oder gerät die Wirklichkeit aus den Fugen?",
+    "pageCount": "230",
+    "thumbnail": "https://books.google.com/books/content?id=x-xsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772125867933,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Die dunkle Seite des Mondes",
+    "subtitle": "",
+    "authors": [
+      "Suter, Martin"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-02-21",
+    "isbn": "9783257600445",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Starwirtschaftsanwalt Urs Blank, fünfundvierzig, Fachmann für Fusionsverhandlungen, hat seine Gefühle im Griff. Doch dann gerät sein Leben aus den Fugen. Ein Trip mit halluzinogenen Pilzen führt zu einer gefährlichen Persönlichkeitsveränderung, aus der ihn niemand zurückzuholen vermag. Blank flieht in den Wald und lernt dort zu überleben. Bis er endlich begreift: Es gibt nur einen Weg, um sich aus diesem Alptraum zu befreien.",
+    "pageCount": "244",
+    "thumbnail": "https://books.google.com/books/content?id=Id1tAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772125984624,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Die schöne Frau Seidenman",
+    "subtitle": "",
+    "authors": [
+      "Szczypiorski, Andrzej"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1988",
+    "isbn": "9783257017588",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Man schreibt das Jahr 1943. Im von Deutschen besetzten Warschau ist die einst größte jüdische Gemeinde Europas bereits fast vollständig deportiert. Einigen gelingt die Flucht aus dem Ghetto, darunter auch der schönen Irma Seidenman, die drei Vorteile hat: einen gefälschten Ausweis, blonde Haare und blaue Augen. Als sie eines Tages von einem Informanten der Nazis erkannt wird, nimmt das Drama seinen Lauf. Wird Irma Seidenman entkommen?",
+    "pageCount": "280",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783257017588-us-300.jpg",
+    "read": true,
+    "addedAt": 1772126067574,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Das Parfum",
+    "subtitle": "",
+    "authors": [
+      "Süskind, Patrick"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-09-25",
+    "isbn": "9783257601756",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Im achtzehnten Jahrhundert lebte in Frankreich ein Mann, der zu den genialsten und abscheulichsten Gestalten dieser an genialen und abscheulichen Gestalten nicht armen Epoche gehörte. Die spannende Geschichte – märchenhaft, witzig und zugleich fürchterlich angsteinflößend – vom finsteren Helden Grenouille.",
+    "pageCount": "269",
+    "thumbnail": "https://books.google.com/books/content?id=PWttAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772126252208,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Nichts",
+    "subtitle": "Was im Leben wichtig ist",
+    "authors": [
+      "Teller, Janne"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-07-26",
+    "isbn": "9783446236820",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "\"Nichts bedeutet irgendwas, deshalb lohnt es sich nicht, irgendwas zu tun.\" Mit diesen Worten schockiert Pierre alle in der Schule. Um das Gegenteil zu beweisen, beginnt die Klasse alles zu sammeln, was Bedeutung hat. Doch was mit alten Fotos beginnt, droht bald zu eskalieren: Gerda muss sich von ihrem Hamster trennen. Auch Lis Adoptionsurkunde, der Sarg des kleinen Emil und eine Jesusstatue landen auf dem Berg der Bedeutung. Als Sofie ihre Unschuld und Johan seinen Zeigefinger opfern mussten, schreiten Eltern und Polizei ein. Nur Pierre bleibt unbeeindruckt. Und die Klasse rächt sich an ihm …",
+    "pageCount": "157",
+    "thumbnail": "https://books.google.com/books/content?id=xx1QAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772126415318,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Kindersammler",
+    "subtitle": "",
+    "authors": [
+      "Thiesler, Sabine"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-10-25",
+    "isbn": "9783641051372",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Es geschieht am helllichten Tag Anne und ihr Mann Harald erleben den Albtraum aller Eltern: Während eines Toscana-Urlaubs verschwindet ihr Kind beim Spielen spurlos. Die Suche der Polizei verläuft ergebnislos, und sie müssen ohne ihren Sohn nach Hause fahren. Zehn Jahre später kehrt Anne an den Ort des Geschehens zurück, um herauszufinden, was damals passiert ist. Sie ahnt nicht, wie nah sie dem Täter kommt – und er ihr.",
+    "pageCount": "394",
+    "thumbnail": "https://books.google.com/books/content?id=Bl9yrXAEIOoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772126576430,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Der Hobbit",
+    "subtitle": "Oder Hin und zurück",
+    "authors": [
+      "Tolkien, J. R. R."
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-08-25",
+    "isbn": "9783608101386",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Es war ein schöner Morgen, als ein alter Mann bei Bilbo anklopfte. »Wir wollen hier keine Abenteuer, vielen Dank«, wimmelte er den ungebetenen Besucher ab. »Überhaupt, wie heißen Sie eigentlich?« - »Ich bin Gandalf«, antwortete dieser. Und damit dämmerte es Bilbo: Das Abenteuer hatte schon begonnen.",
+    "pageCount": "392",
+    "thumbnail": "https://books.google.com/books/content?id=anf0IoRZmVAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772126674464,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Bordeaux",
+    "subtitle": "Ein Roman in vier Jahrgängen",
+    "authors": [
+      "Torday, Paul"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010-07-01",
+    "isbn": "9783827072535",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Frankie Wilberforce ist Anfang dreißig, erfolgreicher IT-Unternehmer und Single, er weiß genau, was er will. Eines Tages lernt er bei einem Ausflug den exzentrischen Landlord Francis Black kennen, zu dem er sofort eine tiefe Verbundenheit spürt. Die Begegnung verändert für ihn alles: Er wird in eine exquisite Gesellschaft von jungen Aristokraten und Hedonisten eingeführt, und schon bald verliebt er sich in eine Frau, in das pralle Leben, vor allem aber in die feine Kunst des Weintrinkens. Kurzerhand verkauft er sein Unternehmen und übernimmt Francis' spektakulären Weinkeller. Nur drei Jahre später ist Wilberforce ein Wrack …",
+    "pageCount": "282",
+    "thumbnail": "https://books.google.com/books/content?id=CGEUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772126947746,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Schloss Gripsholm",
+    "subtitle": "",
+    "authors": [
+      "Tucholsky, Kurt"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2014-11-10",
+    "isbn": "9783458758907",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Mit augenzwinkernder Leichtigkeit erzählt Tucholsky in Rheinsberg von den unbeschwerten Urlaubstagen der Verliebten Claire und Wolfgang im Märkischen. Das Glück auf Schloss Gripsholm hingegen erweist sich als Idyll auf Zeit: Daddy und Lydia können dem Alltag nicht entkommen, die Sorgen reisen ihnen hinterher …",
+    "pageCount": "158",
+    "thumbnail": "https://books.google.com/books/content?id=bBs8CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772127150894,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Abenteuer von Tom Sawyer",
+    "subtitle": "",
+    "authors": [
+      "Twain, Mark"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-12-22",
+    "isbn": "9783104018126",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Schule schwänzen, Höhlen erforschen, als Pirat auf dem Mississippi leben: Mark Twains aufmüpfiger, liebenswerter Held Tom Sawyer ist ein Lausbube, wie er im Buche steht. Nicht zufällig gehört ›Tom Sawyer‹ zu den beliebtesten Kinder- und Jugendromanen der Weltliteratur. Darüber hinaus aber ist der Roman mit seiner Kritik am spießbürgerlichen Leben ein bis heute aktueller Gesellschaftsroman, der sich an alle jung gebliebenen Erwachsenen richtet.",
+    "pageCount": "375",
+    "thumbnail": "https://books.google.com/books/content?id=EVBtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772127279870,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Sophia, der Tod und ich",
+    "subtitle": "",
+    "authors": [
+      "Uhlmann, Thees"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-10-08",
+    "isbn": "9783462309898",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Der Tod klingelt an der Tür. Aber statt den Erzähler ex und hopp ins Jenseits zu befördern, gibt es ein rasantes Nachspiel. Ein temporeicher, hochkomischer, berührender Roman über all das, was im Leben wirklich zählt. Zwischen Tod und Erzähler entspinnt sich ein hinreißendes Wortgefecht, in dem es um Liebe, Freundschaft und Glauben, um den Lakritzgeschmack von Asphalt und das depressive Jobprofil des Todes geht. Zu seiner Verwunderung gelingt es dem Tod nicht, den Erzähler sterben zu lassen. Ein spektakulärer Roadtrip beginnt. Gemeinsam mit seiner ruppigen Exfreundin Sophia und dem Tod macht sich der Erzähler auf den Weg zu seiner Mutter und zu seinem sieben Jahre alten Sohn, den er seit Ewigkeiten nicht gesehen hat, dem er aber Tag für Tag eine Postkarte schreibt.",
+    "pageCount": "259",
+    "thumbnail": "https://books.google.com/books/content?id=mWI2CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772127360266,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Ein Engel zur Weihnacht",
+    "subtitle": "",
+    "authors": [
+      "VanLiere, Donna"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2018",
+    "isbn": "9783732568888",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Christine, alleinerziehende Mutter zweier Kinder, hält sich mit Gelegenheitsjobs über Wasser. Von ihrem Exmann bekommt sie keinerlei Unterstützung. Im Gegenteil: Er nutzt jede Gelegenheit, um ihr das Leben zur Hölle zu machen. Als sie jedoch eines Tages einer alten Frau das Leben rettet, wendet sich ihr Schicksal. Denn fortan wird sie gesucht - und zwar von niemand anderem als der Liebe ihres Lebens ... Jason wiederum ist zunächst wenig begeistert, als sein Großvater ihn beauftragt, die mysteriöse \"Christy\" zu finden, die tags zuvor eine Freundin der Familie vor dem sicheren Tod bewahrt hat. Jason hat schließlich gerade erst seinen Traumjob verloren und würde seinen Frust lieber im Alkohol ertränken. Dennoch macht er sich auf - ohne zu ahnen, dass am Ende der Reise das große Glück auf ihn wartet.",
+    "pageCount": "Unbekannt",
+    "thumbnail": "http://books.google.com/books/content?id=n81utQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772127864823,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die sieben Leben des Arthur Bowman",
+    "subtitle": "",
+    "authors": [
+      "Varenne, Antonin"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-05-18",
+    "isbn": "9783641148317",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "1852: Arthur Bowman, einer der härtesten Söldner der Ostindienkompanie in Birma, hat eine gefährliche Expedition tief in indigenes Gebiet geführt; ein Himmelfahrtskommando, das mit der Gefangensetzung der zehn Überlebenden endet. Sechs Jahre später ist er ein gebrochener Mann im viktorianischen London während der Jahrhunderthitze. Alkohol- und opiumsüchtig verdingt er sich als Polizist. Da wird in der Kanalisation eine verstümmelte Leiche entdeckt – und Bowman des Mordes verdächtigt. Denn der Tote trägt Narben wie er – Folge der Folter in Birma. Also bricht er auf, die neun Mitinhaftierten zu finden. Die Suche führt ihn in den Wilden Westen, wo weitere bestialische Morde geschehen. Bis er den Mörder findet, hat er sich durch seine Erlebnisse und die Liebe einer Frau zu einem geläuterten Menschen gewandelt …",
+    "pageCount": "505",
+    "thumbnail": "https://books.google.com/books/content?id=u23gBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772128085489,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Der verbotene Ort",
+    "subtitle": "",
+    "authors": [
+      "Vargas, Fred"
+    ],
+    "series": "Kommissar Adamsberg",
+    "volume": "8",
+    "publishedDate": "2011",
+    "isbn": "9783841201119",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein grausiger Fund vor dem Londoner Friedhof Highgate, ein kaltblütiger Mord in Paris und ein rätselhafter Brief führen Kommissar Adamsberg an den Ursprung einer alten Legende. Wagemutig stürzt er sich in einsame Ermittlungen in einer Region, wo der Glaube an Untote sehr lebendig ist.",
+    "pageCount": "Unbekannt",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783746626444-us-300.jpg",
+    "read": true,
+    "addedAt": 1772128187018,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Er ist wieder da",
+    "subtitle": "",
+    "authors": [
+      "Vermes, Timur"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2012-09-21",
+    "isbn": "9783838720197",
+    "category": "Belletristik",
+    "genre": "Humor",
+    "description": "Sommer 2011. Adolf Hitler erwacht auf einem leeren Grundstück in Berlin-Mitte. Ohne Krieg, ohne Partei, ohne Eva, dafür unter Tausenden von Ausländern und Angela Merkel. 66 Jahre nach seinem vermeintlichen Ende startet er gegen jegliche Wahrscheinlichkeit eine neue Karriere im Fernsehen. Dieser Hitler ist keine Witzfigur, sondern erschreckend real. Und das Land, auf das er trifft, ist es auch: zynisch, hemmungslos erfolgsgeil und vollkommen chancenlos gegenüber dem Demagogen und der Sucht nach Quoten, Klicks und \"Gefällt mir!\"-Buttons. Eine Persiflage? Eine Satire? Polit-Comedy? All das und mehr: Dieser Roman ist ein literarisches Kabinettstück erster Güte.",
+    "pageCount": "436",
+    "thumbnail": "https://books.google.com/books/content?id=uy4gWC0XC3kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772128345100,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Reise um die Erde in 80 Tagen",
+    "subtitle": "",
+    "authors": [
+      "Verne, Jules"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1873",
+    "isbn": "9783822410035",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Mit Schiff, Bahn und Elefanten ― kurz, mit jedem sich bietenden Transportmittel ― jagen Mr. Phileas Fogg und sein Diener Passepartout um die Erde. Aufgrund einer Wette stehen Mr. Foggs Ehre als pünktlich korrekter Gentleman und sein Vermögen auf dem Spiel. Dabei begegnen sie einer indischen Prinzessin - und allerhand Gaunern, die um jeden Preis verhindern wollen, daß Mr. Fogg seine Wette gewinnt.",
+    "pageCount": "221",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783822410035-us-300.jpg",
+    "read": true,
+    "addedAt": 1772128517917,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Kurier des Zaren",
+    "subtitle": "",
+    "authors": [
+      "Verne, Jules"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2020-10-05",
+    "isbn": "9788726642896",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Die gefährliche Dienstreise des Kuriers des Zaren quer durch Russland: Der aus Sibirien stammende Offizier Michael Strogoff soll eine Depesche nach Irkutsk zum Bruder des Zaren bringen, um ihn zu warnen, dass sich Iwan Ogareff zusammen mit dem Tatarenfürsten an ihm rächen möchte. Inkognito als Tuchhändler Nikolaus Korpanoff macht er sich also auf die weite Reise. Doch bis er seinen Auftrag ausführen kann, muss er noch einige gefahrenreiche Hindernisse überwinden …",
+    "pageCount": "400",
+    "thumbnail": "https://books.google.com/books/content?id=50GpEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772128745803,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Später Frost",
+    "subtitle": "",
+    "authors": [
+      "Voosen, Roman",
+      "Danielsson, Kerstin Signe"
+    ],
+    "series": "Nyström & Forss",
+    "volume": "1",
+    "publishedDate": "2012-09-10",
+    "isbn": "9783462306156",
+    "category": "",
+    "genre": "",
+    "description": "Ein grausamer Mord erschüttert die beschauliche Provinzstadt Växjö in Småland. Die frisch beförderte Kommissarin Ingrid Nyström und ihre neue Kollegin, die junge Deutsch-Schwedin Stina Forss, stehen vor einem rätselhaften Fall: Der hochbetagte englische Insektenforscher Balthasar Frost wurde brutal verätzt und verstümmelt in seinem Gewächshaus aufgefunden. Bei ihren Ermittlungen tauchen die beiden eigenwilligen Kommissarinnen tief in die bewegte schwedische Geschichte ein und stoßen auf Verbindungen bis in die höchsten Stockholmer Kreise. Forss' Spuren führen sie sogar bis nach Jerusalem. Bald müssen Nyström und Forss erkennen, dass in ihrer Heimat nichts so ist, wie es scheint – und der Fall mehr mit ihnen selbst zu tun hat, als ihnen lieb ist.",
+    "pageCount": "460",
+    "thumbnail": "https://books.google.com/books/content?id=gv5lAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772129140905,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Kurzer Rock",
+    "subtitle": "",
+    "authors": [
+      "Wahldén, Christina"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2001",
+    "isbn": "9783789143137",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "Die 16-jährige Madde ist von 2 Klassenkameraden vergewaltigt worden. Aus ihrer Sicht erzählt sie, was geschah. Bei einer liebevollen Pflegefamilie kann sie allmählich ihr Trauma verarbeiten.",
+    "pageCount": "156",
+    "thumbnail": "https://books.google.com/books/content?id=2myPNQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772129297798,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Bruno Chef de police",
+    "subtitle": "",
+    "authors": [
+      "Walker, Martin"
+    ],
+    "series": "Bruno, Chef de Police",
+    "volume": "1",
+    "publishedDate": "2012-07-27",
+    "isbn": "9783257601817",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Bruno Courrèges – Polizist, Gourmet, Sporttrainer und begehrtester Junggeselle von Saint-Denis – wird an den Tatort eines Mordes gerufen. Ein algerischer Einwanderer, dessen Kinder in der Ortschaft wohnen, ist tot aufgefunden worden. Das Opfer ist ein Kriegsveteran, Träger des Croix de Guerre, und weil das Verbrechen offenbar rassistische Hintergründe hat, werden auch nationale Polizeibehörden eingeschaltet, die Bruno von den Ermittlungen ausschließen wollen. Doch der nutzt seine Ortskenntnisse und Beziehungen, ermittelt auf eigene Faust und deckt die weit in der Vergangenheit wurzelnden Ursachen des Verbrechens auf.",
+    "pageCount": "260",
+    "thumbnail": "https://books.google.com/books/content?id=GGttAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772129376325,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Bei den drei Eichen",
+    "subtitle": "",
+    "authors": [
+      "Wallace, Edgar"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1982",
+    "isbn": "9783442001002",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "\"Mord ist Zufall!\" behauptet Socrates Smith und macht seinem Ruf als berühmter Kriminalist wieder einmal alle Ehre. Ausgerechnet auf \"Waldfrieden\", dem Gut des tyrannischen John Mandle, trägt sich allerlei Mörderisches zu. Nächtliche Morsezeichen und eine Eiche im Mondschein, eine verschwundene Leiche und das schaurige Gelächter eines umherschleichenden Fremden - da gilt es für Sokrates einige harte Nüsse zu knacken …",
+    "pageCount": "163",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md31417897270.jpg",
+    "read": true,
+    "addedAt": 1772129472523,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Das Verrätertor",
+    "subtitle": "",
+    "authors": [
+      "Wallace, Edgar"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1997",
+    "isbn": "9783442000456",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Tiger Trayne ist ein angesehener Londoner Geschäftsmann mit geheimen Verbindungen zur Unterwelt. Er plant den größten Coup der Geschichte Englands: Den Raub der Kronjuwelen aus dem Tower in London. Der Plan, den er entwirft, scheint wasserdicht zu sein. Dann aber taucht ein seltsamer und ein wenig tollpatschiger Reisender namens Hector auf und bringt das Vorhaben in Gefahr.",
+    "pageCount": "183",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14539316-L.jpg",
+    "read": true,
+    "addedAt": 1772129706530,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der rote Kreis",
+    "subtitle": "",
+    "authors": [
+      "Wallace, Edgar"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1982",
+    "isbn": "9783442000357",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein Verbrechersyndikat, erpresst reiche Londoner um hohe Geldbeträge und wer nicht zahlt muss sterben. Inspektor John Parr und Privatdetektiv Derrick Yale haben es sich zur Aufgabe gemacht, den genialen Kopf der Bande zur Strecke zu bringen, doch das ist gar nicht so leicht.",
+    "pageCount": "166",
+    "thumbnail": "https://covers.openlibrary.org/b/id/11753540-L.jpg",
+    "read": true,
+    "addedAt": 1772129919265,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Der Zinker",
+    "subtitle": "",
+    "authors": [
+      "Wallace, Edgar"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "",
+    "isbn": "",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Die Londoner Unterwelt ist auf der Jagd nach dem Zinker. Dieser geheimnisvolle Hehler zwingt Kriminelle, ihm ihre Waren für einen Hungerlohn zu verkaufen. Anderenfalls verpfeift er sie bei der Polizei. Als ein Mord in Verbindung mit dem Zinker gebracht wird, fängt auch Scotland Yard an zu ermitteln.",
+    "pageCount": "",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783442002009-us.jpg",
+    "read": true,
+    "rating": 2,
+    "tags": [],
+    "addedAt": 1772130284242
   }
 ]
