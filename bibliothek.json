@@ -21357,5 +21357,749 @@
     "rating": 2,
     "tags": [],
     "addedAt": 1772130284242
+  },
+  {
+    "title": "Albrecht Beutelspachers Kleines Mathematikum",
+    "subtitle": "Die 101 wichtigsten Fragen und Antworten zur Mathematik",
+    "authors": [
+      "Beutelspacher, Albrecht"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-07-18",
+    "isbn": "9783406616587",
+    "category": "Sachbuch",
+    "genre": "Mathematik",
+    "description": "Der Mathematiker Albrecht Beutelspacher, bekannt für seine Fähigkeit, sein Fachgebiet unterhaltsam und spannend zu präsentieren, ist nicht nur Direktor des «Mathematikums», eines einzigartigen Museums für Mathematik, er hat es sich auch zur Angewohnheit gemacht, die vielen Fragen der Besucher seines Museums so genau und so verständlich wie möglich zu beantworten. Mit den Jahren kam ihm die Idee, die originellsten und meistgestellten Fragen aufzuschreiben. Hier liegt nun das Ergebnis vor: Die 101 wichtigsten Fragen zur Mathematik. Und das Schöne ist: Keine bleibt unbeantwortet.",
+    "pageCount": "196",
+    "thumbnail": "https://books.google.com/books/content?id=rBU8U2Q5rYAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772211982182,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Mary Ferrera spielt System",
+    "subtitle": "",
+    "authors": [
+      "Wallace, Edgar"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2020",
+    "isbn": "9783752946864",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In einem Kasino in Monte Carlo taucht die elegante, schöne Mary Ferrera auf und setzt auf den Höchstbetrag. Sie reist inkognito, nennt sich Miss Hicks und scheint nach einem System zu spielen. Mary Ferrera wird von zwei Detektiven überwacht, die ein gewisser Thomson Dawkes auf sie angesetzt hat. Dann werden die beiden Zeuge, wie Ferrera Dawkes erschießt.",
+    "pageCount": "Unbekannt",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md31904204030.jpg",
+    "read": true,
+    "addedAt": 1772212744494,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Der Nachbar",
+    "subtitle": "",
+    "authors": [
+      "Walters, Minette"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2002",
+    "isbn": "9783442309696",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Die Geschichte über ein verschwundenes Mädchen und eine junge Ärztin, die in die Hände eines Psychopathen fällt.",
+    "pageCount": "413",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md32372056023.jpg",
+    "read": true,
+    "addedAt": 1772212805738,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Des Teufels Werk",
+    "subtitle": "",
+    "authors": [
+      "Walters, Minette"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2006",
+    "isbn": "9783442301287",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Ein psychopathischer Killer. Ein einsam gelegenes Haus auf dem Land. Und zwei Frauen, die bereit sind, bis zum Äußersten zu gehen. Die Journalistin Connie Burns hat eine tief verletzte Seele, als sie sich in dem malerischen Dorf in Dorset einquartiert. Denn kurz zuvor war sie in die Hände des sadistischen Killers John Harwood geraten. Nur einem Wunder ist es zu verdanken, dass Connie die Freiheit wiedererlangt hat. Doch die Angst lässt sie nicht los: Wird Harwood, der eine perfide Freude an sadistischen Spielen empfindet, ihre Spur aufnehmen und sie in ihrem Versteck stellen? Connie ahnt, dass der Tag der Abrechnung bevorsteht …",
+    "pageCount": "414",
+    "thumbnail": "https://books.google.com/books/content?id=x6VxwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772212860672,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Schandmaske",
+    "subtitle": "",
+    "authors": [
+      "Walters, Minette"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1998",
+    "isbn": "9783442439737",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Die junge Ärztin Sarah Blakeney ist schockiert. als sie die Leiche von Mathilda Gillespie sieht, denn die Tote trägt eine makaber geschmückte mittelalterliche Schandmaske. Während Polizei und Familie von Selbstmord ausgehen, ist Sarah nicht bereit. diese Erklärung hinzunehmen. Doch dann stellt sich heraus, dass Mathilda sie zur Alleinerbin gemacht hat.",
+    "pageCount": "407",
+    "thumbnail": "https://books.google.com/books/content?id=POJgAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772212945555,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Bildhauerin",
+    "subtitle": "",
+    "authors": [
+      "Walters, Minette"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1995",
+    "isbn": "9783442306145",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Olive Martin, ein hässliches junges Mädchen, wird neben den zerstückelten Leichen ihrer Mutter und Schwester gefunden, gesteht die Morde und wird verurteilt. 5 Jahre später nimmt eine Schriftstellerin den Fall noch einmal auf.",
+    "pageCount": "408",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783442464968-us-300.jpg",
+    "read": true,
+    "addedAt": 1772212996997,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Fuchsjagd",
+    "subtitle": "",
+    "authors": [
+      "Walters, Minette"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2003",
+    "isbn": "9783442310128",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Schon seit Generationen lebt die angesehene Familie Lockyer-Fox in Shenstead, einem kleinen englischen Dorf nahe der Küste von Dorset. Die ländliche Idylle wird jäh zerstört, als die Frau des alten Colonel James ermordet auf der Terrasse ihres prächtigen Herrenhauses aufgefunden wird.",
+    "pageCount": "476",
+    "thumbnail": "https://books.google.com/books/content?id=-5MDRAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772213043619,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Im Eishaus",
+    "subtitle": "",
+    "authors": [
+      "Walters, Minette"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1996",
+    "isbn": "9783442421350",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Handelt es sich bei der Leiche im Eishaus des englischen Landsitzes Streech Grange um die sterblichen Überreste des Hausherrn David Maybury? Seit zehn Jahren fehlt von ihm jede Spur, und für die Dorfbewohner gibt es nur eine Erklärung: Phoebe Maybury hat ihren Mann umgebracht. Auch Inspektor Walsh ist davon überzeugt, Phoebe endlich den Mord von damals nachweisen zu können. Doch schon bald stellt sich heraus, daß der Fund der Leiche nicht genügt, um das dunkle Geheimnis von Streech Grange zu lüften …",
+    "pageCount": "348",
+    "thumbnail": "https://books.google.com/books/content?id=fYPlAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772213108300,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der dunkle Rivale",
+    "subtitle": "",
+    "authors": [
+      "Watson, Jude"
+    ],
+    "series": "Star Wars. Jedi-Padawan",
+    "volume": "2",
+    "publishedDate": "1999",
+    "isbn": "9783897482029",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Xanatos, ein abtrünniger Schüler, der zur dunklen Seite der Macht überlief, verlangt Rache vom Jedi-Meister Qui-Gon Jinn.",
+    "pageCount": "157",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783897482029-us-300.jpg",
+    "read": true,
+    "addedAt": 1772213153049,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Das Böse in euch",
+    "subtitle": "",
+    "authors": [
+      "Weiss, Rhena"
+    ],
+    "series": "Michaela Baltzer",
+    "volume": "1",
+    "publishedDate": "2016-05-16",
+    "isbn": "9783442483211",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "In Wien verschwinden mehrere Mädchen spurlos. Als man die Leiche der 16-jährigen Tanja entdeckt, übernimmt die LKA-Ermittlerin Michaela Baltzer den Fall. Auf Tanjas Körper identifizieren die Gerichtsmediziner die DNA-Spuren zweier weiterer vermisster Mädchen, von denen eines bald darauf ermordet aufgefunden wird. Kilian Weilmann, Kriminalpsychologe des LKA, glaubt, dass die Morde auf das Konto eines Sexualstraftäters gehen. Doch Michaela vermutet einen anderen Hintergrund. Dann ist plötzlich Michaelas Nichte Valerie verschwunden – und der Ermittlerin wird auf brutale Weise bewusst, dass der Täter ein grausames Spiel mit ihr treibt …",
+    "pageCount": "400",
+    "thumbnail": "https://books.google.com/books/content?id=TTjojgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772213337562,
+    "rating": 3,
+    "tags": [
+      "Österreich"
+    ]
+  },
+  {
+    "title": "Das Bildnis des Dorian Gray",
+    "subtitle": "",
+    "authors": [
+      "Wilde, Oscar"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1997",
+    "isbn": "9783423124669",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Dorian Gray scheint alles zu haben: Er ist jung, begehrt, verfügt über Geld und gesellschaftliches Ansehen. Doch als er über seinen Freund, den Maler Basil Hallward, Lord Henry Wotton kennenlernt, zeigt dieser ihm die Welt des Hedonismus. Dazu verführt, die moralischen Fesseln der Gesellschaft abzustreifen, wird Dorian durch sein Verlangen immer näher an einen dunklen Abgrund aus Lust und Dekadenz getrieben. Aber egal, welche Ausschweifungen er zelebriert, nichts scheint seiner makellosen Schönheit etwas anhaben zu können. Besorgt um seinen Freund, versucht Basil, an dessen Gewissen zu appellieren. Kann es ihm gelingen, Dorian aus der zerstörerischen Spirale zu befreien, ohne selbst daran zugrunde zu gehen? Und welches düstere Geheimnis verbindet das Porträt, das Basil einst von seinem Freund gemalt hat, mit dem Schicksal des jungen Mannes?",
+    "pageCount": "286",
+    "thumbnail": "https://books.google.com/books/content?id=cKUlPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772213704324,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Das Gespenst von Canterville",
+    "subtitle": "",
+    "authors": [
+      "Wilde, Oscar"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1993",
+    "isbn": "9783791535418",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Als die amerikanische Familie Otis in das altehrwürdige Schloss Canterville einzieht, ist sie auf alles vorbereitet – nur nicht auf einen Geist, der so gar nicht zu seinen neuen Bewohnern passt. Sir Simon, der seit Jahrhunderten die Schlossgänge unsicher macht, stößt auf eine Familie, die sich weder vor Kettenrasseln noch vor blutigen Spuktricks fürchtet und ihm stattdessen Öl für seine quietschenden Ketten anbietet. Mit spitzer Ironie und feinem Humor lässt Oscar Wilde in seiner ersten erzählerischen Arbeit britische Schauerromantik und amerikanischen Pragmatismus aufeinanderprallen. Das Gespenst von Canterville ist eine geistreiche Satire, die noch heute mit Witz, Charme und einem Hauch Melancholie begeistert.",
+    "pageCount": "95",
+    "thumbnail": "http://books.google.com/books/content?id=_16KEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772213978523,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Salome",
+    "subtitle": "Tragödie in Einem Akt",
+    "authors": [
+      "Wilde, Oscar"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2020-05-26",
+    "isbn": "9798648904057",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Ein klassisches Stück von Oscar Wilde, ins Deutsche übersetzt.",
+    "pageCount": "108",
+    "thumbnail": "https://books.google.com/books/content?id=gKGRzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772214108491,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Miami Blues",
+    "subtitle": "",
+    "authors": [
+      "Willeford, Charles"
+    ],
+    "series": "Hoke Moseley",
+    "volume": "1",
+    "publishedDate": "2002",
+    "isbn": "9783895810770",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Der Berufsverbrecher Frederick J. Frenger jun. reist von San Quentin nach Miami. Dort tötet er einen Hare Krishna und lernt dessen Schwester Susan kennen, mit der er eine platonische Ehe der besonderen Art führen will. Hoke Moseley vom Miami Police Department ist diese Beziehung und vor allem Freddy selbst nicht ganz geheuer. Es kommt zu einem Showdown zwischen dem unbekümmerten Psychopathen und dem hartnäckigen Cop.",
+    "pageCount": "255",
+    "thumbnail": "https://books.google.com/books/content?id=KfUJywAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772214439319,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Seitenhieb",
+    "subtitle": "",
+    "authors": [
+      "Willeford, Charles"
+    ],
+    "series": "Hoke Moseley",
+    "volume": "3",
+    "publishedDate": "1996",
+    "isbn": "9783499432262",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "»Ich bin ein Psychopath« sagt Berufsverbrecher Troy Louden über sich selbst, und es ist ihm egal, ob man zwischen Recht und Unrecht unterscheidet. Und ihm sind auch die Menschen egal, die er auf einer blutigen Gewalttour durch Südflorida vor die Schrotflinte bekommt. Für Sergeant Hoke Moseley von der Mordkommission in Miami ist die Diagnose klar: Dieser Scheißkerl ist tollwütig und gehört erledigt.",
+    "pageCount": "279",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783895810909-us-300.jpg",
+    "read": true,
+    "addedAt": 1772214623537,
+    "rating": 2,
+    "tags": []
+  },
+  {
+    "title": "Butcher's Crossing",
+    "subtitle": "",
+    "authors": [
+      "Williams, John"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-03-01",
+    "isbn": "9783423427708",
+    "category": "Belletristik",
+    "genre": "Historisch",
+    "description": "In Butcher's Crossing, einem kleinen entlegenen Städtchen in Kansas, wimmelt es von rastlosen Männern, die das Abenteuer suchen und schnell verdientes Geld ebenso schnell wieder vergeuden. Einer von ihnen lockt Andrews mit Geschichten von riesigen Büffelherden, die, versteckt in einem entlegenen Tal tief in den Colorado Rockies, nur eingefangen werden müssten: Andrews schließt sich einer Expedition an, mit dem Ziel, die Tiere aufzuspüren. Die Reise ist aufreibend und strapaziös, aber am Ende erreichen die Männer einen Ort von paradiesischer Schönheit. Doch statt von Ehrfurcht werden sie von Gier ergriffen – und entfesseln eine Tragödie.",
+    "pageCount": "380",
+    "thumbnail": "https://books.google.com/books/content?id=ZjSoBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772214902317,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Der Drachenbeinthron",
+    "subtitle": "",
+    "authors": [
+      "Williams, Tad"
+    ],
+    "series": "Osten Ard",
+    "volume": "1",
+    "publishedDate": "2010-09-01",
+    "isbn": "9783608101492",
+    "category": "Belletristik",
+    "genre": "Fantasy",
+    "description": "Der betagte König Johan liegt im Sterben und um die Thronfolge entbrennt ein hinterhältiger Kampf zwischen seinen Söhnen Elias und Josua. Der Küchenjunge Simon, der wegen seiner Zerstreutheit auch Mondkalb genannt wird, gerät mitten in die Auseinandersetzungen um die Herrschaft über Osten Ard.",
+    "pageCount": "609",
+    "thumbnail": "https://books.google.com/books/content?id=LMrmx6YF__IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772215077566,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Unter des Käfers Keller",
+    "subtitle": "",
+    "authors": [
+      "Willis Walker, Mary"
+    ],
+    "series": "Molly Cates",
+    "volume": "2",
+    "publishedDate": "1998",
+    "isbn": "9783442435135",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Bereits 45 Tage sind elf Kinder in einem unterirdischen Gefängnis eingesperrt. 45 Tage ohne Sonnenlicht, 45 Tage ohne ihre Eltern und Geschwister. 45 Tage ohne Hoffnung auf ein schnelles Ende dieses Alptraums. Zusammen mit Walter Demming, der die Kinder eigentlich nur zur Schule fahren wollte, befinden sie sich in der Gewalt von Samuel Mordecai, der jeden Morgen das Gefängnis betritt, um das nahende Ende der Welt zu verkünden. In nur fünf Tagen soll die Apokalypse hereinbrechen, und damit soll sich für die Kinder das Schicksal erfüllen, für das Mordecai sie ausersehen hat.",
+    "pageCount": "437",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14330957-L.jpg",
+    "read": true,
+    "addedAt": 1772215253720,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Gruft",
+    "subtitle": "",
+    "authors": [
+      "Wilson, F. Paul"
+    ],
+    "series": "Handyman Jack",
+    "volume": "1",
+    "publishedDate": "2006",
+    "isbn": "9783865520395",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Eigentlich hat Handyman Jack gar keine Zeit, für den Inder Kusum Bakhti eine geraubte Halskette wiederzubeschaffen. Schließlich muss er sich um das Verschwinden der Tante seiner Freundin kümmern, und das ist vielleicht auch die letzte Chance, seine Beziehung zu retten, denn Gia hält nicht viel von einem Mann, der\"Dinge in Ordnung bringt\"und sich dabei meist außerhalb des Gesetzes bewegt. Aber dann stellt sich heraus, dass es um viel mehr als nur eine Halskette geht, - und plötzlich hat es Jack mit einem jahrhundertealten Fluch und einer Brut höllischer Wesen zu tun, die es auf Vicky abgesehen haben - ihre kleine Tochter.",
+    "pageCount": "461",
+    "thumbnail": "https://books.google.com/books/content?id=yCP9wAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772215487726,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Spin",
+    "subtitle": "",
+    "authors": [
+      "Wilson, Robert Charles"
+    ],
+    "series": "Spin",
+    "volume": "1",
+    "publishedDate": "2014-07-21",
+    "isbn": "9783641149185",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Der junge Tyler Dupree sitzt eines Abends mit seinen Freunden auf dem Dach – als plötzlich die Sterne verschwinden. Am nächsten Morgen geht zwar die Sonne auf, aber ihr Licht erscheint wie durch einen Filter. Satelliten fallen aus, der Mond ist verschwunden. Ein riesiger Energieschirm scheint sich um die Erde gelegt zu haben. Wie ist so etwas möglich? Wer ist dafür verantwortlich? Und was wird damit bezweckt? Während die Erde in Hysterie versinkt, beginnt für Tyler das Abenteuer seines Lebens …",
+    "pageCount": "483",
+    "thumbnail": "https://books.google.com/books/content?id=njsGBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772215637133,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Als Gott schlief",
+    "subtitle": "Thriller",
+    "authors": [
+      "Wind, Jennifer B."
+    ],
+    "series": "Stern & Neumann",
+    "volume": "1",
+    "publishedDate": "2014-04-25",
+    "isbn": "9783955204945",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Eine Serie brutaler Morde schockiert die Öffentlichkeit in Österreich und Deutschland: Die Opfer werden auf grausame Weise zu Tode gefoltert – und es handelt sich bei ihnen um Geistliche und Würdenträger der katholischen Kirche! Aber was hat es mit den geheimnisvollen Hinweisen auf sich, die an den Tatorten gefunden werden? Die Kriminalbeamtin Jutta Stern und ihr Partner Tom Neumann stehen vor einem Rätsel. Bei ihren Ermittlungen stoßen sie immer wieder auf eine Mauer aus Angst, Lügen und Schweigen – und entdecken eine Spur, die weit in die Vergangenheit zurückreicht …",
+    "pageCount": "357",
+    "thumbnail": "https://books.google.com/books/content?id=jihqEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772215890450,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Kalter Hund",
+    "subtitle": "",
+    "authors": [
+      "Wittkamp, Rainer"
+    ],
+    "series": "Martin Nettelbeck",
+    "volume": "2",
+    "publishedDate": "2014-04-15",
+    "isbn": "9783894254308",
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "description": "Eine Hitzeglocke nimmt den Berlinern die Luft zum Atmen – und manch einer trifft Entscheidungen, die er mit kühlem Kopf vielleicht nicht getroffen hätte: Kriminalrätin Jutta Koschke, die Leiterin des Dezernats ›Delikte am Menschen‹, ordnet eine Razzia an, durch die sie auf die Abschussliste der Berliner Politprominenz gerät. Der Kleinkriminelle Bilal Gösemann gibt für seinen geliebten Hund Diego eine Luxusbestattung in Auftrag – dabei besitzt er keinen Cent der 14.000 Euro, die so eine Beisetzung kostet. Walid Sharif, Clanchef der mächtigen libanesischen Shariffamilie, will seine älteste Tochter endlich verheiratet sehen und bestimmt ohne ihr Wissen einen Ehemann, der auch den Geschäften nützt. Hasso Rohloff dagegen bevorzugt eine finale Trennung, denn er hat genug von den Eskapaden seiner Frau. Vier Entscheidungen, die für Chaos in Berlins Unterwelt sorgen. LKA-Ermittler Martin Nettelbeck kommt kaum hinterher, alle Leichen einzusammeln …",
+    "pageCount": "256",
+    "thumbnail": "https://books.google.com/books/content?id=rgJDnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772216017531,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Blutzoll",
+    "subtitle": "Der Tod riecht nach Diesel und Schwefel",
+    "authors": [
+      "Wohnhass, Alexander"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-02-19",
+    "isbn": "9783944154411",
+    "category": "",
+    "genre": "",
+    "description": "Die verstörende Geschichte eines Söldners, der die zu jagen beginnt, die ihn einst beauftragten. Selbst zur Zielscheibe von Polizei, Verbrechern und Medien geworden, zieht er eine Spur der Verwüstung durchs Land.",
+    "pageCount": "278",
+    "thumbnail": "https://books.google.com/books/content?id=hZx3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772216183202,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die geheimnisvolle Macht",
+    "subtitle": "",
+    "authors": [
+      "Wolverton, Dave"
+    ],
+    "series": "Star Wars. Jedi-Padawan",
+    "volume": "1",
+    "publishedDate": "1999",
+    "isbn": "9783897482012",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Der zwölfjährige Obi-Wan Kenobi will unbedingt ein Jedi-Ritter werden. Im Jedi-Tempel hat er den Umgang mit dem Lichtschwert und die Stärke der Macht kennen gelernt. Aber es gelingt ihm nicht, seinen Zorn und seine Ängste unter Kontrolle zu halten. Darum will Jedi-Meister Qui-Gon Jinn ihn nicht zu seinem Padawan machen und als Schüler ausbilden.\nIn dieser Situation hat Obi-Wan seine erste Begegnung mit dem wahrhaft Bösen. Er muss sich unerwarteten Feinden stellen - und seinen eigenen dunklen Wünsche. Erst dann kann seine Ausbildung zum Jedi-Ritter wirklich beginnen.",
+    "pageCount": "191",
+    "thumbnail": "https://books.google.com/books/content?id=HYVgzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772216288265,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Zum Leuchtturm",
+    "subtitle": "",
+    "authors": [
+      "Woolf, Virginia"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-06-23",
+    "isbn": "9783104036618",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Woolfs brillanter Erzählstil ermöglicht es, eine Geschichte, die vor allem von reflektierender Innenschau geprägt ist, in einer Spannung zu erzählen, dass man das Buch nicht mehr aus der Hand legen mag. Im Zentrum steht die Familie Ramsay und deren Besuche im Sommerhaus auf der schottischen Isle of Skye, vor und nach dem Ersten Weltkrieg. Symbolisch wie real ragt im Hintergrund der malerische Leuchtturm von Godrevy Point auf, den man den Kindern bald zu besuchen verspricht. Doch subkutane häusliche Konflikte, von Woolf wie mit einem Seziermesser herausgeschält, sabotieren die Fahrt …",
+    "pageCount": "594",
+    "thumbnail": "https://books.google.com/books/content?id=gKLeCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772216440084,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Hunde, wollt ihr ewig leben?",
+    "subtitle": "",
+    "authors": [
+      "Wöss, Fritz"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1958",
+    "isbn": "9783548235585",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "„Auszusagen, was in Stalingrad wirklich geschah. Was der Soldat ertragen musste und was er zu ertragen vermochte, machte seine Größe aus! Das nicht zu vergessen und meine Stimme warnend zu erheben, damit eine nachfolgende Generation nicht in ein neues Stalingrad marschiert, ist der Sinn all dessen, was ich zu berichten habe.“ Fritz Wöss war einer von 6.000 überlebenden Soldaten der Kesselschlacht von Stalingrad. Und er hat seinen Kameraden ein Versprechen gegeben. Mit diesem Buch löste er es ein und erzählt seine Geschichte des Kampfes der 6. Armee, die Ende August 1942 Stalingrad angriff und unterging.",
+    "pageCount": "637",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783548235585-us-300.jpg",
+    "read": true,
+    "addedAt": 1772216805084,
+    "rating": 3,
+    "tags": [
+      "2. Weltkrieg"
+    ]
+  },
+  {
+    "title": "Die fünfte Welle",
+    "subtitle": "",
+    "authors": [
+      "Yancey, Rick"
+    ],
+    "series": "Die 5. Welle",
+    "volume": "1",
+    "publishedDate": "2014-04-14",
+    "isbn": "9783641120153",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Die erste Welle brachte Dunkelheit. Die zweite Zerstörung. Die dritte ein tödliches Virus. Nach der vierten Welle gibt es nur noch eine Regel fürs Überleben: Traue niemandem! Das hat auch Cassie lernen müssen, denn seit der Ankunft der Anderen hat sie fast alles verloren: Ihre Freunde und ihre Familie sind tot, ihren kleinen Bruder haben sie mitgenommen. Das Wenige, was sie noch besitzt, passt in einen Rucksack. Und dann begegnet sie Evan Walker. Er rettet sie, nachdem sie auf der Flucht vor den Anderen angeschossen wurde. Eigentlich weiß sie, dass sie ihm nicht vertrauen sollte. Doch sie geht das Risiko ein und findet schon bald heraus, welche Grausamkeit die fünfte Welle für sie bereithält …",
+    "pageCount": "400",
+    "thumbnail": "https://books.google.com/books/content?id=iEhZAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772217068613,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Das unendliche Meer",
+    "subtitle": "",
+    "authors": [
+      "Yancey, Rick"
+    ],
+    "series": "Die 5. Welle",
+    "volume": "2",
+    "publishedDate": "2015-03-30",
+    "isbn": "9783641136680",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Die erste Welle vernichtete eine halbe Million Menschen, die zweite noch viel mehr. Die dritte Welle dauerte ganze zwölf Wochen an, danach waren vier Milliarden tot. Nach der vierten Welle kann man niemandem mehr trauen. Cassie Sullivan hat überlebt, nur um sich jetzt in einer Welt wiederzufinden, die von Misstrauen, Verrat und Verzweiflung bestimmt wird. Und während die fünfte Welle ihren Verlauf nimmt, halten Cassie, Ben und Ringer ihre kleine Widerstandsgruppe zusammen, um gemeinsam gegen die Anderen zu kämpfen. Sie sind, was von der Menschheit übrig blieb, und sie werden sich so schnell nicht geschlagen geben. Und während Cassie immer noch hofft, dass ihr Retter Evan Walker lebt, wird der Kampf ums Überleben immer aussichtsloser. Bis eines Tages ein Fremder versucht, in ihr Versteck einzudringen …",
+    "pageCount": "294",
+    "thumbnail": "https://books.google.com/books/content?id=29S9BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772217190660,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der letzte Stern",
+    "subtitle": "",
+    "authors": [
+      "Yancey, Rick"
+    ],
+    "series": "Die 5. Welle",
+    "volume": "3",
+    "publishedDate": "2016-10-03",
+    "isbn": "9783641166762",
+    "category": "Belletristik",
+    "genre": "Science Fiction",
+    "description": "Sie kamen, um uns zu vernichten: die ›Anderen‹, eine fremde feindliche Macht. Vier Wellen der Zerstörung haben sie bereits über die Erde gebracht. Sie töteten unzählige Menschen, zerstörten Häuser und Städte, verwüsteten ganze Landstriche. Sie verbreiteten ein tödliches Virus und schickten gefährliche Silencer, um jedes noch lebende Wesen aufzuspüren. Jetzt ist die Zeit der fünften Welle gekommen, die Vollendung ihres Plans, alles Menschliche auszurotten. Doch noch gibt es Überlebende: Cassie, Ben und Evan werden weiterkämpfen. Sie wollen die Menschheit nicht aufgeben. Und wenn sie sich selbst dafür opfern müssen …",
+    "pageCount": "292",
+    "thumbnail": "https://books.google.com/books/content?id=SQo4DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772217261605,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Das Leuchten der Erinnerung",
+    "subtitle": "",
+    "authors": [
+      "Zadoorian, Michael"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2017-12-20",
+    "isbn": "9783959676786",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Ella macht sich nichts vor. Ihre eigenen Tage sind gezählt, und ihr Mann John ist zu senil, um gestern noch von heute und morgen zu unterscheiden. Ob es da eine gute Idee ist, sich mit über achtzig einfach in ein Wohnmobil zu setzen und über die Route 66 nach Disneyland zu türmen? Natürlich nicht. Doch Ella ist die Hüterin der Straßenkarten und die Wächterin der Käse- und Tablettenrationen. Und sie wird sich dieser Reise stellen - auch wenn sie fürchtet, dass auch Liebe sich vergessen lässt.",
+    "pageCount": "248",
+    "thumbnail": "https://books.google.com/books/content?id=GZoyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772217409100,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Der Schatten des Windes",
+    "subtitle": "",
+    "authors": [
+      "Zafón, Carlos Ruiz"
+    ],
+    "series": "Friedhof der vergessenen Bücher",
+    "volume": "1",
+    "publishedDate": "2003",
+    "isbn": "9783458171706",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "In einem geheimnisvollen 'Friedhof der vergessenen Bücher' darf sich der junge Daniel ein Buch aussuchen. Fasziniert von der Geschichte, die er liest, macht sich Daniel auf die Suche nach dem Autor und gerät dabei in große Gefahr.",
+    "pageCount": "526",
+    "thumbnail": "https://books.google.com/books/content?id=_EzHPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772217541436,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Die Widerspenstigkeit des Glücks",
+    "subtitle": "",
+    "authors": [
+      "Zevin, Gabrielle"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2015-05-11",
+    "isbn": "9783641126322",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Amelia ist Verlagsvertreterin und lernt dabei die eigenwilligsten Buchhändler kennen. Genau so einer ist A. J. Fikry. In seinem Herzen haben nur turmhohe Bücherstapel Platz. Bis er einen ungebetenen Gast entdeckt: Eines Morgens sitzt die zweijährige Waise Maya in der Kinderbuchecke seiner Buchhandlung. Gegen seinen Willen nimmt sich A. J. des kleinen Mädchens an, das sein Leben kurzerhand auf den Kopf stellt. Und auch Amelia wird er nicht so schnell vergessen können …",
+    "pageCount": "207",
+    "thumbnail": "https://books.google.com/books/content?id=99G9BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772217690696,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Nana",
+    "subtitle": "",
+    "authors": [
+      "Zola, Emile"
+    ],
+    "series": "Rougon-Macquart",
+    "volume": "9",
+    "publishedDate": "2004-01",
+    "isbn": "9783458347132",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Wenn die üppige blonde Nana auf der Bühne des Pariser Varietétheaters steht, spürt jeder: sie hat keinen Funken Talent. Doch das macht nichts, denn sie hat etwas anderes. Nana, das Kind aus der Gosse, Tochter einer Wäscherin, ausgestattet mit großen sinnlichen Reizen, steigt auf zur begehrtesten Kurtisane der Pariser Gesellschaft. Sie wird zum Idol, dem sich die Männer zu Füßen werfen. Bankiers bringen ihr ein ganzes Vermögen zum Opfer, Aristokraten ihre Würde, Jünglinge nehmen sich ihretwegen das Leben. Nana in ihrer grenzenlosen Gier und Verschwendungssucht schreitet ungerührt über sie hinweg, schön wie eine Sumpfblüte, Sinnbild einer untergehenden Ära.",
+    "pageCount": "510",
+    "thumbnail": "https://books.google.com/books/content?id=Or1fPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772217834448,
+    "rating": 3,
+    "tags": []
+  },
+  {
+    "title": "Der Joker",
+    "subtitle": "",
+    "authors": [
+      "Zusak, Markus"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2009-10-02",
+    "isbn": "9783641034160",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "In Eds Briefkasten liegt – eine Spielkarte. Ein Karo-Ass. Darauf stehen drei Adressen. Die Neugier treibt ihn hin zu diesen Orten, doch was er dort sieht, bestürzt ihn zutiefst: drei unerträglich schwere Schicksale, Menschen, die sich nicht selbst aus ihrem Elend befreien können. Etwas in Ed schreit: »Du musst handeln! Tu endlich was!« Dreimal fasst er sich ein Herz, dreimal verändert er Leben. Da flattert ihm die nächste Karte ins Haus. Wieder und wieder ergreift Ed die Initiative – doch wer ihn auf diese eigenartige Mission geschickt hat, ist ihm völlig schleierhaft.",
+    "pageCount": "421",
+    "thumbnail": "https://books.google.com/books/content?id=GXyt0k-Q6ZkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772217979445,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Die Bücherdiebin",
+    "subtitle": "",
+    "authors": [
+      "Zusak, Markus"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2008-12-04",
+    "isbn": "9783894804275",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Molching bei München. Hans und Rosa Hubermann nehmen die kleine Liesel Meminger bei sich auf – für eine bescheidene Beihilfe, die ihnen die ersten Kriegsjahre kaum erträglicher macht. Für Liesel jedoch bricht eine Zeit voller Hoffnung, voll schieren Glücks an – in dem Augenblick, als sie zu stehlen beginnt. Anfangs ist es nur ein Buch, das im Schnee liegen geblieben ist. Dann eines, das sie aus dem Feuer rettet. Dann Äpfel, Kartoffeln und Zwiebeln. Das Herz von Rudi. Die Herzen von Hans und Rosa Hubermann. Das Herz von Max. Und das des Todes. Denn selbst der Tod hat ein Herz.",
+    "pageCount": "544",
+    "thumbnail": "https://books.google.com/books/content?id=GgFkA6F6zCkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1772218113724,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Schachnovelle",
+    "subtitle": "",
+    "authors": [
+      "Zweig, Stefan"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1997",
+    "isbn": "9783596215225",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Das Erstaunen ist groß, als der unscheinbare Dr. B., österreichischer Emigrant auf einem Passagierdampfer von New York nach Buenos Aires, eher zufällig gegen den amtierenden Schachweltmeister Mirko Czentovic antritt und seinen mechanisch routinierten Gegner mit verspielter Leichtigkeit besiegt. Doch das Schachspiel fördert Erinnerungen an den Terror seiner Inhaftierung im Nationalsozialismus zutage und reißt eine seelische Wunde wieder auf, die erneut Dr. B.s geistige Gesundheit bedroht.",
+    "pageCount": "116",
+    "thumbnail": "https://books.google.com/books/content?id=xE8tAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772218263814,
+    "rating": 5,
+    "tags": []
+  },
+  {
+    "title": "Stolz der Toten",
+    "subtitle": "",
+    "authors": [
+      "Ōe, Kenzaburō"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1994",
+    "isbn": "9783596128662",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "In der vorliegenden Erzählung fällt einem Romanistikstudenten und seiner Kollegin von der Anglistik eine besonders makabre Arbeit zu. In der Prosektur einer Universitätsklinik müssen sie Leichen aus einem Alkohol-Bassin in ein anderes umladen. Nicht nur der Job ist widerwärtig, sondern auch der Auftraggeber, ein Medizinprofessor. Nach Beendigung der Arbeit erfahren die Werkstudenten, dass ihre Mühe vergeblich war. Die Leichen sollten gar nicht mehr zur Forschung oder Ausbildung verwendet, sondern im Krematorium verbrannt werden. Es bleibt ungewiss, ob ihnen ihr Arbeitslohn überhaupt ausbezahlt wird.",
+    "pageCount": "78",
+    "thumbnail": "https://books.google.com/books/content?id=1jkyOQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1772218370401,
+    "rating": 3,
+    "tags": []
   }
 ]
