@@ -22105,5 +22105,45 @@
     "addedAt": 1772218370401,
     "rating": 3,
     "tags": []
+  },
+  {
+    "title": "Unsternstunden der Menschheit",
+    "subtitle": "Wie die Welt unerträglich wurde",
+    "authors": [
+      "Thurnher, Armin"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2026-02-17",
+    "isbn": "9783552076396",
+    "category": "Sachbuch",
+    "genre": "Politik",
+    "description": "»Unsternstunden der Menschheit« fixiert einige Momente, die unsere Gegenwart formten: Manche davon entgingen dem Radar öffentlicher Aufmerksamkeit. Als Bill Clinton die Section 230 eines Mediengesetzes unterzeichnete, nahm die Welt der Kommunikation einen neuen, fatalen Lauf. Als der Blogger Curtis Yarvin zu veröffentlichen begann, legte er ein Fundament zum Aufstieg Donald Trumps. Als Hans Dichand die »Kronen Zeitung« neu gründete, nahm er die politische Klasse Österreichs in die Geiselhaft der Dumpfheit. Ein Blender namens Sebastian Kurz brachte die konservative Kaste halb Europas um den Verstand. Elon Musk, Viktor Orbán, Peter Thiel und viele andere trugen und tragen zur Verdunkelung der Welt bei. Doch wer sagt, dass aus einer Galerie dunkler Spiegel nicht am Ende neues Licht blitzen kann?",
+    "pageCount": "351",
+    "thumbnail": "https://books.google.com/books/content?id=74WUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": false,
+    "addedAt": 1776530625878,
+    "rating": null,
+    "tags": []
+  },
+  {
+    "title": "Friedhof der Kuscheltiere",
+    "subtitle": "",
+    "authors": [
+      "King, Stephen"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-02-18",
+    "isbn": "9783641053901",
+    "category": "Belletristik",
+    "genre": "Horror",
+    "description": "Louis Creed zieht mit seiner Frau Rachel, den beiden Kindern und ihrer Hauskatze Churchill ins ländliche Maine. Die Landstraße vor ihrem Haus hat über die Jahre das Leben vieler Haustiere gefordert. In der Nähe haben die Kinder aus der Gegend für ihre geliebten Tiere einen Friedhof angelegt. Tiefer im Wald liegt jedoch ein weiterer Friedhof, eine alte indianische Begräbnisstätte, deren unheimliche Eigenschaften sich bald offenbaren: Nachdem Churchill von einem Laster überfahren und dann hier begraben wurde, kehrt er ins Leben zurück. Der Kater ist allerdings nicht mehr das liebe Kuscheltier, mit dem die Kinder so gern geschmust haben.",
+    "pageCount": "471",
+    "thumbnail": "https://books.google.com/books/content?id=PKIOPdLyqRYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1777463613382,
+    "rating": 3,
+    "tags": []
   }
 ]
