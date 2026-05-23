@@ -238,7 +238,7 @@
     "authors": [
       "Keefe, Patrick Radden"
     ],
-    "description": "»Eine erschütternde, absolut fesselnde Saga.« The New York Times Eines Nachts im Dezember 1972 wird Jean McConville aus ihrem Haus in Belfast entführt. Sie wird nie wieder lebend gesehen. Ausgehend von diesem Moment entfaltet Patrick Radden Keefe eine gewaltige Erzählung über die blutige Vergangenheit des Nordirlandkonflikts. Sage nichts verwebt die Geschichte von Jean McConville mit der von Dolours Price, die als 22-Jährige das Old Bailey bombardierte, und mit der von Brendan Hughes, einem furchterregenden Kommandeur, der den Schweigekodex der IRA brach. Dabei fängt Patrick Radden Keefe die Intrigen, die Dramatik und den hohen menschlichen Preis der sogenannten »Troubles« ein – und erzählt, wie Gesellschaften nach einem langen und blutigen Konflikt wieder zusammenwachsen können. »Nordirland und seine Vergangenheit haben mich nie interessiert – bis ich dieses Buch in die Hand genommen habe.« The Times »Unbedingt lesen!« Gillian Flynn, Autorin von »Gone Girl«",
+    "description": "Eines Nachts im Dezember 1972 wird Jean McConville aus ihrem Haus in Belfast entführt. Sie wird nie wieder lebend gesehen. Ausgehend von diesem Moment entfaltet Patrick Radden Keefe eine gewaltige Erzählung über die blutige Vergangenheit des Nordirlandkonflikts. Sage nichts verwebt die Geschichte von Jean McConville mit der von Dolours Price, die als 22-Jährige das Old Bailey bombardierte, und mit der von Brendan Hughes, einem furchterregenden Kommandeur, der den Schweigekodex der IRA brach. Dabei fängt Patrick Radden Keefe die Intrigen, die Dramatik und den hohen menschlichen Preis der sogenannten »Troubles« ein – und erzählt, wie Gesellschaften nach einem langen und blutigen Konflikt wieder zusammenwachsen können.",
     "publishedDate": "2024-05-13",
     "thumbnail": "https://books.google.com/books/content?id=JOfiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "series": "",
@@ -736,7 +736,7 @@
   {
     "title": "Götter, Gräber und Gelehrte",
     "authors": [
-      "Ceram, C.W."
+      "Ceram, C. W."
     ],
     "series": "",
     "volume": "",
@@ -746,9 +746,9 @@
     "thumbnail": "https://pictures.abebooks.com/isbn/9783499199165-de.jpg",
     "category": "Sachbuch",
     "genre": "Geschichte",
-    "read": false,
+    "read": true,
     "pageCount": "440",
-    "rating": null,
+    "rating": 5,
     "subtitle": "Roman der Archäologie",
     "tags": []
   },
@@ -795,13 +795,15 @@
     "volume": "",
     "publishedDate": "",
     "isbn": "9783492064163",
-    "description": "Es ist nach Mitternacht, du wartest auf deinen Sohn. Du siehst ihn kommen, doch er ist nicht allein. Du kannst kaum begreifen, was du beobachtest – dein lebensfroher jugendlicher Sohn ermordet einen Fremden. Du weißt nicht, wen. Du weißt nicht, warum.Du weißt nur, dass seine Zukunft verloren ist. Deine Welt zerbricht.In dieser Nacht schläfst du verzweifelt ein. Als du aufwachst, bist du im Gestern, dann im Vorgestern. Jeden Morgen wachst du einen weiteren Tag vor dem Mord auf. Und du begreifst: Irgendwo in der Vergangenheit liegt eine Antwort, der Auslöser für dieses Verbrechen. Der Moment, in dem das Böse seinen Ursprung fand. Und deine einzige Chance, die Zukunft deines Sohnes zu retten …",
+    "description": "Es ist nach Mitternacht, du wartest auf deinen Sohn. Du siehst ihn kommen, doch er ist nicht allein. Du kannst kaum begreifen, was du beobachtest – dein lebensfroher jugendlicher Sohn ermordet einen Fremden. Du weißt nicht, wen. Du weißt nicht, warum. Du weißt nur, dass seine Zukunft verloren ist. Deine Welt zerbricht. In dieser Nacht schläfst du verzweifelt ein. Als du aufwachst, bist du im Gestern, dann im Vorgestern. Jeden Morgen wachst du einen weiteren Tag vor dem Mord auf. Und du begreifst: Irgendwo in der Vergangenheit liegt eine Antwort, der Auslöser für dieses Verbrechen. Der Moment, in dem das Böse seinen Ursprung fand. Und deine einzige Chance, die Zukunft deines Sohnes zu retten …",
     "thumbnail": "https://pictures.abebooks.com/isbn/9783492064163-de.jpg",
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
     "read": false,
     "rating": null,
-    "pageCount": "451"
+    "pageCount": "451",
+    "subtitle": "",
+    "tags": []
   },
   {
     "title": "Monas Augen",
@@ -2280,23 +2282,6 @@
     "subtitle": "Chronik eines Mörders"
   },
   {
-    "title": "Operation Elite",
-    "authors": [
-      "Reilly, Matthew"
-    ],
-    "series": "Shane Schofield",
-    "volume": "3",
-    "publishedDate": "2005",
-    "isbn": "9783550084461",
-    "category": "Belletristik",
-    "genre": "Mystery",
-    "description": "Fünfzehn Ziele - die besten Kämpfer dieser Welt: Kommandeure militärischer Eliteeinheiten, Geheimdienstler sowie Top-Terroristen. Das Kopfgeld für jeden einzelnen beträgt 20 Millionen Dollar. Eine der Zielpersonen: Captain Shane Schofield, Deckname 'Scarecrow'. Plötzlich sieht sich der Marine einer gnadenlosen Jagd ausgesetzt. Und entdeckt nicht nur eine weltumspannende Verschwörung - sondern auch den Grund, warum er nicht mit dem Leben davonkommen darf.",
-    "thumbnail": "http://books.google.com/books/content?id=MTCHPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "read": true,
-    "rating": "1",
-    "pageCount": "517"
-  },
-  {
     "title": "Interview mit einem Vampir",
     "authors": [
       "Rice, Anne"
@@ -2949,8 +2934,10 @@
     "description": "Drei Leben. Zwei Welten. Ein Neuanfang. Es ist das Jahr 1913, und eine Schiffsreise nach Buenos Aires verheißt eine zweite Chance für drei junge Menschen: Der Sizilianer Rocco hat den Zorn der Mafia auf sich gezogen, als er sich weigerte, sein Leben in den Dienst der ehrenwerten Gesellschaft zu stellen. Rosetta hat in einem sizilianischen Dorf dem Don die Stirn geboten und nur knapp eine Vergewaltigung überlebt. Die russische Jüdin Raquel ist die einzige Überlebende eines Pogroms, ihre kostbarste Habe ist die Erinnerung an die Liebe ihrer Eltern. Doch das Leben in der Neuen Welt stellt sie vor schier unüberwindbare Hindernisse …",
     "pageCount": "731",
     "thumbnail": "https://books.google.com/books/content?id=TXpaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "read": false,
-    "rating": null
+    "read": true,
+    "rating": 3,
+    "subtitle": "",
+    "tags": []
   },
   {
     "title": "Matthew Corbett und die Hexe von Fount Royal",
@@ -3329,7 +3316,7 @@
     "series": "",
     "volume": "",
     "publishedDate": "2010-09-08",
-    "description": "Eine Frau will mit ihrer Cousine und deren Mann ein paar Tage in einem Jagdhaus in den Bergen verbringen. Nach der Ankunft unternimmt das Paar noch einen Gang ins nächste Dorf und kehrt nicht mehr zurück. Am nächsten Morgen stößt die Frau auf ein unsichtbares, glattes, kühles Hindernis – eine unüberwindbare Wand, hinter der Totenstarre herrscht. Abgeschlossen von der übrigen Welt, richtet sie sich inmitten ihres engumgrenzten Stücks Natur und umgeben von einigen zugelaufenen Tieren aufs Überleben ein…",
+    "description": "Eine Frau will mit ihrer Cousine und deren Mann ein paar Tage in einem Jagdhaus in den Bergen verbringen. Nach der Ankunft unternimmt das Paar noch einen Gang ins nächste Dorf und kehrt nicht mehr zurück. Am nächsten Morgen stößt die Frau auf ein unsichtbares, glattes, kühles Hindernis – eine unüberwindbare Wand, hinter der Totenstarre herrscht. Abgeschlossen von der übrigen Welt, richtet sie sich inmitten ihres engumgrenzten Stücks Natur und umgeben von einigen zugelaufenen Tieren aufs Überleben ein …",
     "thumbnail": "https://books.google.com/books/content?id=uuwaAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "pageCount": "255",
@@ -4877,9 +4864,7 @@
     "title": "3096 Tage",
     "subtitle": "",
     "authors": [
-      "Kampusch, Natascha",
-      "Gronemeier, Heike",
-      "Milborn, Corinna"
+      "Kampusch, Natascha"
     ],
     "series": "",
     "volume": "",
@@ -5025,7 +5010,7 @@
     "subtitle": "Wissenswertes in 99 Fragen",
     "authors": [
       "Kugler, Georg",
-      "Wolfram, Herwig"
+      "Herwig, Wolfram"
     ],
     "series": "",
     "volume": "",
@@ -5239,7 +5224,7 @@
     "publishedDate": "2019-03-26",
     "isbn": "9783644004184",
     "category": "Sachbuch",
-    "genre": "Gesundheit & Medizin",
+    "genre": "Esoterik",
     "description": "Der Arzt Raymond A. Moody hat mit seinem Sachbuchbestseller «Leben nach dem Tod» in vielen Ländern der Welt den Anstoß gegeben zu intensiver Sterbe- und Todesnäheforschung (Thanatologie). Aus über 1000 Fallbeispielen wählte er die typischen und die verblüffendsten aus, um das von ihm formulierte Paradigma der Todesnähe-Erfahrung auszubauen und abzusichern.",
     "pageCount": "279",
     "thumbnail": "https://books.google.com/books/content?id=dHWODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -5877,7 +5862,7 @@
     "title": "Psychopath",
     "subtitle": "",
     "authors": [
-      "Ablow, Keith R."
+      "Ablow, Keith"
     ],
     "series": "Frank Clevenger",
     "volume": "3",
@@ -9150,7 +9135,7 @@
     "genre": "Krimi & Thriller",
     "description": "Harry Bosch steckt in Schwierigkeiten. Er hat sich an seinem Vorgesetzten vergriffen und ist bis auf Weiteres vom Dienst suspendiert. Die ihm auferlegte Psychotherapie hält er für Schwachsinn und wehrt sich zunächst dagegen. Doch dann muss er sich eingestehen, dass ihn schon lange etwas quält: der dreißig Jahre zurückliegende Mord an der Prostituierten Marjorie Lowe - seiner Mutter. Es wird Zeit, dass Bosch sich mit dieser traumatischen Erfahrung auseinandersetzt, endlich den Mörder seiner Mutter findet und ihn seiner gerechten Strafe zuführt.",
     "pageCount": "398",
-    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-453-13094-4&size=m",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md32233667778.jpg",
     "read": true,
     "addedAt": 1755937440733,
     "rating": 3,
@@ -9210,7 +9195,7 @@
     "genre": "Krimi & Thriller",
     "description": "Der bizarre Mord an einem Mann lässt dessen ehemalige Kollegin den Ex-FBI-Agenten Terry McCaleb anheuern, um ihr bei den Ermittlungen zu helfen. Immer mehr gerät Detective Harry Bosch in Verdacht.",
     "pageCount": "463",
-    "thumbnail": "https://portal.dnb.de/opac/mvb/cover?isbn=978-3-453-19611-7&size=m",
+    "thumbnail": "https://covers.openlibrary.org/b/id/2206083-L.jpg",
     "read": true,
     "addedAt": 1755938300136,
     "rating": 4,
@@ -11007,7 +10992,7 @@
     "title": "American War",
     "subtitle": "",
     "authors": [
-      "Akkad, Omar El"
+      "El Akkad, Omar"
     ],
     "series": "",
     "volume": "",
@@ -11929,8 +11914,7 @@
     "title": "Bibbi Bokkens magische Bibliothek",
     "subtitle": "",
     "authors": [
-      "Gaarder, Jostein",
-      "Hagerup, Klaus"
+      "Gaarder, Jostein"
     ],
     "series": "",
     "volume": "",
@@ -12167,7 +12151,7 @@
     "tags": []
   },
   {
-    "title": "Das Krokodil: Lojacono ermittelt in Neapel",
+    "title": "Das Krokodil",
     "subtitle": "",
     "authors": [
       "Giovanni, Maurizio de"
@@ -14292,7 +14276,8 @@
     "title": "Dreizehn",
     "subtitle": "",
     "authors": [
-      "Hohlbein, Wolfgang"
+      "Hohlbein, Wolfgang",
+      "Hohlbein, Heike"
     ],
     "series": "",
     "volume": "",
@@ -16680,26 +16665,6 @@
     "tags": []
   },
   {
-    "title": "Chinesische Märchen",
-    "subtitle": "",
-    "authors": [
-      "Guter, Josef [Hrsg]"
-    ],
-    "series": "",
-    "volume": "",
-    "publishedDate": "1989",
-    "isbn": "9783596228959",
-    "category": "Belletristik",
-    "genre": "Kinder, Jugend",
-    "description": "",
-    "pageCount": "182",
-    "thumbnail": "https://covers.openlibrary.org/b/id/11339617-L.jpg",
-    "read": true,
-    "addedAt": 1769556253676,
-    "rating": 4,
-    "tags": []
-  },
-  {
     "title": "Das Kastler-Manuskript",
     "subtitle": "",
     "authors": [
@@ -17328,7 +17293,7 @@
     "title": "Sturm der Schwerter",
     "subtitle": "",
     "authors": [
-      "Martin, George R.R."
+      "Martin, George R. R."
     ],
     "series": "Das Lied von Eis & Feuer",
     "volume": "5",
@@ -18796,8 +18761,7 @@
     "title": "Jagdzeit",
     "subtitle": "",
     "authors": [
-      "Osborn, David",
-      "Fischer, Erica"
+      "Osborn, David"
     ],
     "series": "",
     "volume": "",
@@ -19311,7 +19275,7 @@
     "description": "Weshalb polemisiert der israelische Kulturwissenschaftler Ethan Rosen gegen einen Artikel, den er selbst verfaßt hat? Erkennt er seinen eigenen Text nicht wieder? Oder ist er seinem Kollegen Klausinger in die Falle gegangen, mit dem er um eine Professur an der Wiener Universität konkurriert? Ethan Rosen und Rudi Klausinger: Beide sind sie Koryphäen auf demselben Forschungsgebiet, und doch könnten sie unterschiedlicher nicht sein: Rosen ist überall zu Hause und nirgends daheim. Selbst der Frau, die er liebt, stellt er sich unter falschem Namen vor. Klausinger wiederum ist Liebkind und Bastard zugleich. Er weiß sich jedem Ort anzupassen und ist trotzdem ruhelos: Was ihn treibt, ist die Suche nach seinem leiblichen Vater; sie führt ihn schließlich nach Israel und zu Ethan Rosen. Dessen Vater, ein alter Wiener Jude, der Auschwitz überlebte, braucht dringend eine neue Niere. Bald wird die Suche nach einem geeigneten Spenderorgan für die Angehörigen zur Obsession. Und selbst der obskure Rabbiner Berkowitsch hat plötzliches Interesse an den Rosens.",
     "pageCount": "287",
     "thumbnail": "https://pictures.abebooks.com/isbn/9783518463109-us-300.jpg",
-    "read": false,
+    "read": true,
     "addedAt": 1771790015824,
     "rating": 3,
     "tags": []
@@ -19411,7 +19375,7 @@
     "publishedDate": "2015-02-06",
     "isbn": "9783548286891",
     "category": "Belletristik",
-    "genre": "Krimi & Thriller",
+    "genre": "Mystery",
     "description": "Fünfzehn Ziele – die besten Kämpfer dieser Welt: Kommandeure militärischer Eliteeinheiten, Geheimdienstler sowie Top-Terroristen. Das Kopfgeld für jeden einzelnen beträgt 20 Millionen Dollar. Eine der Zielpersonen: Captain Shane Schofield, Deckname »Scarecrow«. Plötzlich sieht sich der Marine einer gnadenlosen Jagd ausgesetzt. Und entdeckt nicht nur eine weltumspannende Verschwörung – sondern auch den Grund, warum er nicht mit dem Leben davonkommen darf …",
     "pageCount": "517",
     "thumbnail": "https://books.google.com/books/content?id=Y5eXoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -22145,5 +22109,105 @@
     "addedAt": 1777463613382,
     "rating": 3,
     "tags": []
+  },
+  {
+    "title": "Der Verfolger",
+    "subtitle": "",
+    "authors": [
+      "Cortázar, Julio"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2004",
+    "isbn": "9783937793207",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "Johnny Carter ist ein begnadeter Jazzmusiker, ein avantgardistischer Pionier neuer Stilrichtungen. Doch seine Genialität hat ihren Preis: So unnachgiebig er nach dem perfekten Jazz sucht und die reine, absolute Musik verfolgt, so rücksichtslos zerstört er sich selbst auf dieser Suche …",
+    "pageCount": "95",
+    "thumbnail": "https://books.google.com/books/content?id=sHTMAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "addedAt": 1778005756911,
+    "rating": 4,
+    "tags": []
+  },
+  {
+    "title": "Chinesische Volksmärchen",
+    "subtitle": "",
+    "authors": [
+      "Alfred Holz Verlag [Hrsg]"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1954",
+    "isbn": "",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "",
+    "pageCount": "44",
+    "thumbnail": "https://pictures.abebooks.com/inventory/md/md31448809306.jpg",
+    "read": true,
+    "rating": 3,
+    "tags": [],
+    "addedAt": 1779145660680
+  },
+  {
+    "title": "Der Affe als Mensch",
+    "subtitle": "",
+    "authors": [
+      "Hauff, Wilhelm"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "",
+    "isbn": "",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Ein exzentrischer Fremder sorgt in der beschaulichen Kleinstadt Grünwiesel für Aufsehen: Er präsentiert der neugierigen Gesellschaft seinen angeblichen Neffen – einen jungen, elegant gekleideten Engländer. Trotz seines seltsamen Benehmens, wilder Sprünge und unartikulierter Laute steigt der charmante Fremde im Nu zum Liebling der feinen Kreise auf. Doch hinter der modischen Fassade des umschwärmten Genies verbirgt sich ein haariges Geheimnis, das die eitlen Bürger tief erschüttern wird …",
+    "pageCount": "",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783869081786-fr.jpg",
+    "read": true,
+    "rating": 3,
+    "tags": [],
+    "addedAt": 1779146413229
+  },
+  {
+    "title": "Nero Corleone",
+    "subtitle": "Eine Katzengeschichte",
+    "authors": [
+      "Heidenreich, Elke"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1995",
+    "isbn": "9783446183445",
+    "category": "Belletristik",
+    "genre": "Kinder, Jugend",
+    "description": "”Nero“ nennen sie den kleinen Kater auf dem italienischen Bauernhof, weil er ganz schwarz ist, nur mit einer weißen Vorderpfote. Nero fürchtet sich vor nichts und niemand, nicht einmal vor Robert und Isolde, dem deutschen Ehepaar, das in den Ferien das Häuschen auf dem Hügel bewohnt. Und weil er meint, das Zeug zu einem Chef zu haben, beschließt er, den Hof zu verlassen, um mit den beiden nach Köln am Rhein zu gehen. Dort tobt das wahre Leben!",
+    "pageCount": "87",
+    "thumbnail": "http://books.google.com/books/content?id=NGjXQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "read": true,
+    "rating": 3,
+    "tags": [],
+    "addedAt": 1779146624227
+  },
+  {
+    "title": "Mit Herz und Schmäh",
+    "subtitle": "",
+    "authors": [
+      "Herzog, Andreas"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2021",
+    "isbn": "9783903376052",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Mit Herz... Erfahrung, Wissen, Entwicklung - dafür steht Andreas Herzog, der als Spieler wie auch Trainer eine beachtenswerte Karriere hingelegt hat. Die Erfolge Mit Rapid, Werder und Bayern, mit Nationalteams auf verschiedenen Kontinenten haben ihn zu einer Persönlichkeit reifen lassen, die nachdenklich zurück und überlegt nach vorne blickt. … und Schmäh 103 Länderspiele, 103 Anekdoten - auch dafür steht Österreichs Rekord-Teamspieler Andreas Herzog, der Zauberer mit Wiener Schmäh, der nie um einen guten Sager oder einen lustigen Streich verlegen war und ist. Es hat sich einiges von \"weniger Mozart, mehr Beethoven\" bis zum \"Shall I be happy?!\" getan, doch untreu ist er sich im Laufe der Jahrzehnte nicht geworden. Ganz im Gegenteil: authentisch, ehrlich, echt! So, wie es seinem Wesen entspricht, präsentiert sich die vorliegende Biographie: umfassend mit Tiefgang, augenzwinkernd spielerisch leicht, mit vielen Bildern seiner wichtigsten Stationen. Ein echtes Buch über einen, den es kein zweites Mal gibt.",
+    "pageCount": "626",
+    "thumbnail": "http://books.google.com/books/content?id=gM3BEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 3,
+    "tags": [],
+    "addedAt": 1779146869604
   }
 ]
