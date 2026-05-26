@@ -22209,5 +22209,45 @@
     "rating": 3,
     "tags": [],
     "addedAt": 1779146869604
+  },
+  {
+    "title": "Mansfield Park",
+    "subtitle": "",
+    "authors": [
+      "Austen, Jane"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016",
+    "isbn": "9783159609812",
+    "category": "Belletristik",
+    "genre": "Klassiker; Romane & Erzählungen",
+    "description": "Der elegante Herrensitz von Mansfield Park: Hier wächst die aus ärmlichen Verhältnissen stammende Fanny Price bei ihrem Onkel Sir Thomas und seinen vier Kindern auf. Mehr geduldet als geliebt muss sie so manche Kränkung erfahren, nur zu ihrem Vetter Edmund fasst sie Vertrauen. Als Fanny ins heiratsfähige Alter kommt, tauchen eines Tages die Geschwister Mary und Henry Crawford in der Nachbarschaft auf, was nicht ohne Folgen bleibt. Doch es sind Fannys Unbestechlichkeit und Menschenkenntnis, die sie aus ihrer unverschuldeten Armut in ein Leben voller Erfüllung und Selbstachtung führen. Auf dem Höhepunkt ihrer schriftstellerischen Karriere bezaubert Jane Austen auch in »Mansfield Park« durch Ironie, feine Satire und intensive Charakterzeichnungen.",
+    "pageCount": "693",
+    "thumbnail": "http://books.google.com/books/content?id=XIp4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [],
+    "addedAt": 1779701898608
+  },
+  {
+    "title": "Anne Elliot oder die Kraft der Überredung",
+    "subtitle": "",
+    "authors": [
+      "Austen, Jane"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2010",
+    "isbn": "",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "Anne Elliot, 27 Jahre alt und unscheinbar, ist die mittlere der drei Töchter Sir Walter Elliots, eines lediglich auf sein Äußeres bedachten und auf seinen Adelstitel stolzen Witwers. In ihren Schwestern findet Anne keine Verbündeten - die ältere ist hochmütig und kaltherzig, die jüngere egoistisch und wehleidig. Ihre Schönheit und ihr jugendlicher Charme sind verblasst, nachdem sie acht Jahre zuvor auf Anraten ihrer mütterlichen Freundin Lady Russel aus Standesgründen die Verlobung mit dem Marineoffizier Wentworth, ihrer großen Liebe, gelöst hat. Nachdem sie einen weiteren Heiratsantrag abgelehnt hat, geht sie einem einsamen Lebensabend entgegen. Unerwartet begegnen sich Anne und Wentworth jedoch wieder und es kommt zu einer zaghaften Annäherung, nicht ohne Missverständnisse und Eifersucht.",
+    "pageCount": "330",
+    "thumbnail": "http://books.google.com/books/content?id=gSTRJzktznYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "rating": 5,
+    "tags": [],
+    "addedAt": 1779701978068
   }
 ]
