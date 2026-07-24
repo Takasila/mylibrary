@@ -2914,11 +2914,13 @@
     "publishedDate": "2018-08-28",
     "description": "Kent Nerburn wird eines Tages von einer jungen Frau angerufen, die ihn bittet, ihren Großvater in einem weit entfernten Reservat aufzusuchen, er sei sehr alt und wolle ihn unbedingt sehen. Nerburn erfüllt ihren Wunsch und trifft Dan, einen uralten Lakota-Indianer, der über viele Jahre hinweg Aufzeichnungen gemacht hat, aus denen – mit Nerburns Hilfe – ein Buch entstehen soll.",
     "thumbnail": "https://books.google.com/books/content?id=r2NmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "read": false,
+    "read": true,
     "pageCount": "330",
     "category": "Sachbuch",
     "genre": "Biografien & Erinnerungen",
-    "rating": null
+    "rating": 4,
+    "subtitle": "",
+    "tags": []
   },
   {
     "title": "Als das Leben unsere Träume fand",
@@ -3239,13 +3241,14 @@
     "publishedDate": "2014-10-23",
     "isbn": "9783104027753",
     "category": "Belletristik",
-    "genre": "Frauen, Liebesroman; Historisch",
+    "genre": "Klassiker; Frauen, Liebesroman",
     "description": "Fünf Töchter gilt es zu verheiraten - kein leichtes Unterfangen für Mr. und Mrs. Bennet, die wenig zu vererben haben, sich aber möglichst vermögende Schwiegersöhne wünschen. Als eines Tages der neureiche Junggeselle Mr. Bingley und sein Freund Mr. Darcy in ihre Nachbarschaft ziehen, sind plötzlich zwei vielversprechende Kandidaten für die beiden ältesten Töchter Jane und Elizabeth in Sicht. Doch das Glück lässt auf sich warten, denn ehe die Paare in den Irrungen der gesellschaftlichen Gepflogenheiten des georgianischen Englands zusammenfinden, muss eine gehörige Portion Stolz abgelegt und so manches Vorurteil aus dem Weg geräumt werden.",
     "pageCount": "653",
     "thumbnail": "https://books.google.com/books/content?id=AOCmAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": 5,
-    "tags": []
+    "tags": [],
+    "subtitle": ""
   },
   {
     "title": "Die Zeuginnen",
@@ -6155,7 +6158,7 @@
     "publishedDate": "2011-07-01",
     "isbn": "9783423407823",
     "category": "Belletristik",
-    "genre": "Romane & Erzählungen",
+    "genre": "Klassiker; Frauen, Liebesroman",
     "description": "Ein finsteres Familiengeheimnis oder doch nur blühende Phantasie? Catherine Morland liest gerne Schauerromane. Als ihr gebildeter Verehrer sie seiner Familie vorstellt, ist diese not amused. Die Aura des alten Landsitzes ›Northanger Abbey‹ beflügelt Catherines Phantasie so sehr, dass sie bald glaubt, einem Familiengeheimnis auf der Spur zu sein.",
     "pageCount": "305",
     "thumbnail": "https://books.google.com/books/content?id=348EBrb1FfMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -6175,7 +6178,7 @@
     "publishedDate": "2000",
     "isbn": "9783423127479",
     "category": "Belletristik",
-    "genre": "Frauen, Liebesroman",
+    "genre": "Klassiker; Frauen, Liebesroman",
     "description": "Elinor Dashwood, eine rationale junge Frau von unerschütterlicher Selbstdisziplin, und ihre impulsive, schwärmerische jüngere Schwester Marianne können über Mangel an Verehrern nicht klagen. Doch der Tod des Vaters droht alle Pläne zunichte zu machen.",
     "pageCount": "413",
     "thumbnail": "https://books.google.com/books/content?id=JdMkAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -11719,7 +11722,7 @@
     "publishedDate": "2009-07-01",
     "isbn": "9783423400022",
     "category": "Belletristik",
-    "genre": "Klassiker; Romane & Erzählungen",
+    "genre": "Klassiker; Frauen, Liebesroman",
     "description": "Die kluge Emma Woodhouse lebt für das Ehestiften und lenkt gerne die Geschicke anderer. Allerlei ungewollte Komplikationen und Missverständnisse zwingen sie jedoch zu Selbstkritik und -reflexion in dieser Komödie der Irrungen und Wirrungen.",
     "pageCount": "618",
     "thumbnail": "https://books.google.com/books/content?id=XeQjMjdADYMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -22221,7 +22224,7 @@
     "publishedDate": "2016",
     "isbn": "9783159609812",
     "category": "Belletristik",
-    "genre": "Klassiker; Romane & Erzählungen",
+    "genre": "Klassiker; Frauen, Liebesroman",
     "description": "Der elegante Herrensitz von Mansfield Park: Hier wächst die aus ärmlichen Verhältnissen stammende Fanny Price bei ihrem Onkel Sir Thomas und seinen vier Kindern auf. Mehr geduldet als geliebt muss sie so manche Kränkung erfahren, nur zu ihrem Vetter Edmund fasst sie Vertrauen. Als Fanny ins heiratsfähige Alter kommt, tauchen eines Tages die Geschwister Mary und Henry Crawford in der Nachbarschaft auf, was nicht ohne Folgen bleibt. Doch es sind Fannys Unbestechlichkeit und Menschenkenntnis, die sie aus ihrer unverschuldeten Armut in ein Leben voller Erfüllung und Selbstachtung führen. Auf dem Höhepunkt ihrer schriftstellerischen Karriere bezaubert Jane Austen auch in »Mansfield Park« durch Ironie, feine Satire und intensive Charakterzeichnungen.",
     "pageCount": "693",
     "thumbnail": "http://books.google.com/books/content?id=XIp4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -22241,7 +22244,7 @@
     "publishedDate": "2010",
     "isbn": "",
     "category": "Belletristik",
-    "genre": "Klassiker",
+    "genre": "Klassiker; Frauen, Liebesroman",
     "description": "Anne Elliot, 27 Jahre alt und unscheinbar, ist die mittlere der drei Töchter Sir Walter Elliots, eines lediglich auf sein Äußeres bedachten und auf seinen Adelstitel stolzen Witwers. In ihren Schwestern findet Anne keine Verbündeten - die ältere ist hochmütig und kaltherzig, die jüngere egoistisch und wehleidig. Ihre Schönheit und ihr jugendlicher Charme sind verblasst, nachdem sie acht Jahre zuvor auf Anraten ihrer mütterlichen Freundin Lady Russel aus Standesgründen die Verlobung mit dem Marineoffizier Wentworth, ihrer großen Liebe, gelöst hat. Nachdem sie einen weiteren Heiratsantrag abgelehnt hat, geht sie einem einsamen Lebensabend entgegen. Unerwartet begegnen sich Anne und Wentworth jedoch wieder und es kommt zu einer zaghaften Annäherung, nicht ohne Missverständnisse und Eifersucht.",
     "pageCount": "330",
     "thumbnail": "http://books.google.com/books/content?id=gSTRJzktznYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -22249,5 +22252,45 @@
     "rating": 5,
     "tags": [],
     "addedAt": 1779701978068
+  },
+  {
+    "title": "Der Krieg mit den Molchen",
+    "subtitle": "",
+    "authors": [
+      "Čapek, Karel"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "1936",
+    "isbn": "9783351005641",
+    "category": "Belletristik",
+    "genre": "Klassiker; Science Fiction",
+    "description": "Ein Kapitän entdeckt in der Südsee eine seltsame Art von im Meer lebenden Molchen, die recht intelligent zu sein scheinen. Im Austausch gegen einfaches Werkzeug bekommt er von ihnen Perlen. Gemeinsam mit einem zu Vermögen gekommenen Jugendfreund erweitert er diesen Handel und hilft den Molchen bei der Ansiedlung an anderen Küstengewässern, sie können nämlich selbst keine tiefen Meere durchqueren. Als der Kapitän stirbt, zieht sein Kompagnon das Geschäft mit den Molchen groß auf, er benutzt und vermietet sie als extrem billige Arbeitskräfte für Unterwasserarbeiten. Die Molche vermehren sich sagenhaft schnell und so leben und arbeiten bald an allen Küsten der Welt. Anfangs werden sie wie Sklaven oder eben Tiere behandelt, aber es kommen Bestrebungen auf, ihnen Bildungsmöglichkeiten anzubieten und sie werden auch beim Militär eingesetzt. Folgerichtig kommt der Tag, an dem sich die Molche die unwürdige Behandlung nicht mehr gefallen lassen. Karel Capeks schwarze Utopie ist voller Anspielungen auf die Zustände in Europa kurz vor dem 2. Weltkrieg, bleibt aber weitreichend leider heute genauso gültig. Als Klassiker der Science-Fiction übertrifft der Roman sowohl als Parabel als auch stilistisch so ziemlich alles, was in diesem Genre bis dahin geschrieben wurde.",
+    "pageCount": "311",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783351005641-de-300.jpg",
+    "read": false,
+    "rating": null,
+    "tags": [],
+    "addedAt": 1781163782136
+  },
+  {
+    "title": "Magic Man",
+    "subtitle": "Vom Zauber der Dinge",
+    "authors": [
+      "Horwath, Florian"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2024",
+    "isbn": "9783863914066",
+    "category": "Sachbuch",
+    "genre": "Biografien & Erinnerungen",
+    "description": "Florian Horwaths Sammelleidenschaft beginnt früh, in den späten Achtzigerjahren, da sind es noch Plastikuhren und er Schüler in einer mittelgroßen Kleinstadt in der österreichischen Provinz. Schon da geht es ihm nicht nur ums Besitzen, sondern mehr ums Finden – und auch ums Weiterverkaufen. Anfang der Neunziger kommt das Internet mit all seinen herrlichen Möglichkeiten. Auf einer der ältesten und wichtigsten Second-Hand-Designermode-Seiten besteht Horwaths Nutzername aus nur einem Buchstaben, er ist also unter den Ersten, die sich in den schrägen Markt des Handels mit obskurer Mode werfen ― immer weiter taucht er ein ― und gelegentlich auch unter … Wir wühlen uns hier mit ihm durch Postpäckchen und seinen Schrank, über Helmut-Lang-Mantel-Prototypen, Flohmarktuhrenschnäppchen, bis hin zum Riot! Riot! Riot!-Bomber von Raf Simons, den er mehrmals besitzt und wieder verkauft. Wie dieser letztendlich zum Weihnachtsgeschenk von Kim Kardashian an ihren Mann wird ist nur einer der grandios komischen Episoden in diesem Buch, für das man keine Ahnung von Mode zu haben braucht, nur ein bisschen Sinn fürs Jagen und Sammeln, für den prickelnden Zauber der Dinge und den sich grandios anfühlenden Moment, in dem man rufen kann: Meins!!",
+    "pageCount": "",
+    "thumbnail": "https://pictures.abebooks.com/isbn/9783863914066-us.jpg",
+    "read": true,
+    "rating": 3,
+    "tags": [],
+    "addedAt": 1784912402468
   }
 ]
