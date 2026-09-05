@@ -3033,11 +3033,12 @@
     "description": "Die 68er Jugend-Revolution eskaliert. Die RAF entsteht. Nach fast zwei Jahrzehnten ohne Kontakt fällt es Angelika Limacher schwer, sich nach der Begnadigung ihrer Mutter Martina auf sie einzulassen. Zu sehr lastet die Vergangenheit auf ihrer Seele: Angefangen mit dem plötzlichen Verlust ihrer Mutter, als diese in den Untergrund ging, bis hin zum Kontaktabbruch, als Martina im Gefängnis sitzend von heute auf morgen ihre Tochter nie wiedersehen wollte. Brennende Fragen nagen an Angelika: Wie konnte ihre liebevolle Mutter nur zu einer kaltblütigen Terroristin werden? Und kann sie Martina wieder gefahrlos in den Kreis ihrer Familie aufnehmen? Aber auch das Leid der Opfer verjährt nie, und so suchen auch die Söhne von Martinas Opfern nach Antworten: Warum mussten ausgerechnet ihre Väter sterben? Und wer hat damals wirklich geschossen?",
     "pageCount": "534",
     "thumbnail": "https://books.google.com/books/content?id=Th3zCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "read": false,
-    "rating": null,
+    "read": true,
+    "rating": 4,
     "tags": [
       "RAF"
-    ]
+    ],
+    "subtitle": ""
   },
   {
     "title": "Der entzauberte Regenbogen",
@@ -22390,6 +22391,46 @@
     "thumbnail": "https://books.google.com/books/content?id=cp1EEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": false,
     "addedAt": 1788636055570,
+    "rating": null,
+    "tags": []
+  },
+  {
+    "title": "Neues von vorgestern",
+    "subtitle": "Die ganze Geschichte der alltäglichen Dinge",
+    "authors": [
+      "Jenner, Greg"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2016-04-15",
+    "isbn": "9783732523238",
+    "category": "Sachbuch",
+    "genre": "Geschichte",
+    "description": "Seit wann schlafen Menschen eigentlich in einem Bett? Wer hat das Zähneputzen erfunden, und wer hat sich überhaupt \"Arbeit\" ausgedacht? TV-Historiker Greg Jenner, Englands populärster Geschichts-Erklärer nimmt uns mit auf eine Reise in die Geschichte unseres Alltags. Wir begleiten seinen Protagonisten vom Aufstehen ins Bad und zur Arbeit; wir sitzen mit am Tisch, wenn er isst und telefoniert, und erfahren, welche Kulturen die alltäglichen Dinge erfunden oder entscheidend weiterentwickelt haben - Geschichte zum Anfassen und Miterleben!",
+    "pageCount": "419",
+    "thumbnail": "https://books.google.com/books/content?id=c-3kCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": false,
+    "addedAt": 1788644328112,
+    "rating": null,
+    "tags": []
+  },
+  {
+    "title": "Bevor der Kaffee kalt wird",
+    "subtitle": "Vier Geschichten",
+    "authors": [
+      "Kawaguchi, Toshikazu"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2018-10-01",
+    "isbn": "9783426453384",
+    "category": "Belletristik",
+    "genre": "Romane & Erzählungen",
+    "description": "In einer kleinen Seitengasse in Tokio gibt es ein Café mit Namen Funiculi Funicula, das seit über hundert Jahren außergewöhnlich guten Kaffee serviert. Eine lokale Legende besagt, dass es noch etwas anderes als Kaffee anbietet: die Möglichkeit, in der Zeit zurückzureisen. Doch Zeitreisen sind nicht so einfach, und es gibt Regeln, die befolgt werden müssen. Am wichtigsten ist, dass die Reise nur so lange dauern kann, wie der Kaffee braucht, um kalt zu werden. Im Laufe eines Sommers besuchen vier Menschen das Café in der Hoffnung, diese Reise anzutreten. Sie möchten diese einmalige Gelegenheit nutzen, um Dinge abzuschließen und Trost zu finden. Ihre Motive sind unterschiedlich, doch die gelernte Lektion dieselbe: Egal ob Versöhnung, Vergebung oder neue Hoffnung - das Leben wird vorwärts gelebt und rückwärts verstanden. Vier Erzählungen über den Sinn des Lebens und die Aussöhnung mit der Vergangenheit Mach dich bereit bereit, vier Gäste kennenzulernen, von denen jeder die Möglichkeit der Zeitreise des Cafés nutzen möchte, um dem Mann gegenüberzutreten, der sie verlassen hat, einen Brief von ihrem Ehemann zu erhalten, dessen Gedächtnis durch Alzheimer geschädigt ist, ihre Schwester ein letztes Mal zu sehen, die Tochter zu treffen, die sie nie kennenlernen durfte. Herzerwärmend, wehmütig, mysteriös und wunderbar skurril erkundet Toshikazu Kawaguchi die Frage: Was würdest du ändern, wenn du in der Zeit zurückreisen könntest?",
+    "pageCount": "246",
+    "thumbnail": "https://books.google.com/books/content?id=fPVTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": false,
+    "addedAt": 1788644453165,
     "rating": null,
     "tags": []
   }
