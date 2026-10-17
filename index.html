@@ -1138,10 +1138,17 @@
       // --- Google Books ---
       async function fetchGoogleInfo(isbn) {
         const key = getApiKey();
-        const response = await fetch(
-          `https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}` +
-            (key ? `&key=${encodeURIComponent(key)}` : "")
+        const base = `https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`;
+        let response = await fetch(
+          base + (key ? `&key=${encodeURIComponent(key)}` : "")
         );
+        let usedKey = !!key;
+        // 500/503 mit Key: Störung betrifft oft nur das Projekt des Keys -> ohne Key wiederholen
+        if (key && (response.status === 500 || response.status === 503)) {
+          console.warn(`Google Books mit Key: HTTP ${response.status} – neuer Versuch ohne Key`);
+          response = await fetch(base);
+          usedKey = false;
+        }
         // Ungültiger Key -> entfernen, damit beim nächsten Mal neu gefragt wird
         if (response.status === 400 && key) {
           try {
@@ -1153,7 +1160,13 @@
           );
         }
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        const data = await response.json();
+        let data = await response.json();
+        // 0 Treffer mit Key: Gegenprobe ohne Key
+        if (usedKey && !data.items?.length) {
+          console.warn("Google Books mit Key: 0 Treffer – Gegenprobe ohne Key");
+          const response2 = await fetch(base);
+          if (response2.ok) data = await response2.json();
+        }
         return data.items?.[0]?.volumeInfo || null;
       }
 
