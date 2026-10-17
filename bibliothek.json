@@ -33,7 +33,8 @@
     "genre": "Science Fiction",
     "read": false,
     "pageCount": "202",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783518775387",
@@ -90,7 +91,8 @@
     "genre": "Krimi & Thriller",
     "read": false,
     "pageCount": "513",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783961226030",
@@ -125,7 +127,8 @@
     "genre": "Philosophie",
     "read": false,
     "pageCount": "142",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783426468586",
@@ -142,7 +145,8 @@
     "genre": "Biografien & Erinnerungen",
     "read": false,
     "pageCount": "388",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783843730358",
@@ -159,7 +163,8 @@
     "genre": "Romane & Erzählungen",
     "read": false,
     "pageCount": "260",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783608122565",
@@ -194,7 +199,8 @@
     "genre": "Science Fiction",
     "read": false,
     "pageCount": "353",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783406806261",
@@ -230,7 +236,8 @@
     "genre": "Naturwissenschaft",
     "read": false,
     "rating": null,
-    "pageCount": "426"
+    "pageCount": "426",
+    "tags": []
   },
   {
     "isbn": "9783446297869",
@@ -266,7 +273,8 @@
     "genre": "Romane & Erzählungen",
     "read": false,
     "rating": null,
-    "pageCount": "816"
+    "pageCount": "816",
+    "tags": []
   },
   {
     "isbn": "9783641067014",
@@ -323,7 +331,8 @@
     "genre": "Reisen",
     "read": false,
     "rating": null,
-    "pageCount": "110"
+    "pageCount": "110",
+    "tags": []
   },
   {
     "isbn": "9783406748851",
@@ -340,7 +349,8 @@
     "genre": "Romane & Erzählungen",
     "read": false,
     "rating": null,
-    "pageCount": "413"
+    "pageCount": "413",
+    "tags": []
   },
   {
     "isbn": "9783644017191",
@@ -357,7 +367,8 @@
     "genre": "Romane & Erzählungen",
     "read": false,
     "rating": null,
-    "pageCount": "88"
+    "pageCount": "88",
+    "tags": []
   },
   {
     "isbn": "9783843729079",
@@ -374,7 +385,8 @@
     "genre": "Gesundheit & Medizin",
     "read": false,
     "rating": null,
-    "pageCount": "456"
+    "pageCount": "456",
+    "tags": []
   },
   {
     "isbn": "9783709984017",
@@ -409,7 +421,8 @@
     "genre": "Krimi & Thriller",
     "read": false,
     "rating": null,
-    "pageCount": "246"
+    "pageCount": "246",
+    "tags": []
   },
   {
     "isbn": "9783644015302",
@@ -444,9 +457,11 @@
     "volume": "",
     "category": "Sachbuch",
     "genre": "Naturwissenschaft",
-    "read": false,
-    "rating": null,
-    "pageCount": "239"
+    "read": true,
+    "rating": 5,
+    "pageCount": "239",
+    "tags": [],
+    "subtitle": ""
   },
   {
     "isbn": "9783446278899",
@@ -463,7 +478,8 @@
     "genre": "Biografien & Erinnerungen",
     "read": false,
     "rating": null,
-    "pageCount": "197"
+    "pageCount": "197",
+    "tags": []
   },
   {
     "isbn": "9783641300852",
@@ -480,7 +496,8 @@
     "genre": "Science Fiction",
     "read": false,
     "rating": null,
-    "pageCount": "833"
+    "pageCount": "833",
+    "tags": []
   },
   {
     "isbn": "9783633781720",
@@ -518,7 +535,8 @@
     "genre": "Krimi & Thriller",
     "read": false,
     "rating": null,
-    "pageCount": "183"
+    "pageCount": "183",
+    "tags": []
   },
   {
     "isbn": "9783641114008",
@@ -535,7 +553,8 @@
     "genre": "Naturwissenschaft",
     "read": false,
     "rating": null,
-    "pageCount": "191"
+    "pageCount": "191",
+    "tags": []
   },
   {
     "isbn": "9783641301811",
@@ -552,7 +571,8 @@
     "genre": "Naturwissenschaft",
     "read": false,
     "rating": null,
-    "pageCount": "336"
+    "pageCount": "336",
+    "tags": []
   },
   {
     "isbn": "9783990016848",
@@ -589,7 +609,8 @@
     "genre": "Krimi & Thriller",
     "read": false,
     "pageCount": "330",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783311701293",
@@ -606,7 +627,8 @@
     "genre": "Krimi & Thriller",
     "read": false,
     "pageCount": "432",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783644204515",
@@ -623,7 +645,8 @@
     "genre": "Krimi & Thriller",
     "read": false,
     "pageCount": "568",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "isbn": "9783641067540",
@@ -679,7 +702,8 @@
     "genre": "Science Fiction",
     "read": false,
     "rating": null,
-    "pageCount": "501"
+    "pageCount": "501",
+    "tags": []
   },
   {
     "isbn": "9782919808632",
@@ -696,7 +720,8 @@
     "genre": "Krimi & Thriller",
     "read": false,
     "rating": null,
-    "pageCount": "511"
+    "pageCount": "511",
+    "tags": []
   },
   {
     "isbn": "9783644011748",
@@ -731,7 +756,8 @@
     "genre": "Science Fiction",
     "read": false,
     "pageCount": "197",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "title": "Götter, Gräber und Gelehrte",
@@ -767,7 +793,8 @@
     "genre": "Romane & Erzählungen",
     "read": false,
     "pageCount": "637",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "title": "Mein drittes Leben",
@@ -784,7 +811,8 @@
     "genre": "Romane & Erzählungen",
     "read": false,
     "rating": null,
-    "pageCount": "224"
+    "pageCount": "224",
+    "tags": []
   },
   {
     "title": "Going Back. Wo fing das Böse an?",
@@ -839,7 +867,8 @@
     "category": "Belletristik",
     "genre": "Romane & Erzählungen",
     "pageCount": "162",
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "title": "Der Attentäter",
@@ -876,7 +905,8 @@
     "category": "Sachbuch",
     "genre": "Biografien & Erinnerungen",
     "rating": "5",
-    "pageCount": "432"
+    "pageCount": "432",
+    "tags": []
   },
   {
     "title": "Land der Skandale",
@@ -913,7 +943,8 @@
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
     "rating": "4",
-    "pageCount": "266"
+    "pageCount": "266",
+    "tags": []
   },
   {
     "title": "Nichts wie es war",
@@ -930,7 +961,8 @@
     "category": "Belletristik",
     "genre": "Krimi & Thriller",
     "rating": "4",
-    "pageCount": "298"
+    "pageCount": "298",
+    "tags": []
   },
   {
     "title": "Cyril Avery",
@@ -947,7 +979,8 @@
     "category": "Belletristik",
     "genre": "Romane & Erzählungen",
     "rating": "5",
-    "pageCount": "724"
+    "pageCount": "724",
+    "tags": []
   },
   {
     "title": "Die Zahl, die aus der Kälte kam",
@@ -964,7 +997,8 @@
     "category": "Sachbuch",
     "genre": "Mathematik",
     "rating": "4",
-    "pageCount": "263"
+    "pageCount": "263",
+    "tags": []
   },
   {
     "title": "Der Besuch der alten Dame",
@@ -981,7 +1015,8 @@
     "category": "Belletristik",
     "genre": "Romane & Erzählungen",
     "rating": "5",
-    "pageCount": "119"
+    "pageCount": "119",
+    "tags": []
   },
   {
     "title": "Der Blinde von Sevilla",
@@ -1060,7 +1095,8 @@
     "category": "Belletristik",
     "genre": "Romane & Erzählungen",
     "rating": "5",
-    "pageCount": "256"
+    "pageCount": "256",
+    "tags": []
   },
   {
     "title": "Omama",
@@ -1137,7 +1173,8 @@
     "thumbnail": "https://covers.openlibrary.org/b/id/12709846-L.jpg",
     "read": true,
     "rating": "5",
-    "pageCount": "192"
+    "pageCount": "192",
+    "tags": []
   },
   {
     "title": "Die Letzten ihrer Art",
@@ -1155,7 +1192,8 @@
     "pageCount": "269",
     "category": "Sachbuch",
     "genre": "Naturwissenschaft",
-    "rating": "5"
+    "rating": "5",
+    "tags": []
   },
   {
     "title": "Erbarmen",
@@ -1294,7 +1332,8 @@
     "pageCount": "486",
     "category": "Belletristik",
     "genre": "Romane & Erzählungen",
-    "rating": "5"
+    "rating": "5",
+    "tags": []
   },
   {
     "title": "Evolution",
@@ -1450,7 +1489,8 @@
     "thumbnail": "http://books.google.com/books/content?id=QiJQAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "332"
+    "pageCount": "332",
+    "tags": []
   },
   {
     "title": "Eine kurze Geschichte von fast allem",
@@ -1467,7 +1507,8 @@
     "thumbnail": "http://books.google.com/books/content?id=GCGoAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "622"
+    "pageCount": "622",
+    "tags": []
   },
   {
     "title": "Eine kurze Geschichte der alltäglichen Dinge",
@@ -1484,7 +1525,8 @@
     "thumbnail": "http://books.google.com/books/content?id=ctWaXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "rating": "4",
-    "pageCount": "637"
+    "pageCount": "637",
+    "tags": []
   },
   {
     "title": "Kurze Antworten auf große Fragen",
@@ -1501,7 +1543,8 @@
     "thumbnail": "http://books.google.com/books/content?id=6SBdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "180"
+    "pageCount": "180",
+    "tags": []
   },
   {
     "title": "Der Steppenwolf",
@@ -1518,7 +1561,8 @@
     "thumbnail": "http://books.google.com/books/content?id=w8k7CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "190"
+    "pageCount": "190",
+    "tags": []
   },
   {
     "title": "Das Glasperlenspiel",
@@ -1535,7 +1579,8 @@
     "thumbnail": "http://books.google.com/books/content?id=Lzg8CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "574"
+    "pageCount": "574",
+    "tags": []
   },
   {
     "title": "Gertrud",
@@ -1552,7 +1597,8 @@
     "thumbnail": "http://books.google.com/books/content?id=FbF0SQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "191"
+    "pageCount": "191",
+    "tags": []
   },
   {
     "title": "Siddhartha",
@@ -1569,7 +1615,8 @@
     "thumbnail": "https://pictures.abebooks.com/isbn/9783518366820-de.jpg",
     "read": true,
     "rating": "5",
-    "pageCount": "128"
+    "pageCount": "128",
+    "tags": []
   },
   {
     "title": "Narziß und Goldmund",
@@ -1586,7 +1633,8 @@
     "thumbnail": "http://books.google.com/books/content?id=fMo7CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "260"
+    "pageCount": "260",
+    "tags": []
   },
   {
     "title": "Im Westen nichts Neues",
@@ -1623,7 +1671,8 @@
     "thumbnail": "https://pictures.abebooks.com/isbn/9783462022681-de.jpg",
     "read": true,
     "rating": "4",
-    "pageCount": "75"
+    "pageCount": "75",
+    "tags": []
   },
   {
     "title": "Erziehung vor Verdun",
@@ -1683,7 +1732,8 @@
     "thumbnail": "http://books.google.com/books/content?id=-A9BDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "431"
+    "pageCount": "431",
+    "tags": []
   },
   {
     "title": "Der Tod ist ein Meister aus Wien",
@@ -1739,7 +1789,8 @@
     "thumbnail": "http://books.google.com/books/content?id=WM5mAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "914"
+    "pageCount": "914",
+    "tags": []
   },
   {
     "title": "Der Vorleser",
@@ -1775,7 +1826,8 @@
     "thumbnail": "http://books.google.com/books/content?id=PGXZQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "104"
+    "pageCount": "104",
+    "tags": []
   },
   {
     "title": "Schlafes Bruder",
@@ -1812,7 +1864,8 @@
     "thumbnail": "http://books.google.com/books/content?id=N0u5SQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "363"
+    "pageCount": "363",
+    "tags": []
   },
   {
     "title": "Von Menschen und Ratten",
@@ -2296,7 +2349,8 @@
     "thumbnail": "http://books.google.com/books/content?id=PxonEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": "4",
-    "pageCount": "293"
+    "pageCount": "293",
+    "tags": []
   },
   {
     "title": "Der Fürst der Finsternis",
@@ -2313,7 +2367,8 @@
     "thumbnail": "http://books.google.com/books/content?id=CXZozwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "rating": "3",
-    "pageCount": "608"
+    "pageCount": "608",
+    "tags": []
   },
   {
     "title": "Der menschliche Makel",
@@ -2330,7 +2385,8 @@
     "thumbnail": "http://books.google.com/books/content?id=EUSmCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "454"
+    "pageCount": "454",
+    "tags": []
   },
   {
     "title": "Ich und die anderen",
@@ -2347,7 +2403,8 @@
     "thumbnail": "http://books.google.com/books/content?id=HNHBGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "597"
+    "pageCount": "597",
+    "tags": []
   },
   {
     "title": "Bad Monkeys",
@@ -2364,7 +2421,8 @@
     "thumbnail": "http://books.google.com/books/content?id=IqXgJQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "rating": "4",
-    "pageCount": "251"
+    "pageCount": "251",
+    "tags": []
   },
   {
     "title": "Alles Quatsch",
@@ -2381,7 +2439,8 @@
     "thumbnail": "https://pictures.abebooks.com/inventory/md/md31258352793.jpg",
     "read": true,
     "rating": "4",
-    "pageCount": "317"
+    "pageCount": "317",
+    "tags": []
   },
   {
     "title": "Puppenmord",
@@ -2417,7 +2476,8 @@
     "thumbnail": "http://books.google.com/books/content?id=2VVcPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "rating": "3",
-    "pageCount": "283"
+    "pageCount": "283",
+    "tags": []
   },
   {
     "title": "Hyperion",
@@ -2434,7 +2494,8 @@
     "thumbnail": "https://pictures.abebooks.com/isbn/9783453133044-de.jpg",
     "read": true,
     "rating": "4",
-    "pageCount": "686"
+    "pageCount": "686",
+    "tags": []
   },
   {
     "title": "Der Sturz von Hyperion",
@@ -2594,7 +2655,8 @@
     "thumbnail": "http://books.google.com/books/content?id=dvbfPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "read": true,
     "rating": "4",
-    "pageCount": "171"
+    "pageCount": "171",
+    "tags": []
   },
   {
     "title": "Du sollst nicht hassen",
@@ -2751,7 +2813,8 @@
     "thumbnail": "https://pictures.abebooks.com/isbn/9783442487226-de.jpg",
     "read": true,
     "rating": "3",
-    "pageCount": "240"
+    "pageCount": "240",
+    "tags": []
   },
   {
     "title": "Tote See",
@@ -2865,7 +2928,8 @@
     "thumbnail": "http://books.google.com/books/content?id=EZ08CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": "5",
-    "pageCount": "509"
+    "pageCount": "509",
+    "tags": []
   },
   {
     "title": "Das Volk der Bäume",
@@ -2882,7 +2946,8 @@
     "thumbnail": "http://books.google.com/books/content?id=Pth6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": true,
     "rating": "3",
-    "pageCount": "676"
+    "pageCount": "676",
+    "tags": []
   },
   {
     "title": "Permanent Record",
@@ -2976,7 +3041,8 @@
     "pageCount": "384",
     "thumbnail": "https://books.google.com/books/content?id=mSY-EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "read": false,
-    "rating": null
+    "rating": null,
+    "tags": []
   },
   {
     "title": "Der Gotteswahn",
@@ -22432,6 +22498,26 @@
     "read": false,
     "addedAt": 1788644453165,
     "rating": null,
+    "tags": []
+  },
+  {
+    "title": "Nikolas Nickleby",
+    "subtitle": "",
+    "authors": [
+      "Dickens, Charles"
+    ],
+    "series": "",
+    "volume": "",
+    "publishedDate": "2011-11-01",
+    "isbn": "9783423409841",
+    "category": "Belletristik",
+    "genre": "Klassiker",
+    "description": "In Charles Dickens' drittem Roman führt der junge Nikolaus Nickleby einen erbitterten Kampf gegen soziale Ungerechtigkeit und ausbeuterische Machenschaften. Selten schildert ein Meisterwerk der Weltliteratur so spannend, liebevoll und kritisch die Entwicklung und den Überlebenskampf eines jungen Mannes. In einer von Profitgier und Heuchelei beherrschten Welt scheinen Helden wie Nikolaus Nickleby die letzte Hoffnung zu sein – nicht nur in Zeiten des Manchester-Kapitalismus.",
+    "pageCount": "989",
+    "thumbnail": "https://books.google.com/books/content?id=ZV073h4-VAYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": true,
+    "addedAt": 1789319322605,
+    "rating": 4,
     "tags": []
   }
 ]
