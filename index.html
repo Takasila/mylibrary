@@ -116,6 +116,15 @@
         text-align: center;
       }
 
+      /* Statusfarben (Gelesen / Ungelesen) */
+      .status-read {
+        color: #3feb57;
+      }
+
+      .status-unread {
+        color: #00bfff;
+      }
+
       .tag {
         display: inline-block;
         background-color: #333;
@@ -257,7 +266,8 @@
         display: flex;
         flex-direction: column;
         gap: 0.2rem;
-        min-width: 500px;
+        /* 500px am PC, am Handy höchstens Bildschirmbreite */
+        min-width: min(500px, calc(100vw - 5rem));
         margin: auto;
       }
 
@@ -267,6 +277,7 @@
         font-size: 0.9rem;
         padding: 0.3rem 0.5rem;
         box-sizing: border-box;
+        min-width: 0; /* Felder dürfen in schmalen Zeilen schrumpfen */
       }
 
       #edit-dialog input[type="text"],
@@ -544,6 +555,15 @@
         color: white;
       }
 
+      /* dunklere Statusfarben – auf hellem Grund gut lesbar */
+      body.light-mode .status-read {
+        color: #166b27;
+      }
+
+      body.light-mode .status-unread {
+        color: #0b5fa8;
+      }
+
       body.light-mode .stars-display {
         color: #c28f00;
       }
@@ -562,6 +582,18 @@
           background-color: #c28f49;
           color: #2e2e2e;
         }
+
+        /* Auswahllisten (Sortieren, Bücher pro Seite) beim Überfahren hell lassen */
+        body.light-mode select:not(:disabled):hover {
+          background-color: #fff3dd;
+          color: #2e2e2e;
+        }
+      }
+
+      /* Aufgeklappte Liste im hellen Modus */
+      body.light-mode select option {
+        background-color: #fffaf0;
+        color: #2e2e2e;
       }
     </style>
   </head>
@@ -584,6 +616,7 @@
       <button id="btn-new" type="button">➕ Neuer Eintrag</button>
       <button id="btn-save" type="button">💾 Bibliothek speichern</button>
       <button id="btn-load" type="button">📂 Bibliothek laden</button>
+      <button id="btn-github-save" type="button">☁️ Auf GitHub speichern</button>
       <input type="file" id="file-input" accept=".epub" multiple hidden />
       <input type="file" id="load-file" accept=".json" hidden />
     </div>
@@ -812,9 +845,20 @@
       // Konfiguration
       // =====================================================================
 
-      // URL der Bibliotheksdatei im GitHub-Repository
-      const REPO_JSON_URL =
-        "https://raw.githubusercontent.com/Takasila/mylibrary/main/bibliothek.json";
+      // Bibliotheksdatei im GitHub-Repository
+      const GITHUB_OWNER = "Takasila";
+      const GITHUB_REPO = "mylibrary";
+      const GITHUB_BRANCH = "main";
+      const GITHUB_FILE = "bibliothek.json";
+      const REPO_JSON_URL = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/${GITHUB_FILE}`;
+      const GITHUB_API_URL = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_FILE}`;
+
+      // Das GitHub-Token (Fine-grained, "Contents: Read and write" nur für dieses
+      // Repository) steht NICHT in dieser Datei. Es wird beim ersten Speichern
+      // abgefragt und nur im eigenen Browser abgelegt.
+      const GITHUB_TOKEN_STORAGE = "githubToken";
+      // Version (SHA) der Datei auf GitHub, die dieses Gerät zuletzt gesehen hat
+      const GITHUB_SHA_STORAGE = "githubKnownSha";
 
       // API-Schlüssel für Google Books – steht NICHT in dieser Datei.
       // Er wird erst bei Bedarf (ISBN-Suche, EPUB-Import) abgefragt und nur im
@@ -822,6 +866,7 @@
       // ebenfalls, nur mit geringerem Kontingent.
       const API_KEY_STORAGE = "googleBooksApiKey";
       let apiKeyAsked = false; // höchstens einmal pro Seitenaufruf fragen
+      let apiKeyRejected = false; // Google hat den gespeicherten Key abgelehnt
 
       function getApiKey() {
         let key = "";
@@ -831,8 +876,12 @@
         if (!key && !apiKeyAsked) {
           apiKeyAsked = true;
           const input = prompt(
-            "Google-Books-API-Key eingeben (optional – Abbrechen = ohne Key fortfahren):"
+            (apiKeyRejected
+              ? "Der gespeicherte API-Key wurde von Google abgelehnt und entfernt.\n\n"
+              : "") +
+              "Google-Books-API-Key eingeben (optional – Abbrechen = ohne Key fortfahren):"
           );
+          apiKeyRejected = false;
           if (input && input.trim()) {
             key = input.trim();
             try {
@@ -888,7 +937,11 @@
         (a, b) => a.localeCompare(b, "de")
       );
 
-      const STORAGE_KEY = "epubLibrary";
+      // Eigener Speicher für die GitHub-Version – getrennt von MyLibrary.html,
+      // damit ein lokaler Aufruf dieser Datei die PC-Bibliothek nicht überschreibt.
+      const STORAGE_KEY = "epubLibraryGitHub";
+      const DB_NAME = "MyLibraryGitHub";
+      const DB_STORE = "daten";
 
       // Platzhalter, wenn kein Cover vorhanden ist oder das Bild nicht lädt
       const NO_COVER =
@@ -912,7 +965,7 @@
       // =====================================================================
       // Zustand
       // =====================================================================
-      let library = loadLibraryFromStorage();
+      let library = []; // wird in init() aus dem Browser-Speicher geladen
       let currentPage = 1;
       let booksPerPage =
         parseInt(localStorage.getItem("booksPerPage"), 10) || 50;
@@ -1091,24 +1144,87 @@
           : b.tags
           ? String(b.tags).split(",").map((s) => s.trim()).filter(Boolean)
           : [];
-        return { ...b, authors, tags };
+        const book = { ...b, authors, tags };
+        if (book.pageCount === "Unbekannt") book.pageCount = "";
+        return book;
       }
 
-      function loadLibraryFromStorage() {
+      // Die Bibliothek liegt in IndexedDB (praktisch keine Größengrenze).
+      // localStorage (ca. 5 MB) dient nur noch als Quelle für die einmalige
+      // Übernahme alter Daten und als Notlösung, falls IndexedDB nicht geht.
+      let dbPromise = null;
+      let useIdb = true;
+
+      function openDb() {
+        if (!dbPromise) {
+          dbPromise = new Promise((resolve, reject) => {
+            const req = indexedDB.open(DB_NAME, 1);
+            req.onupgradeneeded = () => req.result.createObjectStore(DB_STORE);
+            req.onsuccess = () => resolve(req.result);
+            req.onerror = () => reject(req.error);
+            req.onblocked = () => reject(new Error("IndexedDB blockiert"));
+          });
+        }
+        return dbPromise;
+      }
+
+      async function idbGet(key) {
+        const db = await openDb();
+        return new Promise((resolve, reject) => {
+          const req = db.transaction(DB_STORE, "readonly").objectStore(DB_STORE).get(key);
+          req.onsuccess = () => resolve(req.result);
+          req.onerror = () => reject(req.error);
+        });
+      }
+
+      async function idbSet(key, value) {
+        const db = await openDb();
+        return new Promise((resolve, reject) => {
+          const tx = db.transaction(DB_STORE, "readwrite");
+          tx.objectStore(DB_STORE).put(value, key);
+          tx.oncomplete = () => resolve();
+          tx.onerror = () => reject(tx.error);
+          tx.onabort = () => reject(tx.error || new Error("Abgebrochen"));
+        });
+      }
+
+      function readLocalStorageLibrary() {
         try {
-          const data = JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]");
-          return Array.isArray(data)
-            ? data.filter((b) => b && typeof b === "object").map(normalizeBook)
-            : [];
+          const data = JSON.parse(localStorage.getItem(STORAGE_KEY) || "null");
+          return Array.isArray(data) ? data : null;
         } catch (err) {
-          console.error("Bibliothek konnte nicht gelesen werden:", err);
-          return [];
+          console.error("Bibliothek (localStorage) konnte nicht gelesen werden:", err);
+          return null;
         }
       }
 
-      function persistLibrary() {
+      async function loadLibraryFromStorage() {
+        let data;
         try {
-          localStorage.setItem(STORAGE_KEY, JSON.stringify(library));
+          data = await idbGet(STORAGE_KEY);
+        } catch (err) {
+          console.warn("IndexedDB nicht verfügbar – es wird localStorage verwendet:", err);
+          useIdb = false;
+        }
+        if (!Array.isArray(data)) {
+          // Noch nichts in IndexedDB: vorhandene Daten aus localStorage übernehmen.
+          // Die alte Kopie bleibt dort unverändert als Sicherung liegen.
+          data = readLocalStorageLibrary() || [];
+          if (useIdb && data.length) {
+            try {
+              await idbSet(STORAGE_KEY, data);
+            } catch (err) {
+              console.error("Übernahme nach IndexedDB fehlgeschlagen:", err);
+            }
+          }
+        }
+        return data.filter((b) => b && typeof b === "object").map(normalizeBook);
+      }
+
+      async function persistLibrary() {
+        try {
+          if (useIdb) await idbSet(STORAGE_KEY, library);
+          else localStorage.setItem(STORAGE_KEY, JSON.stringify(library));
           return true;
         } catch (err) {
           console.error("Speichern fehlgeschlagen:", err);
@@ -1143,21 +1259,20 @@
           base + (key ? `&key=${encodeURIComponent(key)}` : "")
         );
         let usedKey = !!key;
-        // 500/503 mit Key: Störung betrifft oft nur das Projekt des Keys -> ohne Key wiederholen
-        if (key && (response.status === 500 || response.status === 503)) {
+        // Fehler mit Key (400 Key ungültig, 403 Key beschränkt, 429 Kontingent,
+        // 500/503 Störung) -> dieselbe Abfrage ohne Key wiederholen
+        if (key && !response.ok) {
           console.warn(`Google Books mit Key: HTTP ${response.status} – neuer Versuch ohne Key`);
+          if (response.status === 400) {
+            // Ungültiger Key: entfernen; bei der nächsten Abfrage wird neu gefragt
+            try {
+              localStorage.removeItem(API_KEY_STORAGE);
+            } catch {}
+            apiKeyAsked = false;
+            apiKeyRejected = true;
+          }
           response = await fetch(base);
           usedKey = false;
-        }
-        // Ungültiger Key -> entfernen, damit beim nächsten Mal neu gefragt wird
-        if (response.status === 400 && key) {
-          try {
-            localStorage.removeItem(API_KEY_STORAGE);
-          } catch {}
-          showToast(
-            "Der gespeicherte API-Key wurde abgelehnt und entfernt. Bitte Seite neu laden.",
-            6000
-          );
         }
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         let data = await response.json();
@@ -1181,7 +1296,7 @@
         if (thumb) book.thumbnail = thumb.replace(/^http:/, "https:");
         book.pageCount = info.pageCount
           ? String(info.pageCount)
-          : book.pageCount || "Unbekannt";
+          : book.pageCount || "";
       }
 
       // =====================================================================
@@ -1409,7 +1524,7 @@
               ${book.volume ? `<div><b>Band:</b> ${escapeHtml(book.volume)}</div>` : ""}
               ${book.category ? `<div><b>Kategorie:</b> ${escapeHtml(book.category)}</div>` : ""}
               ${book.genre ? `<div><b>Genre:</b> ${escapeHtml(book.genre)}</div>` : ""}
-              <div><b>Status:</b> <span style="color: ${book.read ? "#3feb57" : "#00bfff"};">
+              <div><b>Status:</b> <span class="${book.read ? "status-read" : "status-unread"}">
                 ${book.read ? "📗 Gelesen" : "🆕 Ungelesen"}</span>
               </div>
               ${
@@ -1601,7 +1716,7 @@
               ${book.pageCount ? `<p><b>Seiten:</b> ${escapeHtml(book.pageCount)}</p>` : ""}
               ${book.publishedDate ? `<p><b>Veröffentlicht:</b> ${escapeHtml(book.publishedDate)}</p>` : ""}
               ${book.isbn ? `<p><b>ISBN:</b> ${escapeHtml(book.isbn)}</p>` : ""}
-              <p><b>Status:</b> <span style="color: ${book.read ? "#3feb57" : "#00bfff"};">
+              <p><b>Status:</b> <span class="${book.read ? "status-read" : "status-unread"}">
                 ${book.read ? "📗 Gelesen" : "🆕 Ungelesen"}</span></p>
               ${
                 rating
@@ -1813,7 +1928,20 @@
         }
       }
 
-      // Liefert true, wenn das Buch hinzugefügt wurde
+      // Erscheinungsdatum aus der OPF-Datei (Rückfall, wenn Google nichts liefert)
+      function readOpfDate(opfDoc) {
+        const dates = [...opfDoc.querySelectorAll("metadata > date")];
+        const eventOf = (el) =>
+          el.getAttribute("opf:event") || el.getAttribute("event") || "";
+        const el =
+          dates.find((d) => /publication/i.test(eventOf(d))) ||
+          dates.find((d) => !eventOf(d)); // nie das Änderungsdatum der Datei
+        const m = (el?.textContent || "").trim().match(/^(\d{4})(-\d{2}(-\d{2})?)?/);
+        // Platzhalter wie "0101-01-01" (Calibre: kein Datum) ignorieren
+        return m && +m[1] >= 1400 ? m[0] : "";
+      }
+
+      // Liefert "added" (hinzugefügt) oder "duplicate" (ISBN bereits vorhanden)
       async function processFile(file) {
         const zip = await JSZip.loadAsync(file);
         const containerEntry = zip.file("META-INF/container.xml");
@@ -1837,8 +1965,8 @@
 
         const isbn = extractIsbn(opfDoc);
         if (isbn && isbnExists(isbn)) {
-          showToast(`Buch mit ISBN ${isbn} ist bereits vorhanden!`);
-          return false;
+          console.warn(`${file.name}: Buch mit ISBN ${isbn} ist bereits vorhanden.`);
+          return "duplicate";
         }
 
         const book = {
@@ -1854,8 +1982,11 @@
           isbn,
           series: "",
           volume: "",
-          publishedDate: "",
-          description: "",
+          // Datum und Beschreibung aus dem EPUB – Google Books überschreibt
+          // sie weiter unten, sofern dort Angaben vorhanden sind
+          publishedDate: readOpfDate(opfDoc),
+          description:
+            opfDoc.querySelector("metadata > description")?.textContent.trim() || "",
           thumbnail: "",
           read: false,
           pageCount: "",
@@ -1878,7 +2009,7 @@
         }
 
         library.push(book);
-        return true;
+        return "added";
       }
 
       async function handleEpubImport(e) {
@@ -1887,10 +2018,12 @@
         if (!files.length) return;
 
         let imported = 0;
+        let skipped = 0;
         const failed = [];
         for (const file of files) {
           try {
-            if (await processFile(file)) imported++;
+            if ((await processFile(file)) === "added") imported++;
+            else skipped++;
           } catch (err) {
             console.error(`Import fehlgeschlagen: ${file.name}`, err);
             failed.push(file.name);
@@ -1901,8 +2034,9 @@
         renderLibrary();
 
         let msg = `${imported} ${imported === 1 ? "Buch" : "Bücher"} importiert.`;
+        if (skipped) msg += ` ${skipped} übersprungen (ISBN bereits vorhanden).`;
         if (failed.length) msg += ` Fehlgeschlagen: ${failed.join(", ")}`;
-        showToast(msg, failed.length ? 6000 : 3000);
+        showToast(msg, failed.length || skipped ? 6000 : 3000);
       }
 
       // =====================================================================
@@ -1985,9 +2119,19 @@
             showToast("Ungültiges Format");
             return;
           }
-          library = json
+          const loaded = json
             .filter((b) => b && typeof b === "object")
             .map(normalizeBook);
+          if (
+            library.length &&
+            !confirm(
+              `Die aktuelle Bibliothek (${library.length} Bücher) wird durch ` +
+                `„${file.name}“ (${loaded.length} Bücher) ersetzt.\n\nFortfahren?`
+            )
+          ) {
+            return;
+          }
+          library = loaded;
           persistLibrary();
           currentPage = 1;
           renderLibrary();
@@ -1995,6 +2139,200 @@
         } catch (err) {
           console.error(err);
           showToast("Fehler beim Laden der Datei");
+        }
+      }
+
+      // =====================================================================
+      // GitHub: Bibliothek laden / speichern
+      // =====================================================================
+      function getStoredGithubToken() {
+        try {
+          return localStorage.getItem(GITHUB_TOKEN_STORAGE) || "";
+        } catch {
+          return "";
+        }
+      }
+
+      function askGithubToken() {
+        let token = getStoredGithubToken();
+        if (!token) {
+          const input = prompt(
+            `GitHub-Token eingeben (Fine-grained, „Contents: Read and write“ für ${GITHUB_OWNER}/${GITHUB_REPO}).\n` +
+              "Es wird nur in diesem Browser gespeichert:"
+          );
+          token = (input || "").trim();
+          if (token) {
+            try {
+              localStorage.setItem(GITHUB_TOKEN_STORAGE, token);
+            } catch {}
+          }
+        }
+        return token;
+      }
+
+      function getKnownSha() {
+        try {
+          return localStorage.getItem(GITHUB_SHA_STORAGE) || "";
+        } catch {
+          return "";
+        }
+      }
+
+      function setKnownSha(sha) {
+        try {
+          if (sha) localStorage.setItem(GITHUB_SHA_STORAGE, sha);
+          else localStorage.removeItem(GITHUB_SHA_STORAGE);
+        } catch {}
+      }
+
+      // Git-Prüfsumme einer Datei – dieselbe Kennung, die GitHub als "sha" führt
+      async function gitBlobSha(bytes) {
+        if (!window.crypto?.subtle) return "";
+        const head = new TextEncoder().encode(`blob ${bytes.length}\0`);
+        const all = new Uint8Array(head.length + bytes.length);
+        all.set(head);
+        all.set(bytes, head.length);
+        const digest = await crypto.subtle.digest("SHA-1", all);
+        return [...new Uint8Array(digest)]
+          .map((b) => b.toString(16).padStart(2, "0"))
+          .join("");
+      }
+
+      function toBase64Utf8(text) {
+        const bytes = new TextEncoder().encode(text);
+        let bin = "";
+        for (let i = 0; i < bytes.length; i += 0x8000) {
+          bin += String.fromCharCode.apply(null, bytes.subarray(i, i + 0x8000));
+        }
+        return btoa(bin);
+      }
+
+      function githubHeaders(token, accept) {
+        return { Accept: accept, Authorization: `Bearer ${token}` };
+      }
+
+      // Liest bibliothek.json aus dem Repository. Mit gespeichertem Token über die
+      // GitHub-Schnittstelle (immer aktuell), sonst über die öffentliche Adresse
+      // (kann nach einer Änderung einige Minuten den alten Stand liefern).
+      async function fetchRepoLibrary() {
+        const token = getStoredGithubToken();
+        let response = null;
+        if (token) {
+          try {
+            response = await fetch(`${GITHUB_API_URL}?ref=${GITHUB_BRANCH}`, {
+              cache: "no-store",
+              headers: githubHeaders(token, "application/vnd.github.raw+json"),
+            });
+          } catch {
+            response = null;
+          }
+          if (response && !response.ok) {
+            console.warn(`GitHub-Schnittstelle: HTTP ${response.status} – öffentliche Adresse wird verwendet`);
+            response = null;
+          }
+        }
+        if (!response) response = await fetch(REPO_JSON_URL, { cache: "no-store" });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const bytes = new Uint8Array(await response.arrayBuffer());
+        const json = JSON.parse(new TextDecoder().decode(bytes));
+        if (!Array.isArray(json)) throw new Error("Ungültiges Format");
+        return {
+          books: json.filter((b) => b && typeof b === "object").map(normalizeBook),
+          sha: await gitBlobSha(bytes),
+        };
+      }
+
+      let githubSaveRunning = false;
+
+      async function saveLibraryToGithub() {
+        if (githubSaveRunning) return;
+        if (!library.length && !confirm("Die Bibliothek ist leer. Trotzdem auf GitHub speichern?")) {
+          return;
+        }
+        const token = askGithubToken();
+        if (!token) {
+          showToast("Ohne GitHub-Token kann nicht gespeichert werden.");
+          return;
+        }
+
+        githubSaveRunning = true;
+        $("btn-github-save").disabled = true;
+        showToast("Speichere auf GitHub …", 20000);
+        try {
+          // 1. Aktuelle Version der Datei im Repository ermitteln
+          const head = await fetch(`${GITHUB_API_URL}?ref=${GITHUB_BRANCH}`, {
+            cache: "no-store",
+            headers: githubHeaders(token, "application/vnd.github.object+json"),
+          });
+          let remoteSha = "";
+          if (head.ok) remoteSha = (await head.json()).sha || "";
+          else if (head.status !== 404) throw { status: head.status };
+
+          // 2. Wurde die Datei inzwischen von einem anderen Gerät geändert?
+          const known = getKnownSha();
+          if (remoteSha && known && remoteSha !== known) {
+            const ok = confirm(
+              `Achtung: ${GITHUB_FILE} wurde auf GitHub geändert, seit dieses Gerät sie zuletzt geladen oder gespeichert hat ` +
+                "(vermutlich von einem anderen Gerät).\n\n" +
+                "Beim Speichern gehen die dortigen Änderungen verloren. Trotzdem überschreiben?"
+            );
+            if (!ok) {
+              showToast("Speichern abgebrochen.");
+              return;
+            }
+          }
+
+          // 3. Datei schreiben
+          const body = {
+            message: `Bibliothek aktualisiert (${library.length} Bücher)`,
+            content: toBase64Utf8(JSON.stringify(library, null, 2)),
+            branch: GITHUB_BRANCH,
+          };
+          if (remoteSha) body.sha = remoteSha;
+          const put = await fetch(GITHUB_API_URL, {
+            method: "PUT",
+            headers: {
+              ...githubHeaders(token, "application/vnd.github+json"),
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(body),
+          });
+          if (!put.ok) throw { status: put.status };
+          const result = await put.json();
+          setKnownSha(result.content?.sha || "");
+          showToast(`Auf GitHub gespeichert (${library.length} Bücher).`);
+        } catch (err) {
+          console.error("Speichern auf GitHub fehlgeschlagen:", err);
+          const status = err && err.status;
+          if (status === 401) {
+            try {
+              localStorage.removeItem(GITHUB_TOKEN_STORAGE);
+            } catch {}
+            showToast(
+              "GitHub-Token ungültig oder abgelaufen – es wurde entfernt. Beim nächsten Speichern wird neu gefragt.",
+              8000
+            );
+          } else if (status === 403 || status === 404) {
+            showToast(
+              `GitHub lehnt das Speichern ab (HTTP ${status}). Hat das Token „Contents: Read and write“ für ${GITHUB_OWNER}/${GITHUB_REPO}?`,
+              8000
+            );
+          } else if (status === 409 || status === 422) {
+            showToast(
+              "Die Datei wurde auf GitHub gerade geändert. Bitte noch einmal speichern.",
+              8000
+            );
+          } else {
+            showToast(
+              status
+                ? `Speichern auf GitHub fehlgeschlagen (HTTP ${status}).`
+                : "GitHub nicht erreichbar – nichts gespeichert.",
+              8000
+            );
+          }
+        } finally {
+          githubSaveRunning = false;
+          $("btn-github-save").disabled = false;
         }
       }
 
@@ -2073,14 +2411,16 @@
       // =====================================================================
       async function loadLibraryFromRepo() {
         try {
-          // no-store: nach dem Austausch der JSON nicht die alte Browser-Kopie nehmen
-          const response = await fetch(REPO_JSON_URL, { cache: "no-store" });
-          if (!response.ok) throw new Error(`HTTP ${response.status}`);
-          const json = await response.json();
-          if (!Array.isArray(json)) throw new Error("Ungültiges Format");
-          library = json
-            .filter((b) => b && typeof b === "object")
-            .map(normalizeBook);
+          const { books, sha } = await fetchRepoLibrary();
+          // Nicht ersetzen, solange ein Buch geöffnet, bearbeitet oder gerade
+          // gelöscht wird – sonst zeigt dessen Index danach auf ein anderes Buch
+          const busy = () =>
+            $("edit-dialog").open ||
+            !$("detail-modal").classList.contains("hidden") ||
+            document.querySelector("#library .book.fade-out");
+          while (busy()) await new Promise((r) => setTimeout(r, 300));
+          library = books;
+          setKnownSha(sha);
           persistLibrary(); // Offline-Kopie für den nächsten Aufruf
           renderLibrary();
         } catch (err) {
@@ -2097,7 +2437,9 @@
       // =====================================================================
       // Initialisierung (Skript steht am Ende des body – DOM ist bereit)
       // =====================================================================
-      function init() {
+      async function init() {
+        library = await loadLibraryFromStorage();
+
         // Gespeicherte Darstellung wiederherstellen
         if (localStorage.getItem("library-mode") === "light") {
           document.body.classList.add("light-mode");
@@ -2125,6 +2467,7 @@
         $("btn-new").addEventListener("click", newBookEntry);
         $("btn-save").addEventListener("click", saveLibrary);
         $("btn-load").addEventListener("click", () => $("load-file").click());
+        $("btn-github-save").addEventListener("click", saveLibraryToGithub);
         $("file-input").addEventListener("change", handleEpubImport);
         $("load-file").addEventListener("change", handleLoadLibrary);
 
