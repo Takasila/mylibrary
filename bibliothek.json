@@ -1135,7 +1135,7 @@
     "rating": 3,
     "pageCount": "187",
     "tags": [
-      "Holocaust"
+      "Holocaust; Biografischer Roman"
     ],
     "subtitle": ""
   },
@@ -9486,7 +9486,7 @@
     "description": "Ex-FBI-Agent Terry Mac Caleb bekommt nach seiner Herzoperation Besuch von einer Frau, die ihm eröffnet, dass das Spenderherz von ihrer ermordeten Schwester stammt. Allen Warnungen und Bedenken zum Trotz untersucht McCaleb den Fall.",
     "pageCount": "446",
     "thumbnail": "https://pictures.abebooks.com/isbn/9783453159990-us-300.jpg",
-    "read": true,
+    "read": false,
     "addedAt": 1756031600658,
     "rating": 5,
     "tags": []
@@ -18945,7 +18945,10 @@
     "read": true,
     "addedAt": 1771707848892,
     "rating": 4,
-    "tags": []
+    "tags": [
+      "Sport",
+      "Radfahren"
+    ]
   },
   {
     "title": "Die Palm-Beach-Verschwörung",
