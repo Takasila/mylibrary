@@ -173,7 +173,7 @@
       "Hawking, Stephen"
     ],
     "description": "Es sind die großen Fragen unseres Daseins, denen sich Stephen Hawking in seinem Bestseller Die kürzeste Geschichte der Zeit widmet: Zu Wurmlöchern und Zeitreisen, zu Einsteins Relativitätstheorie und Newtons Schwerkraft, zu Quantengravitation und Gekrümmtem Raum haben sich bereits Viele vor und nach Hawking geäußert; doch nie waren die Erklärungen so nachvollziehbar und prägnant, so anschaulich und allgemeinverständlich. Er lässt die ganz theoretischen Passagen, die wir aus der Kurzen Geschichte der Zeit kennen, beiseite, um die wichtigsten Begriffe noch klarer, unmittelbarer und ausführlicher zu erläutern.",
-    "publishedDate": "2024-03-27",
+    "publishedDate": "2005",
     "thumbnail": "https://books.google.com/books/content?id=6nLiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "series": "",
     "volume": "",
@@ -182,7 +182,8 @@
     "read": false,
     "pageCount": "156",
     "rating": null,
-    "tags": []
+    "tags": [],
+    "subtitle": ""
   },
   {
     "isbn": "9783257614664",
@@ -6484,7 +6485,7 @@
     ],
     "series": "",
     "volume": "",
-    "publishedDate": "2024-03-15",
+    "publishedDate": "1955",
     "isbn": "9783868207880",
     "category": "Belletristik",
     "genre": "Historisch",
@@ -8834,7 +8835,7 @@
     ],
     "series": "",
     "volume": "",
-    "publishedDate": "2024-03-01",
+    "publishedDate": "1976",
     "isbn": "9783426293522",
     "category": "Belletristik",
     "genre": "Historisch",
