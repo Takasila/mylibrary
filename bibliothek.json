@@ -9490,7 +9490,7 @@
     "description": "Ex-FBI-Agent Terry Mac Caleb bekommt nach seiner Herzoperation Besuch von einer Frau, die ihm eröffnet, dass das Spenderherz von ihrer ermordeten Schwester stammt. Allen Warnungen und Bedenken zum Trotz untersucht McCaleb den Fall.",
     "pageCount": "446",
     "thumbnail": "https://pictures.abebooks.com/isbn/9783453159990-us-300.jpg",
-    "read": false,
+    "read": true,
     "addedAt": 1756031600658,
     "rating": 5,
     "tags": []
@@ -22526,5 +22526,25 @@
     "addedAt": 1789319322605,
     "rating": 4,
     "tags": []
+  },
+  {
+    "title": "Wenn sie wüsste",
+    "subtitle": "",
+    "authors": [
+      "McFadden, Freida"
+    ],
+    "isbn": "9783641305260",
+    "series": "Millie Calloway",
+    "volume": "1",
+    "publishedDate": "2023-05-01",
+    "description": "Millie kann ihr Glück kaum fassen, als die elegante Nina ihr die Stelle als Haushaltshilfe inklusive Kost und Logis bei ihrer Familie auf Long Island anbietet. Schließlich hat sie eine Vergangenheit, von der niemand etwas wissen soll. Doch kaum ist Millie eingezogen, zeigt Nina ihr wahres Gesicht: Sie verwüstet das Haus und unterstellt ihr Dinge, die sie nicht getan hat. Ihre verwöhnte Tochter behandelt Millie ohne jeden Respekt. Nur Ninas attraktiver Mann Andrew ist nett zu ihr. Wäre da nur nicht Ninas wachsende Eifersucht. Hat sie Millie nur eingestellt, um ihr das Leben zur Hölle zu machen? Oder hat auch sie ein dunkles Geheimnis, von dem niemand etwas erfahren darf?",
+    "thumbnail": "https://books.google.com/books/content?id=PBOcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "read": false,
+    "pageCount": "290",
+    "tags": [],
+    "addedAt": 1794607936403,
+    "category": "Belletristik",
+    "genre": "Krimi & Thriller",
+    "rating": null
   }
 ]
